@@ -1,8 +1,8 @@
-# 医学科学新闻推文候选草稿｜2026-05-25 12:10:47
+# 医学科学新闻推文候选草稿｜2026-05-25 12:12:57
 
-## 1. 全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 经济参考报
+## 1. AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 证券时报
 
-【医学科学新闻】全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 经济参考报
+【医学科学新闻】AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 证券时报
 
 一、为什么重要
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -23,7 +23,7 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Mon, 25 May 2026 00:30:19 GMT｜https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEdFT1NmcWowLXlMeFpfVllUNGl0MFI5LXlmSkV0N1hOamtMVzBZaGptdy1XVzc4LXpwNHZoejZEY2tLVDg2UWE5eTRyVm11NUJoZlRmdzZYOC1PTjU4OTlFTTA0aWItbGdjbU1MQmoybnVZdC16Q19RZW5ESUdJTw?oc=5
+Google News CN｜Thu, 21 May 2026 13:41:00 GMT｜https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKb24wbFVpandJaFNYMm1qSHVYY2VsT0xQLUNydm1PQWM4aG1zWUd6Z2N4amVvZnVLOGttTVdYQ0VpRG10N3JnVUttSE9fc0g5VXZlc3FNZU1iWlNH?oc=5
 
 ---
 
@@ -54,7 +54,61 @@ Google News CN｜Mon, 18 May 2026 08:40:29 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. 八部门发文：上海将加快建设医学AI指挥舱、卫生健康数据平台、统一影像云_医疗人工智能 - 大健康派
+## 3. 剂泰科技(07666)OpenCGT平台累计合作额超60亿最新联手沙砾生物达成免疫靶向递送技术合作 - 手机鳳凰網
+
+【医学科学新闻】剂泰科技(07666)OpenCGT平台累计合作额超60亿最新联手沙砾生物达成免疫靶向递送技术合作 - 手机鳳凰網
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Mon, 18 May 2026 08:06:17 GMT｜https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KektVbW03VERTTWw4ai1tazV1RHFRNUl3U3p2N3M1YkZ3QkctVkRRUWU4Zl9ubHlRMXo1X2czQVY1YXk2QkZoRA?oc=5
+
+---
+
+## 4. 映恩生物携手BioNTech，B7-H3 ADC全球Ⅲ期临床顺利启航 - ByDrug
+
+【医学科学新闻】映恩生物携手BioNTech，B7-H3 ADC全球Ⅲ期临床顺利启航 - ByDrug
+
+一、为什么重要
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Fri, 22 May 2026 07:48:00 GMT｜https://news.google.com/rss/articles/CBMifkFVX3lxTE1yc2RZbEpPVHl2bEJrMmdDdDR5Q002NWJfc2VqUVhsNWxfb0tpTkxHZFU1OFlKcDFpMmV5V29pUVFqeW41SEVDcnJtMmFTV1lQVk1UN2djbnNJYVFCQm93NXpFUVlZc09rVVlYZnhCWG5jV1ZsaFZhRHpOZklHdw?oc=5
+
+---
+
+## 5. 八部门发文：上海将加快建设医学AI指挥舱、卫生健康数据平台、统一影像云_医疗人工智能 - 大健康派
 
 【医学科学新闻】八部门发文：上海将加快建设医学AI指挥舱、卫生健康数据平台、统一影像云_医疗人工智能 - 大健康派
 
@@ -78,60 +132,6 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 
 七、参考信息
 Google News CN｜Fri, 22 May 2026 05:33:50 GMT｜https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dTVJcFRNdVJfNUhlN3NIbkJXUnd5QlBxa21nUlJnMVJZR2g1ZVc3bGJodHUtX0xRVXZPTHQ5X09qRnN0c0k3TXhkY0dXZVVhT2gyR3VCZ1dXR1dmOGc?oc=5
-
----
-
-## 4. 中国肿瘤临床试验患者入组速度达欧美3到5倍，成本仅1/3到1/4 - 虎嗅
-
-【医学科学新闻】中国肿瘤临床试验患者入组速度达欧美3到5倍，成本仅1/3到1/4 - 虎嗅
-
-一、为什么重要
-Google News CN 发布的重症医学/急危重症相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕重症医学/急危重症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 20 May 2026 11:42:06 GMT｜https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSnpLaEticU5VaHM5bFZoZlhOMUdNMGhEUFROMG5DTnhzX1RGakdyMzgzWVlCNzZBaFhfQVNNRm9uOHQyNmFyRzVEZVdDUTF5Q3c?oc=5
-
----
-
-## 5. 600家机构、13万张床位！河南医养结合目标定了 - 大河财立方
-
-【医学科学新闻】600家机构、13万张床位！河南医养结合目标定了 - 大河财立方
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 20 May 2026 07:48:45 GMT｜https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVk1kTXh2U2I4ci1odURJd0xEVDhhdjhNT2hOU3hxWFlJTF9TcWJsWVBfQ1UwcEJhUEhwaTNSS3hieUljU2pqRTRrbVQzc1p4OWdfTDZYd1pTcEt2VG5CLWx0OEtnZ1loOVc3a1pTLV82dUJm?oc=5
 
 ---
 

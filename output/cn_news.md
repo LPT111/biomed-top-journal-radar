@@ -1,27 +1,27 @@
 # 中文医学科学新闻
 
-1. 全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 经济参考报
+1. AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 证券时报
    - 来源：Google News CN
-   - 时间：Mon, 25 May 2026 00:30:19 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEdFT1NmcWowLXlMeFpfVllUNGl0MFI5LXlmSkV0N1hOamtMVzBZaGptdy1XVzc4LXpwNHZoejZEY2tLVDg2UWE5eTRyVm11NUJoZlRmdzZYOC1PTjU4OTlFTTA0aWItbGdjbU1MQmoybnVZdC16Q19RZW5ESUdJTw?oc=5" target="_blank">全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局</a>&nbsp;&nbsp;<font color="#6f6f6f">经济参考报</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEdFT1NmcWowLXlMeFpfVllUNGl0MFI5LXlmSkV0N1hOamtMVzBZaGptdy1XVzc4LXpwNHZoejZEY2tLVDg2UWE5eTRyVm11NUJoZlRmdzZYOC1PTjU4OTlFTTA0aWItbGdjbU1MQmoybnVZdC16Q19RZW5ESUdJTw?oc=5
+   - 时间：Thu, 21 May 2026 13:41:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKb24wbFVpandJaFNYMm1qSHVYY2VsT0xQLUNydm1PQWM4aG1zWUd6Z2N4amVvZnVLOGttTVdYQ0VpRG10N3JnVUttSE9fc0g5VXZlc3FNZU1iWlNH?oc=5" target="_blank">AI驱动生物医药“效率革命” 科技巨头与资本重金布局</a>&nbsp;&nbsp;<font color="#6f6f6f">证券时报</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKb24wbFVpandJaFNYMm1qSHVYY2VsT0xQLUNydm1PQWM4aG1zWUd6Z2N4amVvZnVLOGttTVdYQ0VpRG10N3JnVUttSE9fc0g5VXZlc3FNZU1iWlNH?oc=5
 2. 如果手握10亿美元，顶尖临床专家为何不选择投向AI - 新浪财经
    - 来源：Google News CN
    - 时间：Mon, 18 May 2026 08:40:29 GMT
    - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMi_AlBVV95cUxPSU9ITEF1d0otUnVVazllNS1icnJpTmlMUjBwTDRENldCcWNRbjd2ZWUwMWJJTlJKbEptMDBOdUQ1bGVlRTJ2R1JpTFJDQWJlQTB2RUNIQ2w2Wlg3MFoyRi1naDV4UzE0ejVFeU80T0JnUUc5dmJKT3Frd0JJdVV2c0FBMDBiWlMxMHFmd2h1TFpSTDBhbFNZajFrTThqV1VINmJRemhhbDkwcHlFY0hrZW5hZlowSHFJdnZ0N2VrQ0NpWkxkTlhWdk8tTERQU1ZkNi1ZM0U2ZTd5MDh6Mi1ZU1U0c2FRak1yWnN5RWZ2Y0J5cjN2NldSVVZROThzMVc4TEpNNk9xeFNyRlB4UGlLRllsMWZOYm9qTmZMVkM0MnZ4eFp3b1RNc2RacE5MZ0RMc1BPWlpJQzNyM2VRR2lVQkkxQ1I3R29HcFlYZi01aTl0aVE2TUVHLWRDdjYyRX... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMi_AlBVV95cUxPSU9ITEF1d0otUnVVazllNS1icnJpTmlMUjBwTDRENldCcWNRbjd2ZWUwMWJJTlJKbEptMDBOdUQ1bGVlRTJ2R1JpTFJDQWJlQTB2RUNIQ2w2Wlg3MFoyRi1naDV4UzE0ejVFeU80T0JnUUc5dmJKT3Frd0JJdVV2c0FBMDBiWlMxMHFmd2h1TFpSTDBhbFNZajFrTThqV1VINmJRemhhbDkwcHlFY0hrZW5hZlowSHFJdnZ0N2VrQ0NpWkxkTlhWdk8tTERQU1ZkNi1ZM0U2ZTd5MDh6Mi1ZU1U0c2FRak1yWnN5RWZ2Y0J5cjN2NldSVVZROThzMVc4TEpNNk9xeFNyRlB4UGlLRllsMWZOYm9qTmZMVkM0MnZ4eFp3b1RNc2RacE5MZ0RMc1BPWlpJQzNyM2VRR2lVQkkxQ1I3R29HcFlYZi01aTl0aVE2TUVHLWRDdjYyRXJvbXJHT0pwaUl3bmpiaXJKdzlvV002ZDBYUS0zRmI2aHJMcjZFT3lUYW1ONFpITTg0aXMzNjVCRERPVFJUbDd0Z1pmdU1OQ2lJQWV2WW9SLXJSUVBJV24xNVVuakstWmNWVmRxZE4zeDBSYnMzWVVUazVqNmVJX0FPY0dTMzBjN293UmR6T0o4VjNsbFhRLUhSSEpNZDRtS1RUVlNkZ3E4VUhBY3hQWkRoWkR5YkFQeVB1aFVNcVFEbVFLd19pa1gtVUNNWnBDUHJydEhMSUNfUWtySk1HUlBxY0ZQWkU5d1p2S1paVktQVWN0VmVmYnhhM21Kc0pwZ2tDQWlOMmF5d0t4LVBvWWRVNmprN0JNTG4zMGNKTUlWSFdmMmRDVlptNVluckhGMUpIQmlnX2JMMTc1dmtPUTQyMTBnVzdnbVRsaFZTWTVVSGFkTjJTSVFpcmJLYl9uN3hiaXhzdzFvd2kzM3c1SDFHQzM2YzJRaTRHU254V2pGc1NZRU01WTY3eDFIV19vX2pRR1N5ZGtEVk1rNnNKOFNvbEtIRWlDd01faTQ1N01GZnBOT05Ka1VtRmlCbEp0ZUR1U3hSMC1YaHlzbmJzYm1PemFXTmhqcUNhc0pnOTBIbXJTZ3E5U0J6NXFHNlJIOHRsZnhYZUloN3dHTlBmYktneE45bDAwVEFkSEhHV05QTUswUnIxWWFLLXF2NHVLRm1kX1YwUllvb0NCOUpiTEh3NWI2Nk5jYmFRUGxDSTNwWjVYZjV5RzJ5YUFKakROQVV5Y3VPWGtQNGIybWtSQk5JazlaanEzRkRpeWRzOWxyMURjckxkdW5jdUZfYTdXX0kxQXFXSE51TGNmek9xZGR4OUMzeHp4VnBobjl1TGJaNkFKOG1lU2hEYkI0OVNaY3hUdGJ2WWxuR2JSeEpnY2swMnh2QzIxUVFaVkowaDl1cWNwZ3BVUDhMNTktb0ZFSU1nRkxiVUFub3RXUGpaLWJpdW50LU5OMS0yMWZ1d08yMlcycTNyX0UtN2trbjMxaXJfbHh0cV9oaklDM1dqT0ZiNzh3V0VaWFFCc2JTNjRFYjJmakVtUUtGa2pTdUJ1SUgxaDdYRkk4aG9mTEt1bTAxeEtpNHB0MzY5dE1KLXdLNm5qVTVKVmh5YUVEeHNnZnhrNGtBaF92Szk3blJaMjJKUExVSzZEZG9JU0dUanhWNHlmUnhEUFRFb0x5VGdZclltMmpk?oc=5
-3. 八部门发文：上海将加快建设医学AI指挥舱、卫生健康数据平台、统一影像云_医疗人工智能 - 大健康派
+3. 剂泰科技(07666)OpenCGT平台累计合作额超60亿最新联手沙砾生物达成免疫靶向递送技术合作 - 手机鳳凰網
+   - 来源：Google News CN
+   - 时间：Mon, 18 May 2026 08:06:17 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KektVbW03VERTTWw4ai1tazV1RHFRNUl3U3p2N3M1YkZ3QkctVkRRUWU4Zl9ubHlRMXo1X2czQVY1YXk2QkZoRA?oc=5" target="_blank">剂泰科技(07666)OpenCGT平台累计合作额超60亿最新联手沙砾生物达成免疫靶向递送技术合作</a>&nbsp;&nbsp;<font color="#6f6f6f">手机鳳凰網</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KektVbW03VERTTWw4ai1tazV1RHFRNUl3U3p2N3M1YkZ3QkctVkRRUWU4Zl9ubHlRMXo1X2czQVY1YXk2QkZoRA?oc=5
+4. 映恩生物携手BioNTech，B7-H3 ADC全球Ⅲ期临床顺利启航 - ByDrug
+   - 来源：Google News CN
+   - 时间：Fri, 22 May 2026 07:48:00 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1yc2RZbEpPVHl2bEJrMmdDdDR5Q002NWJfc2VqUVhsNWxfb0tpTkxHZFU1OFlKcDFpMmV5V29pUVFqeW41SEVDcnJtMmFTV1lQVk1UN2djbnNJYVFCQm93NXpFUVlZc09rVVlYZnhCWG5jV1ZsaFZhRHpOZklHdw?oc=5" target="_blank">映恩生物携手BioNTech，B7-H3 ADC全球Ⅲ期临床顺利启航</a>&nbsp;&nbsp;<font color="#6f6f6f">ByDrug</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMifkFVX3lxTE1yc2RZbEpPVHl2bEJrMmdDdDR5Q002NWJfc2VqUVhsNWxfb0tpTkxHZFU1OFlKcDFpMmV5V29pUVFqeW41SEVDcnJtMmFTV1lQVk1UN2djbnNJYVFCQm93NXpFUVlZc09rVVlYZnhCWG5jV1ZsaFZhRHpOZklHdw?oc=5
+5. 八部门发文：上海将加快建设医学AI指挥舱、卫生健康数据平台、统一影像云_医疗人工智能 - 大健康派
    - 来源：Google News CN
    - 时间：Fri, 22 May 2026 05:33:50 GMT
    - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dTVJcFRNdVJfNUhlN3NIbkJXUnd5QlBxa21nUlJnMVJZR2g1ZVc3bGJodHUtX0xRVXZPTHQ5X09qRnN0c0k3TXhkY0dXZVVhT2gyR3VCZ1dXR1dmOGc?oc=5" target="_blank">八部门发文：上海将加快建设医学AI指挥舱、卫生健康数据平台、统一影像云_医疗人工智能</a>&nbsp;&nbsp;<font color="#6f6f6f">大健康派</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dTVJcFRNdVJfNUhlN3NIbkJXUnd5QlBxa21nUlJnMVJZR2g1ZVc3bGJodHUtX0xRVXZPTHQ5X09qRnN0c0k3TXhkY0dXZVVhT2gyR3VCZ1dXR1dmOGc?oc=5
-4. 中国肿瘤临床试验患者入组速度达欧美3到5倍，成本仅1/3到1/4 - 虎嗅
-   - 来源：Google News CN
-   - 时间：Wed, 20 May 2026 11:42:06 GMT
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSnpLaEticU5VaHM5bFZoZlhOMUdNMGhEUFROMG5DTnhzX1RGakdyMzgzWVlCNzZBaFhfQVNNRm9uOHQyNmFyRzVEZVdDUTF5Q3c?oc=5" target="_blank">中国肿瘤临床试验患者入组速度达欧美3到5倍，成本仅1/3到1/4</a>&nbsp;&nbsp;<font color="#6f6f6f">虎嗅</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSnpLaEticU5VaHM5bFZoZlhOMUdNMGhEUFROMG5DTnhzX1RGakdyMzgzWVlCNzZBaFhfQVNNRm9uOHQyNmFyRzVEZVdDUTF5Q3c?oc=5
-5. 600家机构、13万张床位！河南医养结合目标定了 - 大河财立方
-   - 来源：Google News CN
-   - 时间：Wed, 20 May 2026 07:48:45 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVk1kTXh2U2I4ci1odURJd0xEVDhhdjhNT2hOU3hxWFlJTF9TcWJsWVBfQ1UwcEJhUEhwaTNSS3hieUljU2pqRTRrbVQzc1p4OWdfTDZYd1pTcEt2VG5CLWx0OEtnZ1loOVc3a1pTLV82dUJm?oc=5" target="_blank">600家机构、13万张床位！河南医养结合目标定了</a>&nbsp;&nbsp;<font color="#6f6f6f">大河财立方</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVk1kTXh2U2I4ci1odURJd0xEVDhhdjhNT2hOU3hxWFlJTF9TcWJsWVBfQ1UwcEJhUEhwaTNSS3hieUljU2pqRTRrbVQzc1p4OWdfTDZYd1pTcEt2VG5CLWx0OEtnZ1loOVc3a1pTLV82dUJm?oc=5
