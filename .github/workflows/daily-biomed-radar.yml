@@ -16,6 +16,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
+      TZ: Asia/Shanghai
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_MODEL: ${{ secrets.OPENAI_MODEL || 'gpt-4.1-mini' }}
       FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
