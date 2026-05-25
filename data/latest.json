@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25 03:46:04",
+  "generated_at": "2026-05-25 11:49:40",
   "stats": {
     "total": 10,
     "tier_a": 10,
@@ -385,7 +385,6 @@
     }
   ],
   "errors": [
-    "RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))",
-    "RSS Nature Medicine: RuntimeError(SAXParseException('not well-formed (invalid token)'))"
+    "RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))"
   ]
 }
