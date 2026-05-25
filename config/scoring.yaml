@@ -1,0 +1,26 @@
+journal_tier:
+  tier_a: 30
+  tier_b: 20
+  tier_c: 10
+
+study_type:
+  randomized_controlled_trial: 30
+  phase_3_trial: 28
+  phase_2_trial: 20
+  clinical_trial: 18
+  guideline: 18
+  meta_analysis: 14
+  original_research: 12
+  translational_research: 12
+  review: 5
+  editorial: -5
+  preprint: -8
+
+news_value:
+  practice_changing: 20
+  large_sample: 8
+  positive_primary_endpoint: 8
+  negative_but_important: 6
+  safety_warning: 8
+  china_relevance: 6
+  hot_biotech: 5

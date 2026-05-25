@@ -1,0 +1,61 @@
+name: Biomed Top Journal Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 23 * * *' # 北京时间 07:40
+
+permissions:
+  contents: write
+
+concurrency:
+  group: biomed-top-journal-radar-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: ${{ secrets.OPENAI_MODEL || 'gpt-4.1-mini' }}
+      FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+      WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
+      WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
+      PUBLIC_DASHBOARD_URL: ${{ secrets.PUBLIC_DASHBOARD_URL }}
+      EMAIL_ENABLED: ${{ secrets.EMAIL_ENABLED }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Compile
+        run: python -m py_compile run_daily.py preview_local.py src/*.py
+
+      - name: Generate preview
+        run: python preview_local.py
+
+      - name: Run daily radar
+        run: python run_daily.py
+
+      - name: Commit generated outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json output/briefing.md output/briefing.txt output/newsletter.md index.html
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+          else
+            git commit -m "chore: update biomed top journal radar $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')"
+            git push
+          fi

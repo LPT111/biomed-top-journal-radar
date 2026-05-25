@@ -1,0 +1,27 @@
+【全医学顶刊与 RCT 研究雷达】2026-05-25 11:42:06
+今日筛选：5 篇｜顶刊A档：5｜RCT/临床试验：3
+
+1. Phase 3 Trial of an Antibody-Drug Conjugate in Metastatic Lung Cancer
+期刊：The Lancet Oncology｜类型：Phase 3 trial｜分数：73
+链接：https://pubmed.ncbi.nlm.nih.gov/00000002/
+价值：这是一项发表于 The Lancet Oncology 的Phase 3 trial，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。
+
+2. A Randomized Trial of a Novel GLP-1 Therapy in Adults with Obesity and Cardiovascular Risk
+期刊：The New England Journal of Medicine｜类型：RCT｜分数：72
+链接：https://pubmed.ncbi.nlm.nih.gov/00000001/
+价值：这是一项发表于 The New England Journal of Medicine 的RCT，主题聚焦心血管，适合用于判断该领域最新证据变化。
+
+3. Intensive Blood Pressure Control After Myocardial Infarction: A Multicenter Clinical Trial
+期刊：JAMA Cardiology｜类型：Clinical trial｜分数：69
+链接：https://pubmed.ncbi.nlm.nih.gov/00000003/
+价值：这是一项发表于 JAMA Cardiology 的Clinical trial，主题聚焦心血管，适合用于判断该领域最新证据变化。
+
+4. Spatial Immune Remodeling Predicts Response to Cell Therapy in Autoimmune Disease
+期刊：Nature Medicine｜类型：Review｜分数：42
+链接：https://pubmed.ncbi.nlm.nih.gov/00000004/
+价值：这是一项发表于 Nature Medicine 的Review，主题聚焦免疫/炎症，适合用于判断该领域最新证据变化。
+
+5. A Microglia-Macrophage Circuit Controls Neuroinflammation in Neurodegeneration
+期刊：Cell｜类型：Review｜分数：42
+链接：https://pubmed.ncbi.nlm.nih.gov/00000005/
+价值：这是一项发表于 Cell 的Review，主题聚焦免疫/炎症，适合用于判断该领域最新证据变化。

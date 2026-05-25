@@ -1,0 +1,66 @@
+tier_a:
+  - The New England Journal of Medicine
+  - The Lancet
+  - JAMA
+  - Nature Medicine
+  - Nature
+  - Science
+  - Cell
+  - Science Translational Medicine
+
+tier_b:
+  - BMJ
+  - Annals of Internal Medicine
+  - The Lancet Oncology
+  - The Lancet Neurology
+  - The Lancet Infectious Diseases
+  - The Lancet Respiratory Medicine
+  - The Lancet Diabetes & Endocrinology
+  - JAMA Oncology
+  - JAMA Neurology
+  - JAMA Cardiology
+  - JAMA Internal Medicine
+  - JAMA Surgery
+  - JAMA Pediatrics
+  - Nature Biomedical Engineering
+  - Nature Biotechnology
+  - Nature Cancer
+  - Nature Immunology
+  - Nature Neuroscience
+  - Nature Communications
+  - Cell Stem Cell
+  - Cell Metabolism
+  - Cancer Cell
+  - Immunity
+  - Neuron
+
+tier_c:
+  - Clinical Cancer Research
+  - Cancer Discovery
+  - Circulation
+  - European Heart Journal
+  - Intensive Care Medicine
+  - Critical Care
+  - Journal of Clinical Oncology
+  - Blood
+  - Gut
+  - Gastroenterology
+  - Diabetes Care
+  - Alzheimer’s & Dementia
+  - Brain
+
+rss:
+  - name: NEJM
+    url: https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss
+  - name: The Lancet
+    url: https://www.thelancet.com/rssfeed/lancet_current.xml
+  - name: JAMA
+    url: https://jamanetwork.com/rss/site_24/0.xml
+  - name: Nature Medicine
+    url: https://www.nature.com/nm.rss
+  - name: Nature
+    url: https://www.nature.com/nature.rss
+  - name: Science
+    url: https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
+  - name: Cell
+    url: https://www.cell.com/cell/current.rss

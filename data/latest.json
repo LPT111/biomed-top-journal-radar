@@ -1,0 +1,168 @@
+{
+  "generated_at": "2026-05-25 11:42:06",
+  "stats": {
+    "total": 5,
+    "tier_a": 5,
+    "rct_or_trial": 3,
+    "preprint": 0
+  },
+  "items": [
+    {
+      "source": "Preview",
+      "id": "preview-lancet-oncology",
+      "pmid": "00000002",
+      "doi": "10.1016/preview-oncology",
+      "title": "Phase 3 Trial of an Antibody-Drug Conjugate in Metastatic Lung Cancer",
+      "journal": "The Lancet Oncology",
+      "published": "2026-05-25",
+      "authors": [
+        "Preview Author"
+      ],
+      "abstract": "This phase 3 trial evaluated an antibody-drug conjugate versus standard chemotherapy in patients with metastatic lung cancer, with overall survival and progression-free survival as key endpoints.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/00000002/",
+      "publication_types": [
+        "Clinical Trial, Phase III"
+      ],
+      "study_type_key": "phase_3_trial",
+      "study_type": "Phase 3 trial",
+      "topic": "oncology",
+      "topic_cn": "肿瘤/血液肿瘤",
+      "disease_area": "oncology",
+      "news_angle": "改变临床实践",
+      "journal_tier": "tier_a",
+      "score": 73,
+      "tweet_title_cn": "论文标题：Phase 3 Trial of an Antibody-Drug Conjugate in Metastatic Lung Cancer",
+      "one_sentence_value_cn": "这是一项发表于 The Lancet Oncology 的Phase 3 trial，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。",
+      "ai_summary_cn": "论文围绕“Phase 3 Trial of an Antibody-Drug Conjugate in Metastatic Lung Cancer”展开。基于题名、期刊和摘要信息，研究可能涉及肿瘤/血液肿瘤方向的重要临床或转化问题。摘要要点：This phase 3 trial evaluated an antibody-drug conjugate versus standard chemotherapy in patients with metastatic lung cancer, with overall survival and progression-free survival as key endpoints.",
+      "clinical_relevance_cn": "可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。",
+      "limitations_cn": "当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。",
+      "wechat_draft_cn": "【医学顶刊速递】Phase 3 Trial of an Antibody-Drug Conjugate in Metastatic Lung Cancer\n\n一、为什么重要\n这是一项发表于 The Lancet Oncology 的Phase 3 trial，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。\n\n二、研究怎么做\n请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。\n\n三、主要发现\nThis phase 3 trial evaluated an antibody-drug conjugate versus standard chemotherapy in patients with metastatic lung cancer, with overall survival and progression-free survival as key endpoints.\n\n四、对临床/科研的意义\n可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。\n\n五、需要谨慎解读的地方\n当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。\n\n六、小满点评\n先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。\n\n七、参考信息\nThe Lancet Oncology｜2026-05-25｜https://pubmed.ncbi.nlm.nih.gov/00000002/"
+    },
+    {
+      "source": "Preview",
+      "id": "preview-nejm-rct",
+      "pmid": "00000001",
+      "doi": "10.1056/preview-rct",
+      "title": "A Randomized Trial of a Novel GLP-1 Therapy in Adults with Obesity and Cardiovascular Risk",
+      "journal": "The New England Journal of Medicine",
+      "published": "2026-05-25",
+      "authors": [
+        "Preview Author"
+      ],
+      "abstract": "In this double-blind randomized trial, adults with obesity and cardiovascular risk were assigned to active treatment or placebo. The trial assessed weight reduction, major adverse cardiovascular events, and safety outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/00000001/",
+      "publication_types": [
+        "Randomized Controlled Trial"
+      ],
+      "study_type_key": "randomized_controlled_trial",
+      "study_type": "RCT",
+      "topic": "cardiovascular",
+      "topic_cn": "心血管",
+      "disease_area": "cardiovascular",
+      "news_angle": "权威 RCT",
+      "journal_tier": "tier_a",
+      "score": 72,
+      "tweet_title_cn": "论文标题：A Randomized Trial of a Novel GLP-1 Therapy in Adults with Obesity and Cardiovascular Risk",
+      "one_sentence_value_cn": "这是一项发表于 The New England Journal of Medicine 的RCT，主题聚焦心血管，适合用于判断该领域最新证据变化。",
+      "ai_summary_cn": "论文围绕“A Randomized Trial of a Novel GLP-1 Therapy in Adults with Obesity and Cardiovascular Risk”展开。基于题名、期刊和摘要信息，研究可能涉及心血管方向的重要临床或转化问题。摘要要点：In this double-blind randomized trial, adults with obesity and cardiovascular risk were assigned to active treatment or placebo. The trial assessed weight reduction, major adverse cardiovascular events, and safety outcomes.",
+      "clinical_relevance_cn": "可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。",
+      "limitations_cn": "当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。",
+      "wechat_draft_cn": "【医学顶刊速递】A Randomized Trial of a Novel GLP-1 Therapy in Adults with Obesity and Cardiovascular Risk\n\n一、为什么重要\n这是一项发表于 The New England Journal of Medicine 的RCT，主题聚焦心血管，适合用于判断该领域最新证据变化。\n\n二、研究怎么做\n请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。\n\n三、主要发现\nIn this double-blind randomized trial, adults with obesity and cardiovascular risk were assigned to active treatment or placebo. The trial assessed weight reduction, major adverse cardiovascular events, and safety outcomes.\n\n四、对临床/科研的意义\n可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。\n\n五、需要谨慎解读的地方\n当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。\n\n六、小满点评\n先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。\n\n七、参考信息\nThe New England Journal of Medicine｜2026-05-25｜https://pubmed.ncbi.nlm.nih.gov/00000001/"
+    },
+    {
+      "source": "Preview",
+      "id": "preview-jama-cardio",
+      "pmid": "00000003",
+      "doi": "10.1001/preview-cardio",
+      "title": "Intensive Blood Pressure Control After Myocardial Infarction: A Multicenter Clinical Trial",
+      "journal": "JAMA Cardiology",
+      "published": "2026-05-25",
+      "authors": [
+        "Preview Author"
+      ],
+      "abstract": "A multicenter clinical trial studied intensive blood pressure control after myocardial infarction and assessed recurrent cardiovascular events, adverse events, and patient-reported outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/00000003/",
+      "publication_types": [
+        "Clinical Trial",
+        "Multicenter Study"
+      ],
+      "study_type_key": "clinical_trial",
+      "study_type": "Clinical trial",
+      "topic": "cardiovascular",
+      "topic_cn": "心血管",
+      "disease_area": "cardiovascular",
+      "news_angle": "安全性警示",
+      "journal_tier": "tier_a",
+      "score": 69,
+      "tweet_title_cn": "论文标题：Intensive Blood Pressure Control After Myocardial Infarction: A Multicenter Clinical Trial",
+      "one_sentence_value_cn": "这是一项发表于 JAMA Cardiology 的Clinical trial，主题聚焦心血管，适合用于判断该领域最新证据变化。",
+      "ai_summary_cn": "论文围绕“Intensive Blood Pressure Control After Myocardial Infarction: A Multicenter Clinical Trial”展开。基于题名、期刊和摘要信息，研究可能涉及心血管方向的重要临床或转化问题。摘要要点：A multicenter clinical trial studied intensive blood pressure control after myocardial infarction and assessed recurrent cardiovascular events, adverse events, and patient-reported outcomes.",
+      "clinical_relevance_cn": "可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。",
+      "limitations_cn": "当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。",
+      "wechat_draft_cn": "【医学顶刊速递】Intensive Blood Pressure Control After Myocardial Infarction: A Multicenter Clinical Trial\n\n一、为什么重要\n这是一项发表于 JAMA Cardiology 的Clinical trial，主题聚焦心血管，适合用于判断该领域最新证据变化。\n\n二、研究怎么做\n请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。\n\n三、主要发现\nA multicenter clinical trial studied intensive blood pressure control after myocardial infarction and assessed recurrent cardiovascular events, adverse events, and patient-reported outcomes.\n\n四、对临床/科研的意义\n可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。\n\n五、需要谨慎解读的地方\n当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。\n\n六、小满点评\n先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。\n\n七、参考信息\nJAMA Cardiology｜2026-05-25｜https://pubmed.ncbi.nlm.nih.gov/00000003/"
+    },
+    {
+      "source": "Preview",
+      "id": "preview-nm-translational",
+      "pmid": "00000004",
+      "doi": "10.1038/preview-translational",
+      "title": "Spatial Immune Remodeling Predicts Response to Cell Therapy in Autoimmune Disease",
+      "journal": "Nature Medicine",
+      "published": "2026-05-25",
+      "authors": [
+        "Preview Author"
+      ],
+      "abstract": "This translational study used spatial omics and immune profiling to identify tissue immune remodeling associated with response to cell therapy in autoimmune disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/00000004/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "study_type_key": "review",
+      "study_type": "Review",
+      "topic": "immunology",
+      "topic_cn": "免疫/炎症",
+      "disease_area": "immunology",
+      "news_angle": "新药临床试验",
+      "journal_tier": "tier_a",
+      "score": 42,
+      "tweet_title_cn": "论文标题：Spatial Immune Remodeling Predicts Response to Cell Therapy in Autoimmune Disease",
+      "one_sentence_value_cn": "这是一项发表于 Nature Medicine 的Review，主题聚焦免疫/炎症，适合用于判断该领域最新证据变化。",
+      "ai_summary_cn": "论文围绕“Spatial Immune Remodeling Predicts Response to Cell Therapy in Autoimmune Disease”展开。基于题名、期刊和摘要信息，研究可能涉及免疫/炎症方向的重要临床或转化问题。摘要要点：This translational study used spatial omics and immune profiling to identify tissue immune remodeling associated with response to cell therapy in autoimmune disease.",
+      "clinical_relevance_cn": "可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。",
+      "limitations_cn": "当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。",
+      "wechat_draft_cn": "【医学顶刊速递】Spatial Immune Remodeling Predicts Response to Cell Therapy in Autoimmune Disease\n\n一、为什么重要\n这是一项发表于 Nature Medicine 的Review，主题聚焦免疫/炎症，适合用于判断该领域最新证据变化。\n\n二、研究怎么做\n请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。\n\n三、主要发现\nThis translational study used spatial omics and immune profiling to identify tissue immune remodeling associated with response to cell therapy in autoimmune disease.\n\n四、对临床/科研的意义\n可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。\n\n五、需要谨慎解读的地方\n当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。\n\n六、小满点评\n先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。\n\n七、参考信息\nNature Medicine｜2026-05-25｜https://pubmed.ncbi.nlm.nih.gov/00000004/"
+    },
+    {
+      "source": "Preview",
+      "id": "preview-cell-mechanism",
+      "pmid": "00000005",
+      "doi": "10.1016/preview-cell",
+      "title": "A Microglia-Macrophage Circuit Controls Neuroinflammation in Neurodegeneration",
+      "journal": "Cell",
+      "published": "2026-05-25",
+      "authors": [
+        "Preview Author"
+      ],
+      "abstract": "Mechanistic experiments reveal a microglia-macrophage inflammatory circuit that shapes neurodegeneration, suggesting potential therapeutic targets and biomarkers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/00000005/",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "study_type_key": "review",
+      "study_type": "Review",
+      "topic": "immunology",
+      "topic_cn": "免疫/炎症",
+      "disease_area": "immunology",
+      "news_angle": "顶刊正刊",
+      "journal_tier": "tier_a",
+      "score": 42,
+      "tweet_title_cn": "论文标题：A Microglia-Macrophage Circuit Controls Neuroinflammation in Neurodegeneration",
+      "one_sentence_value_cn": "这是一项发表于 Cell 的Review，主题聚焦免疫/炎症，适合用于判断该领域最新证据变化。",
+      "ai_summary_cn": "论文围绕“A Microglia-Macrophage Circuit Controls Neuroinflammation in Neurodegeneration”展开。基于题名、期刊和摘要信息，研究可能涉及免疫/炎症方向的重要临床或转化问题。摘要要点：Mechanistic experiments reveal a microglia-macrophage inflammatory circuit that shapes neurodegeneration, suggesting potential therapeutic targets and biomarkers.",
+      "clinical_relevance_cn": "可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。",
+      "limitations_cn": "当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。",
+      "wechat_draft_cn": "【医学顶刊速递】A Microglia-Macrophage Circuit Controls Neuroinflammation in Neurodegeneration\n\n一、为什么重要\n这是一项发表于 Cell 的Review，主题聚焦免疫/炎症，适合用于判断该领域最新证据变化。\n\n二、研究怎么做\n请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。\n\n三、主要发现\nMechanistic experiments reveal a microglia-macrophage inflammatory circuit that shapes neurodegeneration, suggesting potential therapeutic targets and biomarkers.\n\n四、对临床/科研的意义\n可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。\n\n五、需要谨慎解读的地方\n当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。\n\n六、小满点评\n先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。\n\n七、参考信息\nCell｜2026-05-25｜https://pubmed.ncbi.nlm.nih.gov/00000005/"
+    }
+  ],
+  "errors": []
+}

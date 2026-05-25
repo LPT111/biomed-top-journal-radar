@@ -1,0 +1,124 @@
+oncology:
+  label_cn: 肿瘤/血液肿瘤
+  keywords:
+    - cancer
+    - oncology
+    - tumor
+    - immunotherapy
+    - immune checkpoint
+    - CAR-T
+    - ADC
+    - radiotherapy
+    - chemotherapy
+    - targeted therapy
+
+cardiovascular:
+  label_cn: 心血管
+  keywords:
+    - cardiovascular
+    - heart failure
+    - myocardial infarction
+    - stroke
+    - hypertension
+    - atherosclerosis
+    - atrial fibrillation
+    - major adverse cardiovascular events
+
+neuroscience:
+  label_cn: 神经科学/神经疾病
+  keywords:
+    - neuroscience
+    - neurology
+    - neurodegeneration
+    - Alzheimer
+    - Parkinson
+    - stroke
+    - traumatic brain injury
+    - epilepsy
+    - glioma
+
+infectious_disease:
+  label_cn: 感染/疫苗
+  keywords:
+    - infectious disease
+    - vaccine
+    - antiviral
+    - antibiotics
+    - sepsis
+    - COVID-19
+    - influenza
+    - tuberculosis
+
+immunology:
+  label_cn: 免疫/炎症
+  keywords:
+    - immunology
+    - inflammation
+    - autoimmune
+    - cytokine
+    - T cell
+    - macrophage
+    - microglia
+
+metabolism:
+  label_cn: 代谢/肥胖/糖尿病
+  keywords:
+    - obesity
+    - diabetes
+    - GLP-1
+    - metabolic syndrome
+    - fatty liver
+    - MASLD
+    - MASH
+
+biotech_gene_cell_therapy:
+  label_cn: 生物医药/细胞与基因治疗
+  keywords:
+    - gene therapy
+    - cell therapy
+    - stem cell
+    - RNA therapy
+    - mRNA
+    - CRISPR
+    - extracellular vesicles
+    - exosome
+    - biologics
+
+medical_ai:
+  label_cn: 医疗AI/数字医学
+  keywords:
+    - artificial intelligence
+    - machine learning
+    - deep learning
+    - medical AI
+    - digital health
+    - large language model
+    - diagnostic algorithm
+
+critical_care:
+  label_cn: 重症医学/急危重症
+  keywords:
+    - critical care
+    - ICU
+    - sepsis
+    - acute respiratory distress syndrome
+    - shock
+    - mechanical ventilation
+
+public_health:
+  label_cn: 公共卫生/流行病学
+  keywords:
+    - public health
+    - epidemiology
+    - screening
+    - prevention
+    - population-based
+    - cohort
+
+rare_disease:
+  label_cn: 罕见病
+  keywords:
+    - rare disease
+    - orphan disease
+    - genetic disease
+    - inherited disorder
