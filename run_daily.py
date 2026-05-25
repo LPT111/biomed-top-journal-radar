@@ -10,11 +10,13 @@ import yaml
 
 from src.classifier import classify_item
 from src.email_sender import send_email
+from src.fetch_chinese import fetch_chinese_news
 from src.fetch_pubmed import fetch_pubmed
 from src.fetch_rss import fetch_arxiv, fetch_preprints, fetch_top_journal_rss
 from src.notifier import send_push
 from src.render import render_outputs
 from src.scorer import rank_items
+from src.selector import select_news_20
 from src.summarizer import summarize_items
 
 
@@ -46,19 +48,21 @@ def run_pipeline(use_preview: bool = False) -> tuple[list[dict], list[str], str]
         raw_items = preview_items()
     else:
         raw_items = []
+        raw_items.extend(fetch_chinese_news(config["topics"], errors))
         raw_items.extend(fetch_pubmed(config["journals"], config["topics"], errors))
         raw_items.extend(fetch_top_journal_rss(config["journals"], config["topics"], errors))
         raw_items.extend(fetch_preprints(config["topics"], errors))
         raw_items.extend(fetch_arxiv(config["topics"], errors))
-        if not raw_items:
-            errors.append("All live sources returned empty; fallback preview data was used.")
-            raw_items = preview_items()
+        if len(raw_items) < 20:
+            errors.append("Live sources returned fewer than 20 candidates; preview fallback items were used to keep the page complete.")
+            raw_items.extend(preview_items())
 
     classified = [classify_item(item, config["topics"]) for item in raw_items if item.get("title") and item.get("url")]
-    ranked = rank_items(classified, config["journals"], config["scoring"], limit=10)
-    summarized = summarize_items(ranked)
-    render_outputs(summarized, errors, generated_at)
-    return summarized, errors, generated_at
+    ranked = rank_items(classified, config["journals"], config["scoring"], limit=500)
+    selected, selection_notes = select_news_20(ranked)
+    summarized = summarize_items(selected)
+    render_outputs(summarized, errors + selection_notes, generated_at)
+    return summarized, errors + selection_notes, generated_at
 
 
 def email_test() -> int:

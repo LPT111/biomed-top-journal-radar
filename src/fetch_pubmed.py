@@ -115,6 +115,10 @@ def _extract_article(article: ET.Element, fallback_topic: str = "") -> dict[str,
 
     return {
         "source": "PubMed",
+        "source_region": "intl",
+        "source_language": "en",
+        "news_origin": "PubMed paper",
+        "content_bucket": "intl_news",
         "topic": fallback_topic,
         "topic_cn": "",
         "id": pmid or doi or title,

@@ -37,6 +37,10 @@ def fetch_top_journal_rss(journals: dict[str, Any], topics: dict[str, Any], erro
                     continue
                 items.append({
                     "source": "Top journal RSS",
+                    "source_region": "intl",
+                    "source_language": "en",
+                    "news_origin": "Journal RSS",
+                    "content_bucket": "intl_news",
                     "topic": "",
                     "topic_cn": "",
                     "id": url,
@@ -74,6 +78,10 @@ def fetch_preprints(topics: dict[str, Any], errors: list[str] | None = None) -> 
                 doi = row.get("doi", "")
                 items.append({
                     "source": server,
+                    "source_region": "intl",
+                    "source_language": "en",
+                    "news_origin": "Preprint",
+                    "content_bucket": "intl_news",
                     "topic": "",
                     "topic_cn": "",
                     "id": doi or title,
@@ -112,6 +120,10 @@ def fetch_arxiv(topics: dict[str, Any], errors: list[str] | None = None) -> list
                 continue
             out.append({
                 "source": "arXiv",
+                "source_region": "intl",
+                "source_language": "en",
+                "news_origin": "Preprint",
+                "content_bucket": "intl_news",
                 "topic": "",
                 "topic_cn": "",
                 "id": getattr(entry, "id", title),

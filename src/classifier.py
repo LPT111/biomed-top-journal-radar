@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from typing import Any
 
 
@@ -9,6 +10,7 @@ STUDY_RULES = [
     ("phase_2_trial", "Phase 2 trial", ["phase 2", "phase ii"]),
     ("clinical_trial", "Clinical trial", ["clinical trial", "trial"]),
     ("guideline", "Guideline", ["guideline", "recommendation", "consensus"]),
+    ("medical_news", "Medical news", ["medical news", "chinese biomedical news", "news"]),
     ("meta_analysis", "Meta-analysis", ["meta-analysis", "systematic review"]),
     ("review", "Review", ["review"]),
     ("editorial", "Editorial/comment", ["editorial", "comment", "perspective", "correspondence", "department of error", "correction", "erratum", "news"]),
@@ -41,7 +43,15 @@ def classify_item(item: dict[str, Any], topics: dict[str, Any]) -> dict[str, Any
 
     study_key, study_label = "original_research", "Original research"
     for key, label, needles in STUDY_RULES:
-        if any(needle in text for needle in needles):
+        matched = False
+        for needle in needles:
+            if needle in {"review", "news", "trial"}:
+                matched = re.search(rf"\b{re.escape(needle)}\b", text) is not None
+            else:
+                matched = needle in text
+            if matched:
+                break
+        if matched:
             study_key, study_label = key, label
             break
     if study_key == "original_research" and any(word in text for word in ["mechanism", "translational", "animal model", "cell"]):

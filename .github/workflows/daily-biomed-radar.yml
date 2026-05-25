@@ -53,7 +53,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/latest.json output/briefing.md output/briefing.txt output/newsletter.md index.html
+          git add data/latest.json output/briefing.md output/briefing.txt output/newsletter.md output/cn_news.md output/intl_news.md index.html
           if git diff --cached --quiet; then
             echo "No generated changes to commit."
           else

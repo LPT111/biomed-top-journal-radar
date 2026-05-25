@@ -45,7 +45,7 @@ def send_email(items: list[dict[str, Any]], generated_at: str = "") -> bool:
         ])
     msg.attach(MIMEText("\n".join(body_lines), "plain", "utf-8"))
 
-    for rel in ["output/briefing.md", "output/briefing.txt", "output/newsletter.md", "data/latest.json", "index.html"]:
+    for rel in ["output/briefing.md", "output/briefing.txt", "output/newsletter.md", "output/cn_news.md", "output/intl_news.md", "data/latest.json", "index.html"]:
         path = BASE_DIR / rel
         if path.exists():
             part = MIMEApplication(path.read_bytes(), Name=path.name)

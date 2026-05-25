@@ -3,447 +3,1146 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>全医学顶刊与 RCT 研究雷达</title>
+  <title>全医学科学新闻雷达</title>
   <style>
-    :root { --ink:#10201f; --muted:#657172; --green:#0b5a50; --teal:#0f766e; --line:#dfe8e6; --soft:#f4faf8; --blue:#0b4f6c; }
+    :root { --ink:#10201f; --muted:#667574; --green:#0b5a50; --teal:#0f766e; --blue:#0b4f6c; --line:#dfe8e6; --soft:#f4faf8; --paper:#fff; --amber:#9a6b14; }
     * { box-sizing:border-box; }
-    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif; color:var(--ink); background:linear-gradient(180deg,#ffffff 0%,#f6fbfa 100%); }
-    .wrap { width:min(1180px, calc(100% - 32px)); margin:0 auto; padding:28px 0 56px; }
-    header { border:1px solid var(--line); border-radius:24px; padding:28px; background:#fff; box-shadow:0 18px 48px rgba(16,32,31,.08); }
-    .kicker { color:var(--teal); font-weight:800; letter-spacing:.14em; text-transform:uppercase; font-size:12px; }
-    h1 { margin:10px 0 8px; font-size:clamp(32px,5vw,54px); letter-spacing:-.055em; color:var(--green); }
-    .subtitle { color:var(--muted); font-size:16px; line-height:1.7; margin:0; }
-    .stats { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; margin:18px 0 6px; }
-    .stat { background:var(--soft); border:1px solid var(--line); border-radius:16px; padding:14px; }
-    .stat small { display:block; color:var(--muted); margin-bottom:5px; }
-    .stat strong { font-size:24px; color:var(--green); }
-    .grid { display:grid; gap:16px; margin-top:18px; }
-    .card { background:#fff; border:1px solid var(--line); border-radius:20px; padding:20px; box-shadow:0 14px 36px rgba(16,32,31,.06); }
-    .card-top { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:12px; }
-    .rank { width:34px; height:34px; border-radius:50%; background:var(--green); color:#fff; display:inline-flex; align-items:center; justify-content:center; font-weight:900; }
-    .tag { border:1px solid var(--line); background:#f8fbfa; border-radius:999px; padding:6px 9px; font-size:12px; color:#31514d; font-weight:800; }
-    h2 { margin:8px 0 8px; font-size:22px; line-height:1.35; letter-spacing:-.025em; }
-    .meta { color:var(--muted); font-size:13px; line-height:1.6; }
-    .link { display:inline-flex; margin:12px 0; padding:9px 12px; border-radius:999px; background:var(--green); color:#fff; font-weight:900; text-decoration:none; }
-    .link:hover { text-decoration:none; background:#083f38; }
-    .section { margin-top:13px; padding-top:13px; border-top:1px solid var(--line); }
-    .section h3 { margin:0 0 6px; color:var(--blue); font-size:15px; }
-    .section p, .section pre { margin:0; color:#344947; line-height:1.75; font-size:14px; white-space:pre-wrap; font-family:inherit; }
-    .empty { padding:34px; text-align:center; color:var(--muted); border:1px dashed var(--line); border-radius:18px; margin-top:20px; background:#fff; }
-    footer { color:var(--muted); text-align:center; font-size:12px; margin-top:24px; }
-    @media (max-width:760px) { .stats { grid-template-columns:1fr 1fr; } header { padding:22px; } }
+    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif; color:var(--ink); background:linear-gradient(180deg,#fff 0%,#f5fbfa 100%); }
+    a { color:var(--teal); text-decoration:none; } a:hover { text-decoration:underline; }
+    .wrap { width:min(1220px, calc(100% - 32px)); margin:0 auto; padding:28px 0 58px; }
+    .hero { border:1px solid var(--line); border-radius:26px; padding:30px; background:#fff; box-shadow:0 18px 48px rgba(16,32,31,.08); }
+    .kicker { color:var(--teal); font-weight:900; letter-spacing:.14em; text-transform:uppercase; font-size:12px; }
+    h1 { margin:8px 0 6px; color:var(--green); font-size:clamp(34px,5vw,58px); letter-spacing:-.055em; line-height:1.02; }
+    .cn-title { color:#1f3431; font-size:22px; font-weight:900; margin-bottom:8px; }
+    .subtitle { color:var(--muted); line-height:1.7; margin:0; }
+    .stats { display:grid; grid-template-columns:repeat(6,minmax(0,1fr)); gap:10px; margin-top:18px; }
+    .stat { border:1px solid var(--line); background:var(--soft); border-radius:16px; padding:12px; }
+    .stat small { display:block; color:var(--muted); font-size:12px; margin-bottom:5px; }
+    .stat strong { font-size:22px; color:var(--green); }
+    .notice { margin-top:12px; border:1px solid #f1d48a; background:#fff8e6; color:#7a5410; border-radius:14px; padding:10px 12px; font-size:13px; font-weight:800; }
+    .section { margin-top:22px; }
+    .section-head { display:flex; justify-content:space-between; align-items:end; gap:14px; margin-bottom:12px; }
+    .section-head h2 { margin:0; color:var(--green); font-size:24px; letter-spacing:-.035em; }
+    .section-head span { color:var(--muted); font-size:13px; }
+    .headline-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }
+    .headline, .card { background:#fff; border:1px solid var(--line); border-radius:18px; padding:16px; box-shadow:0 12px 34px rgba(16,32,31,.055); }
+    .headline h3, .card h3 { margin:8px 0 7px; font-size:18px; line-height:1.42; letter-spacing:-.02em; }
+    .meta { color:var(--muted); font-size:12px; line-height:1.55; }
+    .brief { color:#304845; line-height:1.68; font-size:14px; margin:10px 0; }
+    .tag-row { display:flex; flex-wrap:wrap; gap:7px; align-items:center; }
+    .rank { background:var(--green); color:#fff; border-radius:999px; padding:5px 9px; font-size:12px; font-weight:900; }
+    .tag { border:1px solid var(--line); background:#f8fbfa; border-radius:999px; padding:5px 8px; font-size:12px; color:#31514d; font-weight:800; }
+    .link { display:inline-flex; align-items:center; justify-content:center; border-radius:999px; background:var(--green); color:#fff; padding:8px 11px; font-weight:900; font-size:13px; margin-top:4px; }
+    .link:hover { background:#083f38; text-decoration:none; }
+    .news-list { display:grid; gap:12px; }
+    .english-title { color:var(--muted); font-size:13px; line-height:1.5; margin-top:-2px; }
+    details { margin-top:10px; border-top:1px solid var(--line); padding-top:10px; }
+    summary { cursor:pointer; color:var(--blue); font-weight:900; font-size:13px; }
+    .detail-body { margin-top:10px; background:#f8fbfa; border:1px solid var(--line); border-radius:14px; padding:13px; }
+    .detail-body h4 { margin:12px 0 5px; color:var(--green); font-size:14px; }
+    .detail-body h4:first-child { margin-top:0; }
+    .detail-body p, .detail-body pre { margin:0; color:#344947; line-height:1.75; font-size:14px; white-space:pre-wrap; font-family:inherit; }
+    footer { text-align:center; color:var(--muted); font-size:12px; margin-top:24px; }
+    @media (max-width:980px) { .stats { grid-template-columns:repeat(3,1fr); } .headline-grid { grid-template-columns:1fr; } }
+    @media (max-width:640px) { .wrap { width:min(100% - 22px,1220px); } .hero { padding:22px; } .stats { grid-template-columns:repeat(2,1fr); } }
   </style>
 </head>
 <body>
   <main class="wrap">
-    <header>
+    <header class="hero">
       <div class="kicker">Biomed Top Journal Radar</div>
-      <h1>全医学顶刊与 RCT 研究雷达</h1>
-      <p class="subtitle">Top journals · RCTs · translational biomedicine · AI-assisted draft</p>
+      <h1>Biomed Top Journal Radar</h1>
+      <div class="cn-title">全医学科学新闻雷达</div>
+      <p class="subtitle">每日 20 条医学科学新闻｜中文 5 条 · 国际 15 条｜顶刊论文 · RCT · 转化医学 · 生物医药</p>
       <div class="stats">
-        <div class="stat"><small>生成时间</small><strong>2026-05-25 11:49:40</strong></div>
-        <div class="stat"><small>今日筛选</small><strong>10</strong></div>
-        <div class="stat"><small>顶刊 A 档</small><strong>10</strong></div>
-        <div class="stat"><small>RCT/试验</small><strong>7</strong></div>
+        <div class="stat"><small>今日新闻</small><strong>20</strong></div>
+        <div class="stat"><small>中文来源</small><strong>5</strong></div>
+        <div class="stat"><small>国际来源</small><strong>15</strong></div>
+        <div class="stat"><small>顶刊论文</small><strong>14</strong></div>
+        <div class="stat"><small>RCT/临床试验</small><strong>9</strong></div>
+        <div class="stat"><small>转化/机制</small><strong>4</strong></div>
       </div>
+      <p class="meta">生成时间：2026-05-25 12:10:47</p>
+      
     </header>
-    <section class="grid">
+    <section class="section" id="headlines">
+      <div class="section-head"><h2>今日头条</h2><span>按分数全局排序 Top 3</span></div>
+      <div class="headline-grid">
+<article class="headline">
+  <div class="tag-row"><span class="rank">Top 1</span><span class="tag">RCT</span><span class="tag">肿瘤/血液肿瘤</span><span class="tag">Score 94</span></div>
+  <h3>肿瘤/血液肿瘤研究：Intraperitoneal and Intravenous Paclitaxel Plus S-1 for Gastric Cancer With Peritoneal Metastasis: A Phase 3 Randomized Clinical Trial.</h3>
+  <div class="meta">JAMA oncology｜2026-May-21</div>
+  <p class="brief">JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42166134/" target="_blank" rel="noopener">打开原文</a>
+</article>
+<article class="headline">
+  <div class="tag-row"><span class="rank">Top 2</span><span class="tag">RCT</span><span class="tag">综合医学</span><span class="tag">Score 88</span></div>
+  <h3>综合医学研究：Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial.</h3>
+  <div class="meta">Nature medicine｜2026-May-22</div>
+  <p class="brief">Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42174253/" target="_blank" rel="noopener">打开原文</a>
+</article>
+<article class="headline">
+  <div class="tag-row"><span class="rank">Top 3</span><span class="tag">RCT</span><span class="tag">代谢/肥胖/糖尿病</span><span class="tag">Score 80</span></div>
+  <h3>代谢/肥胖/糖尿病研究：Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.</h3>
+  <div class="meta">The lancet. Diabetes &amp; endocrinology｜2026-May-22</div>
+  <p class="brief">The lancet. Diabetes &amp; endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42173109/" target="_blank" rel="noopener">打开原文</a>
+</article></div>
+    </section>
+    <section class="section" id="cn-news">
+      <div class="section-head"><h2>中文医学科学新闻</h2><span>5 条</span></div>
+      <div class="news-list">
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">1</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">Chinese biomedical news</span>
+    <span class="tag">Medical news</span>
+    <span class="tag">综合医学</span>
+    <span class="tag">Score 26</span>
+  </div>
+  <h3>全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 经济参考报</h3>
+  
+  <div class="meta">Google News CN｜Mon, 25 May 2026 00:30:19 GMT｜ </div>
+  <p class="brief">Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEdFT1NmcWowLXlMeFpfVllUNGl0MFI5LXlmSkV0N1hOamtMVzBZaGptdy1XVzc4LXpwNHZoejZEY2tLVDg2UWE5eTRyVm11NUJoZlRmdzZYOC1PTjU4OTlFTTA0aWItbGdjbU1MQmoybnVZdC16Q19RZW5ESUdJTw?oc=5" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：&lt;a href=&quot;https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEdFT1NmcWowLXlMeFpfVllUNGl0MFI5LXlmSkV0N1hOamtMVzBZaGptdy1XVzc4LXpwNHZoejZEY2tLVDg2UWE5eTRyVm11NUJoZlRmdzZYOC1PTjU4OTlFTTA0aWItbGdjbU1MQmoybnVZdC16Q19RZW5ESUdJTw?oc=5&quot; target=&quot;_blank&quot;&gt;全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;经济参考报&lt;/font&gt; 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 经济参考报
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Mon, 25 May 2026 00:30:19 GMT｜https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEdFT1NmcWowLXlMeFpfVllUNGl0MFI5LXlmSkV0N1hOamtMVzBZaGptdy1XVzc4LXpwNHZoejZEY2tLVDg2UWE5eTRyVm11NUJoZlRmdzZYOC1PTjU4OTlFTTA0aWItbGdjbU1MQmoybnVZdC16Q19RZW5ESUdJTw?oc=5</pre>
+    </div>
+  </details>
+</article>
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">2</span>
+    <span class="tag">Chinese biomedical news</span>
+    <span class="tag">Medical news</span>
+    <span class="tag">综合医学</span>
+    <span class="tag">Score 26</span>
+  </div>
+  <h3>如果手握10亿美元，顶尖临床专家为何不选择投向AI - 新浪财经</h3>
+  
+  <div class="meta">Google News CN｜Mon, 18 May 2026 08:40:29 GMT｜ </div>
+  <p class="brief">Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://news.google.com/rss/articles/CBMi_AlBVV95cUxPSU9ITEF1d0otUnVVazllNS1icnJpTmlMUjBwTDRENldCcWNRbjd2ZWUwMWJJTlJKbEptMDBOdUQ1bGVlRTJ2R1JpTFJDQWJlQTB2RUNIQ2w2Wlg3MFoyRi1naDV4UzE0ejVFeU80T0JnUUc5dmJKT3Frd0JJdVV2c0FBMDBiWlMxMHFmd2h1TFpSTDBhbFNZajFrTThqV1VINmJRemhhbDkwcHlFY0hrZW5hZlowSHFJdnZ0N2VrQ0NpWkxkTlhWdk8tTERQU1ZkNi1ZM0U2ZTd5MDh6Mi1ZU1U0c2FRak1yWnN5RWZ2Y0J5cjN2NldSVVZROThzMVc4TEpNNk9xeFNyRlB4UGlLRllsMWZOYm9qTmZMVkM0MnZ4eFp3b1RNc2RacE5MZ0RMc1BPWlpJQzNyM2VRR2lVQkkxQ1I3R29HcFlYZi01aTl0aVE2TUVHLWRDdjYyRXJvbXJHT0pwaUl3bmpiaXJKdzlvV002ZDBYUS0zRmI2aHJMcjZFT3lUYW1ONFpITTg0aXMzNjVCRERPVFJUbDd0Z1pmdU1OQ2lJQWV2WW9SLXJSUVBJV24xNVVuakstWmNWVmRxZE4zeDBSYnMzWVVUazVqNmVJX0FPY0dTMzBjN293UmR6T0o4VjNsbFhRLUhSSEpNZDRtS1RUVlNkZ3E4VUhBY3hQWkRoWkR5YkFQeVB1aFVNcVFEbVFLd19pa1gtVUNNWnBDUHJydEhMSUNfUWtySk1HUlBxY0ZQWkU5d1p2S1paVktQVWN0VmVmYnhhM21Kc0pwZ2tDQWlOMmF5d0t4LVBvWWRVNmprN0JNTG4zMGNKTUlWSFdmMmRDVlptNVluckhGMUpIQmlnX2JMMTc1dmtPUTQyMTBnVzdnbVRsaFZTWTVVSGFkTjJTSVFpcmJLYl9uN3hiaXhzdzFvd2kzM3c1SDFHQzM2YzJRaTRHU254V2pGc1NZRU01WTY3eDFIV19vX2pRR1N5ZGtEVk1rNnNKOFNvbEtIRWlDd01faTQ1N01GZnBOT05Ka1VtRmlCbEp0ZUR1U3hSMC1YaHlzbmJzYm1PemFXTmhqcUNhc0pnOTBIbXJTZ3E5U0J6NXFHNlJIOHRsZnhYZUloN3dHTlBmYktneE45bDAwVEFkSEhHV05QTUswUnIxWWFLLXF2NHVLRm1kX1YwUllvb0NCOUpiTEh3NWI2Nk5jYmFRUGxDSTNwWjVYZjV5RzJ5YUFKakROQVV5Y3VPWGtQNGIybWtSQk5JazlaanEzRkRpeWRzOWxyMURjckxkdW5jdUZfYTdXX0kxQXFXSE51TGNmek9xZGR4OUMzeHp4VnBobjl1TGJaNkFKOG1lU2hEYkI0OVNaY3hUdGJ2WWxuR2JSeEpnY2swMnh2QzIxUVFaVkowaDl1cWNwZ3BVUDhMNTktb0ZFSU1nRkxiVUFub3RXUGpaLWJpdW50LU5OMS0yMWZ1d08yMlcycTNyX0UtN2trbjMxaXJfbHh0cV9oaklDM1dqT0ZiNzh3V0VaWFFCc2JTNjRFYjJmakVtUUtGa2pTdUJ1SUgxaDdYRkk4aG9mTEt1bTAxeEtpNHB0MzY5dE1KLXdLNm5qVTVKVmh5YUVEeHNnZnhrNGtBaF92Szk3blJaMjJKUExVSzZEZG9JU0dUanhWNHlmUnhEUFRFb0x5VGdZclltMmpk?oc=5" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：&lt;a href=&quot;https://news.google.com/rss/articles/CBMi_AlBVV95cUxPSU9ITEF1d0otUnVVazllNS1icnJpTmlMUjBwTDRENldCcWNRbjd2ZWUwMWJJTlJKbEptMDBOdUQ1bGVlRTJ2R1JpTFJDQWJlQTB2RUNIQ2w2Wlg3MFoyRi1naDV4UzE0ejVFeU80T0JnUUc5dmJKT3Frd0JJdVV2c0FBMDBiWlMxMHFmd2h1TFpSTDBhbFNZajFrTThqV1VINmJRemhhbDkwcHlFY0hrZW5hZlowSHFJdnZ0N2VrQ0NpWkxkTlhWdk8tTERQU1ZkNi1ZM0U2ZTd5MDh6Mi1ZU1U0c2FRak1yWnN5RWZ2Y0J5cjN2NldSVVZROThzMVc4TEpNNk9xeFNyRlB4UGlLRllsMWZOYm9qTmZMVkM0MnZ4eFp3b1RNc2RacE5MZ0RMc1BPWlpJQzNyM2VRR2lVQkkxQ1I3R29HcFlYZi01aTl0aVE2TUVHLWRDdjYyRX... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】如果手握10亿美元，顶尖临床专家为何不选择投向AI - 新浪财经
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Mon, 18 May 2026 08:40:29 GMT｜https://news.google.com/rss/articles/CBMi_AlBVV95cUxPSU9ITEF1d0otUnVVazllNS1icnJpTmlMUjBwTDRENldCcWNRbjd2ZWUwMWJJTlJKbEptMDBOdUQ1bGVlRTJ2R1JpTFJDQWJlQTB2RUNIQ2w2Wlg3MFoyRi1naDV4UzE0ejVFeU80T0JnUUc5dmJKT3Frd0JJdVV2c0FBMDBiWlMxMHFmd2h1TFpSTDBhbFNZajFrTThqV1VINmJRemhhbDkwcHlFY0hrZW5hZlowSHFJdnZ0N2VrQ0NpWkxkTlhWdk8tTERQU1ZkNi1ZM0U2ZTd5MDh6Mi1ZU1U0c2FRak1yWnN5RWZ2Y0J5cjN2NldSVVZROThzMVc4TEpNNk9xeFNyRlB4UGlLRllsMWZOYm9qTmZMVkM0MnZ4eFp3b1RNc2RacE5MZ0RMc1BPWlpJQzNyM2VRR2lVQkkxQ1I3R29HcFlYZi01aTl0aVE2TUVHLWRDdjYyRXJvbXJHT0pwaUl3bmpiaXJKdzlvV002ZDBYUS0zRmI2aHJMcjZFT3lUYW1ONFpITTg0aXMzNjVCRERPVFJUbDd0Z1pmdU1OQ2lJQWV2WW9SLXJSUVBJV24xNVVuakstWmNWVmRxZE4zeDBSYnMzWVVUazVqNmVJX0FPY0dTMzBjN293UmR6T0o4VjNsbFhRLUhSSEpNZDRtS1RUVlNkZ3E4VUhBY3hQWkRoWkR5YkFQeVB1aFVNcVFEbVFLd19pa1gtVUNNWnBDUHJydEhMSUNfUWtySk1HUlBxY0ZQWkU5d1p2S1paVktQVWN0VmVmYnhhM21Kc0pwZ2tDQWlOMmF5d0t4LVBvWWRVNmprN0JNTG4zMGNKTUlWSFdmMmRDVlptNVluckhGMUpIQmlnX2JMMTc1dmtPUTQyMTBnVzdnbVRsaFZTWTVVSGFkTjJTSVFpcmJLYl9uN3hiaXhzdzFvd2kzM3c1SDFHQzM2YzJRaTRHU254V2pGc1NZRU01WTY3eDFIV19vX2pRR1N5ZGtEVk1rNnNKOFNvbEtIRWlDd01faTQ1N01GZnBOT05Ka1VtRmlCbEp0ZUR1U3hSMC1YaHlzbmJzYm1PemFXTmhqcUNhc0pnOTBIbXJTZ3E5U0J6NXFHNlJIOHRsZnhYZUloN3dHTlBmYktneE45bDAwVEFkSEhHV05QTUswUnIxWWFLLXF2NHVLRm1kX1YwUllvb0NCOUpiTEh3NWI2Nk5jYmFRUGxDSTNwWjVYZjV5RzJ5YUFKakROQVV5Y3VPWGtQNGIybWtSQk5JazlaanEzRkRpeWRzOWxyMURjckxkdW5jdUZfYTdXX0kxQXFXSE51TGNmek9xZGR4OUMzeHp4VnBobjl1TGJaNkFKOG1lU2hEYkI0OVNaY3hUdGJ2WWxuR2JSeEpnY2swMnh2QzIxUVFaVkowaDl1cWNwZ3BVUDhMNTktb0ZFSU1nRkxiVUFub3RXUGpaLWJpdW50LU5OMS0yMWZ1d08yMlcycTNyX0UtN2trbjMxaXJfbHh0cV9oaklDM1dqT0ZiNzh3V0VaWFFCc2JTNjRFYjJmakVtUUtGa2pTdUJ1SUgxaDdYRkk4aG9mTEt1bTAxeEtpNHB0MzY5dE1KLXdLNm5qVTVKVmh5YUVEeHNnZnhrNGtBaF92Szk3blJaMjJKUExVSzZEZG9JU0dUanhWNHlmUnhEUFRFb0x5VGdZclltMmpk?oc=5</pre>
+    </div>
+  </details>
+</article>
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">3</span>
+    <span class="tag">Chinese biomedical news</span>
+    <span class="tag">Medical news</span>
+    <span class="tag">综合医学</span>
+    <span class="tag">Score 26</span>
+  </div>
+  <h3>八部门发文：上海将加快建设医学AI指挥舱、卫生健康数据平台、统一影像云_医疗人工智能 - 大健康派</h3>
+  
+  <div class="meta">Google News CN｜Fri, 22 May 2026 05:33:50 GMT｜ </div>
+  <p class="brief">Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dTVJcFRNdVJfNUhlN3NIbkJXUnd5QlBxa21nUlJnMVJZR2g1ZVc3bGJodHUtX0xRVXZPTHQ5X09qRnN0c0k3TXhkY0dXZVVhT2gyR3VCZ1dXR1dmOGc?oc=5" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dTVJcFRNdVJfNUhlN3NIbkJXUnd5QlBxa21nUlJnMVJZR2g1ZVc3bGJodHUtX0xRVXZPTHQ5X09qRnN0c0k3TXhkY0dXZVVhT2gyR3VCZ1dXR1dmOGc?oc=5&quot; target=&quot;_blank&quot;&gt;八部门发文：上海将加快建设医学AI指挥舱、卫生健康数据平台、统一影像云_医疗人工智能&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;大健康派&lt;/font&gt; 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】八部门发文：上海将加快建设医学AI指挥舱、卫生健康数据平台、统一影像云_医疗人工智能 - 大健康派
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Fri, 22 May 2026 05:33:50 GMT｜https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dTVJcFRNdVJfNUhlN3NIbkJXUnd5QlBxa21nUlJnMVJZR2g1ZVc3bGJodHUtX0xRVXZPTHQ5X09qRnN0c0k3TXhkY0dXZVVhT2gyR3VCZ1dXR1dmOGc?oc=5</pre>
+    </div>
+  </details>
+</article>
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">4</span>
+    <span class="tag">Chinese biomedical news</span>
+    <span class="tag">Medical news</span>
+    <span class="tag">重症医学/急危重症</span>
+    <span class="tag">Score 21</span>
+  </div>
+  <h3>中国肿瘤临床试验患者入组速度达欧美3到5倍，成本仅1/3到1/4 - 虎嗅</h3>
+  
+  <div class="meta">Google News CN｜Wed, 20 May 2026 11:42:06 GMT｜ </div>
+  <p class="brief">Google News CN 发布的重症医学/急危重症相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSnpLaEticU5VaHM5bFZoZlhOMUdNMGhEUFROMG5DTnhzX1RGakdyMzgzWVlCNzZBaFhfQVNNRm9uOHQyNmFyRzVEZVdDUTF5Q3c?oc=5" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦重症医学/急危重症。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：&lt;a href=&quot;https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSnpLaEticU5VaHM5bFZoZlhOMUdNMGhEUFROMG5DTnhzX1RGakdyMzgzWVlCNzZBaFhfQVNNRm9uOHQyNmFyRzVEZVdDUTF5Q3c?oc=5&quot; target=&quot;_blank&quot;&gt;中国肿瘤临床试验患者入组速度达欧美3到5倍，成本仅1/3到1/4&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;虎嗅&lt;/font&gt; 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Google News CN 发布的重症医学/急危重症相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕重症医学/急危重症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】中国肿瘤临床试验患者入组速度达欧美3到5倍，成本仅1/3到1/4 - 虎嗅
+
+一、为什么重要
+Google News CN 发布的重症医学/急危重症相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕重症医学/急危重症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Wed, 20 May 2026 11:42:06 GMT｜https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSnpLaEticU5VaHM5bFZoZlhOMUdNMGhEUFROMG5DTnhzX1RGakdyMzgzWVlCNzZBaFhfQVNNRm9uOHQyNmFyRzVEZVdDUTF5Q3c?oc=5</pre>
+    </div>
+  </details>
+</article>
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">5</span>
+    <span class="tag">Chinese biomedical news</span>
+    <span class="tag">Medical news</span>
+    <span class="tag">综合医学</span>
+    <span class="tag">Score 21</span>
+  </div>
+  <h3>600家机构、13万张床位！河南医养结合目标定了 - 大河财立方</h3>
+  
+  <div class="meta">Google News CN｜Wed, 20 May 2026 07:48:45 GMT｜ </div>
+  <p class="brief">Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVk1kTXh2U2I4ci1odURJd0xEVDhhdjhNT2hOU3hxWFlJTF9TcWJsWVBfQ1UwcEJhUEhwaTNSS3hieUljU2pqRTRrbVQzc1p4OWdfTDZYd1pTcEt2VG5CLWx0OEtnZ1loOVc3a1pTLV82dUJm?oc=5" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：&lt;a href=&quot;https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVk1kTXh2U2I4ci1odURJd0xEVDhhdjhNT2hOU3hxWFlJTF9TcWJsWVBfQ1UwcEJhUEhwaTNSS3hieUljU2pqRTRrbVQzc1p4OWdfTDZYd1pTcEt2VG5CLWx0OEtnZ1loOVc3a1pTLV82dUJm?oc=5&quot; target=&quot;_blank&quot;&gt;600家机构、13万张床位！河南医养结合目标定了&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;大河财立方&lt;/font&gt; 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】600家机构、13万张床位！河南医养结合目标定了 - 大河财立方
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Wed, 20 May 2026 07:48:45 GMT｜https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVk1kTXh2U2I4ci1odURJd0xEVDhhdjhNT2hOU3hxWFlJTF9TcWJsWVBfQ1UwcEJhUEhwaTNSS3hieUljU2pqRTRrbVQzc1p4OWdfTDZYd1pTcEt2VG5CLWx0OEtnZ1loOVc3a1pTLV82dUJm?oc=5</pre>
+    </div>
+  </details>
+</article></div>
+    </section>
+    <section class="section" id="intl-news">
+      <div class="section-head"><h2>国际顶刊与医学科学新闻</h2><span>15 条</span></div>
+      <div class="news-list">
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">1</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">RCT</span>
     <span class="tag">肿瘤/血液肿瘤</span>
     <span class="tag">Score 94</span>
   </div>
-  <h2>Intraperitoneal and Intravenous Paclitaxel Plus S-1 for Gastric Cancer With Peritoneal Metastasis: A Phase 3 Randomized Clinical Trial.</h2>
+  <h3>肿瘤/血液肿瘤研究：Intraperitoneal and Intravenous Paclitaxel Plus S-1 for Gastric Cancer With Peritoneal Metastasis: A Phase 3 Randomized Clinical Trial.</h3>
+  <div class='english-title'>Intraperitoneal and Intravenous Paclitaxel Plus S-1 for Gastric Cancer With Peritoneal Metastasis: A Phase 3 Randomized Clinical Trial.</div>
   <div class="meta">JAMA oncology｜2026-May-21｜PMID：42166134 DOI：10.1001/jamaoncol.2026.1347</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42166134/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 JAMA oncology 的RCT，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“Intraperitoneal and Intravenous Paclitaxel Plus S-1 for Gastric Cancer With Peritoneal Metastasis: A Phase 3 Randomized Clinical Trial.”展开。基于题名、期刊和摘要信息，研究可能涉及肿瘤/血液肿瘤方向的重要临床或转化问题。摘要要点：IMPORTANCE: Gastric cancer with peritoneal metastasis has a poor prognosis, and survival with commonly used regimens, such as intravenous paclitaxel plus S-1 (an oral fluoropyrimidine), remains limited. Whether intraperitoneal paclitaxel, which achieves high drug concentrations in the peritoneal cavity, can improve survival has not been established in a phas...</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】Intraperitoneal and Intravenous Paclitaxel Plus S-1 for Gastric Cancer With Peritoneal Metastasis: A Phase 3 Randomized Clinical Trial.
+  <p class="brief">JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42166134/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Gastric cancer with peritoneal metastasis has a poor prognosis, and survival with commonly used regimens, such as intravenous paclitaxel plus S-1 (an oral fluoropyrimidine), remains limited. Whether intraperitoneal paclitaxel, which achieves high drug concentrations in the peritoneal cavity, can improve survival has not been established in a phase 3 randomized clinical trial.
+OBJECTIVE: To determine whether adding intraperitoneal paclitaxel to intravenous paclitaxel plus S-1 improves overall survival in... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】肿瘤/血液肿瘤研究：Intraperitoneal and Intravenous Paclitaxel Plus S-1 for Gastric Cancer With Peritoneal Metastasis: A Phase 3 Randomized Clinical Trial.
 
 一、为什么重要
-这是一项发表于 JAMA oncology 的RCT，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。
+JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-IMPORTANCE: Gastric cancer with peritoneal metastasis has a poor prognosis, and survival with commonly used regimens, such as intravenous paclitaxel plus S-1 (an oral fluoropyrimidine), remains limited. Whether intraperitoneal paclitaxel, which achieves high drug concentrations in the peritoneal cavity, can improve survival has not been established in a phas...
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA oncology｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42166134/</pre></div>
+JAMA oncology｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42166134/</pre>
+    </div>
+  </details>
 </article>
-
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">2</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">RCT</span>
     <span class="tag">综合医学</span>
     <span class="tag">Score 88</span>
   </div>
-  <h2>Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial.</h2>
+  <h3>综合医学研究：Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial.</h3>
+  <div class='english-title'>Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial.</div>
   <div class="meta">Nature medicine｜2026-May-22｜PMID：42174253 DOI：10.1038/s41591-026-04416-4</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42174253/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 Nature medicine 的RCT，主题聚焦综合医学，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial.”展开。基于题名、期刊和摘要信息，研究可能涉及综合医学方向的重要临床或转化问题。摘要要点：A suboptimal clinical response after metabolic and bariatric surgery (MBS) is common and carries considerable health concerns. Here a double-blinded, randomized (1:1), placebo-controlled trial using semaglutide 2.4 mg weekly (BARI-STEP) recruited adult participants at least 1 year after gastric bypass or sleeve gastrectomy with a suboptimal clinical response...</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial.
+  <p class="brief">Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42174253/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦综合医学。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：A suboptimal clinical response after metabolic and bariatric surgery (MBS) is common and carries considerable health concerns. Here a double-blinded, randomized (1:1), placebo-controlled trial using semaglutide 2.4 mg weekly (BARI-STEP) recruited adult participants at least 1 year after gastric bypass or sleeve gastrectomy with a suboptimal clinical response, defined as less than 20% weight loss from surgery. This was an adjunct to lifestyle intervention with a 500-kcal daily energy deficit. The primary outcome was... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】综合医学研究：Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial.
 
 一、为什么重要
-这是一项发表于 Nature medicine 的RCT，主题聚焦综合医学，适合用于判断该领域最新证据变化。
+Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-A suboptimal clinical response after metabolic and bariatric surgery (MBS) is common and carries considerable health concerns. Here a double-blinded, randomized (1:1), placebo-controlled trial using semaglutide 2.4 mg weekly (BARI-STEP) recruited adult participants at least 1 year after gastric bypass or sleeve gastrectomy with a suboptimal clinical response...
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature medicine｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42174253/</pre></div>
+Nature medicine｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42174253/</pre>
+    </div>
+  </details>
 </article>
-
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">3</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">RCT</span>
     <span class="tag">代谢/肥胖/糖尿病</span>
     <span class="tag">Score 80</span>
   </div>
-  <h2>Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.</h2>
+  <h3>代谢/肥胖/糖尿病研究：Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.</h3>
+  <div class='english-title'>Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.</div>
   <div class="meta">The lancet. Diabetes &amp; endocrinology｜2026-May-22｜PMID：42173109 DOI：10.1016/S2213-8587(26)00075-6</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42173109/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 The lancet. Diabetes &amp; endocrinology 的RCT，主题聚焦代谢/肥胖/糖尿病，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.”展开。基于题名、期刊和摘要信息，研究可能涉及代谢/肥胖/糖尿病方向的重要临床或转化问题。摘要要点：BACKGROUND: The long-term glycaemic effects of glucose-dependent insulinotropic polypeptide (GIP) remain unclear. We aimed to assess whether a 6-week subcutaneous infusion of GIP alone and in combination with the GLP-1 receptor agonist semaglutide would enhance glycaemic control in individuals with type 2 diabetes.
-METHODS: This single-centre, double-blind, ...</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.
+  <p class="brief">The lancet. Diabetes &amp; endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42173109/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦代谢/肥胖/糖尿病。来源为The lancet. Diabetes &amp; endocrinology，类型初步识别为RCT。摘要信息显示：BACKGROUND: The long-term glycaemic effects of glucose-dependent insulinotropic polypeptide (GIP) remain unclear. We aimed to assess whether a 6-week subcutaneous infusion of GIP alone and in combination with the GLP-1 receptor agonist semaglutide would enhance glycaemic control in individuals with type 2 diabetes.
+METHODS: This single-centre, double-blind, parallel-group, randomised, placebo-controlled trial was conducted at the Center for Clinical Metabolic Research (Hellerup, Denmark). Inclusion criteria were ag... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>The lancet. Diabetes &amp; endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】代谢/肥胖/糖尿病研究：Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.
 
 一、为什么重要
-这是一项发表于 The lancet. Diabetes &amp; endocrinology 的RCT，主题聚焦代谢/肥胖/糖尿病，适合用于判断该领域最新证据变化。
+The lancet. Diabetes &amp; endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-BACKGROUND: The long-term glycaemic effects of glucose-dependent insulinotropic polypeptide (GIP) remain unclear. We aimed to assess whether a 6-week subcutaneous infusion of GIP alone and in combination with the GLP-1 receptor agonist semaglutide would enhance glycaemic control in individuals with type 2 diabetes.
-METHODS: This single-centre, double-blind, ...
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The lancet. Diabetes &amp; endocrinology｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42173109/</pre></div>
+The lancet. Diabetes &amp; endocrinology｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42173109/</pre>
+    </div>
+  </details>
 </article>
-
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">4</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">Phase 2 trial</span>
     <span class="tag">肿瘤/血液肿瘤</span>
     <span class="tag">Score 73</span>
   </div>
-  <h2>Use of circulating tumour DNA to prospectively guide a switch from targeted to immune therapy in BRAF mutant advanced melanoma: the randomised phase II CAcTUS trial.</h2>
+  <h3>肿瘤/血液肿瘤研究：Use of circulating tumour DNA to prospectively guide a switch from targeted to immune therapy in BRAF mutant advanced melanoma: the randomised phase II CAcTUS trial.</h3>
+  <div class='english-title'>Use of circulating tumour DNA to prospectively guide a switch from targeted to immune therapy in BRAF mutant advanced melanoma: the randomised phase II CAcTUS trial.</div>
   <div class="meta">Nature communications｜2026-May-21｜PMID：42168180 DOI：10.1038/s41467-026-72735-8</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42168180/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 Nature communications 的Phase 2 trial，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“Use of circulating tumour DNA to prospectively guide a switch from targeted to immune therapy in BRAF mutant advanced melanoma: the randomised phase II CAcTUS trial.”展开。基于题名、期刊和摘要信息，研究可能涉及肿瘤/血液肿瘤方向的重要临床或转化问题。摘要要点：Checkpoint inhibitor immunotherapy (CPI) for BRAF mutant advanced melanoma first-line results in a better long-term survival compared to targeted therapy (TT), however TT induction may benefit poor prognosis groups. The parallel-arm, randomised phase II, multicentre, feasibility CAcTUS trial (Clinicaltrials.gov NCT03808441) randomised 21 patients to receive ...</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】Use of circulating tumour DNA to prospectively guide a switch from targeted to immune therapy in BRAF mutant advanced melanoma: the randomised phase II CAcTUS trial.
+  <p class="brief">Nature communications 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42168180/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Phase 2 trial。摘要信息显示：Checkpoint inhibitor immunotherapy (CPI) for BRAF mutant advanced melanoma first-line results in a better long-term survival compared to targeted therapy (TT), however TT induction may benefit poor prognosis groups. The parallel-arm, randomised phase II, multicentre, feasibility CAcTUS trial (Clinicaltrials.gov NCT03808441) randomised 21 patients to receive standard of care investigators choice TT or CPI, switching to the alternative upon progression (n = 10), or commencing TT and switching to CPI upon an ≥80% redu... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature communications 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】肿瘤/血液肿瘤研究：Use of circulating tumour DNA to prospectively guide a switch from targeted to immune therapy in BRAF mutant advanced melanoma: the randomised phase II CAcTUS trial.
 
 一、为什么重要
-这是一项发表于 Nature communications 的Phase 2 trial，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。
+Nature communications 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-Checkpoint inhibitor immunotherapy (CPI) for BRAF mutant advanced melanoma first-line results in a better long-term survival compared to targeted therapy (TT), however TT induction may benefit poor prognosis groups. The parallel-arm, randomised phase II, multicentre, feasibility CAcTUS trial (Clinicaltrials.gov NCT03808441) randomised 21 patients to receive ...
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature communications｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42168180/</pre></div>
+Nature communications｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42168180/</pre>
+    </div>
+  </details>
 </article>
-
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">5</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">Clinical trial</span>
     <span class="tag">公共卫生/流行病学</span>
     <span class="tag">Score 68</span>
   </div>
-  <h2>Screening Children for Early-Stage Type 1 Diabetes.</h2>
+  <h3>公共卫生/流行病学研究：Screening Children for Early-Stage Type 1 Diabetes.</h3>
+  <div class='english-title'>Screening Children for Early-Stage Type 1 Diabetes.</div>
   <div class="meta">JAMA｜2026-May-21｜PMID：42166139 DOI：10.1001/jama.2026.6085</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42166139/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 JAMA 的Clinical trial，主题聚焦公共卫生/流行病学，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“Screening Children for Early-Stage Type 1 Diabetes.”展开。基于题名、期刊和摘要信息，研究可能涉及公共卫生/流行病学方向的重要临床或转化问题。摘要要点：IMPORTANCE: Detecting type 1 diabetes in presymptomatic stages is essential for therapies aimed at delaying clinical onset.
+  <p class="brief">JAMA 发布的公共卫生/流行病学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42166139/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦公共卫生/流行病学。来源为JAMA，类型初步识别为Clinical trial。摘要信息显示：IMPORTANCE: Detecting type 1 diabetes in presymptomatic stages is essential for therapies aimed at delaying clinical onset.
 OBJECTIVE: To estimate early-stage (stage 1 or 2) type 1 diabetes prevalence and disease progression to clinical (stage 3) type 1 diabetes in children in a population-based screening study.
-DESIGN, SETTING, AND PARTICIPANTS: From Februa...</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】Screening Children for Early-Stage Type 1 Diabetes.
+DESIGN, SETTING, AND PARTICIPANTS: From February 2015 to July 2025, children living in Bavaria, Germany, were screened for early-stage type 1 diabetes. Screening was conducted by 716 primary care pediatrici... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>JAMA 发布的公共卫生/流行病学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】公共卫生/流行病学研究：Screening Children for Early-Stage Type 1 Diabetes.
 
 一、为什么重要
-这是一项发表于 JAMA 的Clinical trial，主题聚焦公共卫生/流行病学，适合用于判断该领域最新证据变化。
+JAMA 发布的公共卫生/流行病学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-IMPORTANCE: Detecting type 1 diabetes in presymptomatic stages is essential for therapies aimed at delaying clinical onset.
-OBJECTIVE: To estimate early-stage (stage 1 or 2) type 1 diabetes prevalence and disease progression to clinical (stage 3) type 1 diabetes in children in a population-based screening study.
-DESIGN, SETTING, AND PARTICIPANTS: From Februa...
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42166139/</pre></div>
+JAMA｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42166139/</pre>
+    </div>
+  </details>
 </article>
-
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">6</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">RCT</span>
     <span class="tag">综合医学</span>
     <span class="tag">Score 64</span>
   </div>
-  <h2>The CRT-Estimands Framework for Cluster Randomized Trials.</h2>
+  <h3>综合医学研究：The CRT-Estimands Framework for Cluster Randomized Trials.</h3>
+  <div class='english-title'>The CRT-Estimands Framework for Cluster Randomized Trials.</div>
   <div class="meta">JAMA｜2026-May-21｜PMID：42165658 DOI：10.1001/jama.2026.8368</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42165658/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 JAMA 的RCT，主题聚焦综合医学，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“The CRT-Estimands Framework for Cluster Randomized Trials.”展开。基于题名、期刊和摘要信息，研究可能涉及综合医学方向的重要临床或转化问题。摘要要点：暂无摘要，需打开原文核对研究设计和结论。</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】The CRT-Estimands Framework for Cluster Randomized Trials.
+  <p class="brief">JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42165658/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】综合医学研究：The CRT-Estimands Framework for Cluster Randomized Trials.
 
 一、为什么重要
-这是一项发表于 JAMA 的RCT，主题聚焦综合医学，适合用于判断该领域最新证据变化。
+JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-摘要暂缺，建议打开原文补充。
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42165658/</pre></div>
+JAMA｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42165658/</pre>
+    </div>
+  </details>
 </article>
-
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">7</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">Clinical trial</span>
     <span class="tag">肿瘤/血液肿瘤</span>
     <span class="tag">Score 63</span>
   </div>
-  <h2>Near-infrared fluorescence imaging-guided surgery using cRGD-ZW800 to improve surgical resection margins in oral cancer: a phase I/II feasibility trial.</h2>
+  <h3>肿瘤/血液肿瘤研究：Near-infrared fluorescence imaging-guided surgery using cRGD-ZW800 to improve surgical resection margins in oral cancer: a phase I/II feasibility trial.</h3>
+  <div class='english-title'>Near-infrared fluorescence imaging-guided surgery using cRGD-ZW800 to improve surgical resection margins in oral cancer: a phase I/II feasibility trial.</div>
   <div class="meta">Nature communications｜2026-May-22｜PMID：42173866 DOI：10.1038/s41467-026-73554-7</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42173866/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 Nature communications 的Clinical trial，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“Near-infrared fluorescence imaging-guided surgery using cRGD-ZW800 to improve surgical resection margins in oral cancer: a phase I/II feasibility trial.”展开。基于题名、期刊和摘要信息，研究可能涉及肿瘤/血液肿瘤方向的重要临床或转化问题。摘要要点：In oral squamous cell carcinoma (OSCC) surgery, inadequate tumor margins are reported in up to 85% of cases, adversely affecting outcomes. In this prospective, single-center study (n = 31; NCT04191460), we evaluated the safety and imaging feasibility of cRGD-ZW800-1, a near-infrared fluorescent integrin-targeted tracer. The secondary objective was to determi...</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】Near-infrared fluorescence imaging-guided surgery using cRGD-ZW800 to improve surgical resection margins in oral cancer: a phase I/II feasibility trial.
+  <p class="brief">Nature communications 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42173866/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Clinical trial。摘要信息显示：In oral squamous cell carcinoma (OSCC) surgery, inadequate tumor margins are reported in up to 85% of cases, adversely affecting outcomes. In this prospective, single-center study (n = 31; NCT04191460), we evaluated the safety and imaging feasibility of cRGD-ZW800-1, a near-infrared fluorescent integrin-targeted tracer. The secondary objective was to determine whether intraoperative fluorescence imaging could identify inadequate resection margins and inform surgical decision-making. Patients received 0.01, 0.025, o... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature communications 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】肿瘤/血液肿瘤研究：Near-infrared fluorescence imaging-guided surgery using cRGD-ZW800 to improve surgical resection margins in oral cancer: a phase I/II feasibility trial.
 
 一、为什么重要
-这是一项发表于 Nature communications 的Clinical trial，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。
+Nature communications 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-In oral squamous cell carcinoma (OSCC) surgery, inadequate tumor margins are reported in up to 85% of cases, adversely affecting outcomes. In this prospective, single-center study (n = 31; NCT04191460), we evaluated the safety and imaging feasibility of cRGD-ZW800-1, a near-infrared fluorescent integrin-targeted tracer. The secondary objective was to determi...
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature communications｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42173866/</pre></div>
+Nature communications｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42173866/</pre>
+    </div>
+  </details>
 </article>
-
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">8</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">Translational research</span>
     <span class="tag">肿瘤/血液肿瘤</span>
     <span class="tag">Score 62</span>
   </div>
-  <h2>Tumor irradiation promotes antigen dressing of dendritic cells to enhance CAR T cell persistence and efficacy in lung metastases.</h2>
+  <h3>肿瘤/血液肿瘤研究：Tumor irradiation promotes antigen dressing of dendritic cells to enhance CAR T cell persistence and efficacy in lung metastases.</h3>
+  <div class='english-title'>Tumor irradiation promotes antigen dressing of dendritic cells to enhance CAR T cell persistence and efficacy in lung metastases.</div>
   <div class="meta">Nature cancer｜2026-May-22｜PMID：42174275 DOI：10.1038/s43018-026-01167-6</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42174275/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 Nature cancer 的Translational research，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“Tumor irradiation promotes antigen dressing of dendritic cells to enhance CAR T cell persistence and efficacy in lung metastases.”展开。基于题名、期刊和摘要信息，研究可能涉及肿瘤/血液肿瘤方向的重要临床或转化问题。摘要要点：Metastatic solid tumors remain the principal cause of cancer mortality worldwide. High tumor burden impairs responses to chimeric antigen receptor (CAR) T cell therapy, yet off-tumor toxicity limits the doses that can be safely delivered. Strategies to selectively enhance CAR T cell activity at tumor sites could widen the therapeutic window. Using syngeneic ...</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】Tumor irradiation promotes antigen dressing of dendritic cells to enhance CAR T cell persistence and efficacy in lung metastases.
+  <p class="brief">Nature cancer 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42174275/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦肿瘤/血液肿瘤。来源为Nature cancer，类型初步识别为Translational research。摘要信息显示：Metastatic solid tumors remain the principal cause of cancer mortality worldwide. High tumor burden impairs responses to chimeric antigen receptor (CAR) T cell therapy, yet off-tumor toxicity limits the doses that can be safely delivered. Strategies to selectively enhance CAR T cell activity at tumor sites could widen the therapeutic window. Using syngeneic models of extensive metastatic lung adenocarcinoma and melanoma, we show that 8 Gy of tumor irradiation significantly enhanced CAR T cell persistence in a manne... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature cancer 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】肿瘤/血液肿瘤研究：Tumor irradiation promotes antigen dressing of dendritic cells to enhance CAR T cell persistence and efficacy in lung metastases.
 
 一、为什么重要
-这是一项发表于 Nature cancer 的Translational research，主题聚焦肿瘤/血液肿瘤，适合用于判断该领域最新证据变化。
+Nature cancer 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-Metastatic solid tumors remain the principal cause of cancer mortality worldwide. High tumor burden impairs responses to chimeric antigen receptor (CAR) T cell therapy, yet off-tumor toxicity limits the doses that can be safely delivered. Strategies to selectively enhance CAR T cell activity at tumor sites could widen the therapeutic window. Using syngeneic ...
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature cancer｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42174275/</pre></div>
+Nature cancer｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42174275/</pre>
+    </div>
+  </details>
 </article>
-
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">9</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">Translational research</span>
     <span class="tag">公共卫生/流行病学</span>
     <span class="tag">Score 62</span>
   </div>
-  <h2>Blood multiomics reveal a dysregulated lipid mediator-mitochondrial network associated with the outcome of advanced cirrhosis.</h2>
+  <h3>公共卫生/流行病学研究：Blood multiomics reveal a dysregulated lipid mediator-mitochondrial network associated with the outcome of advanced cirrhosis.</h3>
+  <div class='english-title'>Blood multiomics reveal a dysregulated lipid mediator-mitochondrial network associated with the outcome of advanced cirrhosis.</div>
   <div class="meta">Nature communications｜2026-May-22｜PMID：42173920 DOI：10.1038/s41467-026-73386-5</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42173920/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 Nature communications 的Translational research，主题聚焦公共卫生/流行病学，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“Blood multiomics reveal a dysregulated lipid mediator-mitochondrial network associated with the outcome of advanced cirrhosis.”展开。基于题名、期刊和摘要信息，研究可能涉及公共卫生/流行病学方向的重要临床或转化问题。摘要要点：The mechanisms driving the progression from acutely decompensated (AD) cirrhosis to acute-on-chronic liver failure (ACLF), a high mortality condition, remain poorly understood. In this study, we integrate multiomics and clinical data from 766 AD patients to construct multiscale, multifactorial response networks associated with two major outcomes: ACLF develo...</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】Blood multiomics reveal a dysregulated lipid mediator-mitochondrial network associated with the outcome of advanced cirrhosis.
+  <p class="brief">Nature communications 发布的公共卫生/流行病学相关Translational research，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42173920/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦公共卫生/流行病学。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：The mechanisms driving the progression from acutely decompensated (AD) cirrhosis to acute-on-chronic liver failure (ACLF), a high mortality condition, remain poorly understood. In this study, we integrate multiomics and clinical data from 766 AD patients to construct multiscale, multifactorial response networks associated with two major outcomes: ACLF development and death. Among 291 features, 22 are linked to ACLF development and 16 to mortality. These features constitute a network connecting mitochondrial dysfunc... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature communications 发布的公共卫生/流行病学相关Translational research，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】公共卫生/流行病学研究：Blood multiomics reveal a dysregulated lipid mediator-mitochondrial network associated with the outcome of advanced cirrhosis.
 
 一、为什么重要
-这是一项发表于 Nature communications 的Translational research，主题聚焦公共卫生/流行病学，适合用于判断该领域最新证据变化。
+Nature communications 发布的公共卫生/流行病学相关Translational research，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-The mechanisms driving the progression from acutely decompensated (AD) cirrhosis to acute-on-chronic liver failure (ACLF), a high mortality condition, remain poorly understood. In this study, we integrate multiomics and clinical data from 766 AD patients to construct multiscale, multifactorial response networks associated with two major outcomes: ACLF develo...
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature communications｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42173920/</pre></div>
+Nature communications｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42173920/</pre>
+    </div>
+  </details>
 </article>
-
 <article class="card">
-  <div class="card-top">
+  <div class="tag-row">
     <span class="rank">10</span>
-    <span class="tag">tier_a</span>
+    <span class="tag">PubMed paper</span>
     <span class="tag">Translational research</span>
     <span class="tag">心血管</span>
     <span class="tag">Score 62</span>
   </div>
-  <h2>Long-term temporal stability of circulating proteins in older adults.</h2>
+  <h3>心血管研究：Long-term temporal stability of circulating proteins in older adults.</h3>
+  <div class='english-title'>Long-term temporal stability of circulating proteins in older adults.</div>
   <div class="meta">Nature communications｜2026-May-22｜PMID：42173840 DOI：10.1038/s41467-026-72957-w</div>
-  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42173840/" target="_blank" rel="noopener">打开原文</a>
-  <div class="section"><h3>一句话价值</h3><p>这是一项发表于 Nature communications 的Translational research，主题聚焦心血管，适合用于判断该领域最新证据变化。</p></div>
-  <div class="section"><h3>AI 中文总结</h3><p>论文围绕“Long-term temporal stability of circulating proteins in older adults.”展开。基于题名、期刊和摘要信息，研究可能涉及心血管方向的重要临床或转化问题。摘要要点：Circulating proteins provide insights into an individual&#x27;s health and aging trajectory. However, little is known about their long-term temporal stability. We evaluated the five-year temporal stability of 7288 serum proteins in 3093 participants (mean age 75 years) of the AGES-Reykjavik study. We observe wide variability in protein temporal stability, indepen...</p></div>
-  <div class="section"><h3>临床/科研意义</h3><p>可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。</p></div>
-  <div class="section"><h3>局限性</h3><p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。</p></div>
-  <div class="section"><h3>人工审核前推文草稿</h3><pre>【医学顶刊速递】Long-term temporal stability of circulating proteins in older adults.
+  <p class="brief">Nature communications 发布的心血管相关Translational research，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42173840/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦心血管。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Circulating proteins provide insights into an individual&#x27;s health and aging trajectory. However, little is known about their long-term temporal stability. We evaluated the five-year temporal stability of 7288 serum proteins in 3093 participants (mean age 75 years) of the AGES-Reykjavik study. We observe wide variability in protein temporal stability, independent of transcriptomic stability in tissues. Temporally stable proteins tend to be extracellular, secreted, and tissue-specific, while temporally variable prote... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature communications 发布的心血管相关Translational research，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】心血管研究：Long-term temporal stability of circulating proteins in older adults.
 
 一、为什么重要
-这是一项发表于 Nature communications 的Translational research，主题聚焦心血管，适合用于判断该领域最新证据变化。
+Nature communications 发布的心血管相关Translational research，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-请基于全文进一步核对研究设计、纳入人群、干预/暴露因素和主要终点。
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
-Circulating proteins provide insights into an individual&#x27;s health and aging trajectory. However, little is known about their long-term temporal stability. We evaluated the five-year temporal stability of 7288 serum proteins in 3093 participants (mean age 75 years) of the AGES-Reykjavik study. We observe wide variability in protein temporal stability, indepen...
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
 
 四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材；正式解读前建议核对全文、研究对象、主要终点和安全性数据。
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
 
 五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果和利益冲突需进一步核验。
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
 
 六、小满点评
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature communications｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42173840/</pre></div>
-</article></section>
-    <footer>本页面仅生成可人工审核的医学推文/新闻稿草稿，不自动发布公众号；正式引用前请核对原文。</footer>
+Nature communications｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42173840/</pre>
+    </div>
+  </details>
+</article>
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">11</span>
+    <span class="tag">PubMed paper</span>
+    <span class="tag">Translational research</span>
+    <span class="tag">肿瘤/血液肿瘤</span>
+    <span class="tag">Score 62</span>
+  </div>
+  <h3>肿瘤/血液肿瘤研究：Macrophage ALDH2 drives immunotherapy resistance by silencing CXCL9 through metabolic-epigenetic crosstalk.</h3>
+  <div class='english-title'>Macrophage ALDH2 drives immunotherapy resistance by silencing CXCL9 through metabolic-epigenetic crosstalk.</div>
+  <div class="meta">Nature communications｜2026-May-21｜PMID：42168200 DOI：10.1038/s41467-026-73234-6</div>
+  <p class="brief">Nature communications 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42168200/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：The metabolic basis of tumor-associated macrophages (TAMs)-driven immune checkpoint blockade (ICB) resistance remains poorly understood. Here, in patients with immunotherapy-resistant cancer, we identify significant enrichment of TAMs marked by elevated aldehyde dehydrogenase 2 (ALDH2) expression. Myeloid-restricted ALDH2 ablation converts TAMs from a pro-tumorigenic phenotype to immunostimulatory regulators, concomitantly amplifying CD8+ T cell infiltration and cytotoxicity to improve ICB responsiveness. Mechanist... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature communications 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】肿瘤/血液肿瘤研究：Macrophage ALDH2 drives immunotherapy resistance by silencing CXCL9 through metabolic-epigenetic crosstalk.
+
+一、为什么重要
+Nature communications 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42168200/</pre>
+    </div>
+  </details>
+</article>
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">12</span>
+    <span class="tag">PubMed paper</span>
+    <span class="tag">Original research</span>
+    <span class="tag">心血管</span>
+    <span class="tag">Score 62</span>
+  </div>
+  <h3>心血管研究：Contrastive language image pretraining for a cardiac magnetic resonance image embedding with zero-shot capabilities.</h3>
+  <div class='english-title'>Contrastive language image pretraining for a cardiac magnetic resonance image embedding with zero-shot capabilities.</div>
+  <div class="meta">Nature communications｜2026-May-21｜PMID：42168185 DOI：10.1038/s41467-026-73022-2</div>
+  <p class="brief">Nature communications 发布的心血管相关Original research，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42168185/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦心血管。来源为Nature communications，类型初步识别为Original research。摘要信息显示：Vision-language models trained using self-supervised learning are crucial to reduce the dependency on large volumes of labeled data. However, conventional self-supervised approaches that rely on precise image-text pairing are not always feasible for cardiovascular magnetic resonance imaging (CMR) given its ability to visualize cardiac anatomy, physiology, and microstructure in a single exam. We present CMR-contrastive language image pretraining (CMR-CLIP), a vision language model which treats CMR images as videos t... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature communications 发布的心血管相关Original research，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】心血管研究：Contrastive language image pretraining for a cardiac magnetic resonance image embedding with zero-shot capabilities.
+
+一、为什么重要
+Nature communications 发布的心血管相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42168185/</pre>
+    </div>
+  </details>
+</article>
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">13</span>
+    <span class="tag">Journal RSS</span>
+    <span class="tag">RCT</span>
+    <span class="tag">综合医学</span>
+    <span class="tag">Score 62</span>
+  </div>
+  <h3>综合医学研究：Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial</h3>
+  <div class='english-title'>Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial</div>
+  <div class="meta">Nature Medicine｜2026-05-22｜ </div>
+  <p class="brief">Nature Medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://www.nature.com/articles/s41591-026-04416-4" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦综合医学。来源为Nature Medicine，类型初步识别为RCT。摘要信息显示：&lt;p&gt;Nature Medicine, Published online: 22 May 2026; &lt;a href=&quot;https://www.nature.com/articles/s41591-026-04416-4&quot;&gt;doi:10.1038/s41591-026-04416-4&lt;/a&gt;&lt;/p&gt;At week 68, in patients who experienced poor weight loss following bariatric surgery, semaglutide was associated with 18.0% weight loss compared to 0.4% weight gain in patients receiving placebo. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature Medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】综合医学研究：Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial
+
+一、为什么重要
+Nature Medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature Medicine｜2026-05-22｜https://www.nature.com/articles/s41591-026-04416-4</pre>
+    </div>
+  </details>
+</article>
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">14</span>
+    <span class="tag">PubMed paper</span>
+    <span class="tag">Guideline</span>
+    <span class="tag">医疗AI/数字医学</span>
+    <span class="tag">Score 60</span>
+  </div>
+  <h3>医疗AI/数字医学研究：AI-induced never-skilling in medical education.</h3>
+  <div class='english-title'>AI-induced never-skilling in medical education.</div>
+  <div class="meta">Nature medicine｜2026-May-22｜PMID：42174254 DOI：10.1038/s41591-026-04438-y</div>
+  <p class="brief">Nature medicine 发布的医疗AI/数字医学相关Guideline，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42174254/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦医疗AI/数字医学。来源为Nature medicine，类型初步识别为Guideline。摘要信息显示：The integration of artificial intelligence (AI) into medical training is accelerating faster than the educational frameworks designed to govern it. This Perspective identifies a risk that has received insufficient attention: that trainees who rely on AI during the early formative years of clinical education may fail to develop the foundational reasoning skills that safe, independent practice requires. We refer to this as &#x27;never-skilling&#x27;, distinguishing it from deskilling in experienced clinicians and from mis-skil... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Nature medicine 发布的医疗AI/数字医学相关Guideline，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕医疗AI/数字医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】医疗AI/数字医学研究：AI-induced never-skilling in medical education.
+
+一、为什么重要
+Nature medicine 发布的医疗AI/数字医学相关Guideline，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕医疗AI/数字医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature medicine｜2026-May-22｜https://pubmed.ncbi.nlm.nih.gov/42174254/</pre>
+    </div>
+  </details>
+</article>
+<article class="card">
+  <div class="tag-row">
+    <span class="rank">15</span>
+    <span class="tag">PubMed paper</span>
+    <span class="tag">Phase 2 trial</span>
+    <span class="tag">免疫/炎症</span>
+    <span class="tag">Score 58</span>
+  </div>
+  <h3>免疫/炎症研究：Anti-BCMA/GPRC5D CAR T in relapsed or refractory multiple myeloma patients with extraosseous extramedullary disease.</h3>
+  <div class='english-title'>Anti-BCMA/GPRC5D CAR T in relapsed or refractory multiple myeloma patients with extraosseous extramedullary disease.</div>
+  <div class="meta">Blood｜2026-May-21｜PMID：42166352 DOI：10.1182/blood.2026033506</div>
+  <p class="brief">Blood 发布的免疫/炎症相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。</p>
+  <a class="link" href="https://pubmed.ncbi.nlm.nih.gov/42166352/" target="_blank" rel="noopener">原文链接</a>
+  <details>
+    <summary>查看中文摘要与推文草稿</summary>
+    <div class="detail-body">
+      <h4>中文摘要</h4>
+      <p>这条内容聚焦免疫/炎症。来源为Blood，类型初步识别为Phase 2 trial。摘要信息显示：Relapsed or refractory multiple myeloma (RRMM) patients with extraosseous extramedullary disease (EMD) have inferior outcomes and lack effective therapies. We developed anti-BCMA/GPRC5D bispecific chimeric antigen receptors (CARs) to investigate the activity and safety of the CAR T cells in patients with extraosseous EMD. In this single-arm, open-label, phase 2 trial, we enrolled 37 RRMM patients with extraosseous EMD, and anti-BCMA/GPRC5D bispecific CAR T cells were administered at 2·0×10⁶ CAR T cells per kilogram... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。</p>
+      <h4>为什么重要</h4>
+      <p>Blood 发布的免疫/炎症相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。</p>
+      <h4>研究怎么做</h4>
+      <p>围绕免疫/炎症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。</p>
+      <h4>主要发现</h4>
+      <p>自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。</p>
+      <h4>需要谨慎解读</h4>
+      <p>当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。</p>
+      <h4>人工审核前推文草稿</h4>
+      <pre>【医学科学新闻】免疫/炎症研究：Anti-BCMA/GPRC5D CAR T in relapsed or refractory multiple myeloma patients with extraosseous extramedullary disease.
+
+一、为什么重要
+Blood 发布的免疫/炎症相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕免疫/炎症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Blood｜2026-May-21｜https://pubmed.ncbi.nlm.nih.gov/42166352/</pre>
+    </div>
+  </details>
+</article></div>
+    </section>
+    <footer>本页面仅供医学科研和医学新闻选题初筛；每篇摘要默认折叠，正式发布前请核对原文。</footer>
   </main>
 </body>
 </html>

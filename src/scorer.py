@@ -50,6 +50,9 @@ def score_item(item: dict[str, Any], journals: dict[str, Any], scoring: dict[str
         score += 2
 
     item["journal_tier"] = tier
+    if item.get("source_region") == "cn":
+        score += 18
+        item["journal_tier"] = "cn_source"
     item["score"] = int(score)
     return item
 
