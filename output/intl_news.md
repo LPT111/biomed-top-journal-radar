@@ -6,11 +6,12 @@
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Zanidatamab, a dual human epidermal growth factor receptor 2 (HER2)-targeted bispecific antibody, plus chemotherapy both with and without tislelizumab (anti-programmed death 1), showed encouraging efficacy and safety as first-line therapy in phase 2 studies involving patients with HER2-positive gastroesophageal adenocarcinoma.
 METHODS: In an open-label, phase 3 trial, we randomly assigned, in a 1:1:1 ratio, patients with previously untreated, centrally confirmed HER2-positive advanced gastroesophageal a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42202319/
-2. 肿瘤/血液肿瘤研究：Very low-carbohydrate ketogenic diet in treatment-naïve women with endometrial cancer and overweight: a randomized feasibility study.
-   - 来源：Nature communications
-   - 时间：2026-May-27
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为RCT。摘要信息显示：This multicenter, prospective, randomized controlled trial (NCT03285152) evaluates the primary endpoint of feasibility of a very-low carbohydrate diet (VLCD) in 19 women with obesity/overweight and endometrial cancer, who are randomized 2:1 to either a VLCD or a standard diet for 21-28 days. Fifteen participants complete the study, with 91 ± 4% of VLCD meals consumed, 5.5 ± 0.8% weight lost, and no grade 3/4 adverse events. Secondary endpoints include assessments of tumor biology and circulating metabolic biomarker... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42192131/
+2. 肿瘤/血液肿瘤研究：First-Line Sunvozertinib in NSCLC with EGFR Exon 20 Insertion Mutations.
+   - 来源：The New England journal of medicine
+   - 时间：2026-May-29
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Sunvozertinib received accelerated approval for use in later lines of therapy for patients with advanced non-small-cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations. Data are needed on the efficacy and safety of sunvozertinib as a first-line treatment for NSCLC.
+METHODS: In this phase 3, international trial, we randomly assigned, in a 1:1 ratio, patients with advanced nonsquamous NSCLC with EGFR exon 20 insertions to receive sunvozertinib or chemotherapy (... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42212913/
 3. 综合医学研究：Adverse Effects and Treatment Discontinuation of Blood Pressure-Lowering Drugs and Combinations: A Network Meta-Analysis.
    - 来源：JAMA
    - 时间：2026-May-28
@@ -30,62 +31,56 @@ METHODS: In two replicate, double-blind trials (B-Well 1 and B-Well 2), we rando
    - 摘要：这条内容聚焦重症医学/急危重症。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Whether anticoagulation alone is an adequate treatment for acute, intermediate-risk pulmonary embolism is uncertain.
 METHODS: We conducted a multinational, adaptive-design trial with blinded outcome adjudication. Patients with intermediate-risk pulmonary embolism (with a ratio of right ventricular end-diastolic diameter to left ventricular end-diastolic diameter of ≥1.0 and an elevated troponin level) were eligible if they had at least two indicators of cardiorespiratory distress (systolic blood pressur... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/41910345/
-6. 感染/疫苗研究：Sustained and indirect effects of PCV10 reduced-dose schedules on pneumococcal carriage in Viet Nam: a long-term follow-up of a cluster-randomised controlled trial.
-   - 来源：The Lancet. Infectious diseases
-   - 时间：2026-May-27
-   - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为RCT。摘要信息显示：BACKGROUND: A cluster-randomised trial in Nha Trang, Viet Nam, previously showed non-inferiority of a reduced two-dose (1p + 1) pneumococcal conjugate vaccine 10 (PCV10) schedule compared with three-dose schedules (2p + 1, 3p + 0) for controlling vaccine-type (VT) nasopharyngeal carriage after 3·5 years, but the long-term sustainability of reduced-dose schedules and their indirect effects on unvaccinated age groups remain incompletely understood. We aimed to assess the sustained and indirect effects of reduced-dose... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42202846/
-7. 综合医学研究：Portal-Venous Hypothermic Oxygenated Perfusion for Liver Transplant: A Randomized Clinical Trial.
-   - 来源：JAMA surgery
-   - 时间：2026-May-27
-   - 摘要：这条内容聚焦综合医学。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Ischemia-reperfusion injury contributes to graft dysfunction after liver transplant. Hypothermic oxygenated perfusion (HOPE) has been shown to improve liver function, but its benefit in extended criteria donors in a US population remains unclear.
-OBJECTIVE: To assess whether back-to-base portal-venous HOPE impacts outcomes after liver transplant in the US.
-DESIGN, SETTING, AND PARTICIPANTS: The Bridge to HOPE Trial is a multicenter, randomized, open-label trial with 1-year follow-up. The study took plac... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42201712/
-8. 综合医学研究：Decompression with or without Duraplasty for Chiari I and Syringomyelia.
+6. 综合医学研究：Decompression with or without Duraplasty for Chiari I and Syringomyelia.
    - 来源：The New England journal of medicine
    - 时间：2026-May-28
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: In children with Chiari type I malformation and syringomyelia, neurosurgical posterior fossa decompression (PFD) provides clinical improvement, but whether duraplasty (incising the dura and placing a dural graft) improves outcomes is unclear.
 METHODS: We conducted a multicenter, cluster-randomized, controlled trial of PFD with duraplasty (PFD-D) as compared with PFD alone. Persons 21 years of age or younger with cerebellar tonsillar ectopia of at least 5 mm and a maximum syrinx diameter of 3.0 to 9.9 mm... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42202320/
-9. 心血管研究：Efficacy and Safety of Prasugrel, Ticagrelor, or Clopidogrel After Percutaneous Coronary Intervention: A Systematic Review and Meta-Analysis.
-   - 来源：JAMA cardiology
-   - 时间：2026-May-27
-   - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: The relative efficacy and safety of oral P2Y purinergic receptor 12 (P2Y12) inhibitors (clopidogrel, ticagrelor, or prasugrel) after percutaneous coronary intervention (PCI) are not well defined.
-OBJECTIVE: To assess the efficacy and safety of oral P2Y12 inhibitors in patients who underwent PCI.
-DATA SOURCES AND STUDY SELECTION: PubMed and Embase were searched until November 15, 2025, for randomized clinical trials comparing at least 2 of the 3 agents.
-DATA EXTRACTION AND SYNTHESIS: Data were abstracted... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42201709/
-10. 心血管研究：Bempedoic Acid and Venous Thromboembolism Risk Among Statin-Intolerant Patients: A Post Hoc Analysis of the CLEAR Outcomes Randomized Clinical Trial.
-   - 来源：JAMA cardiology
-   - 时间：2026-May-27
-   - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Venous thromboembolism (VTE), which encompasses deep vein thrombosis and pulmonary embolism, is a frequent condition that can lead to significant morbidity and mortality; statins, monoclonal antibody proprotein convertase subtilisin-kexin type 9 (PCSK9) inhibitors, and their combination are associated with a reduced risk of VTE. The effect of bempedoic acid on VTE risk is unknown.
-OBJECTIVE: To determine whether bempedoic acid is associated with a reduced risk of VTE.
-DESIGN, SETTING, AND PARTICIPANTS: ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42201706/
-11. 公共卫生/流行病学研究：Expedient single-round selection of hyper-modified aptamer targeting insulin receptor from over-represented dually nucleobase-modified DNA libraries.
-   - 来源：Nature communications
-   - 时间：2026-May-27
-   - 摘要：这条内容聚焦公共卫生/流行病学。来源为Nature communications，类型初步识别为RCT。摘要信息显示：Discovery of functional nucleic acids from randomized libraries typically relies on multiple, time-consuming iterative rounds of in vitro selection with low success rate. Here, we present a single-round selection strategy for rapid screening of multiple over-represented nucleobase-modified DNA libraries and various selection conditions, capable of identifying high-affinity modified aptamers. Double partition followed by amplification of eluted sequences, NGS analysis and clustering provides fast identification of a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42203784/
-12. 心血管研究：Stem-Cell-Derived Biologic Ventricular Assist Tissue in Heart Failure.
+7. 代谢/肥胖/糖尿病研究：Beyond weight loss: multisystem benefits of obesity medications.
+   - 来源：The lancet. Diabetes & endocrinology
+   - 时间：2026-May-28
+   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The lancet. Diabetes & endocrinology，类型初步识别为RCT。摘要信息显示：Obesity is increasingly managed with medications as disease-modifying therapies, reflecting its role as a gateway disease driving metabolic, cardiovascular, reproductive, neuropsychiatric, and mechanical conditions. This Review synthesises evidence from randomised controlled trials and high-quality meta-analyses on approved and late-stage investigational obesity medications, including phentermine-topiramate, naltrexone-bupropion, glucagon-like peptide-1 (GLP-1) receptor agonists (eg, liraglutide, semaglutide, subcu... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42208956/
+8. 心血管研究：Stem-Cell-Derived Biologic Ventricular Assist Tissue in Heart Failure.
    - 来源：The New England journal of medicine
    - 时间：2026-May-28
    - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为Phase 2 trial。摘要信息显示：BACKGROUND: Biologic ventricular assist tissue (BioVAT) is formulated from engineered heart muscle composed of cardiomyocytes and stromal cells derived from allogeneic induced pluripotent stem cells for cardiac remuscularization in patients with heart failure and a reduced left ventricular ejection fraction.
 METHODS: We conducted an open-label, phase 1-2 study of tissue-engineered heart repair by means of BioVAT transplantation. Patients with heart failure and a left ventricular ejection fraction of 35% or less and... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42202318/
-13. 免疫/炎症研究：Efficacy and safety of durcabtagene autoleucel in a phase 1 trial for patients with relapsed/refractory multiple myeloma.
-   - 来源：Science translational medicine
-   - 时间：2026-May-27
-   - 摘要：这条内容聚焦免疫/炎症。来源为Science translational medicine，类型初步识别为Phase 2 trial。摘要信息显示：Traditional manufacturing of B cell maturation antigen (BCMA)-targeted chimeric antigen receptor (CAR) T cell therapies is prolonged, leading to reduced patient access, T cell exhaustion, and consequently limiting therapeutic efficacy. To address this issue, we developed durcabtagene autoleucel, a BCMA-directed CAR T cell therapy manufactured using a rapid platform aimed at preserving T cell stemness. Here, we present the primary findings of part A of a phase 1 study (NCT04318327) of durcabtagene autoleucel in pati... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42202046/
-14. 神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
+9. 神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
    - 来源：The Lancet
    - 时间：2026-05-30
    - 摘要：这条内容聚焦神经科学/神经疾病。来源为The Lancet，类型初步识别为RCT。摘要信息显示：Although PADOVA did not meet the primary endpoint, prespecified exploratory evidence suggests clinical activity of prasinezumab in early-stage Parkinson's disease, supporting continued investigation in the ongoing phase 3 PARAISO trial (NCT07174310). 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00865-2/fulltext?rss=yes
-15. 重症医学/急危重症研究：Technology mediation in child sexual exploitation and abuse in Africa and Asia.
+10. 重症医学/急危重症研究：Technology mediation in child sexual exploitation and abuse in Africa and Asia.
    - 来源：Nature
    - 时间：2026-May-27
    - 摘要：这条内容聚焦重症医学/急危重症。来源为Nature，类型初步识别为Translational research。摘要信息显示：As digital access expands rapidly among children worldwide, technology-facilitated child sexual exploitation and abuse (CSEA), including online grooming, sexual solicitation, non-consensual image sharing and sexual extortion, has emerged as urgent yet underexamined category of digital harms1. Despite growing policy attention to online safety, evidence remains limited, particularly in low- and middle-income countries, where most of the world's children live2. We analysed nationally representative survey data from 11... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42203864/
+11. 免疫/炎症研究：Teclistamab in Multiple Myeloma with One to Three Previous Lines of Therapy.
+   - 来源：The New England journal of medicine
+   - 时间：2026-May-29
+   - 摘要：这条内容聚焦免疫/炎症。来源为The New England journal of medicine，类型初步识别为Review。摘要信息显示：BACKGROUND: The efficacy of teclistamab, a bispecific antibody targeting B-cell maturation antigen and CD3, as early-line monotherapy in relapsed or refractory multiple myeloma is unclear.
+METHODS: We randomly assigned patients with relapsed or refractory multiple myeloma who had previously received one, two, or three lines of therapy, including an anti-CD38 monoclonal antibody and lenalidomide, to receive teclistamab or the investigator's choice of pomalidomide, bortezomib, and dexamethasone (PVd) or carfilzomib a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42212933/
+12. 医疗AI/数字医学研究：Multimodal deep learning model for AI-based functional prognostic risk stratification in patients undergoing radical nephrectomy.
+   - 来源：Nature communications
+   - 时间：2026-May-28
+   - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline >3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images an... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42209536/
+13. 肿瘤/血液肿瘤研究：Targeting tumor-intrinsic STK40 induces immune vulnerability and drives T cell reinvigoration.
+   - 来源：Cancer cell
+   - 时间：2026-May-28
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cancer cell，类型初步识别为Translational research。摘要信息显示：Immunotherapy has revolutionized cancer treatment, yet its efficacy in hepatocellular carcinoma (HCC) remains limited and the mechanisms of resistance are poorly defined. Using in vivo CRISPR-Cas9 screens, we identify serine/threonine kinase 40 (STK40) as a previously unrecognized regulator of immune evasion. Stk40 ablation synergizes with PD-1 blockade to induce tumor regression. Hepatocyte-specific Stk40 deletion abolishes tumorigenesis in hydrodynamic plasmid-driven HCC models. Mechanistically, STK40 scaffolds t... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42208540/
+14. 心血管研究：Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.
+   - 来源：Cell
+   - 时间：2026-May-28
+   - 摘要：这条内容聚焦心血管。来源为Cell，类型初步识别为Translational research。摘要信息显示：Understanding the genetic regulation of circulating protein levels can provide new insights into disease mechanisms. Here, we present the largest proteogenomic study to date (n = 78,664 participants across 38 studies), identifying >24,000 protein quantitative trait loci (QTLs) associated with 1,116 proteins, acting near to (n = 5,040) or distant (n = 19,698) from the cognate gene. Using machine learning-guided effector gene assignment, we provide genetic evidence for pathways, cell types, and tissues that modulate ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42097137/
+15. 神经科学/神经疾病研究：Lifespan normative modeling of brain microstructure.
+   - 来源：Nature communications
+   - 时间：2026-May-27
+   - 摘要：这条内容聚焦神经科学/神经疾病。来源为Nature communications，类型初步识别为Original research。摘要信息显示：Normative models of brain metrics based on large populations could be extremely valuable for detecting brain abnormalities in patients with a variety of disorders, including degenerative, psychiatric and neurodevelopmental conditions, but no such models exist for the brain's white matter (WM) microstructure. Here we present a large-scale normative model of brain WM microstructure - based on 19 international diffusion MRI datasets covering almost the entire lifespan (totaling N = 54,583 individuals; age: 4-91 years)... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42204143/

@@ -1,7 +1,6 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-05-29 09:34:07
+【Biomed Radar】今日医学科学新闻已更新｜2026-05-30 09:30:19
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
-Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS Nature Medicine: RuntimeError(SAXParseException('not well-formed (invalid token)'))
@@ -10,10 +9,10 @@ Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oaU1xV29lYUZlMFJLbTdMTV9meHpCelFULUxQNDF6R3FVc2hSVVVFaEFsRXRNMExoNzFnN2E3ZHA0TS1Rd0Nr?oc=5
 
-2. 同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
+2. 同济医院与阿里云达成合作 以AI驱动精准诊疗技术突破 - 新浪财经
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamdYcl9jc2pNT2Ewanh6MldJM2Q1ZjVyLVZSYXZiR0t0T0RsV0JfNXpVWXFJa0R0WHpoYklDWDVSR3FDRHVieHpYQWpveTJMT25idVJTd0xldjFIZ1FWQ2N5di1Wd3l4VjlsNHZlWmxUS0pTSXFOUDA4VmlyUDBBY21WbXBXTXZ0S0pyek94Wjh3ZHlKVGhhN09zOXhoeXlSUUJqSmdLZUtQaGc?oc=5
+https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1ZfUEVHUHBHTktwenItc2dnbEc2dU1XQ2lkMHVpYW15TW5EcUJSeU1XSjY5WDVFbnNTd1J4UlRabkh2TE4zMG1mMkRJNFU2SUVPdnR2X3ZkYW92NDM2cWkxWTVDcUJPakNXbzVRMnVhZlRWSmJxSXlmRVJLT1hfU0RwMVJ2OFJUTmFQSEhn?oc=5
 
 3. 【智能生物制药研究支援事业】⑭：基于AI驱动型科学的实体肿瘤CAR-T细胞疗法的实用化开发 - 客观日本
 Google News CN｜Medical news｜Score 26
@@ -35,10 +34,10 @@ The New England journal of medicine｜RCT｜Score 91
 The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42202319/
 
-7. 肿瘤/血液肿瘤研究：Very low-carbohydrate ketogenic diet in treatment-naïve women with endometrial cancer and overweight: a randomized feasibility study.
-Nature communications｜RCT｜Score 89
-Nature communications 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42192131/
+7. 肿瘤/血液肿瘤研究：First-Line Sunvozertinib in NSCLC with EGFR Exon 20 Insertion Mutations.
+The New England journal of medicine｜Phase 3 trial｜Score 89
+The New England journal of medicine 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42212913/
 
 8. 综合医学研究：Adverse Effects and Treatment Discontinuation of Blood Pressure-Lowering Drugs and Combinations: A Network Meta-Analysis.
 JAMA｜RCT｜Score 88
@@ -55,52 +54,52 @@ The New England journal of medicine｜RCT｜Score 88
 The New England journal of medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/41910345/
 
-11. 感染/疫苗研究：Sustained and indirect effects of PCV10 reduced-dose schedules on pneumococcal carriage in Viet Nam: a long-term follow-up of a cluster-randomised controlled trial.
-The Lancet. Infectious diseases｜RCT｜Score 88
-The Lancet. Infectious diseases 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42202846/
-
-12. 综合医学研究：Portal-Venous Hypothermic Oxygenated Perfusion for Liver Transplant: A Randomized Clinical Trial.
-JAMA surgery｜RCT｜Score 86
-JAMA surgery 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42201712/
-
-13. 综合医学研究：Decompression with or without Duraplasty for Chiari I and Syringomyelia.
+11. 综合医学研究：Decompression with or without Duraplasty for Chiari I and Syringomyelia.
 The New England journal of medicine｜RCT｜Score 81
 The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42202320/
 
-14. 心血管研究：Efficacy and Safety of Prasugrel, Ticagrelor, or Clopidogrel After Percutaneous Coronary Intervention: A Systematic Review and Meta-Analysis.
-JAMA cardiology｜RCT｜Score 80
-JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42201709/
+12. 代谢/肥胖/糖尿病研究：Beyond weight loss: multisystem benefits of obesity medications.
+The lancet. Diabetes & endocrinology｜RCT｜Score 72
+The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42208956/
 
-15. 心血管研究：Bempedoic Acid and Venous Thromboembolism Risk Among Statin-Intolerant Patients: A Post Hoc Analysis of the CLEAR Outcomes Randomized Clinical Trial.
-JAMA cardiology｜RCT｜Score 80
-JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42201706/
-
-16. 公共卫生/流行病学研究：Expedient single-round selection of hyper-modified aptamer targeting insulin receptor from over-represented dually nucleobase-modified DNA libraries.
-Nature communications｜RCT｜Score 72
-Nature communications 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42203784/
-
-17. 心血管研究：Stem-Cell-Derived Biologic Ventricular Assist Tissue in Heart Failure.
+13. 心血管研究：Stem-Cell-Derived Biologic Ventricular Assist Tissue in Heart Failure.
 The New England journal of medicine｜Phase 2 trial｜Score 70
 The New England journal of medicine 发布的心血管相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42202318/
 
-18. 免疫/炎症研究：Efficacy and safety of durcabtagene autoleucel in a phase 1 trial for patients with relapsed/refractory multiple myeloma.
-Science translational medicine｜Phase 2 trial｜Score 70
-Science translational medicine 发布的免疫/炎症相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42202046/
-
-19. 神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
+14. 神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
 The Lancet｜RCT｜Score 70
 The Lancet 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00865-2/fulltext?rss=yes
 
-20. 重症医学/急危重症研究：Technology mediation in child sexual exploitation and abuse in Africa and Asia.
+15. 重症医学/急危重症研究：Technology mediation in child sexual exploitation and abuse in Africa and Asia.
 Nature｜Translational research｜Score 68
 Nature 发布的重症医学/急危重症相关Translational research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42203864/
+
+16. 免疫/炎症研究：Teclistamab in Multiple Myeloma with One to Three Previous Lines of Therapy.
+The New England journal of medicine｜Review｜Score 66
+The New England journal of medicine 发布的免疫/炎症相关Review，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42212933/
+
+17. 医疗AI/数字医学研究：Multimodal deep learning model for AI-based functional prognostic risk stratification in patients undergoing radical nephrectomy.
+Nature communications｜Translational research｜Score 62
+Nature communications 发布的医疗AI/数字医学相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42209536/
+
+18. 肿瘤/血液肿瘤研究：Targeting tumor-intrinsic STK40 induces immune vulnerability and drives T cell reinvigoration.
+Cancer cell｜Translational research｜Score 62
+Cancer cell 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42208540/
+
+19. 心血管研究：Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.
+Cell｜Translational research｜Score 62
+Cell 发布的心血管相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42097137/
+
+20. 神经科学/神经疾病研究：Lifespan normative modeling of brain microstructure.
+Nature communications｜Original research｜Score 62
+Nature communications 发布的神经科学/神经疾病相关Original research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42204143/

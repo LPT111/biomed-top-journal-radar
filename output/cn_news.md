@@ -5,11 +5,11 @@
    - 时间：Wed, 27 May 2026 00:00:00 GMT
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oaU1xV29lYUZlMFJLbTdMTV9meHpCelFULUxQNDF6R3FVc2hSVVVFaEFsRXRNMExoNzFnN2E3ZHA0TS1Rd0Nr?oc=5" target="_blank">【首发】臻愈生物完成近亿元融资，加速推进in vivo CAR-T等核心管线</a>&nbsp;&nbsp;<font color="#6f6f6f">动脉网</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oaU1xV29lYUZlMFJLbTdMTV9meHpCelFULUxQNDF6R3FVc2hSVVVFaEFsRXRNMExoNzFnN2E3ZHA0TS1Rd0Nr?oc=5
-2. 同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
+2. 同济医院与阿里云达成合作 以AI驱动精准诊疗技术突破 - 新浪财经
    - 来源：Google News CN
-   - 时间：Thu, 28 May 2026 13:30:39 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamdYcl9jc2pNT2Ewanh6MldJM2Q1ZjVyLVZSYXZiR0t0T0RsV0JfNXpVWXFJa0R0WHpoYklDWDVSR3FDRHVieHpYQWpveTJMT25idVJTd0xldjFIZ1FWQ2N5di1Wd3l4VjlsNHZlWmxUS0pTSXFOUDA4VmlyUDBBY21WbXBXTXZ0S0pyek94Wjh3ZHlKVGhhN09zOXhoeXlSUUJqSmdLZUtQaGc?oc=5" target="_blank">同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破</a>&nbsp;&nbsp;<font color="#6f6f6f">新浪财经</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamdYcl9jc2pNT2Ewanh6MldJM2Q1ZjVyLVZSYXZiR0t0T0RsV0JfNXpVWXFJa0R0WHpoYklDWDVSR3FDRHVieHpYQWpveTJMT25idVJTd0xldjFIZ1FWQ2N5di1Wd3l4VjlsNHZlWmxUS0pTSXFOUDA4VmlyUDBBY21WbXBXTXZ0S0pyek94Wjh3ZHlKVGhhN09zOXhoeXlSUUJqSmdLZUtQaGc?oc=5
+   - 时间：Thu, 28 May 2026 11:12:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1ZfUEVHUHBHTktwenItc2dnbEc2dU1XQ2lkMHVpYW15TW5EcUJSeU1XSjY5WDVFbnNTd1J4UlRabkh2TE4zMG1mMkRJNFU2SUVPdnR2X3ZkYW92NDM2cWkxWTVDcUJPakNXbzVRMnVhZlRWSmJxSXlmRVJLT1hfU0RwMVJ2OFJUTmFQSEhn?oc=5" target="_blank">同济医院与阿里云达成合作 以AI驱动精准诊疗技术突破</a>&nbsp;&nbsp;<font color="#6f6f6f">新浪财经</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1ZfUEVHUHBHTktwenItc2dnbEc2dU1XQ2lkMHVpYW15TW5EcUJSeU1XSjY5WDVFbnNTd1J4UlRabkh2TE4zMG1mMkRJNFU2SUVPdnR2X3ZkYW92NDM2cWkxWTVDcUJPakNXbzVRMnVhZlRWSmJxSXlmRVJLT1hfU0RwMVJ2OFJUTmFQSEhn?oc=5
 3. 【智能生物制药研究支援事业】⑭：基于AI驱动型科学的实体肿瘤CAR-T细胞疗法的实用化开发 - 客观日本
    - 来源：Google News CN
    - 时间：Thu, 28 May 2026 01:27:24 GMT
