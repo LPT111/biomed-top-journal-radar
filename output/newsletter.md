@@ -1,35 +1,8 @@
-# 医学科学新闻推文候选草稿｜2026-05-31 09:51:06
+# 医学科学新闻推文候选草稿｜2026-06-01 09:59:03
 
-## 1. 同济医院与阿里云达成合作 以AI驱动精准诊疗技术突破 - Sina finance
+## 1. ChinaBio™生物医药产业国际合作大会圆满闭幕：链接全球创新，打造创新药BD合作关键枢纽 - 中华网
 
-【医学科学新闻】同济医院与阿里云达成合作 以AI驱动精准诊疗技术突破 - Sina finance
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Thu, 28 May 2026 11:12:00 GMT｜https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1ZfUEVHUHBHTktwenItc2dnbEc2dU1XQ2lkMHVpYW15TW5EcUJSeU1XSjY5WDVFbnNTd1J4UlRabkh2TE4zMG1mMkRJNFU2SUVPdnR2X3ZkYW92NDM2cWkxWTVDcUJPakNXbzVRMnVhZlRWSmJxSXlmRVJLT1hfU0RwMVJ2OFJUTmFQSEhn?oc=5
-
----
-
-## 2. 盈康一生CTO倪永全：AI 不是效率工具，而是医疗产业价值重构核心 - 潮新闻
-
-【医学科学新闻】盈康一生CTO倪永全：AI 不是效率工具，而是医疗产业价值重构核心 - 潮新闻
+【医学科学新闻】ChinaBio™生物医药产业国际合作大会圆满闭幕：链接全球创新，打造创新药BD合作关键枢纽 - 中华网
 
 一、为什么重要
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -50,11 +23,92 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Sun, 24 May 2026 15:45:00 GMT｜https://news.google.com/rss/articles/CBMic0FVX3lxTE9Zb24wMGRIQ0wyYjh2Z180MGNFekExREw3aTlGRFNGaEdiVG9MQk1tRk15WmR1TUJFdDZzdW5jVXpjaXk4b2RPcDRmMDN5eUZWYmVpa19FV0dTcTB2QzJqVGdJaEc1SUYydnR2Z1BZV3dCdWs?oc=5
+Google News CN｜Sun, 31 May 2026 11:09:49 GMT｜https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2c0lPdWhQbUl6TWVhb2dDSVRRMk15UUVHdTNCQlVjeHFCUTZQeWQwcFBybUF6ekN1Uk0yeHhfN3FON0FjcXltaURhM1dHSGpmZk1WUUNUZzFFRVlWMFE?oc=5
 
 ---
 
-## 3. 全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 新浪财经
+## 2. 【首发】臻愈生物完成近亿元融资，加速推进in vivo CAR-T等核心管线 - 动脉网
+
+【医学科学新闻】【首发】臻愈生物完成近亿元融资，加速推进in vivo CAR-T等核心管线 - 动脉网
+
+一、为什么重要
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Wed, 27 May 2026 00:00:00 GMT｜https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oaU1xV29lYUZlMFJLbTdMTV9meHpCelFULUxQNDF6R3FVc2hSVVVFaEFsRXRNMExoNzFnN2E3ZHA0TS1Rd0Nr?oc=5
+
+---
+
+## 3. 同济医院与阿里云达成合作以AI驱动精准诊疗技术突破-腾讯新闻 - QQ News
+
+【医学科学新闻】同济医院与阿里云达成合作以AI驱动精准诊疗技术突破-腾讯新闻 - QQ News
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Thu, 28 May 2026 11:16:00 GMT｜https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ORE45akhVX2ZlT283TTZRWmlCbkpkSFBqLXJNUm1rMUhYdVZmT09XRkg0OEwwUWhSSXFDSm50ZGJSaFA2ZW1pSmlkc29ELV80VnNqbG1n?oc=5
+
+---
+
+## 4. 【智能生物制药研究支援事业】⑭：基于AI驱动型科学的实体肿瘤CAR-T细胞疗法的实用化开发 - 客观日本
+
+【医学科学新闻】【智能生物制药研究支援事业】⑭：基于AI驱动型科学的实体肿瘤CAR-T细胞疗法的实用化开发 - 客观日本
+
+一、为什么重要
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Thu, 28 May 2026 01:27:24 GMT｜https://news.google.com/rss/articles/CBMieEFVX3lxTE9FR3d6Wnl0Rmdud1BjZk9VN1BwekJOUDNsaXp1NTJNRmlNOEV3WGlucndnRVlkV3RSc0VrMS12MDc4cHhldUpFR0tmNnU2WW8zV19VUXB3WU9Qb0xQUTZmZlFrcHNxbFBsdGZUWVptcTFRTmFuNE1lZQ?oc=5
+
+---
+
+## 5. 全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 新浪财经
 
 【医学科学新闻】全球探索未来科技发展之路（三）｜AI驱动生物医药“效率革命” 科技巨头与资本重金布局 - 新浪财经
 
@@ -78,60 +132,6 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 
 七、参考信息
 Google News CN｜Mon, 25 May 2026 07:00:00 GMT｜https://news.google.com/rss/articles/CBMimgJBVV95cUxPX0JiLU1SLTZvTnVobzF4UGdFMW1EQmtUcXpnZWd0bWMtZzMtRWRZSTJuSUhadEpidVRtNXNzVTlFd0YyQVlTcS14aFpZNllIckZZU3BnUWoycWdndFhSR05XRE1ic2hzYjM4cEt6U1pHZVFhWUJGdXBod25JOWpMWEdXQmpEdkhHZGx5ZHdfMmNiRjlJQTBOY1VPUk1sQUdxVXA1T3BYekVBeVdwQy13Zzg1d1ZWT2tBMElmekU3MGRORy11Wmc0S1BEWWpZcmk3OWdMRm1ha3E3YnI3ZGFNOUlDNDVSenY1emFaZkg4T1JPdzRmZkxiMDFxbEEyUXdhNk9LaHduWjRFX0dQUWxNLUlCSDJmMzZiUFE?oc=5
-
----
-
-## 4. 中国量子医疗领航人、中国量子共振检测仪发明人、中国量子产业控股集团创始人 张海涛 - 中华网生活
-
-【医学科学新闻】中国量子医疗领航人、中国量子共振检测仪发明人、中国量子产业控股集团创始人 张海涛 - 中华网生活
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 27 May 2026 06:59:03 GMT｜https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tNE02T25HQVJ3NC1fYXhtNl9PeHpjTi1KOWJKM1hheF9uWnJDSDhxemQ1d05Qb25paU1KMF9yUzg0UzJuU2d0SUR0VUZvV2ZhaXRsM0lFMjF3V0Fyb2tZQ01JZw?oc=5
-
----
-
-## 5. 临研人必藏｜IIT定义·分类·全流程合规指南- 行业新闻- 医疗器械- 瑞旭集团 - CIRS Group
-
-【医学科学新闻】临研人必藏｜IIT定义·分类·全流程合规指南- 行业新闻- 医疗器械- 瑞旭集团 - CIRS Group
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 27 May 2026 06:33:41 GMT｜https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFpZeW1HN3VXV2J1NXljZ1RTR19HOFFDY19ESUNkbkFsVnRqSE9fOXdRYWZLRzFOZ1Z4bS1CN3pqTWJNZUtUenFQdllVbnZQZ25tZXpoOUdRQ3lSb0dIUXhPSy0ydHlDWTl3OFhZbEh4OVhjSEhJcFREX3FlOEZONzEwWXVLemxFSV9tR3pYVW1SN25UZVV3Zlc4S1FiUHRuVTNJ?oc=5
 
 ---
 
@@ -243,34 +243,7 @@ The New England journal of medicine｜2026-May-28｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 10. 重症医学/急危重症研究：Ultrasound-Facilitated, Catheter-Directed Fibrinolysis for Acute Pulmonary Embolism.
-
-【医学科学新闻】重症医学/急危重症研究：Ultrasound-Facilitated, Catheter-Directed Fibrinolysis for Acute Pulmonary Embolism.
-
-一、为什么重要
-The New England journal of medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕重症医学/急危重症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The New England journal of medicine｜2026-May-28｜https://pubmed.ncbi.nlm.nih.gov/41910345/
-
----
-
-## 11. 感染/疫苗研究：Efficacy and safety of a 4-month quabodepistat, delamanid, and bedaquiline regimen for drug-susceptible pulmonary tuberculosis: a multicentre, open-label, randomised, proof-of-concept, non-inferiority, phase 2b/c trial.
+## 10. 感染/疫苗研究：Efficacy and safety of a 4-month quabodepistat, delamanid, and bedaquiline regimen for drug-susceptible pulmonary tuberculosis: a multicentre, open-label, randomised, proof-of-concept, non-inferiority, phase 2b/c trial.
 
 【医学科学新闻】感染/疫苗研究：Efficacy and safety of a 4-month quabodepistat, delamanid, and bedaquiline regimen for drug-susceptible pulmonary tuberculosis: a multicentre, open-label, randomised, proof-of-concept, non-inferiority, phase 2b/c trial.
 
@@ -297,7 +270,7 @@ The Lancet. Infectious diseases｜2026-May-29｜https://pubmed.ncbi.nlm.nih.gov/
 
 ---
 
-## 12. 综合医学研究：Decompression with or without Duraplasty for Chiari I and Syringomyelia.
+## 11. 综合医学研究：Decompression with or without Duraplasty for Chiari I and Syringomyelia.
 
 【医学科学新闻】综合医学研究：Decompression with or without Duraplasty for Chiari I and Syringomyelia.
 
@@ -321,6 +294,33 @@ The New England journal of medicine 发布的综合医学相关RCT，值得关�
 
 七、参考信息
 The New England journal of medicine｜2026-May-28｜https://pubmed.ncbi.nlm.nih.gov/42202320/
+
+---
+
+## 12. 神经科学/神经疾病研究：OFC-induced network modularity improves positive symptoms and attentional alertness in schizophrenia: a combined rTMS-fMRI study.
+
+【医学科学新闻】神经科学/神经疾病研究：OFC-induced network modularity improves positive symptoms and attentional alertness in schizophrenia: a combined rTMS-fMRI study.
+
+一、为什么重要
+Nature communications 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-May-30｜https://pubmed.ncbi.nlm.nih.gov/42218138/
 
 ---
 
@@ -432,7 +432,88 @@ The New England journal of medicine｜2026-May-29｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 17. 免疫/炎症研究：Polypeptide-engineered lipid nanoparticles for mRNA delivery with limited immunogenicity.
+## 17. 肿瘤/血液肿瘤研究：Integration of donor microbiota following FMT correlates with anti-PD-1 response in melanoma.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：Integration of donor microbiota following FMT correlates with anti-PD-1 response in melanoma.
+
+一、为什么重要
+Nature communications 发布的肿瘤/血液肿瘤相关Meta-analysis，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-May-30｜https://pubmed.ncbi.nlm.nih.gov/42218119/
+
+---
+
+## 18. 免疫/炎症研究：Therapeutic effect of T-cell engager in two patients with autoimmune neuropathy.
+
+【医学科学新闻】免疫/炎症研究：Therapeutic effect of T-cell engager in two patients with autoimmune neuropathy.
+
+一、为什么重要
+Nature communications 发布的免疫/炎症相关Translational research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕免疫/炎症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-May-30｜https://pubmed.ncbi.nlm.nih.gov/42218153/
+
+---
+
+## 19. 生物医药/细胞与基因治疗研究：Mitochondrial RNA degradation regulates differentiation, stemness, and immune sensitivity in acute myeloid leukemia.
+
+【医学科学新闻】生物医药/细胞与基因治疗研究：Mitochondrial RNA degradation regulates differentiation, stemness, and immune sensitivity in acute myeloid leukemia.
+
+一、为什么重要
+Nature communications 发布的生物医药/细胞与基因治疗相关Translational research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕生物医药/细胞与基因治疗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-May-30｜https://pubmed.ncbi.nlm.nih.gov/42218125/
+
+---
+
+## 20. 免疫/炎症研究：Polypeptide-engineered lipid nanoparticles for mRNA delivery with limited immunogenicity.
 
 【医学科学新闻】免疫/炎症研究：Polypeptide-engineered lipid nanoparticles for mRNA delivery with limited immunogenicity.
 
@@ -456,86 +537,5 @@ Nature communications 发布的免疫/炎症相关Translational research，值�
 
 七、参考信息
 Nature communications｜2026-May-29｜https://pubmed.ncbi.nlm.nih.gov/42215480/
-
----
-
-## 18. 医疗AI/数字医学研究：Multimodal deep learning model for AI-based functional prognostic risk stratification in patients undergoing radical nephrectomy.
-
-【医学科学新闻】医疗AI/数字医学研究：Multimodal deep learning model for AI-based functional prognostic risk stratification in patients undergoing radical nephrectomy.
-
-一、为什么重要
-Nature communications 发布的医疗AI/数字医学相关Translational research，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕医疗AI/数字医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature communications｜2026-May-28｜https://pubmed.ncbi.nlm.nih.gov/42209536/
-
----
-
-## 19. 肿瘤/血液肿瘤研究：Targeting tumor-intrinsic STK40 induces immune vulnerability and drives T cell reinvigoration.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Targeting tumor-intrinsic STK40 induces immune vulnerability and drives T cell reinvigoration.
-
-一、为什么重要
-Cancer cell 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Cancer cell｜2026-May-28｜https://pubmed.ncbi.nlm.nih.gov/42208540/
-
----
-
-## 20. 心血管研究：Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.
-
-【医学科学新闻】心血管研究：Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.
-
-一、为什么重要
-Cell 发布的心血管相关Translational research，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Cell｜2026-May-28｜https://pubmed.ncbi.nlm.nih.gov/42097137/
 
 ---

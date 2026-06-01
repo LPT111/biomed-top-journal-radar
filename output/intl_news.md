@@ -25,24 +25,23 @@ DATA SOURCES AND STUDY SELECTION: Cochrane Central Register of Controlled Trials
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Treatment with bepirovirsen, an antisense oligonucleotide targeting hepatitis B virus (HBV) transcripts, has the potential to result in a functional cure, defined by at least 24 weeks of a sustained HBV DNA level below the lower limit of quantification (LLOQ) and hepatitis B surface antigen (HBsAg) loss after fixed-duration therapy.
 METHODS: In two replicate, double-blind trials (B-Well 1 and B-Well 2), we randomly assigned adults with noncirrhotic chronic HBV infection in a 2:1 ratio to receive subcuta... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42206582/
-5. 重症医学/急危重症研究：Ultrasound-Facilitated, Catheter-Directed Fibrinolysis for Acute Pulmonary Embolism.
-   - 来源：The New England journal of medicine
-   - 时间：2026-May-28
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Whether anticoagulation alone is an adequate treatment for acute, intermediate-risk pulmonary embolism is uncertain.
-METHODS: We conducted a multinational, adaptive-design trial with blinded outcome adjudication. Patients with intermediate-risk pulmonary embolism (with a ratio of right ventricular end-diastolic diameter to left ventricular end-diastolic diameter of ≥1.0 and an elevated troponin level) were eligible if they had at least two indicators of cardiorespiratory distress (systolic blood pressur... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/41910345/
-6. 感染/疫苗研究：Efficacy and safety of a 4-month quabodepistat, delamanid, and bedaquiline regimen for drug-susceptible pulmonary tuberculosis: a multicentre, open-label, randomised, proof-of-concept, non-inferiority, phase 2b/c trial.
+5. 感染/疫苗研究：Efficacy and safety of a 4-month quabodepistat, delamanid, and bedaquiline regimen for drug-susceptible pulmonary tuberculosis: a multicentre, open-label, randomised, proof-of-concept, non-inferiority, phase 2b/c trial.
    - 来源：The Lancet. Infectious diseases
    - 时间：2026-May-29
    - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为Phase 2 trial。摘要信息显示：BACKGROUND: Combined therapy with delamanid, bedaquiline, and quabodepistat (DBQ) showed potent early bactericidal activity and was well tolerated in a phase 2a, 14-day early bactericidal activity trial in participants with drug-susceptible pulmonary tuberculosis. This subsequent proof-of-concept trial evaluated the efficacy and safety of a 4-month, three-dose level regimen of DBQ in participants with drug-susceptible pulmonary tuberculosis compared with 6 months of the standard of care.
 METHODS: This open-label, r... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42214407/
-7. 综合医学研究：Decompression with or without Duraplasty for Chiari I and Syringomyelia.
+6. 综合医学研究：Decompression with or without Duraplasty for Chiari I and Syringomyelia.
    - 来源：The New England journal of medicine
    - 时间：2026-May-28
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: In children with Chiari type I malformation and syringomyelia, neurosurgical posterior fossa decompression (PFD) provides clinical improvement, but whether duraplasty (incising the dura and placing a dural graft) improves outcomes is unclear.
 METHODS: We conducted a multicenter, cluster-randomized, controlled trial of PFD with duraplasty (PFD-D) as compared with PFD alone. Persons 21 years of age or younger with cerebellar tonsillar ectopia of at least 5 mm and a maximum syrinx diameter of 3.0 to 9.9 mm... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42202320/
+7. 神经科学/神经疾病研究：OFC-induced network modularity improves positive symptoms and attentional alertness in schizophrenia: a combined rTMS-fMRI study.
+   - 来源：Nature communications
+   - 时间：2026-May-30
+   - 摘要：这条内容聚焦神经科学/神经疾病。来源为Nature communications，类型初步识别为RCT。摘要信息显示：Repetitive Transcranial Magnetic Stimulation (rTMS) targeting the orbitofrontal cortex (OFC) has emerged as a promisingerapeutic option for drug-naïve people with schizophrenia (SCZ). However, the putative underlying mechanisms of OFC-induced physiological effects remain unknown. In this completed randomized, double-blind, placebo-controlled trial (ChiCTR2000041106), we delivered 4 weeks of low-frequency rTMS to the right OFC in SCZ, with participants receiving either active or sham stimulation, and followed a netw... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42218138/
 8. 代谢/肥胖/糖尿病研究：Beyond weight loss: multisystem benefits of obesity medications.
    - 来源：The lancet. Diabetes & endocrinology
    - 时间：2026-May-28
@@ -65,23 +64,23 @@ METHODS: We conducted an open-label, phase 1-2 study of tissue-engineered heart 
    - 摘要：这条内容聚焦免疫/炎症。来源为The New England journal of medicine，类型初步识别为Review。摘要信息显示：BACKGROUND: The efficacy of teclistamab, a bispecific antibody targeting B-cell maturation antigen and CD3, as early-line monotherapy in relapsed or refractory multiple myeloma is unclear.
 METHODS: We randomly assigned patients with relapsed or refractory multiple myeloma who had previously received one, two, or three lines of therapy, including an anti-CD38 monoclonal antibody and lenalidomide, to receive teclistamab or the investigator's choice of pomalidomide, bortezomib, and dexamethasone (PVd) or carfilzomib a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42212933/
-12. 免疫/炎症研究：Polypeptide-engineered lipid nanoparticles for mRNA delivery with limited immunogenicity.
+12. 肿瘤/血液肿瘤研究：Integration of donor microbiota following FMT correlates with anti-PD-1 response in melanoma.
+   - 来源：Nature communications
+   - 时间：2026-May-30
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Meta-analysis。摘要信息显示：Fecal microbiota transplantation (FMT) has shown promise in improving anti-PD-1 therapy in melanoma, but the underlying microbial features remain poorly defined. We performed a strain-resolved metagenomic meta-analysis across three independent FMT plus anti-PD-1 melanoma trials (n = 41). Across cohorts, therapeutic benefit was linked to successful integration of donor microbiota, rather than increased diversity or engraftment of specific species. Responders acquired more donor-derived strains, exhibited greater pos... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42218119/
+13. 免疫/炎症研究：Therapeutic effect of T-cell engager in two patients with autoimmune neuropathy.
+   - 来源：Nature communications
+   - 时间：2026-May-30
+   - 摘要：这条内容聚焦免疫/炎症。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Chronic immune-mediated peripheral nerve myelinopathies (CIPNM) are progressive and debilitating disorders that can be refractory to current treatment regimes. The bispecific T-cell engager (BiTE) teclistamab depletes B-cell Maturation Antigen (BCMA) positive late-stage B- cells and plasma cells by engaging T-cells. We present two patients with treatment-refractory CIPNM (Patient 1: IgM-kappa-associated CIPNM, follow-up 9 months; Patient 2: Anti-myelin-associated-glycoprotein (MAG) antibody-mediated CIPNM, follow-u... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42218153/
+14. 生物医药/细胞与基因治疗研究：Mitochondrial RNA degradation regulates differentiation, stemness, and immune sensitivity in acute myeloid leukemia.
+   - 来源：Nature communications
+   - 时间：2026-May-30
+   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Eukaryotic cells have separate genomes in the nucleus and mitochondria. Mitochondrial DNA is transcribed bi-directionally to generate mitochondrial RNA (mtRNA) and dsRNA as a by-product of this transcription. We demonstrate that mtRNA transcription and degradation are increased in AML (Acute Myeloid Leukemia) cells and stem cells resulting in higher rates of mtRNA turnover. We discover that the mitochondrial degradosome, SUV3 and PNPase, is upregulated in AML cells and stem cells and functionally important for degr... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42218125/
+15. 免疫/炎症研究：Polypeptide-engineered lipid nanoparticles for mRNA delivery with limited immunogenicity.
    - 来源：Nature communications
    - 时间：2026-May-29
    - 摘要：这条内容聚焦免疫/炎症。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Lipid nanoparticles (LNPs) have shown great potential for mRNA delivery, with polyethylene glycol (PEG) lipids playing a critical role in modulating particle size, stability and biodistribution. However, most PEGylated LNPs induce anti-PEG antibodies, leading to hypersensitivity and diminished efficacy upon repeated administration. Here we report hydrophilic, nonionic and biodegradable poly(D, L-serine) (pDLS) lipids as PEG-lipid alternatives in LNP formulations. Through systematic structural screening, we identify... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42215480/
-13. 医疗AI/数字医学研究：Multimodal deep learning model for AI-based functional prognostic risk stratification in patients undergoing radical nephrectomy.
-   - 来源：Nature communications
-   - 时间：2026-May-28
-   - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline >3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images an... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42209536/
-14. 肿瘤/血液肿瘤研究：Targeting tumor-intrinsic STK40 induces immune vulnerability and drives T cell reinvigoration.
-   - 来源：Cancer cell
-   - 时间：2026-May-28
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cancer cell，类型初步识别为Translational research。摘要信息显示：Immunotherapy has revolutionized cancer treatment, yet its efficacy in hepatocellular carcinoma (HCC) remains limited and the mechanisms of resistance are poorly defined. Using in vivo CRISPR-Cas9 screens, we identify serine/threonine kinase 40 (STK40) as a previously unrecognized regulator of immune evasion. Stk40 ablation synergizes with PD-1 blockade to induce tumor regression. Hepatocyte-specific Stk40 deletion abolishes tumorigenesis in hydrodynamic plasmid-driven HCC models. Mechanistically, STK40 scaffolds t... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42208540/
-15. 心血管研究：Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.
-   - 来源：Cell
-   - 时间：2026-May-28
-   - 摘要：这条内容聚焦心血管。来源为Cell，类型初步识别为Translational research。摘要信息显示：Understanding the genetic regulation of circulating protein levels can provide new insights into disease mechanisms. Here, we present the largest proteogenomic study to date (n = 78,664 participants across 38 studies), identifying >24,000 protein quantitative trait loci (QTLs) associated with 1,116 proteins, acting near to (n = 5,040) or distant (n = 19,698) from the cognate gene. Using machine learning-guided effector gene assignment, we provide genetic evidence for pathways, cell types, and tissues that modulate ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42097137/
