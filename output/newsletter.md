@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-06-02 10:02:02
+# 医学科学新闻推文候选草稿｜2026-06-03 10:12:41
 
 ## 1. 同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
 
@@ -135,15 +135,15 @@ Google News CN｜Wed, 27 May 2026 06:33:41 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 6. 代谢/肥胖/糖尿病研究：Efficacy and safety of co-administered cagrilintide and semaglutide versus semaglutide alone in adults with overweight or obesity with or without type 2 diabetes in Japan and Taiwan (REDEFINE 5): a multicentre, randomised, active-controlled, phase 3a trial.
+## 6. 肿瘤/血液肿瘤研究：Savolitinib in MET-amplified gastric or gastroesophageal junction adenocarcinoma: a phase 2 trial.
 
-【医学科学新闻】代谢/肥胖/糖尿病研究：Efficacy and safety of co-administered cagrilintide and semaglutide versus semaglutide alone in adults with overweight or obesity with or without type 2 diabetes in Japan and Taiwan (REDEFINE 5): a multicentre, randomised, active-controlled, phase 3a trial.
+【医学科学新闻】肿瘤/血液肿瘤研究：Savolitinib in MET-amplified gastric or gastroesophageal junction adenocarcinoma: a phase 2 trial.
 
 一、为什么重要
-The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -158,16 +158,70 @@ The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The lancet. Diabetes & endocrinology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42009015/
+Nature medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42225990/
 
 ---
 
-## 7. 心血管研究：Safety and efficacy of the anti-α-synuclein monoclonal antibody amlenetug for the treatment of patients with multiple system atrophy (AMULET): a phase 2, randomised, double-blind, multicentre trial.
+## 7. 肿瘤/血液肿瘤研究：[177Lu]Lu-dota-tate versus sunitinib in patients with metastatic progressive neuroendocrine tumours of the pancreas (OCLURANDOM): a randomised, controlled, phase 2 trial.
 
-【医学科学新闻】心血管研究：Safety and efficacy of the anti-α-synuclein monoclonal antibody amlenetug for the treatment of patients with multiple system atrophy (AMULET): a phase 2, randomised, double-blind, multicentre trial.
+【医学科学新闻】肿瘤/血液肿瘤研究：[177Lu]Lu-dota-tate versus sunitinib in patients with metastatic progressive neuroendocrine tumours of the pancreas (OCLURANDOM): a randomised, controlled, phase 2 trial.
 
 一、为什么重要
-The Lancet. Neurology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet. Oncology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42225102/
+
+---
+
+## 8. 肿瘤/血液肿瘤研究：Aglatimagene besadenovec (CAN-2409) with radiotherapy for patients with localised prostate cancer: a phase 3, multicentre, randomised, double-blind, placebo-controlled trial.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：Aglatimagene besadenovec (CAN-2409) with radiotherapy for patients with localised prostate cancer: a phase 3, multicentre, randomised, double-blind, placebo-controlled trial.
+
+一、为什么重要
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet. Oncology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42225101/
+
+---
+
+## 9. 心血管研究：Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.
+
+【医学科学新闻】心血管研究：Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.
+
+一、为什么重要
+JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -185,11 +239,11 @@ The Lancet. Neurology 发布的心血管相关RCT，值得关注其研究设计�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The Lancet. Neurology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42044642/
+JAMA｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42099212/
 
 ---
 
-## 8. 肿瘤/血液肿瘤研究：Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.
+## 10. 肿瘤/血液肿瘤研究：Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.
 
@@ -216,7 +270,7 @@ JAMA oncology｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42224659/
 
 ---
 
-## 9. 肿瘤/血液肿瘤研究：Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.
+## 11. 肿瘤/血液肿瘤研究：Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.
 
@@ -243,15 +297,15 @@ JAMA｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42224490/
 
 ---
 
-## 10. 神经科学/神经疾病研究：Safety, tolerability, and efficacy of acetazolamide in idiopathic normal pressure hydrocephalus (DRAIN) in Sweden: a randomised, double-blind, placebo-controlled, phase 2 trial.
+## 12. 肿瘤/血液肿瘤研究：SEZ6-targeting antibody-drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial.
 
-【医学科学新闻】神经科学/神经疾病研究：Safety, tolerability, and efficacy of acetazolamide in idiopathic normal pressure hydrocephalus (DRAIN) in Sweden: a randomised, double-blind, placebo-controlled, phase 2 trial.
+【医学科学新闻】肿瘤/血液肿瘤研究：SEZ6-targeting antibody-drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial.
 
 一、为什么重要
-The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature medicine 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -266,61 +320,7 @@ The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The Lancet. Neurology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42127932/
-
----
-
-## 11. 神经科学/神经疾病研究：Endovascular treatment for medium or distal vessel occlusion stroke (DISTAL): 12-month outcomes of a multicentre, open-label, randomised trial.
-
-【医学科学新闻】神经科学/神经疾病研究：Endovascular treatment for medium or distal vessel occlusion stroke (DISTAL): 12-month outcomes of a multicentre, open-label, randomised trial.
-
-一、为什么重要
-The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Neurology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42105785/
-
----
-
-## 12. 代谢/肥胖/糖尿病研究：Continuous glucose monitoring versus self-monitoring of blood glucose in individuals with type 2 diabetes: a randomised, multicentre, open-label, superiority trial.
-
-【医学科学新闻】代谢/肥胖/糖尿病研究：Continuous glucose monitoring versus self-monitoring of blood glucose in individuals with type 2 diabetes: a randomised, multicentre, open-label, superiority trial.
-
-一、为什么重要
-The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The lancet. Diabetes & endocrinology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42035781/
+Nature medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42225988/
 
 ---
 
@@ -351,15 +351,15 @@ JAMA neurology｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42223935/
 
 ---
 
-## 14. 代谢/肥胖/糖尿病研究：Safety, tolerability, pharmacokinetics, and efficacy of burosumab in infants with X-linked hypophosphataemia: an open-label, multicentre, non-randomised study.
+## 14. 心血管研究：Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.
 
-【医学科学新闻】代谢/肥胖/糖尿病研究：Safety, tolerability, pharmacokinetics, and efficacy of burosumab in infants with X-linked hypophosphataemia: an open-label, multicentre, non-randomised study.
+【医学科学新闻】心血管研究：Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.
 
 一、为什么重要
-The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -374,7 +374,7 @@ The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关Phase
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The lancet. Diabetes & endocrinology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42044650/
+JAMA｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42096239/
 
 ---
 
@@ -405,12 +405,12 @@ JAMA internal medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42223934/
 
 ---
 
-## 16. 肿瘤/血液肿瘤研究：Mailed Outreach for Colorectal Cancer Screening in Community Health Centers: The CARES Pragmatic Cluster Randomized Clinical Trial.
+## 16. 肿瘤/血液肿瘤研究：Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Mailed Outreach for Colorectal Cancer Screening in Community Health Centers: The CARES Pragmatic Cluster Randomized Clinical Trial.
+【医学科学新闻】肿瘤/血液肿瘤研究：Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial.
 
 一、为什么重要
-JAMA internal medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -428,38 +428,11 @@ JAMA internal medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA internal medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42043827/
+Nature medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42225991/
 
 ---
 
-## 17. 综合医学研究：Fecal Microbiota Transplant and Multidrug-Resistant Organism Decolonization in Gastrointestinal Disease: A Randomized Clinical Trial.
-
-【医学科学新闻】综合医学研究：Fecal Microbiota Transplant and Multidrug-Resistant Organism Decolonization in Gastrointestinal Disease: A Randomized Clinical Trial.
-
-一、为什么重要
-JAMA internal medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA internal medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42008253/
-
----
-
-## 18. 公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
+## 17. 公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
 
 【医学科学新闻】公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
 
@@ -486,12 +459,12 @@ JAMA｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42223961/
 
 ---
 
-## 19. 神经科学/神经疾病研究：Benefits and Harms of Dementia Screening for Family Members of Older Adults: A Randomized Clinical Trial.
+## 18. 神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
 
-【医学科学新闻】神经科学/神经疾病研究：Benefits and Harms of Dementia Screening for Family Members of Older Adults: A Randomized Clinical Trial.
+【医学科学新闻】神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
 
 一、为什么重要
-JAMA internal medicine 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+The Lancet 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -509,16 +482,43 @@ JAMA internal medicine 发布的神经科学/神经疾病相关RCT，值得关�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA internal medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42008257/
+The Lancet｜2026-05-30｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00865-2/fulltext?rss=yes
 
 ---
 
-## 20. 综合医学研究：Cerebral Oximetry in Extremely Preterm Infants: 2-Year Follow-Up of the SafeBoosC-III Randomized Clinical Trial.
+## 19. 重症医学/急危重症研究：Personalized automatic management of tracheal cuff pressure and subglottic secretions drainage to prevent pneumonia in critically ill intubated patients. The MICROINHALO multicenter randomized controlled trial.
 
-【医学科学新闻】综合医学研究：Cerebral Oximetry in Extremely Preterm Infants: 2-Year Follow-Up of the SafeBoosC-III Randomized Clinical Trial.
+【医学科学新闻】重症医学/急危重症研究：Personalized automatic management of tracheal cuff pressure and subglottic secretions drainage to prevent pneumonia in critically ill intubated patients. The MICROINHALO multicenter randomized controlled trial.
 
 一、为什么重要
-JAMA pediatrics 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+Intensive care medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕重症医学/急危重症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Intensive care medicine｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42228008/
+
+---
+
+## 20. 综合医学研究：Decision and Cost-Effectiveness Analyses Complement Results From Randomized Clinical Trials.
+
+【医学科学新闻】综合医学研究：Decision and Cost-Effectiveness Analyses Complement Results From Randomized Clinical Trials.
+
+一、为什么重要
+JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -536,6 +536,6 @@ JAMA pediatrics 发布的综合医学相关RCT，值得关注其研究设计、�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA pediatrics｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42008246/
+JAMA｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42223966/
 
 ---

@@ -1,12 +1,11 @@
-# 全医学科学新闻雷达｜2026-06-02 10:02:02
+# 全医学科学新闻雷达｜2026-06-03 10:12:41
 
 - 今日新闻：20 条
 - 中文来源：5 条
 - 国际来源：15 条
-- 顶刊论文：15 条
+- 顶刊论文：14 条
 - RCT/临床试验：15 条
 
-> RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 ## 今日 20 条
 1. 同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
@@ -29,63 +28,63 @@
    - 来源：Google News CN｜类型：Medical news｜分数：21
    - 链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFpZeW1HN3VXV2J1NXljZ1RTR19HOFFDY19ESUNkbkFsVnRqSE9fOXdRYWZLRzFOZ1Z4bS1CN3pqTWJNZUtUenFQdllVbnZQZ25tZXpoOUdRQ3lSb0dIUXhPSy0ydHlDWTl3OFhZbEh4OVhjSEhJcFREX3FlOEZONzEwWXVLemxFSV9tR3pYVW1SN25UZVV3Zlc4S1FiUHRuVTNJ?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-6. 代谢/肥胖/糖尿病研究：Efficacy and safety of co-administered cagrilintide and semaglutide versus semaglutide alone in adults with overweight or obesity with or without type 2 diabetes in Japan and Taiwan (REDEFINE 5): a multicentre, randomised, active-controlled, phase 3a trial.
-   - 来源：The lancet. Diabetes & endocrinology｜类型：RCT｜分数：102
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42009015/
-   - 简述：The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-7. 心血管研究：Safety and efficacy of the anti-α-synuclein monoclonal antibody amlenetug for the treatment of patients with multiple system atrophy (AMULET): a phase 2, randomised, double-blind, multicentre trial.
-   - 来源：The Lancet. Neurology｜类型：RCT｜分数：96
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42044642/
-   - 简述：The Lancet. Neurology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-8. 肿瘤/血液肿瘤研究：Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.
+6. 肿瘤/血液肿瘤研究：Savolitinib in MET-amplified gastric or gastroesophageal junction adenocarcinoma: a phase 2 trial.
+   - 来源：Nature medicine｜类型：RCT｜分数：102
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42225990/
+   - 简述：Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+7. 肿瘤/血液肿瘤研究：[177Lu]Lu-dota-tate versus sunitinib in patients with metastatic progressive neuroendocrine tumours of the pancreas (OCLURANDOM): a randomised, controlled, phase 2 trial.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：96
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42225102/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+8. 肿瘤/血液肿瘤研究：Aglatimagene besadenovec (CAN-2409) with radiotherapy for patients with localised prostate cancer: a phase 3, multicentre, randomised, double-blind, placebo-controlled trial.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：96
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42225101/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+9. 心血管研究：Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.
+   - 来源：JAMA｜类型：RCT｜分数：94
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42099212/
+   - 简述：JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+10. 肿瘤/血液肿瘤研究：Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.
    - 来源：JAMA oncology｜类型：RCT｜分数：94
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42224659/
    - 简述：JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-9. 肿瘤/血液肿瘤研究：Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.
+11. 肿瘤/血液肿瘤研究：Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.
    - 来源：JAMA｜类型：RCT｜分数：88
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42224490/
    - 简述：JAMA 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-10. 神经科学/神经疾病研究：Safety, tolerability, and efficacy of acetazolamide in idiopathic normal pressure hydrocephalus (DRAIN) in Sweden: a randomised, double-blind, placebo-controlled, phase 2 trial.
-   - 来源：The Lancet. Neurology｜类型：RCT｜分数：88
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42127932/
-   - 简述：The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-11. 神经科学/神经疾病研究：Endovascular treatment for medium or distal vessel occlusion stroke (DISTAL): 12-month outcomes of a multicentre, open-label, randomised trial.
-   - 来源：The Lancet. Neurology｜类型：RCT｜分数：88
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42105785/
-   - 简述：The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-12. 代谢/肥胖/糖尿病研究：Continuous glucose monitoring versus self-monitoring of blood glucose in individuals with type 2 diabetes: a randomised, multicentre, open-label, superiority trial.
-   - 来源：The lancet. Diabetes & endocrinology｜类型：RCT｜分数：88
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42035781/
-   - 简述：The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+12. 肿瘤/血液肿瘤研究：SEZ6-targeting antibody-drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial.
+   - 来源：Nature medicine｜类型：Phase 2 trial｜分数：86
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42225988/
+   - 简述：Nature medicine 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
 13. 神经科学/神经疾病研究：Standard-Dose Tenecteplase vs Low-Dose Alteplase for Acute Ischemic Stroke From Large-Vessel Occlusion: A Randomized Clinical Trial.
    - 来源：JAMA neurology｜类型：RCT｜分数：86
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42223935/
    - 简述：JAMA neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-14. 代谢/肥胖/糖尿病研究：Safety, tolerability, pharmacokinetics, and efficacy of burosumab in infants with X-linked hypophosphataemia: an open-label, multicentre, non-randomised study.
-   - 来源：The lancet. Diabetes & endocrinology｜类型：Phase 2 trial｜分数：86
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42044650/
-   - 简述：The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+14. 心血管研究：Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.
+   - 来源：JAMA｜类型：RCT｜分数：80
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42096239/
+   - 简述：JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 15. 综合医学研究：Spinal Manipulation and Clinician-Supported Self-Management for Preventing Chronic Low Back Pain Impact: The PACBACK Randomized Clinical Trial.
    - 来源：JAMA internal medicine｜类型：RCT｜分数：80
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42223934/
    - 简述：JAMA internal medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-16. 肿瘤/血液肿瘤研究：Mailed Outreach for Colorectal Cancer Screening in Community Health Centers: The CARES Pragmatic Cluster Randomized Clinical Trial.
-   - 来源：JAMA internal medicine｜类型：RCT｜分数：80
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42043827/
-   - 简述：JAMA internal medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-17. 综合医学研究：Fecal Microbiota Transplant and Multidrug-Resistant Organism Decolonization in Gastrointestinal Disease: A Randomized Clinical Trial.
-   - 来源：JAMA internal medicine｜类型：RCT｜分数：80
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42008253/
-   - 简述：JAMA internal medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-18. 公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
+16. 肿瘤/血液肿瘤研究：Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial.
+   - 来源：Nature medicine｜类型：Clinical trial｜分数：76
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42225991/
+   - 简述：Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+17. 公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
    - 来源：JAMA｜类型：RCT｜分数：72
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42223961/
    - 简述：JAMA 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
-19. 神经科学/神经疾病研究：Benefits and Harms of Dementia Screening for Family Members of Older Adults: A Randomized Clinical Trial.
-   - 来源：JAMA internal medicine｜类型：RCT｜分数：72
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42008257/
-   - 简述：JAMA internal medicine 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-20. 综合医学研究：Cerebral Oximetry in Extremely Preterm Infants: 2-Year Follow-Up of the SafeBoosC-III Randomized Clinical Trial.
-   - 来源：JAMA pediatrics｜类型：RCT｜分数：72
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42008246/
-   - 简述：JAMA pediatrics 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+18. 神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
+   - 来源：The Lancet｜类型：RCT｜分数：70
+   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00865-2/fulltext?rss=yes
+   - 简述：The Lancet 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+19. 重症医学/急危重症研究：Personalized automatic management of tracheal cuff pressure and subglottic secretions drainage to prevent pneumonia in critically ill intubated patients. The MICROINHALO multicenter randomized controlled trial.
+   - 来源：Intensive care medicine｜类型：RCT｜分数：66
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42228008/
+   - 简述：Intensive care medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
+20. 综合医学研究：Decision and Cost-Effectiveness Analyses Complement Results From Randomized Clinical Trials.
+   - 来源：JAMA｜类型：RCT｜分数：64
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42223966/
+   - 简述：JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
