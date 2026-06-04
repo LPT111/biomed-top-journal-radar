@@ -1,6 +1,60 @@
-# 医学科学新闻推文候选草稿｜2026-06-03 10:12:41
+# 医学科学新闻推文候选草稿｜2026-06-04 10:10:33
 
-## 1. 同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
+## 1. 广元市第一人民医院开展国际临床试验日宣传活动 - sc.china.com.cn
+
+【医学科学新闻】广元市第一人民医院开展国际临床试验日宣传活动 - sc.china.com.cn
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Mon, 01 Jun 2026 06:22:00 GMT｜https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xa1RXeHBMWkFUbzJLeGUycEN6SFdGX1NMWU9odmZkcUZtNjRFZmU1d0cxN1RHU3FaWVc2SFhYNGtFcHZJcVVna0tGenFXUWZlTTNfRmt5OXNQUExiUmNjdUZKQ2VCdw?oc=5
+
+---
+
+## 2. CAR-T治疗自身免疫病：癌症细胞疗法的获益、风险与就医路径 - medfind.link
+
+【医学科学新闻】CAR-T治疗自身免疫病：癌症细胞疗法的获益、风险与就医路径 - medfind.link
+
+一、为什么重要
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Wed, 03 Jun 2026 05:13:23 GMT｜https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UdmwxT3ZtU2tRWVlFMG15OUphMGFwZ01lbC1hS3h5djZVcWVFQm10eVVjNXBnc1NYc3ZGaVdyaUJnWG8tUHc?oc=5
+
+---
+
+## 3. 同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
 
 【医学科学新闻】同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
 
@@ -27,15 +81,15 @@ Google News CN｜Thu, 28 May 2026 10:53:00 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 2. 【智能生物制药研究支援事业】⑭：基于AI驱动型科学的实体肿瘤CAR-T细胞疗法的实用化开发 - 客观日本
+## 4. 北大医学新获批16个北京市重点实验室！ - 北京大学医学部
 
-【医学科学新闻】【智能生物制药研究支援事业】⑭：基于AI驱动型科学的实体肿瘤CAR-T细胞疗法的实用化开发 - 客观日本
+【医学科学新闻】北大医学新获批16个北京市重点实验室！ - 北京大学医学部
 
 一、为什么重要
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -50,11 +104,11 @@ Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Thu, 28 May 2026 01:27:24 GMT｜https://news.google.com/rss/articles/CBMieEFVX3lxTE9FR3d6Wnl0Rmdud1BjZk9VN1BwekJOUDNsaXp1NTJNRmlNOEV3WGlucndnRVlkV3RSc0VrMS12MDc4cHhldUpFR0tmNnU2WW8zV19VUXB3WU9Qb0xQUTZmZlFrcHNxbFBsdGZUWVptcTFRTmFuNE1lZQ?oc=5
+Google News CN｜Thu, 04 Jun 2026 00:43:44 GMT｜https://news.google.com/rss/articles/CBMifkFVX3lxTE1mcG5FMWtpai10SXBpMngybXlrTnBKeUR2SUlKMkdzeExHV2VIMFpRSEdwbDhsVVY1RmY1dHRJMlQxdWpIRm9JSklBeGZPN3pNdW94NlF1eVlmX0x2OVRIQ1dLLVZxSTBERUwyZ3JJMUxmQl9qVjZpaUNmLWNPdw?oc=5
 
 ---
 
-## 3. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
+## 5. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
 
 【医学科学新闻】2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
 
@@ -77,146 +131,11 @@ Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Fri, 29 May 2026 09:08:20 GMT｜https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbXdoMGVQb0h5a0Z0aE9rdVpjVFItcVdhMGwzbjV0RkdxaDlFYkpLbTVUMm4zd08yU3B4aTAyck40LVV1NlFwdDFVM2VXYmtCRzRZM19qZw?oc=5
+Google News CN｜Fri, 29 May 2026 10:07:09 GMT｜https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbXdoMGVQb0h5a0Z0aE9rdVpjVFItcVdhMGwzbjV0RkdxaDlFYkpLbTVUMm4zd08yU3B4aTAyck40LVV1NlFwdDFVM2VXYmtCRzRZM19qZw?oc=5
 
 ---
 
-## 4. 中国量子医疗领航人、中国量子共振检测仪发明人、中国量子产业控股集团创始人 张海涛 - 中华网生活
-
-【医学科学新闻】中国量子医疗领航人、中国量子共振检测仪发明人、中国量子产业控股集团创始人 张海涛 - 中华网生活
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 27 May 2026 06:59:03 GMT｜https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tNE02T25HQVJ3NC1fYXhtNl9PeHpjTi1KOWJKM1hheF9uWnJDSDhxemQ1d05Qb25paU1KMF9yUzg0UzJuU2d0SUR0VUZvV2ZhaXRsM0lFMjF3V0Fyb2tZQ01JZw?oc=5
-
----
-
-## 5. 临研人必藏｜IIT定义·分类·全流程合规指南- 行业新闻- 医疗器械- 瑞旭集团 - CIRS Group
-
-【医学科学新闻】临研人必藏｜IIT定义·分类·全流程合规指南- 行业新闻- 医疗器械- 瑞旭集团 - CIRS Group
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 27 May 2026 06:33:41 GMT｜https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFpZeW1HN3VXV2J1NXljZ1RTR19HOFFDY19ESUNkbkFsVnRqSE9fOXdRYWZLRzFOZ1Z4bS1CN3pqTWJNZUtUenFQdllVbnZQZ25tZXpoOUdRQ3lSb0dIUXhPSy0ydHlDWTl3OFhZbEh4OVhjSEhJcFREX3FlOEZONzEwWXVLemxFSV9tR3pYVW1SN25UZVV3Zlc4S1FiUHRuVTNJ?oc=5
-
----
-
-## 6. 肿瘤/血液肿瘤研究：Savolitinib in MET-amplified gastric or gastroesophageal junction adenocarcinoma: a phase 2 trial.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Savolitinib in MET-amplified gastric or gastroesophageal junction adenocarcinoma: a phase 2 trial.
-
-一、为什么重要
-Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42225990/
-
----
-
-## 7. 肿瘤/血液肿瘤研究：[177Lu]Lu-dota-tate versus sunitinib in patients with metastatic progressive neuroendocrine tumours of the pancreas (OCLURANDOM): a randomised, controlled, phase 2 trial.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：[177Lu]Lu-dota-tate versus sunitinib in patients with metastatic progressive neuroendocrine tumours of the pancreas (OCLURANDOM): a randomised, controlled, phase 2 trial.
-
-一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Oncology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42225102/
-
----
-
-## 8. 肿瘤/血液肿瘤研究：Aglatimagene besadenovec (CAN-2409) with radiotherapy for patients with localised prostate cancer: a phase 3, multicentre, randomised, double-blind, placebo-controlled trial.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Aglatimagene besadenovec (CAN-2409) with radiotherapy for patients with localised prostate cancer: a phase 3, multicentre, randomised, double-blind, placebo-controlled trial.
-
-一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Oncology｜2026-Jun｜https://pubmed.ncbi.nlm.nih.gov/42225101/
-
----
-
-## 9. 心血管研究：Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.
+## 6. 心血管研究：Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.
 
 【医学科学新闻】心血管研究：Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.
 
@@ -243,15 +162,15 @@ JAMA｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42099212/
 
 ---
 
-## 10. 肿瘤/血液肿瘤研究：Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.
+## 7. 综合医学研究：Obexelimab for the Treatment of IgG4-Related Disease.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.
+【医学科学新闻】综合医学研究：Obexelimab for the Treatment of IgG4-Related Disease.
 
 一、为什么重要
-JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -266,19 +185,19 @@ JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA oncology｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42224659/
+The New England journal of medicine｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42233621/
 
 ---
 
-## 11. 肿瘤/血液肿瘤研究：Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.
+## 8. 综合医学研究：15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.
+【医学科学新闻】综合医学研究：15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial.
 
 一、为什么重要
-JAMA 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -293,19 +212,19 @@ JAMA 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42224490/
+Nature medicine｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42230754/
 
 ---
 
-## 12. 肿瘤/血液肿瘤研究：SEZ6-targeting antibody-drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial.
+## 9. 综合医学研究：Phase 3 Trial of Secukinumab in Polymyalgia Rheumatica.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：SEZ6-targeting antibody-drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial.
+【医学科学新闻】综合医学研究：Phase 3 Trial of Secukinumab in Polymyalgia Rheumatica.
 
 一、为什么重要
-Nature medicine 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+The New England journal of medicine 发布的综合医学相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -320,19 +239,19 @@ Nature medicine 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42225988/
+The New England journal of medicine｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234540/
 
 ---
 
-## 13. 神经科学/神经疾病研究：Standard-Dose Tenecteplase vs Low-Dose Alteplase for Acute Ischemic Stroke From Large-Vessel Occlusion: A Randomized Clinical Trial.
+## 10. 心血管研究：Finerenone Across Cardiovascular-Kidney-Metabolic Syndrome Stages: Post Hoc Analysis of the FIDELITY Randomized Clinical Trials.
 
-【医学科学新闻】神经科学/神经疾病研究：Standard-Dose Tenecteplase vs Low-Dose Alteplase for Acute Ischemic Stroke From Large-Vessel Occlusion: A Randomized Clinical Trial.
+【医学科学新闻】心血管研究：Finerenone Across Cardiovascular-Kidney-Metabolic Syndrome Stages: Post Hoc Analysis of the FIDELITY Randomized Clinical Trials.
 
 一、为什么重要
-JAMA neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -347,11 +266,38 @@ JAMA neurology 发布的神经科学/神经疾病相关RCT，值得关注其研�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA neurology｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42223935/
+JAMA cardiology｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234437/
 
 ---
 
-## 14. 心血管研究：Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.
+## 11. 心血管研究：Precardioversion Heart Rhythm Monitoring Using Smartphone Photoplethysmography: The SMARTBEATS Randomized Clinical Trial.
+
+【医学科学新闻】心血管研究：Precardioversion Heart Rhythm Monitoring Using Smartphone Photoplethysmography: The SMARTBEATS Randomized Clinical Trial.
+
+一、为什么重要
+JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA cardiology｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234449/
+
+---
+
+## 12. 心血管研究：Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.
 
 【医学科学新闻】心血管研究：Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.
 
@@ -378,66 +324,12 @@ JAMA｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42096239/
 
 ---
 
-## 15. 综合医学研究：Spinal Manipulation and Clinician-Supported Self-Management for Preventing Chronic Low Back Pain Impact: The PACBACK Randomized Clinical Trial.
+## 13. 公共卫生/流行病学研究：Surgeon Social Jet Lag and Patient Risk of Major Adverse Events.
 
-【医学科学新闻】综合医学研究：Spinal Manipulation and Clinician-Supported Self-Management for Preventing Chronic Low Back Pain Impact: The PACBACK Randomized Clinical Trial.
-
-一、为什么重要
-JAMA internal medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA internal medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42223934/
-
----
-
-## 16. 肿瘤/血液肿瘤研究：Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial.
+【医学科学新闻】公共卫生/流行病学研究：Surgeon Social Jet Lag and Patient Risk of Major Adverse Events.
 
 一、为什么重要
-Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature medicine｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42225991/
-
----
-
-## 17. 公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
-
-【医学科学新闻】公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
-
-一、为什么重要
-JAMA 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
+JAMA surgery 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -455,11 +347,65 @@ JAMA 发布的公共卫生/流行病学相关RCT，值得关注其研究设计�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42223961/
+JAMA surgery｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234451/
 
 ---
 
-## 18. 神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
+## 14. 肿瘤/血液肿瘤研究：Duke Pancreatic Monoclonal Antigen Type 2 for Monitoring Carbohydrate Antigen 19-9 Nonexpressor Pancreatic Cancer.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：Duke Pancreatic Monoclonal Antigen Type 2 for Monitoring Carbohydrate Antigen 19-9 Nonexpressor Pancreatic Cancer.
+
+一、为什么重要
+JAMA surgery 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA surgery｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234435/
+
+---
+
+## 15. 公共卫生/流行病学研究：Global burden of enteric infectious diseases, diarrhoeal diseases, and corresponding aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.
+
+【医学科学新闻】公共卫生/流行病学研究：Global burden of enteric infectious diseases, diarrhoeal diseases, and corresponding aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.
+
+一、为什么重要
+The Lancet. Infectious diseases 发布的公共卫生/流行病学相关Meta-analysis，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet. Infectious diseases｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42229499/
+
+---
+
+## 16. 神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
 
 【医学科学新闻】神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
 
@@ -483,6 +429,60 @@ The Lancet 发布的神经科学/神经疾病相关RCT，值得关注其研究�
 
 七、参考信息
 The Lancet｜2026-05-30｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00865-2/fulltext?rss=yes
+
+---
+
+## 17. 心血管研究：Safety of low lipoprotein(a) levels: the FOURIER trial.
+
+【医学科学新闻】心血管研究：Safety of low lipoprotein(a) levels: the FOURIER trial.
+
+一、为什么重要
+European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+European heart journal｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234492/
+
+---
+
+## 18. 公共卫生/流行病学研究：Long-Term Outcomes After Cervical Cold Knife Conization or Loop Electrosurgical Excision Procedure.
+
+【医学科学新闻】公共卫生/流行病学研究：Long-Term Outcomes After Cervical Cold Knife Conization or Loop Electrosurgical Excision Procedure.
+
+一、为什么重要
+JAMA surgery 发布的公共卫生/流行病学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA surgery｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234447/
 
 ---
 
@@ -513,15 +513,15 @@ Intensive care medicine｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42228008
 
 ---
 
-## 20. 综合医学研究：Decision and Cost-Effectiveness Analyses Complement Results From Randomized Clinical Trials.
+## 20. 生物医药/细胞与基因治疗研究：Programmable, multiplexed and orthogonal gene control in bacteria with attenuated Cas13d systems.
 
-【医学科学新闻】综合医学研究：Decision and Cost-Effectiveness Analyses Complement Results From Randomized Clinical Trials.
+【医学科学新闻】生物医药/细胞与基因治疗研究：Programmable, multiplexed and orthogonal gene control in bacteria with attenuated Cas13d systems.
 
 一、为什么重要
-JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature biotechnology 发布的生物医药/细胞与基因治疗相关Original research，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕生物医药/细胞与基因治疗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -536,6 +536,6 @@ JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA｜2026-Jun-01｜https://pubmed.ncbi.nlm.nih.gov/42223966/
+Nature biotechnology｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42230991/
 
 ---
