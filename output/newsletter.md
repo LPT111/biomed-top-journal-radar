@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-06-04 10:10:33
+# 医学科学新闻推文候选草稿｜2026-06-05 09:52:19
 
 ## 1. 广元市第一人民医院开展国际临床试验日宣传活动 - sc.china.com.cn
 
@@ -54,9 +54,9 @@ Google News CN｜Wed, 03 Jun 2026 05:13:23 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. 同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
+## 3. 术后"怎么吃"不再问护士：一间手术病房的24小时AI"智询服务站" - 中华网
 
-【医学科学新闻】同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
+【医学科学新闻】术后"怎么吃"不再问护士：一间手术病房的24小时AI"智询服务站" - 中华网
 
 一、为什么重要
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -77,7 +77,7 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Thu, 28 May 2026 10:53:00 GMT｜https://news.google.com/rss/articles/CBMidkFVX3lxTE51NFBZRHlqVG5mVmxReWlPVGhUb1FnbGdKd1ptb0YzT3R6Ukt0ZG5EVXpFcmdpXzh6LURQSmlmM1YtSkh0SjNqaUhJcDVlandvcTN2NmQ1MXhiWmplS1F2bVJiSS1PMVkxMFlBTm9jTGFjTmZ3T2c?oc=5
+Google News CN｜Thu, 04 Jun 2026 12:31:47 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcTR2Tl9zZEdwYkRoUmNIakVQMy1DcXpIeTUyM2pEY21lbU5JWDNMejl0bkw2QXJHQkFSeHBVblhtaEdXQ2Z3c1VrcEV2M19UM2pPaXg5MTk4Z0dmNkhOVm83YUN3cVEyaFRlUU13?oc=5
 
 ---
 
@@ -135,15 +135,15 @@ Google News CN｜Fri, 29 May 2026 10:07:09 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 6. 心血管研究：Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.
+## 6. 代谢/肥胖/糖尿病研究：[Department of Error] Department of Error
 
-【医学科学新闻】心血管研究：Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.
+【医学科学新闻】代谢/肥胖/糖尿病研究：[Department of Error] Department of Error
 
 一、为什么重要
-JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+The Lancet 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -158,19 +158,19 @@ JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42099212/
+The Lancet｜2026-06-06｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01134-7/fulltext?rss=yes
 
 ---
 
-## 7. 综合医学研究：Obexelimab for the Treatment of IgG4-Related Disease.
+## 7. 代谢/肥胖/糖尿病研究：[Articles] Tirzepatide for maintenance of bodyweight reduction in people with obesity in the USA (SURMOUNT-MAINTAIN): a multicentre, double-blind, randomised, placebo-controlled trial
 
-【医学科学新闻】综合医学研究：Obexelimab for the Treatment of IgG4-Related Disease.
+【医学科学新闻】代谢/肥胖/糖尿病研究：[Articles] Tirzepatide for maintenance of bodyweight reduction in people with obesity in the USA (SURMOUNT-MAINTAIN): a multicentre, double-blind, randomised, placebo-controlled trial
 
 一、为什么重要
-The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+The Lancet 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -185,313 +185,16 @@ The New England journal of medicine 发布的综合医学相关RCT，值得关�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The New England journal of medicine｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42233621/
+The Lancet｜2026-05-12T22:01:01Z｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00656-2/fulltext?rss=yes
 
 ---
 
-## 8. 综合医学研究：15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial.
+## 8. 重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial
 
-【医学科学新闻】综合医学研究：15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial.
-
-一、为什么重要
-Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature medicine｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42230754/
-
----
-
-## 9. 综合医学研究：Phase 3 Trial of Secukinumab in Polymyalgia Rheumatica.
-
-【医学科学新闻】综合医学研究：Phase 3 Trial of Secukinumab in Polymyalgia Rheumatica.
+【医学科学新闻】重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial
 
 一、为什么重要
-The New England journal of medicine 发布的综合医学相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The New England journal of medicine｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234540/
-
----
-
-## 10. 心血管研究：Finerenone Across Cardiovascular-Kidney-Metabolic Syndrome Stages: Post Hoc Analysis of the FIDELITY Randomized Clinical Trials.
-
-【医学科学新闻】心血管研究：Finerenone Across Cardiovascular-Kidney-Metabolic Syndrome Stages: Post Hoc Analysis of the FIDELITY Randomized Clinical Trials.
-
-一、为什么重要
-JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA cardiology｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234437/
-
----
-
-## 11. 心血管研究：Precardioversion Heart Rhythm Monitoring Using Smartphone Photoplethysmography: The SMARTBEATS Randomized Clinical Trial.
-
-【医学科学新闻】心血管研究：Precardioversion Heart Rhythm Monitoring Using Smartphone Photoplethysmography: The SMARTBEATS Randomized Clinical Trial.
-
-一、为什么重要
-JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA cardiology｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234449/
-
----
-
-## 12. 心血管研究：Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.
-
-【医学科学新闻】心血管研究：Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.
-
-一、为什么重要
-JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42096239/
-
----
-
-## 13. 公共卫生/流行病学研究：Surgeon Social Jet Lag and Patient Risk of Major Adverse Events.
-
-【医学科学新闻】公共卫生/流行病学研究：Surgeon Social Jet Lag and Patient Risk of Major Adverse Events.
-
-一、为什么重要
-JAMA surgery 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA surgery｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234451/
-
----
-
-## 14. 肿瘤/血液肿瘤研究：Duke Pancreatic Monoclonal Antigen Type 2 for Monitoring Carbohydrate Antigen 19-9 Nonexpressor Pancreatic Cancer.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Duke Pancreatic Monoclonal Antigen Type 2 for Monitoring Carbohydrate Antigen 19-9 Nonexpressor Pancreatic Cancer.
-
-一、为什么重要
-JAMA surgery 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA surgery｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234435/
-
----
-
-## 15. 公共卫生/流行病学研究：Global burden of enteric infectious diseases, diarrhoeal diseases, and corresponding aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.
-
-【医学科学新闻】公共卫生/流行病学研究：Global burden of enteric infectious diseases, diarrhoeal diseases, and corresponding aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.
-
-一、为什么重要
-The Lancet. Infectious diseases 发布的公共卫生/流行病学相关Meta-analysis，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Infectious diseases｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42229499/
-
----
-
-## 16. 神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
-
-【医学科学新闻】神经科学/神经疾病研究：[Articles] Efficacy and safety of intravenous prasinezumab in individuals with early-stage Parkinson's disease on stable symptomatic monotherapy (PADOVA): a phase 2b, multicentre, randomised, double-blind, placebo-controlled study
-
-一、为什么重要
-The Lancet 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet｜2026-05-30｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00865-2/fulltext?rss=yes
-
----
-
-## 17. 心血管研究：Safety of low lipoprotein(a) levels: the FOURIER trial.
-
-【医学科学新闻】心血管研究：Safety of low lipoprotein(a) levels: the FOURIER trial.
-
-一、为什么重要
-European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-European heart journal｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234492/
-
----
-
-## 18. 公共卫生/流行病学研究：Long-Term Outcomes After Cervical Cold Knife Conization or Loop Electrosurgical Excision Procedure.
-
-【医学科学新闻】公共卫生/流行病学研究：Long-Term Outcomes After Cervical Cold Knife Conization or Loop Electrosurgical Excision Procedure.
-
-一、为什么重要
-JAMA surgery 发布的公共卫生/流行病学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA surgery｜2026-Jun-03｜https://pubmed.ncbi.nlm.nih.gov/42234447/
-
----
-
-## 19. 重症医学/急危重症研究：Personalized automatic management of tracheal cuff pressure and subglottic secretions drainage to prevent pneumonia in critically ill intubated patients. The MICROINHALO multicenter randomized controlled trial.
-
-【医学科学新闻】重症医学/急危重症研究：Personalized automatic management of tracheal cuff pressure and subglottic secretions drainage to prevent pneumonia in critically ill intubated patients. The MICROINHALO multicenter randomized controlled trial.
-
-一、为什么重要
-Intensive care medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature Medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕重症医学/急危重症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -509,16 +212,151 @@ Intensive care medicine 发布的重症医学/急危重症相关RCT，值得关�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Intensive care medicine｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42228008/
+Nature Medicine｜2026-06-04｜https://www.nature.com/articles/s41591-026-04422-6
 
 ---
 
-## 20. 生物医药/细胞与基因治疗研究：Programmable, multiplexed and orthogonal gene control in bacteria with attenuated Cas13d systems.
+## 9. 综合医学研究：[Articles] Efficacy and safety of the CD40 ligand inhibitor dapirolizumab pegol in systemic lupus erythematosus (PHOENYCS GO): a randomised, double-blind, placebo-controlled, phase 3 trial
 
-【医学科学新闻】生物医药/细胞与基因治疗研究：Programmable, multiplexed and orthogonal gene control in bacteria with attenuated Cas13d systems.
+【医学科学新闻】综合医学研究：[Articles] Efficacy and safety of the CD40 ligand inhibitor dapirolizumab pegol in systemic lupus erythematosus (PHOENYCS GO): a randomised, double-blind, placebo-controlled, phase 3 trial
 
 一、为什么重要
-Nature biotechnology 发布的生物医药/细胞与基因治疗相关Original research，值得关注其研究设计、核心发现和转化边界。
+The Lancet 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet｜2026-05-29T22:30:02Z｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00691-4/fulltext?rss=yes
+
+---
+
+## 10. 心血管研究：[Articles] Coronary microvascular dysfunction and cardiovascular outcomes (Multicenter FLOW-CMD Registry): a prospective, multicentre cohort study in South Korea
+
+【医学科学新闻】心血管研究：[Articles] Coronary microvascular dysfunction and cardiovascular outcomes (Multicenter FLOW-CMD Registry): a prospective, multicentre cohort study in South Korea
+
+一、为什么重要
+The Lancet 发布的心血管相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet｜2026-05-21T14:15:00Z｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00666-5/fulltext?rss=yes
+
+---
+
+## 11. 心血管研究：Periosteal pressure sensitivity-guided non-pharmacological intervention lowers cardiovascular event rates after five years in ischemic heart disease: Evidence from a randomized controlled trial
+
+【医学科学新闻】心血管研究：Periosteal pressure sensitivity-guided non-pharmacological intervention lowers cardiovascular event rates after five years in ischemic heart disease: Evidence from a randomized controlled trial
+
+一、为什么重要
+medrxiv 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+medrxiv｜2026-05-29｜https://doi.org/10.64898/2026.05.27.26354261
+
+---
+
+## 12. 心血管研究：[Correspondence] Minocycline for acute ischaemic stroke: limitations of the EMPHASIS trial
+
+【医学科学新闻】心血管研究：[Correspondence] Minocycline for acute ischaemic stroke: limitations of the EMPHASIS trial
+
+一、为什么重要
+The Lancet 发布的心血管相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet｜2026-06-06｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00849-4/fulltext?rss=yes
+
+---
+
+## 13. 心血管研究：[Correspondence] Minocycline for acute ischaemic stroke: limitations of the EMPHASIS trial – Authors’ reply
+
+【医学科学新闻】心血管研究：[Correspondence] Minocycline for acute ischaemic stroke: limitations of the EMPHASIS trial – Authors’ reply
+
+一、为什么重要
+The Lancet 发布的心血管相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet｜2026-06-06｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00962-1/fulltext?rss=yes
+
+---
+
+## 14. 生物医药/细胞与基因治疗研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial
+
+【医学科学新闻】生物医药/细胞与基因治疗研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial
+
+一、为什么重要
+Nature Medicine 发布的生物医药/细胞与基因治疗相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕生物医药/细胞与基因治疗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -536,6 +374,168 @@ Nature biotechnology 发布的生物医药/细胞与基因治疗相关Original r
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature biotechnology｜2026-Jun-02｜https://pubmed.ncbi.nlm.nih.gov/42230991/
+Nature Medicine｜2026-06-04｜https://www.nature.com/articles/s41591-026-04441-3
+
+---
+
+## 15. 心血管研究：Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial
+
+【医学科学新闻】心血管研究：Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial
+
+一、为什么重要
+Nature Medicine 发布的心血管相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature Medicine｜2026-06-04｜https://www.nature.com/articles/s41591-026-04435-1
+
+---
+
+## 16. 综合医学研究：[Comment] Microvascular dysfunction in atherosclerotic coronary disease
+
+【医学科学新闻】综合医学研究：[Comment] Microvascular dysfunction in atherosclerotic coronary disease
+
+一、为什么重要
+The Lancet 发布的综合医学相关Guideline，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet｜2026-05-21T14:15:00Z｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00862-7/fulltext?rss=yes
+
+---
+
+## 17. 心血管研究：[World Report] Hypertension control: a South Korean success story
+
+【医学科学新闻】心血管研究：[World Report] Hypertension control: a South Korean success story
+
+一、为什么重要
+The Lancet 发布的心血管相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet｜2026-06-06｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01140-2/fulltext?rss=yes
+
+---
+
+## 18. 感染/疫苗研究：Reply to: Limited evidence of AI superiority in seasonal influenza vaccine strain selection
+
+【医学科学新闻】感染/疫苗研究：Reply to: Limited evidence of AI superiority in seasonal influenza vaccine strain selection
+
+一、为什么重要
+Nature Medicine 发布的感染/疫苗相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature Medicine｜2026-06-03｜https://www.nature.com/articles/s41591-026-04460-0
+
+---
+
+## 19. 感染/疫苗研究：Limited evidence of AI superiority in seasonal influenza vaccine strain selection
+
+【医学科学新闻】感染/疫苗研究：Limited evidence of AI superiority in seasonal influenza vaccine strain selection
+
+一、为什么重要
+Nature Medicine 发布的感染/疫苗相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature Medicine｜2026-06-03｜https://www.nature.com/articles/s41591-026-04461-z
+
+---
+
+## 20. 医疗AI/数字医学研究：AI in science recruitment: friend or foe? Join our free webinar
+
+【医学科学新闻】医疗AI/数字医学研究：AI in science recruitment: friend or foe? Join our free webinar
+
+一、为什么重要
+Nature 发布的医疗AI/数字医学相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕医疗AI/数字医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature｜2026-06-03｜https://www.nature.com/articles/d41586-026-01774-4
 
 ---

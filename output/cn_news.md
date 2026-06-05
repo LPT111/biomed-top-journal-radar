@@ -10,11 +10,11 @@
    - 时间：Wed, 03 Jun 2026 05:13:23 GMT
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UdmwxT3ZtU2tRWVlFMG15OUphMGFwZ01lbC1hS3h5djZVcWVFQm10eVVjNXBnc1NYc3ZGaVdyaUJnWG8tUHc?oc=5" target="_blank">CAR-T治疗自身免疫病：癌症细胞疗法的获益、风险与就医路径</a>&nbsp;&nbsp;<font color="#6f6f6f">medfind.link</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UdmwxT3ZtU2tRWVlFMG15OUphMGFwZ01lbC1hS3h5djZVcWVFQm10eVVjNXBnc1NYc3ZGaVdyaUJnWG8tUHc?oc=5
-3. 同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破 - 新浪财经
+3. 术后"怎么吃"不再问护士：一间手术病房的24小时AI"智询服务站" - 中华网
    - 来源：Google News CN
-   - 时间：Thu, 28 May 2026 10:53:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE51NFBZRHlqVG5mVmxReWlPVGhUb1FnbGdKd1ptb0YzT3R6Ukt0ZG5EVXpFcmdpXzh6LURQSmlmM1YtSkh0SjNqaUhJcDVlandvcTN2NmQ1MXhiWmplS1F2bVJiSS1PMVkxMFlBTm9jTGFjTmZ3T2c?oc=5" target="_blank">同济医院与阿里云达成合作，以AI驱动精准诊疗技术突破</a>&nbsp;&nbsp;<font color="#6f6f6f">新浪财经</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMidkFVX3lxTE51NFBZRHlqVG5mVmxReWlPVGhUb1FnbGdKd1ptb0YzT3R6Ukt0ZG5EVXpFcmdpXzh6LURQSmlmM1YtSkh0SjNqaUhJcDVlandvcTN2NmQ1MXhiWmplS1F2bVJiSS1PMVkxMFlBTm9jTGFjTmZ3T2c?oc=5
+   - 时间：Thu, 04 Jun 2026 12:31:47 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcTR2Tl9zZEdwYkRoUmNIakVQMy1DcXpIeTUyM2pEY21lbU5JWDNMejl0bkw2QXJHQkFSeHBVblhtaEdXQ2Z3c1VrcEV2M19UM2pPaXg5MTk4Z0dmNkhOVm83YUN3cVEyaFRlUU13?oc=5" target="_blank">术后"怎么吃"不再问护士：一间手术病房的24小时AI"智询服务站"</a>&nbsp;&nbsp;<font color="#6f6f6f">中华网</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcTR2Tl9zZEdwYkRoUmNIakVQMy1DcXpIeTUyM2pEY21lbU5JWDNMejl0bkw2QXJHQkFSeHBVblhtaEdXQ2Z3c1VrcEV2M19UM2pPaXg5MTk4Z0dmNkhOVm83YUN3cVEyaFRlUU13?oc=5
 4. 北大医学新获批16个北京市重点实验室！ - 北京大学医学部
    - 来源：Google News CN
    - 时间：Thu, 04 Jun 2026 00:43:44 GMT
