@@ -1,79 +1,91 @@
 # 国际顶刊与医学科学新闻
 
-1. 代谢/肥胖/糖尿病研究：[Department of Error] Department of Error
-   - 来源：The Lancet
-   - 时间：2026-06-06
-   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The Lancet，类型初步识别为RCT。摘要信息显示：Horn DB, Aronne LJ, Wharton S, et al. Tirzepatide for maintenance of bodyweight reduction in people with obesity in the USA (SURMOUNT-MAINTAIN): a multicentre, double-blind, randomised, placebo-controlled trial. Lancet 2026; 407: 2305–18—In this Article, the denominator for placebo for 'Use of rescue tirzepatide’ has been corrected. In figure 3, panels C and D, the y-axes have been corrected to bodyweight change, kg. Minor grammatical inconsistencies have also been corrected. These corrections have made to the onli... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01134-7/fulltext?rss=yes
-2. 代谢/肥胖/糖尿病研究：[Articles] Tirzepatide for maintenance of bodyweight reduction in people with obesity in the USA (SURMOUNT-MAINTAIN): a multicentre, double-blind, randomised, placebo-controlled trial
-   - 来源：The Lancet
-   - 时间：2026-05-12T22:01:01Z
-   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The Lancet，类型初步识别为RCT。摘要信息显示：In adults with obesity, long-term treatment is often necessary to maintain bodyweight reduction and its associated cardiometabolic benefits. In the SURMOUNT-MAINTAIN trial, continuing tirzepatide at MTD maintained bodyweight reduction and health-related benefits. Reducing to 5 mg tirzepatide might provide a valuable alternative to discontinuation, although individuals’ treatment response might vary. Together, these findings support the importance of ongoing therapy for long-term obesity management and provide evide... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00656-2/fulltext?rss=yes
-3. 重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial
+1. 肿瘤/血液肿瘤研究：First-Line Serplulimab in Extensive-Stage Small Cell Lung Cancer: Secondary Analysis of the ASTRUM-005 Phase 3 Randomized Clinical Trial.
+   - 来源：JAMA oncology
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: The ASTRUM-005 phase 3 randomized clinical trial showed substantial survival benefit from adding serplulimab to chemotherapy for previously untreated extensive-stage small cell lung cancer (ES-SCLC). However, the long-term outcomes are unclear.
+OBJECTIVE: To investigate the efficacy, safety, patient-reported outcomes (PROs), and exploratory biomarker findings from ASTRUM-005 at an extended follow-up.
+DESIGN, SETTING, AND PARTICIPANTS: This international, double-blind, phase 3 randomized clinical trial e... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42240984/
+2. 肿瘤/血液肿瘤研究：All-Oral Treatment of Newly Diagnosed Acute Myeloid Leukemia.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: For patients with acute myeloid leukemia (AML) who are 75 years of age or older or who are ineligible for intensive induction chemotherapy, azacitidine or decitabine plus venetoclax is the standard of care, but parenteral administration imposes a burden on patients and providers. Oral decitabine-cedazuridine, approved in Europe for AML, has pharmacokinetic properties equivalent to those of intravenous decitabine but provides limited survival benefit as monotherapy.
+METHODS: In this phase 1-2, open-label... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42235013/
+3. 肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Jun-05
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Studies of obinutuzumab, a type II anti-CD20 antibody, have shown efficacy in the treatment of hematologic cancers and autoimmune diseases. An evaluation of the efficacy and safety of obinutuzumab in patients with primary membranous nephropathy is needed.
+METHODS: In a phase 3 trial, we randomly assigned adults with primary membranous nephropathy in a 1:1 ratio to receive intravenous obinutuzumab or oral tacrolimus. The primary end point was complete remission (defined as a urinary protein-to-creatinine... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42246654/
+4. 心血管研究：Finerenone in Persons with Chronic Kidney Disease without Diabetes.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: In randomized trials, finerenone, a nonsteroidal mineralocorticoid receptor antagonist, improved kidney and cardiovascular outcomes in patients with type 2 diabetes and chronic kidney disease (CKD). Whether finerenone has similar effects in patients without diabetes who have CKD is unknown.
+METHODS: We randomly assigned adults without diabetes who had CKD (estimated glomerular filtration rate [eGFR], 25 to <90 ml per minute per 1.73 m2 of body-surface area) and albuminuria (urinary albumin-to-creatinine... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42246672/
+5. 肿瘤/血液肿瘤研究：PD-(L)1 Inhibitor Monotherapy vs Chemoimmunotherapy for Advanced NSCLC With High PD-L1 Expression: A Systematic Review and Meta-Analysis.
+   - 来源：JAMA oncology
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: For patients with advanced non-small cell lung cancer (NSCLC) and programmed cell death 1 ligand 1 (PD-L1) expression of 50% or higher, programmed cell death 1 protein or PD-L1 (PD-[L]1) inhibitor monotherapy is commonly used as first-line therapy; however, whether adding chemotherapy improves outcomes in this population remains unknown.
+OBJECTIVE: To compare overall survival (OS) and progression-free survival (PFS) associated with PD-(L)1 inhibitor monotherapy vs chemoimmunotherapy in treatment-naive p... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42240993/
+6. 综合医学研究：Finerenone in Patients With Chronic Kidney Disease Due to Glomerular Diseases: A Randomized Clinical Trial.
+   - 来源：JAMA
+   - 时间：2026-Jun-05
+   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Glomerular diseases are a leading cause of chronic kidney disease (CKD) and kidney failure. Finerenone, a nonsteroidal mineralocorticoid receptor antagonist, reduces the risk of kidney function loss in CKD, but its effects in individuals with CKD due to glomerular diseases are uncertain.
+OBJECTIVES: To evaluate the efficacy and safety of finerenone in patients with glomerular diseases.
+DESIGN, SETTING, AND PARTICIPANTS: Prespecified exploratory subgroup analysis of a phase 3, randomized, double-blind, p... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42246414/
+7. 肿瘤/血液肿瘤研究：Intrathecal nivolumab in metastatic solid tumors with leptomeningeal disease: dose escalation part of the multicenter IT-PD1/NOA-26 phase 1 trial.
+   - 来源：Nature cancer
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature cancer，类型初步识别为Clinical trial。摘要信息显示：Leptomeningeal metastatic disease (LMD) of solid tumors represents a cancer stage with high unmet therapeutic need. Here we report results from the dose escalation part of a multicenter phase 1 trial investigating intraventricular nivolumab, now continuing in the expansion part. Eligible participants had LMD from tumors with an approval for intraveneous PD1/PDL1 therapy or high tumor mutational burden. The primary endpoint was safety across four dose levels (20, 30, 40 and 50 mg) with each cohort reviewed by an ind... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42243276/
+8. 重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial.
+   - 来源：Nature medicine
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦重症医学/急危重症。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：LGBTQ+ youth commonly have unmet mental health needs and are at elevated risk for self-harm, yet many face persistent institutional barriers to accessing support. One impactful way to reduce risk and promote wellbeing is by supporting emotion regulation; that is, the process by which individuals can influence which emotions they feel, when they feel them and how they experience or express these emotions. This universal, modifiable process is widely considered a key transdiagnostic target for mental ill-health preve... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42243547/
+9. 心血管研究：Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial.
+   - 来源：JAMA
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Approximately 10% to 15% of patients with advanced chronic kidney disease (CKD) experience a fatal or nonfatal cardiovascular event annually. The effects of antithrombotic therapies on cardiovascular events in patients with advanced CKD are unknown.
+OBJECTIVE: To determine whether low-dose rivaroxaban reduces rates of adverse cardiovascular events compared with placebo in patients with advanced CKD.
+DESIGN, SETTING, AND PARTICIPANTS: Randomized, double-blind, placebo-controlled trial conducted at 90 cen... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42240165/
+10. 心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
+   - 来源：Nature medicine
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦心血管。来源为Nature medicine，类型初步识别为Clinical trial。摘要信息显示：Homozygous familial hypercholesterolemia (HoFH) is a rare autosomal disease characterized by severely elevated low-density lipoprotein cholesterol (LDL-C) levels and accelerated atherosclerotic cardiovascular disease. More than 80% of patients with HoFH carry low-density lipoprotein receptor (LDLR) mutations. Here we developed an adeno-associated virus gene therapy designed to express LDLR in the liver and evaluated its safety and efficacy in lowering LDL-C levels in experimental animals and in patients with HoFH. ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42243546/
+11. 肿瘤/血液肿瘤研究：Treatment Delays in Early Age-Onset Colorectal Cancer.
+   - 来源：JAMA oncology
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为Original research。摘要信息显示：IMPORTANCE: Incidence of early age-onset colorectal cancer (EOCRC) is increasing. Delays in initiation of definitive therapy are associated with worse outcomes in colorectal cancer (CRC), but their impact on EOCRC has not been comprehensively characterized.
+OBJECTIVE: To evaluate incidence of EOCRC, identify patients affected by treatment delays, and determine targetable factors contributing to delayed therapy.
+DESIGN, SETTING, AND PARTICIPANTS: This retrospective, population-based cross-sectional study analyzed da... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42241009/
+12. 心血管研究：Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: For patients with atrial fibrillation, the use of oral anticoagulant therapy to prevent stroke is limited by the risk of bleeding. Left atrial appendage closure is considered for patients who are unsuitable candidates for long-term anticoagulation, but its role in patients who are eligible for anticoagulants has not been established.
+METHODS: In this ongoing, prospective, international, randomized trial involving patients with atrial fibrillation who were suitable candidates for anticoagulation, we rand... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/41910347/
+13. 代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial
    - 来源：Nature Medicine
-   - 时间：2026-06-04
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为Nature Medicine，类型初步识别为RCT。摘要信息显示：<p>Nature Medicine, Published online: 04 June 2026; <a href="https://www.nature.com/articles/s41591-026-04422-6">doi:10.1038/s41591-026-04422-6</a></p>A randomized controlled trial integrating Purrble, a socially assistive tactile robot, into safety planning found that LGBTQ+ youth at risk of self-harm experienced improvements in Difficulties in Emotion Regulation Scale and fewer depressive symptoms compared to safety planning alone. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.nature.com/articles/s41591-026-04422-6
-4. 综合医学研究：[Articles] Efficacy and safety of the CD40 ligand inhibitor dapirolizumab pegol in systemic lupus erythematosus (PHOENYCS GO): a randomised, double-blind, placebo-controlled, phase 3 trial
-   - 来源：The Lancet
-   - 时间：2026-05-29T22:30:02Z
-   - 摘要：这条内容聚焦综合医学。来源为The Lancet，类型初步识别为RCT。摘要信息显示：Dapirolizumab pegol was associated with significant improvement in disease activity in patients with SLE. These findings support the further investigation of dapirolizumab pegol as a treatment option for SLE. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00691-4/fulltext?rss=yes
-5. 心血管研究：[Articles] Coronary microvascular dysfunction and cardiovascular outcomes (Multicenter FLOW-CMD Registry): a prospective, multicentre cohort study in South Korea
-   - 来源：The Lancet
-   - 时间：2026-05-21T14:15:00Z
-   - 摘要：这条内容聚焦心血管。来源为The Lancet，类型初步识别为Original research。摘要信息显示：In patients with suspected ischaemic heart disease undergoing invasive coronary angiography, coronary microvascular dysfunction coexisted with epicardial coronary artery disease and was associated with a higher risk of the composite of all-cause death, myocardial infarction, clinically driven repeat revascularisation, or hospitalisation for heart failure. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00666-5/fulltext?rss=yes
-6. 心血管研究：Periosteal pressure sensitivity-guided non-pharmacological intervention lowers cardiovascular event rates after five years in ischemic heart disease: Evidence from a randomized controlled trial
-   - 来源：medrxiv
-   - 时间：2026-05-29
-   - 摘要：这条内容聚焦心血管。来源为medrxiv，类型初步识别为RCT。摘要信息显示：BackgroundPeople with ischemic heart disease (IHD) remain at high risk of recurrent major cardiovascular events despite contemporary therapy. Over two decades, a translational research program has evaluated pressure pain sensitivity (PPS) as a non-invasive marker of central autonomic dysfunction and a mutual risk phenotype in IHD and type 2 diabetes. A PPS-guided non-pharmacological intervention has been shown to substantially reduce five-year all-cause mortality in IHD.
-
-MethodsIn a randomized controlled trial, 21... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://doi.org/10.64898/2026.05.27.26354261
-7. 心血管研究：[Correspondence] Minocycline for acute ischaemic stroke: limitations of the EMPHASIS trial
-   - 来源：The Lancet
-   - 时间：2026-06-06
-   - 摘要：这条内容聚焦心血管。来源为The Lancet，类型初步识别为Clinical trial。摘要信息显示：The EMPHASIS trial reports a modest increase in 90-day functional outcomes with a 4·5-day minocycline course.1 Although this study helpfully re-examines neuroprotection in the reperfusion era, several design features temper confidence in its immediate generalisability. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00849-4/fulltext?rss=yes
-8. 心血管研究：[Correspondence] Minocycline for acute ischaemic stroke: limitations of the EMPHASIS trial – Authors’ reply
-   - 来源：The Lancet
-   - 时间：2026-06-06
-   - 摘要：这条内容聚焦心血管。来源为The Lancet，类型初步识别为Clinical trial。摘要信息显示：We thank Sherief Ghozy and colleagues for their comments on the EMPHASIS trial.1 We agree that neuroprotective strategies in acute ischaemic stroke should be interpreted in the context of statistical robustness, background therapy, patient selection, and generalisability. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00962-1/fulltext?rss=yes
-9. 生物医药/细胞与基因治疗研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial
-   - 来源：Nature Medicine
-   - 时间：2026-06-04
-   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Nature Medicine，类型初步识别为Clinical trial。摘要信息显示：<p>Nature Medicine, Published online: 04 June 2026; <a href="https://www.nature.com/articles/s41591-026-04441-3">doi:10.1038/s41591-026-04441-3</a></p>After preclinical testing, a phase 1 trial involving three individuals with familial hypercholesterolemia demonstrated preliminary evidence for the safety and efficacy of AAV8-mediated LDL receptor gene therapy. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.nature.com/articles/s41591-026-04441-3
-10. 心血管研究：Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial
-   - 来源：Nature Medicine
-   - 时间：2026-06-04
-   - 摘要：这条内容聚焦心血管。来源为Nature Medicine，类型初步识别为Clinical trial。摘要信息显示：<p>Nature Medicine, Published online: 04 June 2026; <a href="https://www.nature.com/articles/s41591-026-04435-1">doi:10.1038/s41591-026-04435-1</a></p>In this feasibility clinical trial, the authors show that epidural stimulation of the cervical spinal cord safely improved strength, function and spasticity in seven people with arm hemiparesis. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.nature.com/articles/s41591-026-04435-1
-11. 综合医学研究：[Comment] Microvascular dysfunction in atherosclerotic coronary disease
-   - 来源：The Lancet
-   - 时间：2026-05-21T14:15:00Z
-   - 摘要：这条内容聚焦综合医学。来源为The Lancet，类型初步识别为Guideline。摘要信息显示：Over the past two decades, recognition that non-obstructive causes of myocardial ischaemia account for anginal symptoms in millions of people has grown substantially. Since 2023, American and European clinical practice guidelines have recommended considering coronary microvascular dysfunction (CMD) or vasomotor disorders in patients with chronic coronary syndromes,1,2 as well as using functional coronary testing to reach a diagnosis and to characterise the dominant mechanism or endotype of vascular dysfunction. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00862-7/fulltext?rss=yes
-12. 心血管研究：[World Report] Hypertension control: a South Korean success story
-   - 来源：The Lancet
-   - 时间：2026-06-06
-   - 摘要：这条内容聚焦心血管。来源为The Lancet，类型初步识别为Original research。摘要信息显示：South Korea is one of the few countries considered to have controlled hypertension thanks to concerted policy over the past 15 years. Faith McLellan reports. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01140-2/fulltext?rss=yes
-13. 感染/疫苗研究：Reply to: Limited evidence of AI superiority in seasonal influenza vaccine strain selection
-   - 来源：Nature Medicine
-   - 时间：2026-06-03
-   - 摘要：这条内容聚焦感染/疫苗。来源为Nature Medicine，类型初步识别为Original research。摘要信息显示：<p>Nature Medicine, Published online: 03 June 2026; <a href="https://www.nature.com/articles/s41591-026-04460-0">doi:10.1038/s41591-026-04460-0</a></p>Reply to: Limited evidence of AI superiority in seasonal influenza vaccine strain selection 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.nature.com/articles/s41591-026-04460-0
-14. 感染/疫苗研究：Limited evidence of AI superiority in seasonal influenza vaccine strain selection
-   - 来源：Nature Medicine
-   - 时间：2026-06-03
-   - 摘要：这条内容聚焦感染/疫苗。来源为Nature Medicine，类型初步识别为Original research。摘要信息显示：<p>Nature Medicine, Published online: 03 June 2026; <a href="https://www.nature.com/articles/s41591-026-04461-z">doi:10.1038/s41591-026-04461-z</a></p>Limited evidence of AI superiority in seasonal influenza vaccine strain selection 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.nature.com/articles/s41591-026-04461-z
-15. 医疗AI/数字医学研究：AI in science recruitment: friend or foe? Join our free webinar
-   - 来源：Nature
-   - 时间：2026-06-03
-   - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature，类型初步识别为Original research。摘要信息显示：<p>Nature, Published online: 03 June 2026; <a href="https://www.nature.com/articles/d41586-026-01774-4">doi:10.1038/d41586-026-01774-4</a></p>Discover the strengths, limitations and risks associated with using artificial intelligence in your science job applications. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.nature.com/articles/d41586-026-01774-4
+   - 时间：2026-06-05
+   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Nature Medicine，类型初步识别为RCT。摘要信息显示：<p>Nature Medicine, Published online: 05 June 2026; <a href="https://www.nature.com/articles/s41591-026-04476-6">doi:10.1038/s41591-026-04476-6</a></p>As presented at the American Diabetes Association Meeting: this randomized phase 2b trial in 230 adults with overweight or obesity shows that aleniglipron, an oral small-molecule GLP1-RA, led to up to 11.3% body-weight loss compared with placebo after 36 weeks of treatment. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://www.nature.com/articles/s41591-026-04476-6
+14. 心血管研究：P2Y12 inhibitor monotherapy after abbreviated dual antiplatelet therapy following percutaneous coronary intervention: a meta-analysis.
+   - 来源：European heart journal
+   - 时间：2026-Jun-05
+   - 摘要：这条内容聚焦心血管。来源为European heart journal，类型初步识别为RCT。摘要信息显示：BACKGROUND AND AIMS: After percutaneous coronary intervention (PCI), growing evidence supports P2Y12 inhibitor monotherapy after a short course of dual antiplatelet therapy (DAPT) as a safer and equally effective antiplatelet strategy compared with continued DAPT. However, the optimal timing of aspirin discontinuation remains uncertain.
+METHODS: A systematic review and meta-analysis of randomized controlled trials investigating different timings of aspirin discontinuation after a short course of DAPT in PCI patient... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42247196/
+15. 心血管研究：Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial.
+   - 来源：Nature medicine
+   - 时间：2026-Jun-04
+   - 摘要：这条内容聚焦心血管。来源为Nature medicine，类型初步识别为Clinical trial。摘要信息显示：Chronic arm and hand hemiparesis is a major cause of disability after stroke. Unfortunately, standard-of-care rehabilitation falls well short of the high doses required to experience improvements. In this feasibility study, we explored the use of cervical epidural spinal cord stimulation (SCS) to assist motor function and provide meaningful functional improvements without the need of a high-dose rehabilitation program. Here we report the final outcomes of this study testing safety, feasibility and preliminary effic... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42243548/

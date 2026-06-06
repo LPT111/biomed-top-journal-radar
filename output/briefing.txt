@@ -1,104 +1,108 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-06-05 09:52:19
+【Biomed Radar】今日医学科学新闻已更新｜2026-06-06 09:32:20
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
-PubMed: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'eutils.ncbi.nlm.nih.gov\', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi (Caused by NameResolutionError("HTTPSConnection(host=\'eutils.ncbi.nlm.nih.gov\', port=443): Failed to resolve \'eutils.ncbi.nlm.nih.gov\' ([Errno -3] Temporary failure in name resolution)"))'))
+Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-1. 广元市第一人民医院开展国际临床试验日宣传活动 - sc.china.com.cn
-Google News CN｜Medical news｜Score 27
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xa1RXeHBMWkFUbzJLeGUycEN6SFdGX1NMWU9odmZkcUZtNjRFZmU1d0cxN1RHU3FaWVc2SFhYNGtFcHZJcVVna0tGenFXUWZlTTNfRmt5OXNQUExiUmNjdUZKQ2VCdw?oc=5
-
-2. CAR-T治疗自身免疫病：癌症细胞疗法的获益、风险与就医路径 - medfind.link
+1. CAR-T治疗自身免疫病：癌症细胞疗法的获益、风险与就医路径 - medfind.link
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UdmwxT3ZtU2tRWVlFMG15OUphMGFwZ01lbC1hS3h5djZVcWVFQm10eVVjNXBnc1NYc3ZGaVdyaUJnWG8tUHc?oc=5
 
-3. 术后"怎么吃"不再问护士：一间手术病房的24小时AI"智询服务站" - 中华网
+2. 术后"怎么吃"不再问护士：一间手术病房的24小时AI"智询服务站" - 中华网
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcTR2Tl9zZEdwYkRoUmNIakVQMy1DcXpIeTUyM2pEY21lbU5JWDNMejl0bkw2QXJHQkFSeHBVblhtaEdXQ2Z3c1VrcEV2M19UM2pPaXg5MTk4Z0dmNkhOVm83YUN3cVEyaFRlUU13?oc=5
+
+3. 返老还童不是梦！这家AI抗衰老公司完成4.3亿美金融资，明年开启临床试验 - RFID世界网
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMibEFVX3lxTE9penRHOERXZFMzNjZaUTZaMFZOdDFCeF95cldLTFlEZHJQcnZSZmVhQjIyYU43NHZaTi1JaS1PS3o1RXRjUDRtc0RiX1I2WEdwaVVackFGdjRfbkczcnRYWW91cmRrOHFUdUhuZw?oc=5
 
 4. 北大医学新获批16个北京市重点实验室！ - 北京大学医学部
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMifkFVX3lxTE1mcG5FMWtpai10SXBpMngybXlrTnBKeUR2SUlKMkdzeExHV2VIMFpRSEdwbDhsVVY1RmY1dHRJMlQxdWpIRm9JSklBeGZPN3pNdW94NlF1eVlmX0x2OVRIQ1dLLVZxSTBERUwyZ3JJMUxmQl9qVjZpaUNmLWNPdw?oc=5
 
-5. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
+5. 2026智源大会丨AI+健康&医疗论坛 - 智源社区
 Google News CN｜Medical news｜Score 26
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbXdoMGVQb0h5a0Z0aE9rdVpjVFItcVdhMGwzbjV0RkdxaDlFYkpLbTVUMm4zd08yU3B4aTAyck40LVV1NlFwdDFVM2VXYmtCRzRZM19qZw?oc=5
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oRHA1blhmSFVYcWpERU9wa005cW5sY1dhbXVRcmFadjhJa2I4UGhRZTloMXFiNHJOZ2JPMEpjZlVDVUg3QV9aaA?oc=5
 
-6. 代谢/肥胖/糖尿病研究：[Department of Error] Department of Error
-The Lancet｜RCT｜Score 62
-The Lancet 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01134-7/fulltext?rss=yes
+6. 肿瘤/血液肿瘤研究：First-Line Serplulimab in Extensive-Stage Small Cell Lung Cancer: Secondary Analysis of the ASTRUM-005 Phase 3 Randomized Clinical Trial.
+JAMA oncology｜RCT｜Score 102
+JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42240984/
 
-7. 代谢/肥胖/糖尿病研究：[Articles] Tirzepatide for maintenance of bodyweight reduction in people with obesity in the USA (SURMOUNT-MAINTAIN): a multicentre, double-blind, randomised, placebo-controlled trial
-The Lancet｜RCT｜Score 62
-The Lancet 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00656-2/fulltext?rss=yes
+7. 肿瘤/血液肿瘤研究：All-Oral Treatment of Newly Diagnosed Acute Myeloid Leukemia.
+The New England journal of medicine｜RCT｜Score 102
+The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42235013/
 
-8. 重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial
-Nature Medicine｜RCT｜Score 57
-Nature Medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://www.nature.com/articles/s41591-026-04422-6
+8. 肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
+The New England journal of medicine｜Phase 3 trial｜Score 94
+The New England journal of medicine 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42246654/
 
-9. 综合医学研究：[Articles] Efficacy and safety of the CD40 ligand inhibitor dapirolizumab pegol in systemic lupus erythematosus (PHOENYCS GO): a randomised, double-blind, placebo-controlled, phase 3 trial
-The Lancet｜RCT｜Score 57
-The Lancet 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00691-4/fulltext?rss=yes
+9. 心血管研究：Finerenone in Persons with Chronic Kidney Disease without Diabetes.
+The New England journal of medicine｜RCT｜Score 88
+The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42246672/
 
-10. 心血管研究：[Articles] Coronary microvascular dysfunction and cardiovascular outcomes (Multicenter FLOW-CMD Registry): a prospective, multicentre cohort study in South Korea
-The Lancet｜Original research｜Score 50
-The Lancet 发布的心血管相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00666-5/fulltext?rss=yes
+10. 肿瘤/血液肿瘤研究：PD-(L)1 Inhibitor Monotherapy vs Chemoimmunotherapy for Advanced NSCLC With High PD-L1 Expression: A Systematic Review and Meta-Analysis.
+JAMA oncology｜RCT｜Score 88
+JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42240993/
 
-11. 心血管研究：Periosteal pressure sensitivity-guided non-pharmacological intervention lowers cardiovascular event rates after five years in ischemic heart disease: Evidence from a randomized controlled trial
-medrxiv｜RCT｜Score 48
-medrxiv 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://doi.org/10.64898/2026.05.27.26354261
+11. 综合医学研究：Finerenone in Patients With Chronic Kidney Disease Due to Glomerular Diseases: A Randomized Clinical Trial.
+JAMA｜RCT｜Score 86
+JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42246414/
 
-12. 心血管研究：[Correspondence] Minocycline for acute ischaemic stroke: limitations of the EMPHASIS trial
-The Lancet｜Clinical trial｜Score 45
-The Lancet 发布的心血管相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00849-4/fulltext?rss=yes
+12. 肿瘤/血液肿瘤研究：Intrathecal nivolumab in metastatic solid tumors with leptomeningeal disease: dose escalation part of the multicenter IT-PD1/NOA-26 phase 1 trial.
+Nature cancer｜Clinical trial｜Score 82
+Nature cancer 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42243276/
 
-13. 心血管研究：[Correspondence] Minocycline for acute ischaemic stroke: limitations of the EMPHASIS trial – Authors’ reply
-The Lancet｜Clinical trial｜Score 45
-The Lancet 发布的心血管相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00962-1/fulltext?rss=yes
+13. 重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial.
+Nature medicine｜RCT｜Score 80
+Nature medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42243547/
 
-14. 生物医药/细胞与基因治疗研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial
-Nature Medicine｜Clinical trial｜Score 45
-Nature Medicine 发布的生物医药/细胞与基因治疗相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://www.nature.com/articles/s41591-026-04441-3
+14. 心血管研究：Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial.
+JAMA｜RCT｜Score 80
+JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42240165/
 
-15. 心血管研究：Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial
-Nature Medicine｜Clinical trial｜Score 45
-Nature Medicine 发布的心血管相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://www.nature.com/articles/s41591-026-04435-1
+15. 心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
+Nature medicine｜Clinical trial｜Score 76
+Nature medicine 发布的心血管相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42243546/
 
-16. 综合医学研究：[Comment] Microvascular dysfunction in atherosclerotic coronary disease
-The Lancet｜Guideline｜Score 45
-The Lancet 发布的综合医学相关Guideline，值得关注其研究设计、核心发现和转化边界。
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00862-7/fulltext?rss=yes
+16. 肿瘤/血液肿瘤研究：Treatment Delays in Early Age-Onset Colorectal Cancer.
+JAMA oncology｜Original research｜Score 76
+JAMA oncology 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42241009/
 
-17. 心血管研究：[World Report] Hypertension control: a South Korean success story
-The Lancet｜Original research｜Score 44
-The Lancet 发布的心血管相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01140-2/fulltext?rss=yes
+17. 心血管研究：Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation.
+The New England journal of medicine｜RCT｜Score 75
+The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/41910347/
 
-18. 感染/疫苗研究：Reply to: Limited evidence of AI superiority in seasonal influenza vaccine strain selection
-Nature Medicine｜Original research｜Score 44
-Nature Medicine 发布的感染/疫苗相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://www.nature.com/articles/s41591-026-04460-0
+18. 代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial
+Nature Medicine｜RCT｜Score 70
+Nature Medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://www.nature.com/articles/s41591-026-04476-6
 
-19. 感染/疫苗研究：Limited evidence of AI superiority in seasonal influenza vaccine strain selection
-Nature Medicine｜Original research｜Score 44
-Nature Medicine 发布的感染/疫苗相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://www.nature.com/articles/s41591-026-04461-z
+19. 心血管研究：P2Y12 inhibitor monotherapy after abbreviated dual antiplatelet therapy following percutaneous coronary intervention: a meta-analysis.
+European heart journal｜RCT｜Score 68
+European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42247196/
 
-20. 医疗AI/数字医学研究：AI in science recruitment: friend or foe? Join our free webinar
-Nature｜Original research｜Score 44
-Nature 发布的医疗AI/数字医学相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://www.nature.com/articles/d41586-026-01774-4
+20. 心血管研究：Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial.
+Nature medicine｜Clinical trial｜Score 68
+Nature medicine 发布的心血管相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42243548/
