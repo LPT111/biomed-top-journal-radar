@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-06-06 09:32:20
+# 医学科学新闻推文候选草稿｜2026-06-07 09:54:02
 
 ## 1. CAR-T治疗自身免疫病：癌症细胞疗法的获益、风险与就医路径 - medfind.link
 
@@ -54,7 +54,34 @@ Google News CN｜Thu, 04 Jun 2026 12:31:47 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. 返老还童不是梦！这家AI抗衰老公司完成4.3亿美金融资，明年开启临床试验 - RFID世界网
+## 3. Cell | 曾泽贤/潘登/冯驭团队开发SPAC-seq新技术，实现空间分辨率下高通量CRISPR筛选-MedSci.cn - 梅斯医学 MedSci
+
+【医学科学新闻】Cell | 曾泽贤/潘登/冯驭团队开发SPAC-seq新技术，实现空间分辨率下高通量CRISPR筛选-MedSci.cn - 梅斯医学 MedSci
+
+一、为什么重要
+Google News CN 发布的生物医药/细胞与基因治疗相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕生物医药/细胞与基因治疗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Thu, 04 Jun 2026 05:52:46 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTFBHanZxZjBhcC1jbkFwWFd2ZEkwLU5aaWhrWi12N2RsaTBxRDdpTkhPZkM5djdMTlZlU1VkY0w1Y1N1cUVqUG9id3JJVkhsUGNqMjBXYWZxdTE1eWRfZTZGeXAycE5WOTNoQ3dTRHlB?oc=5
+
+---
+
+## 4. 返老还童不是梦！这家AI抗衰老公司完成4.3亿美金融资，明年开启临床试验 - RFID世界网
 
 【医学科学新闻】返老还童不是梦！这家AI抗衰老公司完成4.3亿美金融资，明年开启临床试验 - RFID世界网
 
@@ -81,7 +108,7 @@ Google News CN｜Thu, 04 Jun 2026 03:19:39 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 4. 北大医学新获批16个北京市重点实验室！ - 北京大学医学部
+## 5. 北大医学新获批16个北京市重点实验室！ - 北京大学医学部
 
 【医学科学新闻】北大医学新获批16个北京市重点实验室！ - 北京大学医学部
 
@@ -105,33 +132,6 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 
 七、参考信息
 Google News CN｜Thu, 04 Jun 2026 00:43:44 GMT｜https://news.google.com/rss/articles/CBMifkFVX3lxTE1mcG5FMWtpai10SXBpMngybXlrTnBKeUR2SUlKMkdzeExHV2VIMFpRSEdwbDhsVVY1RmY1dHRJMlQxdWpIRm9JSklBeGZPN3pNdW94NlF1eVlmX0x2OVRIQ1dLLVZxSTBERUwyZ3JJMUxmQl9qVjZpaUNmLWNPdw?oc=5
-
----
-
-## 5. 2026智源大会丨AI+健康&医疗论坛 - 智源社区
-
-【医学科学新闻】2026智源大会丨AI+健康&医疗论坛 - 智源社区
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Fri, 05 Jun 2026 06:50:00 GMT｜https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oRHA1blhmSFVYcWpERU9wa005cW5sY1dhbXVRcmFadjhJa2I4UGhRZTloMXFiNHJOZ2JPMEpjZlVDVUg3QV9aaA?oc=5
 
 ---
 
@@ -162,34 +162,7 @@ JAMA oncology｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42240984/
 
 ---
 
-## 7. 肿瘤/血液肿瘤研究：All-Oral Treatment of Newly Diagnosed Acute Myeloid Leukemia.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：All-Oral Treatment of Newly Diagnosed Acute Myeloid Leukemia.
-
-一、为什么重要
-The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The New England journal of medicine｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42235013/
-
----
-
-## 8. 肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
+## 7. 肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
 
@@ -213,6 +186,33 @@ The New England journal of medicine 发布的肿瘤/血液肿瘤相关Phase 3 tr
 
 七、参考信息
 The New England journal of medicine｜2026-Jun-05｜https://pubmed.ncbi.nlm.nih.gov/42246654/
+
+---
+
+## 8. 代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial.
+
+【医学科学新闻】代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial.
+
+一、为什么重要
+Nature medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature medicine｜2026-Jun-05｜https://pubmed.ncbi.nlm.nih.gov/42249138/
 
 ---
 
@@ -297,7 +297,34 @@ JAMA｜2026-Jun-05｜https://pubmed.ncbi.nlm.nih.gov/42246414/
 
 ---
 
-## 12. 肿瘤/血液肿瘤研究：Intrathecal nivolumab in metastatic solid tumors with leptomeningeal disease: dose escalation part of the multicenter IT-PD1/NOA-26 phase 1 trial.
+## 12. 心血管研究：Optimal blood pressure target in patients with uncomplicated hypertension: a target trial emulation study.
+
+【医学科学新闻】心血管研究：Optimal blood pressure target in patients with uncomplicated hypertension: a target trial emulation study.
+
+一、为什么重要
+Nature communications 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-Jun-05｜https://pubmed.ncbi.nlm.nih.gov/42248898/
+
+---
+
+## 13. 肿瘤/血液肿瘤研究：Intrathecal nivolumab in metastatic solid tumors with leptomeningeal disease: dose escalation part of the multicenter IT-PD1/NOA-26 phase 1 trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Intrathecal nivolumab in metastatic solid tumors with leptomeningeal disease: dose escalation part of the multicenter IT-PD1/NOA-26 phase 1 trial.
 
@@ -324,7 +351,7 @@ Nature cancer｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42243276/
 
 ---
 
-## 13. 重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial.
+## 14. 重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial.
 
 【医学科学新闻】重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial.
 
@@ -351,7 +378,7 @@ Nature medicine｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42243547/
 
 ---
 
-## 14. 心血管研究：Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial.
+## 15. 心血管研究：Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial.
 
 【医学科学新闻】心血管研究：Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial.
 
@@ -378,7 +405,7 @@ JAMA｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42240165/
 
 ---
 
-## 15. 心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
+## 16. 心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
 
 【医学科学新闻】心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
 
@@ -405,7 +432,7 @@ Nature medicine｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42243546/
 
 ---
 
-## 16. 肿瘤/血液肿瘤研究：Treatment Delays in Early Age-Onset Colorectal Cancer.
+## 17. 肿瘤/血液肿瘤研究：Treatment Delays in Early Age-Onset Colorectal Cancer.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Treatment Delays in Early Age-Onset Colorectal Cancer.
 
@@ -429,33 +456,6 @@ JAMA oncology 发布的肿瘤/血液肿瘤相关Original research，值得关注
 
 七、参考信息
 JAMA oncology｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42241009/
-
----
-
-## 17. 心血管研究：Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation.
-
-【医学科学新闻】心血管研究：Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation.
-
-一、为什么重要
-The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The New England journal of medicine｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/41910347/
 
 ---
 

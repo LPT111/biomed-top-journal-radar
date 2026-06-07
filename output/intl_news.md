@@ -7,18 +7,17 @@
 OBJECTIVE: To investigate the efficacy, safety, patient-reported outcomes (PROs), and exploratory biomarker findings from ASTRUM-005 at an extended follow-up.
 DESIGN, SETTING, AND PARTICIPANTS: This international, double-blind, phase 3 randomized clinical trial e... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42240984/
-2. 肿瘤/血液肿瘤研究：All-Oral Treatment of Newly Diagnosed Acute Myeloid Leukemia.
-   - 来源：The New England journal of medicine
-   - 时间：2026-Jun-04
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: For patients with acute myeloid leukemia (AML) who are 75 years of age or older or who are ineligible for intensive induction chemotherapy, azacitidine or decitabine plus venetoclax is the standard of care, but parenteral administration imposes a burden on patients and providers. Oral decitabine-cedazuridine, approved in Europe for AML, has pharmacokinetic properties equivalent to those of intravenous decitabine but provides limited survival benefit as monotherapy.
-METHODS: In this phase 1-2, open-label... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42235013/
-3. 肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
+2. 肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
    - 来源：The New England journal of medicine
    - 时间：2026-Jun-05
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Studies of obinutuzumab, a type II anti-CD20 antibody, have shown efficacy in the treatment of hematologic cancers and autoimmune diseases. An evaluation of the efficacy and safety of obinutuzumab in patients with primary membranous nephropathy is needed.
 METHODS: In a phase 3 trial, we randomly assigned adults with primary membranous nephropathy in a 1:1 ratio to receive intravenous obinutuzumab or oral tacrolimus. The primary end point was complete remission (defined as a urinary protein-to-creatinine... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42246654/
+3. 代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial.
+   - 来源：Nature medicine
+   - 时间：2026-Jun-05
+   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：Aleniglipron is an oral, small-molecule glucagon-like peptide-1 receptor agonist (GLP1-RA) in development for obesity treatment. The ACCESS phase 2b placebo-controlled, double-blind study randomized 230 adults (mean BMI 39.5 kg m-2, 54% female) with obesity or overweight to examine the effects of once-daily aleniglipron escalated every 4 weeks to 45, 90 or 120 mg. At week 36, the trial met its primary endpoint with a placebo-adjusted LS mean (95% confidence interval) body-weight change from baseline of -8.2% (-11.1... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42249138/
 4. 心血管研究：Finerenone in Persons with Chronic Kidney Disease without Diabetes.
    - 来源：The New England journal of medicine
    - 时间：2026-Jun-04
@@ -38,41 +37,40 @@ OBJECTIVE: To compare overall survival (OS) and progression-free survival (PFS) 
 OBJECTIVES: To evaluate the efficacy and safety of finerenone in patients with glomerular diseases.
 DESIGN, SETTING, AND PARTICIPANTS: Prespecified exploratory subgroup analysis of a phase 3, randomized, double-blind, p... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42246414/
-7. 肿瘤/血液肿瘤研究：Intrathecal nivolumab in metastatic solid tumors with leptomeningeal disease: dose escalation part of the multicenter IT-PD1/NOA-26 phase 1 trial.
+7. 心血管研究：Optimal blood pressure target in patients with uncomplicated hypertension: a target trial emulation study.
+   - 来源：Nature communications
+   - 时间：2026-Jun-05
+   - 摘要：这条内容聚焦心血管。来源为Nature communications，类型初步识别为RCT。摘要信息显示：The limited real-world evidence on the clinical benefits of intensive blood pressure (BP) management demonstrated in randomised controlled trials has led to its poor adoption in primary care settings. Here we conducted a target trial emulation study on 118,271 patients with uncomplicated hypertension to evaluate the effectiveness and safety managed by intensive (below 130/80 mmHg) compared to standard (130-140/80-90 mmHg) BP targets using a territory-wide public healthcare database in Hong Kong. Patients in the int... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42248898/
+8. 肿瘤/血液肿瘤研究：Intrathecal nivolumab in metastatic solid tumors with leptomeningeal disease: dose escalation part of the multicenter IT-PD1/NOA-26 phase 1 trial.
    - 来源：Nature cancer
    - 时间：2026-Jun-04
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature cancer，类型初步识别为Clinical trial。摘要信息显示：Leptomeningeal metastatic disease (LMD) of solid tumors represents a cancer stage with high unmet therapeutic need. Here we report results from the dose escalation part of a multicenter phase 1 trial investigating intraventricular nivolumab, now continuing in the expansion part. Eligible participants had LMD from tumors with an approval for intraveneous PD1/PDL1 therapy or high tumor mutational burden. The primary endpoint was safety across four dose levels (20, 30, 40 and 50 mg) with each cohort reviewed by an ind... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42243276/
-8. 重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial.
+9. 重症医学/急危重症研究：A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial.
    - 来源：Nature medicine
    - 时间：2026-Jun-04
    - 摘要：这条内容聚焦重症医学/急危重症。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：LGBTQ+ youth commonly have unmet mental health needs and are at elevated risk for self-harm, yet many face persistent institutional barriers to accessing support. One impactful way to reduce risk and promote wellbeing is by supporting emotion regulation; that is, the process by which individuals can influence which emotions they feel, when they feel them and how they experience or express these emotions. This universal, modifiable process is widely considered a key transdiagnostic target for mental ill-health preve... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42243547/
-9. 心血管研究：Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial.
+10. 心血管研究：Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial.
    - 来源：JAMA
    - 时间：2026-Jun-04
    - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Approximately 10% to 15% of patients with advanced chronic kidney disease (CKD) experience a fatal or nonfatal cardiovascular event annually. The effects of antithrombotic therapies on cardiovascular events in patients with advanced CKD are unknown.
 OBJECTIVE: To determine whether low-dose rivaroxaban reduces rates of adverse cardiovascular events compared with placebo in patients with advanced CKD.
 DESIGN, SETTING, AND PARTICIPANTS: Randomized, double-blind, placebo-controlled trial conducted at 90 cen... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42240165/
-10. 心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
+11. 心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
    - 来源：Nature medicine
    - 时间：2026-Jun-04
    - 摘要：这条内容聚焦心血管。来源为Nature medicine，类型初步识别为Clinical trial。摘要信息显示：Homozygous familial hypercholesterolemia (HoFH) is a rare autosomal disease characterized by severely elevated low-density lipoprotein cholesterol (LDL-C) levels and accelerated atherosclerotic cardiovascular disease. More than 80% of patients with HoFH carry low-density lipoprotein receptor (LDLR) mutations. Here we developed an adeno-associated virus gene therapy designed to express LDLR in the liver and evaluated its safety and efficacy in lowering LDL-C levels in experimental animals and in patients with HoFH. ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42243546/
-11. 肿瘤/血液肿瘤研究：Treatment Delays in Early Age-Onset Colorectal Cancer.
+12. 肿瘤/血液肿瘤研究：Treatment Delays in Early Age-Onset Colorectal Cancer.
    - 来源：JAMA oncology
    - 时间：2026-Jun-04
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为Original research。摘要信息显示：IMPORTANCE: Incidence of early age-onset colorectal cancer (EOCRC) is increasing. Delays in initiation of definitive therapy are associated with worse outcomes in colorectal cancer (CRC), but their impact on EOCRC has not been comprehensively characterized.
 OBJECTIVE: To evaluate incidence of EOCRC, identify patients affected by treatment delays, and determine targetable factors contributing to delayed therapy.
 DESIGN, SETTING, AND PARTICIPANTS: This retrospective, population-based cross-sectional study analyzed da... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42241009/
-12. 心血管研究：Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation.
-   - 来源：The New England journal of medicine
-   - 时间：2026-Jun-04
-   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: For patients with atrial fibrillation, the use of oral anticoagulant therapy to prevent stroke is limited by the risk of bleeding. Left atrial appendage closure is considered for patients who are unsuitable candidates for long-term anticoagulation, but its role in patients who are eligible for anticoagulants has not been established.
-METHODS: In this ongoing, prospective, international, randomized trial involving patients with atrial fibrillation who were suitable candidates for anticoagulation, we rand... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/41910347/
 13. 代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial
    - 来源：Nature Medicine
    - 时间：2026-06-05
