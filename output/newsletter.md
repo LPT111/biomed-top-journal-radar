@@ -1,87 +1,6 @@
-# 医学科学新闻推文候选草稿｜2026-06-07 09:54:02
+# 医学科学新闻推文候选草稿｜2026-06-08 09:59:15
 
-## 1. CAR-T治疗自身免疫病：癌症细胞疗法的获益、风险与就医路径 - medfind.link
-
-【医学科学新闻】CAR-T治疗自身免疫病：癌症细胞疗法的获益、风险与就医路径 - medfind.link
-
-一、为什么重要
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 03 Jun 2026 05:13:23 GMT｜https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UdmwxT3ZtU2tRWVlFMG15OUphMGFwZ01lbC1hS3h5djZVcWVFQm10eVVjNXBnc1NYc3ZGaVdyaUJnWG8tUHc?oc=5
-
----
-
-## 2. 术后"怎么吃"不再问护士：一间手术病房的24小时AI"智询服务站" - 中华网
-
-【医学科学新闻】术后"怎么吃"不再问护士：一间手术病房的24小时AI"智询服务站" - 中华网
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Thu, 04 Jun 2026 12:31:47 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcTR2Tl9zZEdwYkRoUmNIakVQMy1DcXpIeTUyM2pEY21lbU5JWDNMejl0bkw2QXJHQkFSeHBVblhtaEdXQ2Z3c1VrcEV2M19UM2pPaXg5MTk4Z0dmNkhOVm83YUN3cVEyaFRlUU13?oc=5
-
----
-
-## 3. Cell | 曾泽贤/潘登/冯驭团队开发SPAC-seq新技术，实现空间分辨率下高通量CRISPR筛选-MedSci.cn - 梅斯医学 MedSci
-
-【医学科学新闻】Cell | 曾泽贤/潘登/冯驭团队开发SPAC-seq新技术，实现空间分辨率下高通量CRISPR筛选-MedSci.cn - 梅斯医学 MedSci
-
-一、为什么重要
-Google News CN 发布的生物医药/细胞与基因治疗相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕生物医药/细胞与基因治疗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Thu, 04 Jun 2026 05:52:46 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTFBHanZxZjBhcC1jbkFwWFd2ZEkwLU5aaWhrWi12N2RsaTBxRDdpTkhPZkM5djdMTlZlU1VkY0w1Y1N1cUVqUG9id3JJVkhsUGNqMjBXYWZxdTE1eWRfZTZGeXAycE5WOTNoQ3dTRHlB?oc=5
-
----
-
-## 4. 返老还童不是梦！这家AI抗衰老公司完成4.3亿美金融资，明年开启临床试验 - RFID世界网
+## 1. 返老还童不是梦！这家AI抗衰老公司完成4.3亿美金融资，明年开启临床试验 - RFID世界网
 
 【医学科学新闻】返老还童不是梦！这家AI抗衰老公司完成4.3亿美金融资，明年开启临床试验 - RFID世界网
 
@@ -108,7 +27,7 @@ Google News CN｜Thu, 04 Jun 2026 03:19:39 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 5. 北大医学新获批16个北京市重点实验室！ - 北京大学医学部
+## 2. 北大医学新获批16个北京市重点实验室！ - 北京大学医学部
 
 【医学科学新闻】北大医学新获批16个北京市重点实验室！ - 北京大学医学部
 
@@ -135,12 +54,12 @@ Google News CN｜Thu, 04 Jun 2026 00:43:44 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 6. 肿瘤/血液肿瘤研究：First-Line Serplulimab in Extensive-Stage Small Cell Lung Cancer: Secondary Analysis of the ASTRUM-005 Phase 3 Randomized Clinical Trial.
+## 3. 自体、异体及体内CAR-T疗法在自身免疫疾病中的比较-MedSci.cn - 梅斯医学 MedSci
 
-【医学科学新闻】肿瘤/血液肿瘤研究：First-Line Serplulimab in Extensive-Stage Small Cell Lung Cancer: Secondary Analysis of the ASTRUM-005 Phase 3 Randomized Clinical Trial.
+【医学科学新闻】自体、异体及体内CAR-T疗法在自身免疫疾病中的比较-MedSci.cn - 梅斯医学 MedSci
 
 一、为什么重要
-JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -158,11 +77,119 @@ JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA oncology｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42240984/
+Google News CN｜Sun, 07 Jun 2026 06:04:18 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTFB4NzYtTlR1RWZ1WjVqTVEyQWV3djQyMjZUS0ttQXZTUWlVT0RXSUdYU0VNNlZaQXhkc2RmdUJ2ZkhSM25CSV9YUGtGc0gxOV9oLWI2V0laR2FtdWRxclY5T0dYa0sxcGh4MVhyaUZR?oc=5
 
 ---
 
-## 7. 肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
+## 4. 国家科技重大专项“体内CAR-T新药创制及临床转化研究”项目启动 - 新浪财经
+
+【医学科学新闻】国家科技重大专项“体内CAR-T新药创制及临床转化研究”项目启动 - 新浪财经
+
+一、为什么重要
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Sat, 06 Jun 2026 08:36:00 GMT｜https://news.google.com/rss/articles/CBMidkFVX3lxTE4xaVRIMWZ6cktOUklIQ3B6SXNOT20tM3ZVZkd0Y2NQNGVVSGNNZURUMzFUQXJ3QXVfanNDckJISEdLRlMzcHlibm51eEc3YkY2VTA1enJpZHRqUkxQRFlqR2lOOWljMVhZemVFTEc1YUJsRlJ1blE?oc=5
+
+---
+
+## 5. 2026智源大会议程公开丨AI+健康&医疗论坛 - 智源社区
+
+【医学科学新闻】2026智源大会议程公开丨AI+健康&医疗论坛 - 智源社区
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Sat, 06 Jun 2026 03:51:00 GMT｜https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hd0pjSVJFeWJaOWtEbW1ET3BvZlZaZGhvTjBfcENzWUdjQ1B3ejlEZEtYZzdJODlFTWYtQlhaZXVGYWdiOHFrYw?oc=5
+
+---
+
+## 6. 代谢/肥胖/糖尿病研究：Orforglipron Added to Titrated Insulin Glargine in Type 2 Diabetes: The ACHIEVE-5 Randomized Clinical Trial.
+
+【医学科学新闻】代谢/肥胖/糖尿病研究：Orforglipron Added to Titrated Insulin Glargine in Type 2 Diabetes: The ACHIEVE-5 Randomized Clinical Trial.
+
+一、为什么重要
+JAMA 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA｜2026-Jun-07｜https://pubmed.ncbi.nlm.nih.gov/42251769/
+
+---
+
+## 7. 代谢/肥胖/糖尿病研究：Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial.
+
+【医学科学新闻】代谢/肥胖/糖尿病研究：Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial.
+
+一、为什么重要
+JAMA 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA｜2026-Jun-07｜https://pubmed.ncbi.nlm.nih.gov/42251595/
+
+---
+
+## 8. 肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
 
@@ -189,7 +216,7 @@ The New England journal of medicine｜2026-Jun-05｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 8. 代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial.
+## 9. 代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial.
 
 【医学科学新闻】代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial.
 
@@ -216,7 +243,7 @@ Nature medicine｜2026-Jun-05｜https://pubmed.ncbi.nlm.nih.gov/42249138/
 
 ---
 
-## 9. 心血管研究：Finerenone in Persons with Chronic Kidney Disease without Diabetes.
+## 10. 心血管研究：Finerenone in Persons with Chronic Kidney Disease without Diabetes.
 
 【医学科学新闻】心血管研究：Finerenone in Persons with Chronic Kidney Disease without Diabetes.
 
@@ -240,33 +267,6 @@ The New England journal of medicine 发布的心血管相关RCT，值得关注�
 
 七、参考信息
 The New England journal of medicine｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42246672/
-
----
-
-## 10. 肿瘤/血液肿瘤研究：PD-(L)1 Inhibitor Monotherapy vs Chemoimmunotherapy for Advanced NSCLC With High PD-L1 Expression: A Systematic Review and Meta-Analysis.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：PD-(L)1 Inhibitor Monotherapy vs Chemoimmunotherapy for Advanced NSCLC With High PD-L1 Expression: A Systematic Review and Meta-Analysis.
-
-一、为什么重要
-JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA oncology｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42240993/
 
 ---
 
@@ -378,34 +378,7 @@ Nature medicine｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42243547/
 
 ---
 
-## 15. 心血管研究：Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial.
-
-【医学科学新闻】心血管研究：Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial.
-
-一、为什么重要
-JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42240165/
-
----
-
-## 16. 心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
+## 15. 心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
 
 【医学科学新闻】心血管研究：AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial.
 
@@ -432,34 +405,7 @@ Nature medicine｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42243546/
 
 ---
 
-## 17. 肿瘤/血液肿瘤研究：Treatment Delays in Early Age-Onset Colorectal Cancer.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Treatment Delays in Early Age-Onset Colorectal Cancer.
-
-一、为什么重要
-JAMA oncology 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA oncology｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42241009/
-
----
-
-## 18. 代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial
+## 16. 代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial
 
 【医学科学新闻】代谢/肥胖/糖尿病研究：Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial
 
@@ -486,7 +432,34 @@ Nature Medicine｜2026-06-05｜https://www.nature.com/articles/s41591-026-04476-
 
 ---
 
-## 19. 心血管研究：P2Y12 inhibitor monotherapy after abbreviated dual antiplatelet therapy following percutaneous coronary intervention: a meta-analysis.
+## 17. 心血管研究：Evolocumab in Patients With High-Risk Diabetes: Results From the VESALIUS-CV Trial.
+
+【医学科学新闻】心血管研究：Evolocumab in Patients With High-Risk Diabetes: Results From the VESALIUS-CV Trial.
+
+一、为什么重要
+Diabetes care 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Diabetes care｜2026-Jun-07｜https://pubmed.ncbi.nlm.nih.gov/42251764/
+
+---
+
+## 18. 心血管研究：P2Y12 inhibitor monotherapy after abbreviated dual antiplatelet therapy following percutaneous coronary intervention: a meta-analysis.
 
 【医学科学新闻】心血管研究：P2Y12 inhibitor monotherapy after abbreviated dual antiplatelet therapy following percutaneous coronary intervention: a meta-analysis.
 
@@ -513,7 +486,7 @@ European heart journal｜2026-Jun-05｜https://pubmed.ncbi.nlm.nih.gov/42247196/
 
 ---
 
-## 20. 心血管研究：Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial.
+## 19. 心血管研究：Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial.
 
 【医学科学新闻】心血管研究：Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial.
 
@@ -537,5 +510,32 @@ Nature medicine 发布的心血管相关Clinical trial，值得关注其研究�
 
 七、参考信息
 Nature medicine｜2026-Jun-04｜https://pubmed.ncbi.nlm.nih.gov/42243548/
+
+---
+
+## 20. 医疗AI/数字医学研究：Brain neuromarkers predict self- and other-related mentalizing across adult, clinical, and developmental samples.
+
+【医学科学新闻】医疗AI/数字医学研究：Brain neuromarkers predict self- and other-related mentalizing across adult, clinical, and developmental samples.
+
+一、为什么重要
+Nature communications 发布的医疗AI/数字医学相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕医疗AI/数字医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-Jun-06｜https://pubmed.ncbi.nlm.nih.gov/42251044/
 
 ---
