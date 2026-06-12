@@ -1,96 +1,92 @@
 # 国际顶刊与医学科学新闻
 
-1. 重症医学/急危重症研究：Carbocisteine or Hypertonic Saline for Acute Respiratory Failure.
+1. 心血管研究：Intravascular Ultrasound-Guided or Angiography-Guided Complex High-Risk PCI.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Jun-11
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Intravascular ultrasound (IVUS) guidance during percutaneous coronary intervention (PCI) has been associated with increased stent optimization and reduced adverse events among patients with complex coronary-artery lesions, but adoption of this strategy in Western countries remains low. Although practice guidelines recommend intracoronary imaging for anatomically complex lesions, evidence from current European practice is limited.
+METHODS: In this investigator-initiated, international, open-label, random... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/41911016/
+2. 肿瘤/血液肿瘤研究：Avelumab Plus Methotrexate for Gestational Trophoblastic Tumors: The TROPHAMET Phase 1/2 Nonrandomized Clinical Trial.
+   - 来源：JAMA oncology
+   - 时间：2026-Jun-11
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Low-risk gestational trophoblastic tumors (GTT; International Federation of Gynecology and Obstetrics [FIGO] score ≤6) are typically treated with single-agent chemotherapy, achieving cure rates of approximately 70%. Avelumab (anti-programmed cell death 1 ligand 1 monoclonal antibody) has demonstrated activity in chemotherapy-resistant GTT, supporting investigation in earlier treatment settings.
+OBJECTIVE: To evaluate the safety and efficacy of avelumab combined with methotrexate as first-line therapy in... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42275082/
+3. 心血管研究：IVUS-Guided versus Angiography-Guided PCI in Unprotected Left Main Coronary Disease.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Jun-11
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Percutaneous coronary intervention (PCI) is increasingly used for revascularization of unprotected left main coronary artery disease. Whether intravascular ultrasonographic (IVUS) guidance during PCI results in better clinical outcomes than conventional angiographic guidance alone is uncertain.
+METHODS: In an international, multicenter, open-label trial, we randomly assigned patients with unprotected left main coronary artery disease in a 1:1 ratio to undergo either IVUS-guided PCI or angiography-guided... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/41911017/
+4. 重症医学/急危重症研究：Carbocisteine or Hypertonic Saline for Acute Respiratory Failure.
    - 来源：The New England journal of medicine
    - 时间：2026-Jun-10
    - 摘要：这条内容聚焦重症医学/急危重症。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Mucoactive agents are widely used in patients with acute respiratory failure despite limited evidence of their effectiveness or safety.
 METHODS: We conducted a multicenter, open-label, randomized trial with a 2-by-2 factorial design that involved critically ill, mechanically ventilated participants 16 years of age or older with acute respiratory failure and difficult-to-clear secretions. All participants received usual care along with carbocisteine (750 mg three times daily enterally), 6% or 7% nebulize... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42267821/
-2. 感染/疫苗研究：Adjuvanted inactivated rabies virus-vectored Lassa virus vaccine in healthy adults: a phase 1 trial.
+5. 感染/疫苗研究：Adjuvanted inactivated rabies virus-vectored Lassa virus vaccine in healthy adults: a phase 1 trial.
    - 来源：Nature medicine
    - 时间：2026-Jun-09
    - 摘要：这条内容聚焦感染/疫苗。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：Lassa fever causes substantial morbidity and mortality in West Africa, and no licensed vaccine is available. We evaluated LASSARAB, an inactivated rabies virus-vectored Lassa virus (Josiah strain) glycoprotein complex vaccine. We conducted a randomized, controlled, dose-escalation phase 1 trial. Participants (total n = 54) received two intramuscular doses of LASSARAB containing 700 (n = 15), 1,400 (n = 15) or 2,800 (n = 14) relative units of antigen formulated with the TLR-4 agonist 3D-6-acyl PHAD-SE adjuvant, or l... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42265408/
-3. 免疫/炎症研究：High-Dose Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury: The VICTORY Randomized Clinical Trial.
+6. 生物医药/细胞与基因治疗研究：Exa-cel in Children with Transfusion-Dependent β-Thalassemia or Sickle Cell Disease.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Jun-11
+   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Exagamglogene autotemcel (exa-cel) is a cell therapy in which autologous CD34+ hematopoietic cells are engineered through ex vivo clustered regularly interspaced short palindromic repeats-Cas9 editing of the erythroid-specific enhancer region of BCL11 to express fetal hemoglobin. In phase 3 studies involving participants 12 to 35 years of age with sickle cell disease or transfusion-dependent β-thalassemia, exa-cel eliminated vaso-occlusive crises and the need for red-cell transfusions.
+METHODS: In two o... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42274009/
+7. 免疫/炎症研究：High-Dose Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury: The VICTORY Randomized Clinical Trial.
    - 来源：JAMA
    - 时间：2026-Jun-10
    - 摘要：这条内容聚焦免疫/炎症。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Severe burn injury triggers systemic inflammation that can lead to multiple organ dysfunctions and death. High-dose intravenous vitamin C has been proposed to mitigate these effects, but strong evidence in patients with burn injury is lacking.
 OBJECTIVE: To evaluate the efficacy of high-dose intravenous vitamin C in patients with severe burn injury.
 DESIGN, SETTING, AND PARTICIPANTS: Randomized, double-blind, placebo-controlled phase 3 trial conducted across 24 burn centers in North, Central, and South ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42267875/
-4. 综合医学研究：Hospital Policy of Tranexamic Acid to Reduce Transfusion in Major Noncardiac Surgery.
+8. 综合医学研究：Hospital Policy of Tranexamic Acid to Reduce Transfusion in Major Noncardiac Surgery.
    - 来源：The New England journal of medicine
    - 时间：2026-Jun-10
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Whether a hospital policy of tranexamic acid administration for patients undergoing major noncardiac surgery safely reduces the need for red-cell transfusion is uncertain.
 METHODS: We conducted a multicenter, double-blind, cluster-randomized, placebo-controlled trial involving patients undergoing noncardiac surgery who were at high risk for red-cell transfusion. Hospitals were randomly assigned at 4-week intervals to a hospital-wide policy of intraoperative tranexamic acid or placebo. The coprimary effe... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42267805/
-5. 心血管研究：Intravenous Tirofiban After Tenecteplase in Acute Ischemic Stroke: The INSTANT Randomized Clinical Trial.
+9. 免疫/炎症研究：Subretinal Gene Therapy for X-Linked Retinoschisis.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Jun-11
+   - 摘要：这条内容聚焦免疫/炎症。来源为The New England journal of medicine，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND: X-linked retinoschisis is a recessive disease characterized by progressive macular degeneration and vision loss due to pathogenic variation in RS1.
+METHODS: We administered a single subretinal injection of an AAV8 vector containing human RS1 complementary DNA (scAAV8-hRS1) into one eye of patients 5 to 18 years of age who had X-linked retinoschisis. The primary end point was safety during the 52-week period after injection. Secondary end points included the change from baseline to week 52 in the best co... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42269152/
+10. 肿瘤/血液肿瘤研究：Dual-target gene therapy in Parkinson's disease: a multicenter phase 1 trial.
+   - 来源：Nature medicine
+   - 时间：2026-Jun-10
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为Clinical trial。摘要信息显示：Restoring striatal dopamine synthesis is a promising gene therapy strategy for Parkinson's disease. Previous adeno-associated virus-mediated aromatic L-amino acid decarboxylase (AADC) monotherapies remain dependent on exogenous levodopa, whereas multigene delivery is constrained by strict adeno-associated virus packaging limits. A 'dual approach' targeting the two rate-limiting enzymes, tyrosine hydroxylase (TH) and AADC, offers the potential for autonomous dopamine synthesis. We report the 12-month primary safety ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42271071/
+11. 肿瘤/血液肿瘤研究：Prostate Imaging Standards for Screening Magnetic Resonance Imaging (PRISM): International Consensus Recommendations.
+   - 来源：JAMA oncology
+   - 时间：2026-Jun-11
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Magnetic resonance imaging (MRI) is routinely used in prostate cancer diagnosis, but there is uncertainty about its optimal use in population-level screening.
+OBJECTIVE: To provide consensus recommendations on the acquisition, interpretation, and reporting of prostate MRI for cancer screening.
+EVIDENCE REVIEW: A systematic review and meta-analysis of randomized clinical trials and prospective cohort studies evaluating MRI for prostate cancer screening was conducted for these international consensus reco... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42275039/
+12. 综合医学研究：Sodium Bicarbonate for In-Hospital Cardiac Arrest: A Randomized Clinical Trial.
    - 来源：JAMA
-   - 时间：2026-Jun-09
-   - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Although recent trials have shown benefit with early tirofiban after thrombolysis, its efficacy remains uncertain in patients with acute ischemic stroke who do not have a large or medium vessel occlusion or a cardioembolic source and who show an inadequate clinical response to intravenous tenecteplase.
-OBJECTIVE: To assess the efficacy and safety of intravenous tirofiban administered after an inadequate response to intravenous tenecteplase in this specific patient population.
-DESIGN, SETTING, AND PARTIC... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42100960/
-6. 心血管研究：Predictors of Long-Term Outcomes in Hypertrophic Cardiomyopathy: The NHLBI HCM Registry.
-   - 来源：JAMA
-   - 时间：2026-Jun-09
-   - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为Clinical trial。摘要信息显示：IMPORTANCE: Current risk prediction guidelines for hypertrophic cardiomyopathy predict only sudden cardiac death and are imperfect, leading to avoidable deaths and unnecessary implantable cardioverter defibrillators.
-OBJECTIVE: To combine prospectively collected clinical history, imaging, genetic, and biomarker data to improve risk prediction of adverse events in hypertrophic cardiomyopathy.
-DESIGN, SETTING, AND PARTICIPANTS: A total of 2750 patients with hypertrophic cardiomyopathy were prospectively enrolled in t... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42113540/
-7. 代谢/肥胖/糖尿病研究：Two Years of Menaquinone-7 Supplementation and Coronary Artery Calcification: A Randomized Clinical Trial.
+   - 时间：2026-Jun-11
+   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Patients with in-hospital cardiac arrest have poor outcomes. Sodium bicarbonate is commonly administered during cardiac arrest, but the effects on clinical outcomes are unknown.
+OBJECTIVE: To determine whether administration of sodium bicarbonate during in-hospital cardiac arrest increases the proportion of patients with return of spontaneous circulation.
+DESIGN, SETTING, AND PARTICIPANTS: Randomized, parallel-group, double-blind, placebo-controlled clinical trial conducted at 21 hospitals in Denmark. P... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42273960/
+13. 肿瘤/血液肿瘤研究：Effect of [68Ga]Ga-PSMA-11 PET-CT in the diagnosis of prostate cancer in men with equivocal or clinically high-risk non-suspicious findings on multiparametric MRI (PRIMARY2): a multicentre, non-inferiority, phase 3, randomised controlled trial.
+   - 来源：The Lancet. Oncology
+   - 时间：2026-Jun-10
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为RCT。摘要信息显示：BACKGROUND: MRI is recommended for men with clinical suspicion of significant prostate cancer. Those with high clinical risk but non-suspicious or equivocal MRI often undergo prostate biopsy, but have a low likelihood of clinically significant prostate cancer, and a high incidence of clinically insignificant prostate cancer. We aimed to investigate whether gallium-68 ([68Ga]Ga)-prostate-specific membrane antigen (PSMA)-11 PET-CT could reduce the number of people requiring prostate biopsy and limit biopsy to targete... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42269655/
+14. 代谢/肥胖/糖尿病研究：Two Years of Menaquinone-7 Supplementation and Coronary Artery Calcification: A Randomized Clinical Trial.
    - 来源：JAMA cardiology
    - 时间：2026-Jun-10
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Vitamin K supplementation can reduce progression of vascular calcification in patients with diabetes or end-stage kidney disease. Presently, it is unknown whether vitamin K is also beneficial in patients with symptomatic atherosclerotic coronary artery disease (CAD).
 OBJECTIVE: To evaluate whether supplementation with the vitamin K homologue menaquinone-7 (MK-7) for a period of 2 years attenuates the progression of coronary artery calcification (CAC) compared with placebo.
 DESIGN, SETTING, AND PARTICIPA... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42268593/
-8. 综合医学研究：Pragmatic Parental Support to Mitigate Burnout Among Pregnant and Postpartum Trainees: A Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Jun-09
-   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Occupational burnout threatens care quality, workforce retention, and physician health. Childbearing physicians in training are at high risk due to stigma, low workplace support, and physical challenges compounding role transitions and increased home responsibilities, yet evaluations of mitigation strategies remain scarce.
-OBJECTIVE: To assess the efficacy of a parental support package targeting perinatal stressors in reducing burnout and distress among childbearing physicians in training.
-DESIGN, SETTI... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42126852/
-9. 重症医学/急危重症研究：Sugammadex versus neostigmine for reversal of neuromuscular blockade and postoperative pulmonary complications (SNaPP): an international, randomised, controlled, phase 4 trial.
-   - 来源：The Lancet. Respiratory medicine
-   - 时间：2026-Jun-09
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为The Lancet. Respiratory medicine，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND: Sugammadex and neostigmine are used to reverse aminosteroid neuromuscular-blocking drugs at the end of surgery. We aimed to determine whether reversal of neuromuscular blockade with sugammadex reduces the incidence of postoperative pulmonary complications or death compared with neostigmine.
-METHODS: We conducted a pragmatic, international, multicentre, randomised, controlled, phase 4 trial involving 44 hospitals in Australia, Aotearoa New Zealand, and Hong Kong. Eligible patients were adults (aged ≥40 y... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42263720/
-10. 心血管研究：Cost Offset With Quadruple Therapy for Heart Failure.
-   - 来源：JAMA cardiology
-   - 时间：2026-Jun-10
-   - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Contemporary guideline-directed medical therapy (GDMT) for heart failure with reduced ejection fraction (HFrEF), which includes angiotensin receptor-neprilysin inhibitors (ARNI), β-blockers, mineralocorticoid receptor antagonists (MRAs), and sodium-glucose cotransporter 2 inhibitors (SGLT2i), reduces hospitalizations in randomized clinical trials (RCTs), but the combined economic impact of implementing full quadruple therapy after hospitalization is not well quantified.
-OBJECTIVE: To estimate the 1-year... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42268625/
-11. 重症医学/急危重症研究：Integrated Telehealth Rehabilitation and Quality of Life in Mechanically Ventilated Adults: A Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Jun-10
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Whether integrated rehabilitation strategies spanning intensive care unit (ICU), hospital, and postdischarge phases improve quality of life after acute respiratory failure is uncertain.
-OBJECTIVE: To evaluate the effect of an integrated multicomponent telehealth-based rehabilitation intervention on health-related quality of life at 90 days after hospital discharge among adults with acute hypoxemic respiratory failure requiring invasive mechanical ventilation.
-DESIGN, SETTING, AND PARTICIPANTS: This step... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42268591/
-12. 重症医学/急危重症研究：Conservative Oxygen for Unresponsive Patients after Cardiac Arrest.
-   - 来源：The New England journal of medicine
-   - 时间：2026-Jun-10
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为The New England journal of medicine，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND: In patients who are unresponsive after resuscitation from cardiac arrest, limiting oxygen exposure to that necessary to achieve acceptable oxygenation may increase the likelihood of survival with a favorable functional outcome.
-METHODS: We randomly assigned unresponsive adults receiving mechanical ventilation in the intensive care unit (ICU) after cardiac arrest to conservative or liberal oxygen therapy. In the two groups, the default lower limit of arterial oxygen saturation as measured by pulse oximet... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42267831/
-13. 心血管研究：Outcomes of Cardiovascular Surgery in Patients With Multiple Sclerosis.
-   - 来源：JAMA surgery
-   - 时间：2026-Jun-10
-   - 摘要：这条内容聚焦心血管。来源为JAMA surgery，类型初步识别为Original research。摘要信息显示：IMPORTANCE: Patients with multiple sclerosis (MS) have a higher incidence of heart failure and myocardial infarction. In patients with MS, autonomic dysregulation may cause detrimental hemodynamic instability perioperatively. However, data on outcomes of cardiac surgery in patients with MS are scarce.
-OBJECTIVES: To describe US nationwide morbidity and mortality in patients with MS undergoing cardiovascular surgery.
-DESIGN, SETTING, AND PARTICIPANTS: This cross-sectional study included records of patients who under... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42268624/
-14. 心血管研究：Targeted plasma proteomics reveals a central role of upregulated TNFRSF proteins in HIV-associated stroke.
+15. 重症医学/急危重症研究：Effects of cooking with liquefied petroleum gas versus biomass on hemoglobin concentrations in pregnant women: a pre-specified exploratory analysis of the HAPIN trial.
    - 来源：Nature communications
-   - 时间：2026-Jun-09
-   - 摘要：这条内容聚焦心血管。来源为Nature communications，类型初步识别为Original research。摘要信息显示：Chronic inflammation drives vascular aging and stroke risk, yet circulating proteins linking immune activation to cerebrovascular events remain elusive. People with HIV (PWH) face elevated stroke risk beyond traditional vascular risk factors, even under antiretroviral therapy. We aimed to identify circulating proteomic signatures of HIV-associated stroke, characterize underlying biological pathways, and assess their longitudinal stability. We conducted a nested case-control study of 135 PWH with stroke (HIV + /Stro... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42265127/
-15. 肿瘤/血液肿瘤研究：CLPX acquires an iron-sulfur cluster to sustain mitochondrial proteostasis in cancer cells.
-   - 来源：Nature communications
-   - 时间：2026-Jun-09
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Mitochondrial proteostasis-maintaining mechanisms are crucial for protecting cells from the toxicity of misfolded protein accumulation. Although excessive stress is known to inactivate these mechanisms and thereby induce mitophagy in cancer cells, the detailed molecular mechanisms coordinating these mitochondrial quality control processes remain unclear. Herein, we identify CLPX, a mitochondrial protease subunit, as an iron-sulfur protein, which requires a [4Fe-4S] cluster to bind with CLPP to exert proteolysis fun... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42265110/
+   - 时间：2026-Jun-10
+   - 摘要：这条内容聚焦重症医学/急危重症。来源为Nature communications，类型初步识别为RCT。摘要信息显示：Evidence linking household air pollution exposure and blood hemoglobin concentration is lacking. We examine the effect of a liquefied petroleum gas cookstove and fuel intervention on hemoglobin concentration, along with associations between household air pollution exposures and hemoglobin concentration, among pregnant women. We enroll 800 pregnant women each in Guatemala, Peru, India, and Rwanda in an open-label randomized controlled trial (NCT02944682). In 3178 women (intervention=1585; control=1593), we measure h... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42270650/
