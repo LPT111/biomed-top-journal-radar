@@ -1,4 +1,4 @@
-# 全医学科学新闻雷达｜2026-06-14 09:59:26
+# 全医学科学新闻雷达｜2026-06-15 10:03:35
 
 - 今日新闻：20 条
 - 中文来源：5 条
@@ -9,25 +9,25 @@
 > RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 ## 今日 20 条
-1. AI走进临床试验：新药上市能否提速？ - SWI swissinfo.ch
+1. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
+   - 来源：Google News CN｜类型：Medical news｜分数：26
+   - 链接：https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbXdoMGVQb0h5a0Z0aE9rdVpjVFItcVdhMGwzbjV0RkdxaDlFYkpLbTVUMm4zd08yU3B4aTAyck40LVV1NlFwdDFVM2VXYmtCRzRZM19qZw?oc=5
+   - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+2. AI走进临床试验：新药上市能否提速？ - SWI swissinfo.ch
    - 来源：Google News CN｜类型：Medical news｜分数：26
    - 链接：https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZ3pmVGhUd1IzcHVsbVh1azcwNmE5Vnp2NkVvM1p4YTNXblpRR1BfWGp2ZmFWM3pQZ0pQcWpnUk5CenB5dXl6bVNXdng2cFpkeElhVlNta2ozbW5TZTFuTktMVzBmYTdrUkE4R013WlZDT0dkUlRtT1pQeEZvTzdJTTdkZEpzX2MzVFpaLTBuVng5ZzNtTzFOUVJPbDd4OVVMNTVORWdnYTN1b2g3bk5GdzA0MEs5em16ZDBsbzNQYllNaTRMa3hueXpaWEVVZTcydXdHOEZIQzl4dUVlQnRRVGlvNVF1TTFTcDItS3RsTHgzT1k4NVdmUnAyQ2dRXzdLQU9iQTNwQnBCZmlsdUhyb0M4UnJHOE5VVEVWakh4U2gzOFUtcTY0cF9aZ1RoaVFTb2h2LUQ1cExia1VpaTdKZll0WlltZEFUV1lsOEl0b3R5aFpUNUFQMUViNA?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-2. Cancer Immunol Res：给 CAR-T细胞装上“导航仪”，CCR7 改造让免疫细胞精准击杀淋巴瘤- 癌症研究专区 - 生物谷
+3. 北恒生物：双靶点CAR-T疗法IND获FDA批准 - ByDrug
+   - 来源：Google News CN｜类型：Medical news｜分数：26
+   - 链接：https://news.google.com/rss/articles/CBMifkFVX3lxTE5KR3N4Qko5MS1feHY2Yzh3TnFRWHFUdzNaRmJ0ckc3RUhvTzh2MjE4VVY1dUcwSWZoTHd1TFZhTkF1NkpMQ2NIenRCb2xFdUxDSHRfMXl0NWZsQTA5UmtaTS15R3dyMExuREdHc0ctaE1ocjJORGpncF93RHhrQQ?oc=5
+   - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+4. Cancer Immunol Res：给 CAR-T细胞装上“导航仪”，CCR7 改造让免疫细胞精准击杀淋巴瘤- 癌症研究专区 - 生物谷
    - 来源：Google News CN｜类型：Medical news｜分数：26
    - 链接：https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZDZMeFc4azFzOEVQWGM0N1hSOG5GYU9SYU5adk1razhIa3l5bmlpVWZlSVE4bXZHcm5SQTB4bFozTDljdDdHeU5KR2JNX3kyZmQtSm96ZWdoY0hZ?oc=5
    - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-3. 浙一，最新Nature Cancer：铁死亡新发现！破解CAR-T细胞疗法持久性难题的关键突破-MedSci.cn - 梅斯医学 MedSci
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZGp3UmlnUWZpRUpmM2JTUzBwcG5RazV6NXMxMUJtZ0dMb1JvZU0tSEJYRGRlSl9WRThXTjhRZkNZUWEyZV9Vbzg3Z3N0Z2RHQ1NRaGpOaHhhT0VxMkwxNmhhdlU3SlhpUTVtclB3?oc=5
-   - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-4. AI走进临床试验：新药上市能否提速？ - QQ News
+5. AI走进临床试验：新药上市能否提速？ - QQ News
    - 来源：Google News CN｜类型：Medical news｜分数：26
    - 链接：https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wQmFfMmFWNmJqUERTQ1Z3bC1WZjliaWRIcnV2NUNDOEV4SEVFR0F6cnVOZkpnNnM0VDlxTVNqczdzYVZNLWZFeHZid1ZTa1NNOUFsUEpB?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. “新发突发与重大传染病防控”国家科技重大专项项目 - 山东大学新闻网
-   - 来源：Google News CN｜类型：Medical news｜分数：21
-   - 链接：https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wNV9vNm52XzJZWmRHU01GLUsxVXJvVlg4Y2VFdDFxTURjaDhVVDY1aThpMGM4TElZYzc5NlBIdU9BNi1lWnVaM2JPcDhhTWgyVFE0V2thbGJiVWpj?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 6. 肿瘤/血液肿瘤研究：Avelumab Plus Methotrexate for Gestational Trophoblastic Tumors: The TROPHAMET Phase 1/2 Nonrandomized Clinical Trial.
    - 来源：JAMA oncology｜类型：RCT｜分数：94
