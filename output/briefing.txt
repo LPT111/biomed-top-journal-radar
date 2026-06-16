@@ -1,104 +1,103 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-06-15 10:03:35
+【Biomed Radar】今日医学科学新闻已更新｜2026-06-16 10:12:20
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
-RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-1. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
+1. 国内CAR-T领军企业，完成新一轮战略融资 - ByDrug
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMifkFVX3lxTE1MNXZzLXhhXzBmV3F5NGQzaGtiVzZrbzNYN251TkVUdWxBall1QWJaQ2w1U29RenZmMG5tVnREREVpRmJDNzdYeTVMckFsVFBTc2htNGZtRUg2RmNGMEhPQmhIWUhjbEFOdVNyUkloUjhDMmVMVm9OdE9TdUE3QQ?oc=5
+
+2. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbXdoMGVQb0h5a0Z0aE9rdVpjVFItcVdhMGwzbjV0RkdxaDlFYkpLbTVUMm4zd08yU3B4aTAyck40LVV1NlFwdDFVM2VXYmtCRzRZM19qZw?oc=5
 
-2. AI走进临床试验：新药上市能否提速？ - SWI swissinfo.ch
+3. 重磅发布 | 《in vivo CAR-T行业蓝皮书》出炉，开启体内工程化细胞治疗新时代 - ByDrug
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMifkFVX3lxTE9kWTJnNmI3UVpyTVhVOXZkUnhLNDdJTTFoLTR4Um5sM01CMUg3MjdDUUNSblI2bXp6cFRsRGNrbElFMVg0UVE1Z0hoR1dGUlRfQzM1OE9KYkZRdzloZ0NweHdrZkMzTENLMEVXMF9aYnRsZ0J3MDBrXzNab1lQQQ?oc=5
+
+4. AI走进临床试验：新药上市能否提速？ - SWI swissinfo.ch
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZ3pmVGhUd1IzcHVsbVh1azcwNmE5Vnp2NkVvM1p4YTNXblpRR1BfWGp2ZmFWM3pQZ0pQcWpnUk5CenB5dXl6bVNXdng2cFpkeElhVlNta2ozbW5TZTFuTktMVzBmYTdrUkE4R013WlZDT0dkUlRtT1pQeEZvTzdJTTdkZEpzX2MzVFpaLTBuVng5ZzNtTzFOUVJPbDd4OVVMNTVORWdnYTN1b2g3bk5GdzA0MEs5em16ZDBsbzNQYllNaTRMa3hueXpaWEVVZTcydXdHOEZIQzl4dUVlQnRRVGlvNVF1TTFTcDItS3RsTHgzT1k4NVdmUnAyQ2dRXzdLQU9iQTNwQnBCZmlsdUhyb0M4UnJHOE5VVEVWakh4U2gzOFUtcTY0cF9aZ1RoaVFTb2h2LUQ1cExia1VpaTdKZll0WlltZEFUV1lsOEl0b3R5aFpUNUFQMUViNA?oc=5
 
-3. 北恒生物：双靶点CAR-T疗法IND获FDA批准 - ByDrug
-Google News CN｜Medical news｜Score 26
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMifkFVX3lxTE5KR3N4Qko5MS1feHY2Yzh3TnFRWHFUdzNaRmJ0ckc3RUhvTzh2MjE4VVY1dUcwSWZoTHd1TFZhTkF1NkpMQ2NIenRCb2xFdUxDSHRfMXl0NWZsQTA5UmtaTS15R3dyMExuREdHc0ctaE1ocjJORGpncF93RHhrQQ?oc=5
-
-4. Cancer Immunol Res：给 CAR-T细胞装上“导航仪”，CCR7 改造让免疫细胞精准击杀淋巴瘤- 癌症研究专区 - 生物谷
+5. Cancer Immunol Res：给 CAR-T细胞装上“导航仪”，CCR7 改造让免疫细胞精准击杀淋巴瘤- 癌症研究专区 - 生物谷
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZDZMeFc4azFzOEVQWGM0N1hSOG5GYU9SYU5adk1razhIa3l5bmlpVWZlSVE4bXZHcm5SQTB4bFozTDljdDdHeU5KR2JNX3kyZmQtSm96ZWdoY0hZ?oc=5
 
-5. AI走进临床试验：新药上市能否提速？ - QQ News
-Google News CN｜Medical news｜Score 26
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wQmFfMmFWNmJqUERTQ1Z3bC1WZjliaWRIcnV2NUNDOEV4SEVFR0F6cnVOZkpnNnM0VDlxTVNqczdzYVZNLWZFeHZid1ZTa1NNOUFsUEpB?oc=5
+6. 神经科学/神经疾病研究：Middle Meningeal Artery Embolization With n-Butyl Cyanoacrylate in Patients With Chronic Subdural Hematoma: A Randomized Clinical Trial.
+JAMA neurology｜RCT｜Score 94
+JAMA neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42295790/
 
-6. 肿瘤/血液肿瘤研究：Avelumab Plus Methotrexate for Gestational Trophoblastic Tumors: The TROPHAMET Phase 1/2 Nonrandomized Clinical Trial.
-JAMA oncology｜RCT｜Score 94
-JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42275082/
+7. 综合医学研究：Talquetamab-Daratumumab in Relapsed or Refractory Myeloma.
+The New England journal of medicine｜Phase 3 trial｜Score 89
+The New England journal of medicine 发布的综合医学相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42294841/
 
-7. 重症医学/急危重症研究：Gastric Residual Volume Assessment in Critically Ill Children: The GASTRIC-PICU Randomized Clinical Trial.
+8. 生物医药/细胞与基因治疗研究：Lonvoguran Ziclumeran - In Vivo CRISPR Gene Editing in Hereditary Angioedema.
+The New England journal of medicine｜RCT｜Score 88
+The New England journal of medicine 发布的生物医药/细胞与基因治疗相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42294842/
+
+9. 代谢/肥胖/糖尿病研究：An AI-Based OCT System to Detect Diabetic Macular Edema: A Prospective Validation and Noninferiority Randomized Clinical Trial.
+JAMA｜RCT｜Score 86
+JAMA 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42295755/
+
+10. 重症医学/急危重症研究：Gastric Residual Volume Assessment in Critically Ill Children: The GASTRIC-PICU Randomized Clinical Trial.
 JAMA｜RCT｜Score 86
 JAMA 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42283228/
 
-8. 生物医药/细胞与基因治疗研究：Exa-cel in Children with Transfusion-Dependent β-Thalassemia or Sickle Cell Disease.
-The New England journal of medicine｜Phase 3 trial｜Score 86
-The New England journal of medicine 发布的生物医药/细胞与基因治疗相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42274009/
+11. 心血管研究：Sirolimus-Eluting Balloon With Provisional Stenting Versus Systematic Drug-Eluting Stent Implantation to Treat De Novo Coronary Lesions: A Randomized, Open-Label, Noninferiority Trial.
+Circulation｜RCT｜Score 82
+Circulation 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42290366/
 
-9. 肿瘤/血液肿瘤研究：Treatment-related adverse events of CD3-based T cell-engaging bispecific antibodies in patients with cancer: a meta-analysis of clinical trials.
+12. 肿瘤/血液肿瘤研究：Treatment-related adverse events of CD3-based T cell-engaging bispecific antibodies in patients with cancer: a meta-analysis of clinical trials.
 The Lancet. Oncology｜Clinical trial｜Score 82
 The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42285121/
 
-10. 免疫/炎症研究：Subretinal Gene Therapy for X-Linked Retinoschisis.
-The New England journal of medicine｜Clinical trial｜Score 82
-The New England journal of medicine 发布的免疫/炎症相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42269152/
-
-11. 感染/疫苗研究：Yellow fever vaccination in healthy Gambian children of different ages to establish safety and immunogenicity of a booster dose: a open-label, non-randomised, single-site, phase 3 vaccine trial.
+13. 感染/疫苗研究：Yellow fever vaccination in healthy Gambian children of different ages to establish safety and immunogenicity of a booster dose: a open-label, non-randomised, single-site, phase 3 vaccine trial.
 The Lancet. Infectious diseases｜Phase 3 trial｜Score 81
 The Lancet. Infectious diseases 发布的感染/疫苗相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42276083/
 
-12. 综合医学研究：Experimental human colonisation with non-toxigenic Clostridioides difficile: a placebo-controlled randomised clinical trial.
+14. 公共卫生/流行病学研究：Lifestyle and Metformin Interventions and Risk of Multimorbidity in Adults With Prediabetes.
+JAMA｜RCT｜Score 80
+JAMA 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42295772/
+
+15. 综合医学研究：Experimental human colonisation with non-toxigenic Clostridioides difficile: a placebo-controlled randomised clinical trial.
 Nature communications｜RCT｜Score 80
 Nature communications 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42286003/
 
-13. 重症医学/急危重症研究：Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock.
+16. 重症医学/急危重症研究：Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock.
 The New England journal of medicine｜RCT｜Score 80
 The New England journal of medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42283370/
 
-14. 肿瘤/血液肿瘤研究：Prostate Imaging Standards for Screening Magnetic Resonance Imaging (PRISM): International Consensus Recommendations.
-JAMA oncology｜RCT｜Score 80
-JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42275039/
-
-15. 综合医学研究：Sodium Bicarbonate for In-Hospital Cardiac Arrest: A Randomized Clinical Trial.
-JAMA｜RCT｜Score 80
-JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42273960/
-
-16. 肿瘤/血液肿瘤研究：Cadonilimab plus chemotherapy as first-line treatment in PD-L1-negative advanced non-small cell lung cancer: a phase II clinical trial.
+17. 肿瘤/血液肿瘤研究：Cadonilimab plus chemotherapy as first-line treatment in PD-L1-negative advanced non-small cell lung cancer: a phase II clinical trial.
 Nature communications｜Phase 2 trial｜Score 78
 Nature communications 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42285994/
 
-17. 综合医学研究：Low concentration atropine eye drops and progression of myopia in children: multicentre placebo controlled, double masked, randomised trial in the UK (CHAMP-UK).
+18. 综合医学研究：Low concentration atropine eye drops and progression of myopia in children: multicentre placebo controlled, double masked, randomised trial in the UK (CHAMP-UK).
 BMJ (Clinical research ed.)｜RCT｜Score 78
 BMJ (Clinical research ed.) 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42276557/
 
-18. 医疗AI/数字医学研究：General-purpose large language models outperform specialized clinical AI tools on medical benchmarks.
+19. 医疗AI/数字医学研究：General-purpose large language models outperform specialized clinical AI tools on medical benchmarks.
 Nature medicine｜RCT｜Score 72
 Nature medicine 发布的医疗AI/数字医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42286322/
 
-19. 综合医学研究：Efficacy and target engagement of dopamine agonist pramipexole for anhedonic depression: a randomized placebo-controlled trial.
+20. 综合医学研究：Efficacy and target engagement of dopamine agonist pramipexole for anhedonic depression: a randomized placebo-controlled trial.
 Nature medicine｜RCT｜Score 72
 Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42286321/
-
-20. 重症医学/急危重症研究：Vasopressors or Fluids in Early Septic Shock.
-The New England journal of medicine｜Original research｜Score 70
-The New England journal of medicine 发布的重症医学/急危重症相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42274006/
