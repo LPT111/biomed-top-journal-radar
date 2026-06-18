@@ -1,86 +1,59 @@
 # 国际顶刊与医学科学新闻
 
-1. 肿瘤/血液肿瘤研究：Aumolertinib with or without chemotherapy in EGFR-mutated advanced non-small-cell lung cancer (AENEAS2): an open-label, multicentre, randomised, controlled, phase 3 trial.
-   - 来源：The Lancet. Oncology
-   - 时间：2026-Jun-15
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Although third-generation epidermal growth-factor receptor (EGFR)-tyrosine-kinase inhibitors (TKIs) are standard first-line therapies for patients with advanced EGFR-mutated non-small-cell lung cancer (NSCLC), their effectiveness is often limited by the emergence of drug resistance and subsequent disease progression. Given the previously established clinical efficacy and adverse event profile of aumolertinib, we aimed to evaluate the efficacy and adverse event profile of aumolertinib in combination with... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42296979/
-2. 心血管研究：Digoxin in Patients With Symptomatic Rheumatic Heart Disease: A Randomized Clinical Trial.
+1. 肿瘤/血液肿瘤研究：Bispecific Antibody Ivonescimab Added to Chemotherapy in EGFR-Variant Non-Small Cell Lung Cancer: The HARMONi-A Randomized Clinical Trial.
+   - 来源：JAMA
+   - 时间：2026-Jun-17
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Patients with epidermal growth factor receptor (EGFR) gene variant nonsquamous non-small cell lung cancer (NSCLC) who have disease progression after prior EGFR tyrosine kinase inhibitor (TKI) therapy have limited treatment options, creating a need for more effective subsequent therapies.
+OBJECTIVE: To provide final overall results of a trial assessing whether adding ivonescimab (a bispecific antibody targeting programmed cell death protein 1 and vascular endothelial growth factor) to chemotherapy improv... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42307937/
+2. 综合医学研究：Prone Positioning in Infants With Acute Bronchiolitis: The PROPOSITIS Randomized Clinical Trial.
+   - 来源：JAMA
+   - 时间：2026-Jun-17
+   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Prone positioning has been shown to improve respiratory mechanics and oxygenation, but its clinical benefit in infants with acute viral bronchiolitis receiving high-flow nasal cannula (HFNC) support remains unknown.
+OBJECTIVE: To investigate whether prone positioning in infants with moderate to severe acute bronchiolitis and HFNC support reduces escalation to noninvasive or invasive ventilation.
+DESIGN, SETTING, AND PARTICIPANTS: Multicenter, randomized, open-label trial conducted in 15 pediatric interm... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42307570/
+3. 心血管研究：Digoxin in Patients With Symptomatic Rheumatic Heart Disease: A Randomized Clinical Trial.
    - 来源：JAMA
    - 时间：2026-Jun-16
    - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Heart failure is the most common cause of death in patients with rheumatic heart disease. The efficacy and safety of digoxin in this population are not known.
 OBJECTIVE: To determine if digoxin, compared with placebo, improves the composite of death or new-onset or worsening heart failure in patients with symptomatic rheumatic heart disease.
 DESIGN, SETTING, AND PARTICIPANTS: Multicenter, randomized, placebo-controlled trial enrolling patients with rheumatic heart disease who additionally had heart fail... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42106990/
-3. 神经科学/神经疾病研究：Middle Meningeal Artery Embolization With n-Butyl Cyanoacrylate in Patients With Chronic Subdural Hematoma: A Randomized Clinical Trial.
-   - 来源：JAMA neurology
-   - 时间：2026-Jun-15
-   - 摘要：这条内容聚焦神经科学/神经疾病。来源为JAMA neurology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Middle meningeal artery embolization (MMAE) is a minimally invasive adjunctive treatment for chronic subdural hematoma (cSDH). The TRUFILL n-butyl cyanoacrylate (n-BCA) liquid embolic system is indicated for embolization of cerebral arteriovenous malformations for presurgical devascularization and may be appropriate for MMAE in patients with cSDH.
-OBJECTIVE: To evaluate safety and effectiveness of the study device for MMAE plus standard of care vs standard of care alone in patients with cSDH.
-DESIGN, SE... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42295790/
-4. 综合医学研究：Talquetamab-Daratumumab in Relapsed or Refractory Myeloma.
-   - 来源：The New England journal of medicine
-   - 时间：2026-Jun-13
-   - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Talquetamab, a bispecific antibody targeting GPRC5D and CD3, has led to durable responses in patients with heavily pretreated relapsed or refractory multiple myeloma in phase 1-2 trials, with a limited effect on normal B cells.
-METHODS: In a phase 3 trial, we randomly assigned patients with relapsed or refractory multiple myeloma who had previously received at least one line of therapy to receive talquetamab plus daratumumab and pomalidomide (Tal-DP), talquetamab plus daratumumab (Tal-D), or daratumumab... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42294841/
-5. 心血管研究：Efficacy and Safety of Digitalis Glycosides in Heart Failure: A Meta-Analysis.
+4. 心血管研究：Efficacy and Safety of Digitalis Glycosides in Heart Failure: A Meta-Analysis.
    - 来源：JAMA
    - 时间：2026-Jun-16
    - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Digitalis glycosides may be used as additional therapy in patients with heart failure with mildly reduced ejection fraction (HFmrEF) or HF with reduced EF (HFrEF).
 OBJECTIVE: To assess the effect of digitalis glycosides on clinical outcomes in patients with HFmrEF or HFrEF.
 DATA SOURCES AND STUDY SELECTION: PubMed was searched from inception to March 1, 2026, using medical subject headings and keywords related to digitalis glycosides and HF. The review was restricted to placebo-controlled randomized cli... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42106991/
-6. 生物医药/细胞与基因治疗研究：Lonvoguran Ziclumeran - In Vivo CRISPR Gene Editing in Hereditary Angioedema.
-   - 来源：The New England journal of medicine
-   - 时间：2026-Jun-13
-   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Hereditary angioedema is a rare and potentially life-threatening genetic condition characterized by recurrent and debilitating swelling attacks. Lonvoguran ziclumeran (lonvo-z) - an investigational, in vivo gene-editing treatment based on clustered regularly interspaced short palindromic repeats (CRISPR) - is being developed as a single-dose treatment for hereditary angioedema.
-METHODS: In a phase 3, double-blind trial, we randomly assigned, in a 2:1 ratio, patients who were 16 years of age or older and... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42294842/
-7. 综合医学研究：Cryobiopsy vs Forceps for Bronchoscopic Lung Biopsy: The FROSTBITE-2 Randomized Clinical Trial.
+5. 肿瘤/血液肿瘤研究：Specimen PET-CT Imaging for Intraoperative Margin Assessment in Early-Stage Breast Cancer: The BrIMA Nonrandomized Clinical Trial.
+   - 来源：JAMA surgery
+   - 时间：2026-Jun-17
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Positive margins occur in 12% to 30% of breast-conserving surgeries and are associated with increased local recurrence risks. Accurate and efficient intraoperative margin assessment, therefore, remains an unmet clinical need.
+OBJECTIVE: To evaluate the success rate of intraoperative specimen positron emission tomography (PET)-computed tomography (CT) imaging in addressing positive margins in patients with invasive ductal carcinoma.
+DESIGN, SETTING, AND PARTICIPANTS: This was an interventional, multicent... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42307959/
+6. 综合医学研究：Cryobiopsy vs Forceps for Bronchoscopic Lung Biopsy: The FROSTBITE-2 Randomized Clinical Trial.
    - 来源：JAMA
    - 时间：2026-Jun-16
    - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Bronchoscopic biopsy is conventionally performed with forceps, which can result in small specimen sizes and poor specimen quality due to crush artifact. Cryoprobe use localizes freezing at the probe tip, enabling retrieval of larger, more intact biopsy specimens.
 OBJECTIVE: To evaluate the diagnostic yield of a 1.1-mm cryoprobe for transbronchial biopsy.
 DESIGN, SETTING, AND PARTICIPANTS: This open-label, outcome assessor-masked, multicenter randomized clinical trial included 500 patients aged 18 years ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42149700/
-8. 肿瘤/血液肿瘤研究：Liposomal mitoxantrone plus tislelizumab in patients with relapsed or refractory extranodal natural killer/T-cell lymphoma: a phase 1b/2 trial.
-   - 来源：Nature communications
-   - 时间：2026-Jun-15
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Phase 2 trial。摘要信息显示：Treatment options for relapsed or refractory extranodal natural killer/T-cell lymphoma (R/R ENKTL) remain limited. In this phase 1b/2 trial (NCT05464433), we evaluated the safety and efficacy of liposomal mitoxantrone (Lipo-MIT) plus anti-PD-1 tislelizumab in this setting. During dose escalation, patients received Lipo-MIT (16 or 20 mg/m2) plus tislelizumab using a 3 + 3 design, followed by dose expansion at the recommended phase 2 dose (RP2D). The primary endpoint of the dose-escalation phase was dose-limiting tox... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42297808/
-9. 代谢/肥胖/糖尿病研究：An AI-Based OCT System to Detect Diabetic Macular Edema: A Prospective Validation and Noninferiority Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Jun-15
-   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Screening for diabetic retinopathy using fundus photographs is the global standard of care but results in high false-positive referrals to evaluate diabetic macular edema (DME), placing a substantial burden on specialist eye clinics. Integrating an AI-based optical coherence tomography (AI-OCT) system into screening pathways may reduce potentially unnecessary referrals.
-OBJECTIVE: To evaluate the diagnostic and referral performance of an AI-OCT system for DME detection within a diabetic retinopathy scre... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42295755/
-10. 心血管研究：Sirolimus-Eluting Balloon With Provisional Stenting Versus Systematic Drug-Eluting Stent Implantation to Treat De Novo Coronary Lesions: A Randomized, Open-Label, Noninferiority Trial.
-   - 来源：Circulation
-   - 时间：2026-Jun-15
-   - 摘要：这条内容聚焦心血管。来源为Circulation，类型初步识别为RCT。摘要信息显示：BACKGROUND: Implantation of drug eluting stents (DESs) is currently the default approach for percutaneous coronary interventions, but long-term adverse events still exist. An approach with minimal stenting deserves to be assessed in a randomized trial. We studied a novel sirolimus-eluting balloon (SEB) that elutes sirolimus over a 90-day period using a biodegradable polymer microreservoir technology.
-METHODS: In a multicenter, open-label, randomized trial, we compared an SEB-based strategy with provisional DES with... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42290366/
-11. 神经科学/神经疾病研究：Adaptive deep brain stimulation for dynamic gait control in Parkinson's disease: a randomized feasibility trial.
-   - 来源：Nature medicine
-   - 时间：2026-Jun-15
-   - 摘要：这条内容聚焦神经科学/神经疾病。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：A randomized crossover study of five patients with Parkinson's disease (PD) demonstrates that gait-synchronized adaptive deep brain stimulation is feasible and safe, and reduces falls compared with continuous stimulation. Gait dysfunction in PD is a major source of disability and is often insufficiently treated by continuous deep brain stimulation (cDBS). Although adaptive DBS (aDBS) has shown efficacy for other motor symptoms using β-based, state-driven neural signals, gait is a dynamic, cyclical behavior that may... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42297980/
-12. 感染/疫苗研究：Effect of a community-based behavioural intervention bundle to improve antibiotic use and patient management in Burkina Faso and DR Congo (CABU-EICO): a cluster-randomised controlled trial.
-   - 来源：The Lancet. Infectious diseases
-   - 时间：2026-Jun-15
-   - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为RCT。摘要信息显示：BACKGROUND: Increasing Watch-group antibiotic use might be contributing to antimicrobial resistance burden in sub-Saharan Africa. We evaluated the effects of a community-based, co-created intervention bundle targeting all community-level health-care providers and the communities they serve on Watch-group antibiotic use and patient management.
-METHODS: In a cluster-randomised, controlled trial in Nanoro, Burkina Faso, and Kimpese, DR Congo, villages or neighbourhoods with at least 500 inhabitants and at least one co... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42296975/
-13. 公共卫生/流行病学研究：Lifestyle and Metformin Interventions and Risk of Multimorbidity in Adults With Prediabetes.
-   - 来源：JAMA
-   - 时间：2026-Jun-15
-   - 摘要：这条内容聚焦公共卫生/流行病学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Studying how to prevent or delay not just 1 disease but multiple chronic conditions is of great importance for public health; however, few interventions have demonstrated success during long-term follow-up.
-OBJECTIVE: To examine the association of lifestyle or metformin compared with placebo on long-term multimorbidity in adults with prediabetes.
-DESIGN, SETTING, AND PARTICIPANTS: Observational follow-up cohort study of a randomized clinical trial conducted at 27 sites in the United States from June 1, ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42295772/
-14. 心血管研究：Benefits and Harms of Pharmacologic Treatments in Adults With Overweight or Obesity: A Living Systematic Review and Network Meta-analysis for the American College of Physicians.
+7. 生物医药/细胞与基因治疗研究：AAVrh.10hFXN Gene Therapy for the Cardiomyopathy of Friedreich Ataxia: A Nonrandomized Clinical Trial.
+   - 来源：JAMA cardiology
+   - 时间：2026-Jun-17
+   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Friedreich ataxia (FA), a fatal, autosomal recessive disorder caused by pathogenic variants in the frataxin (FXN) gene, is characterized by progressive neurologic and cardiac disease, with cardiac disease being the major cause of death. Preclinical studies have demonstrated that systemic administration of AAVrh.10hFXN, an rh.10 serotype cardiotropic adenoassociated virus (AAV) vector expressing the normal human FXN coding sequence, reverses the cardiomyopathy in FXN-deficient mice.
+OBJECTIVE: To assess ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42307907/
+8. 心血管研究：Exercise Performance With Aficamten vs Metoprolol in Obstructive Hypertrophic Cardiomyopathy: The MAPLE-HCM Randomized Clinical Trial.
+   - 来源：JAMA cardiology
+   - 时间：2026-Jun-17
+   - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Patients with obstructive hypertrophic cardiomyopathy (oHCM) endure life-altering exercise limitations. Current treatment guidelines recommend β-blockers as first-line therapy primarily based on expert opinion. The Metoprolol vs Aficamten in Patients with Left Ventricular Outflow Tract Obstruction on Exercise Capacity in HCM (MAPLE-HCM) trial characterizes comprehensive exercise response to aficamten monotherapy vs β-blockade (metoprolol).
+OBJECTIVE: To determine the effect of aficamten compared with me... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42307914/
+9. 心血管研究：Benefits and Harms of Pharmacologic Treatments in Adults With Overweight or Obesity: A Living Systematic Review and Network Meta-analysis for the American College of Physicians.
    - 来源：Annals of internal medicine
    - 时间：2026-Jun-16
    - 摘要：这条内容聚焦心血管。来源为Annals of internal medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Overweight and obesity are closely linked to diseases such as type 2 diabetes, coronary heart disease, and stroke and have been shown to increase mortality risk.
@@ -88,7 +61,7 @@ PURPOSE: To conduct a living systematic review of pharmacologic treatments for w
 DATA SOURCES: MEDLINE and Cochrane Central Register of Controlled Trials until October 2025.
 STUDY SELECTION: Randomized controlled trials that compared pharmacologic treatments for weight management (dulaglutide,... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42296503/
-15. 综合医学研究：Multimodal Prehabilitation for Older Adults Undergoing Spinal Fusion : A Randomized Clinical Trial.
+10. 综合医学研究：Multimodal Prehabilitation for Older Adults Undergoing Spinal Fusion : A Randomized Clinical Trial.
    - 来源：Annals of internal medicine
    - 时间：2026-Jun-16
    - 摘要：这条内容聚焦综合医学。来源为Annals of internal medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Older adults often have impaired physiologic reserve and are at higher risk for postoperative complications after spinal fusion surgery.
@@ -96,3 +69,30 @@ OBJECTIVE: To evaluate the efficacy of multimodal prehabilitation plus Enhanced 
 DESIGN: Multicenter, open-label, assessor-blinded, 1:1 parallel-group randomized controlled trial. (ClinicalTrials.gov: NCT06140797).
 SETTING: 3 tertia... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42296500/
+11. 心血管研究：Computed tomography-guided vs conventional catheter ablation for ventricular tachycardia: the InEurHeart trial.
+   - 来源：European heart journal
+   - 时间：2026-Jun-16
+   - 摘要：这条内容聚焦心血管。来源为European heart journal，类型初步识别为RCT。摘要信息显示：BACKGROUND AND AIMS: Catheter ablation is performed in patients with recurrent ventricular tachycardia (VT) but remains complex and limited to experienced centres. Ventricular tachycardia ablation guided by pre-procedural imaging was shown promising in non-randomized trials. InEurHeart aims to evaluate computed tomography (CT)-guided VT ablation vs conventional ablation in a multicentre randomized controlled trial.
+METHODS: In 14 European centres, 113 patients with prior myocardial infarction and clinically signifi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/41667137/
+12. 心血管研究：Phone-Based Intervention Under Nurse Guidance for Control of Hypertension After Stroke: A Randomized Multicenter Phase 3 Trial in Ghana.
+   - 来源：Circulation
+   - 时间：2026-Jun-16
+   - 摘要：这条内容聚焦心血管。来源为Circulation，类型初步识别为RCT。摘要信息显示：BACKGROUND: Addressing the rising burden of stroke in low-income countries will require pragmatic and scalable interventions targeting major risk factors. Under routine care settings, <10% of adults living with hypertension ever achieve blood pressure control, accentuating risks for adverse vascular events. The effectiveness of mobile health-centered, nurse-led interventions for the control of hypertension among patients with recent stroke in a resource-limited African setting is unknown.
+METHODS: The PINGS (Phone-... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/41953982/
+13. 心血管研究：The translational potential of drug-induced hypothermia in acute ischemic stroke.
+   - 来源：Science translational medicine
+   - 时间：2026-Jun-17
+   - 摘要：这条内容聚焦心血管。来源为Science translational medicine，类型初步识别为RCT。摘要信息显示：Hypothermia and hypometabolism are important for hibernating animals to survive harsh environmental conditions. Induction of a hypothermic and hypometabolic state is considered an avenue to treat severe diseases, such as ischemic stroke. However, noninvasive and safe methods to achieve a long-lasting hypothermic and hypometabolic state remain limited. Here, we present data from preclinical and clinical studies to explore the feasibility and safety of drug-induced hypothermia by administration of chlorpromazine and ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42308333/
+14. 肿瘤/血液肿瘤研究：Plasma proteomics improves thrombosis prediction in patients with cancer and identifies targetable IL-17-driven endothelial activation.
+   - 来源：Science translational medicine
+   - 时间：2026-Jun-17
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Science translational medicine，类型初步识别为Phase 3 trial。摘要信息显示：Thrombosis remains a major cause of morbidity and mortality in patients with cancer. Existing risk models fail to reliably predict venous thromboembolism (VTE), underscoring the need for more accurate predictive models. In this study, we conducted a high-throughput proteomic analysis of 1105 plasma proteins in peripheral blood samples from patients with newly diagnosed lung or gastric cancer who were prospectively monitored for VTE development. Using a Bayesian probabilistic machine learning approach, we developed ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42308329/
+15. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of retatrutide, a GIP, GLP-1, and glucagon receptor agonist, in people with type 2 diabetes and inadequate glycaemic control with diet and exercise (TRANSCEND-T2D-1): a double-blind, randomised, phase 3 trial
+   - 来源：The Lancet
+   - 时间：2026-06-06T18:30:01Z
+   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The Lancet，类型初步识别为RCT。摘要信息显示：Retatrutide showed significant improvements in glycaemic control and bodyweight reduction as a monotherapy in adults with type 2 diabetes that is inadequately controlled with diet and exercise alone, with an adverse event profile consistent with molecules with GLP-1 agonist activity, supporting its potential as an effective treatment for type 2 diabetes. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00967-0/fulltext?rss=yes
