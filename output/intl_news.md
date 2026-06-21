@@ -45,45 +45,44 @@ SETTING: 30 NHS hospitals in the UK.
 PARTICIPANTS: 411 participants aged at least 50 years with chronic, pretreated, active AMD.
 INTERVENTION: Participants rece... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42315290/
-8. 肿瘤/血液肿瘤研究：Development and validation of artificial intelligence-assisted volumetric response criteria in pleural mesothelioma (ARTIMES): a retrospective, multicohort, multicentre study.
-   - 来源：The Lancet. Oncology
-   - 时间：2026-Jun-17
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND: Response evaluation in pleural mesothelioma is challenging because its crescent growth pattern is poorly captured by diameter-based criteria. We aimed to develop and validate artificial intelligence (AI)-assisted volumetric response criteria (ARTIMES) based on automated tumour segmentation and biologically derived thresholds.
-METHODS: In this retrospective, multicentre study, we included 10 926 CT scans from 2080 patients from 14 cohorts. A subset totalling 1176 CT scans from routine care (Netherlands C... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42309108/
-9. 肿瘤/血液肿瘤研究：[Articles] Tafasitamab plus lenalidomide and R-CHOP versus R-CHOP for first-line treatment of patients with high-risk diffuse large B-cell lymphoma (frontMIND): a global, phase 3, randomised, double-blind, placebo-controlled trial
+8. 肿瘤/血液肿瘤研究：[Articles] Tafasitamab plus lenalidomide and R-CHOP versus R-CHOP for first-line treatment of patients with high-risk diffuse large B-cell lymphoma (frontMIND): a global, phase 3, randomised, double-blind, placebo-controlled trial
    - 来源：The Lancet
    - 时间：2026-05-30T20:00:01Z
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet，类型初步识别为RCT。摘要信息显示：Progression-free survival was significantly improved with tafa-len-R-CHOP versus R-CHOP; however, the safety profile indicated increases in adverse events, including treatment-emergent adverse events leading to death, with the addition of tafasitamab and lenalidomide. Overall survival data are immature; follow-up is ongoing. Further analyses, including of circulating tumor DNA, will help to assess whether deeper molecular responses are contributing to the progression-free survival benefit observed with tafa-len-R-C... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00866-4/fulltext?rss=yes
+9. 综合医学研究：Solvent-triggered reconfiguration of optical physical unclonable functions.
+   - 来源：Nature communications
+   - 时间：2026-Jun-20
+   - 摘要：这条内容聚焦综合医学。来源为Nature communications，类型初步识别为RCT。摘要信息显示：Optical physical unclonable functions provide artificial fingerprints through randomized light-matter interactions, but are limited by static architectures that lack adaptive defense capabilities. Although reconfigurable optical physical unclonable functions based on phase-change materials have been proposed to overcome this constraint, their reliance on light or heat makes them susceptible to unintended environmental activation. Here, we propose a solvent-triggered reconfiguration strategy for optical physical unc... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42321185/
 10. 医疗AI/数字医学研究：Towards Conversational AI for Disease Management.
    - 来源：Nature
    - 时间：2026-Jun-17
    - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature，类型初步识别为RCT。摘要信息显示：While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning-including disease progression, therapeutic response, and safe medication prescription-remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1-3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledg... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42310463/
-11. 心血管研究：The translational potential of drug-induced hypothermia in acute ischemic stroke.
-   - 来源：Science translational medicine
-   - 时间：2026-Jun-17
-   - 摘要：这条内容聚焦心血管。来源为Science translational medicine，类型初步识别为RCT。摘要信息显示：Hypothermia and hypometabolism are important for hibernating animals to survive harsh environmental conditions. Induction of a hypothermic and hypometabolic state is considered an avenue to treat severe diseases, such as ischemic stroke. However, noninvasive and safe methods to achieve a long-lasting hypothermic and hypometabolic state remain limited. Here, we present data from preclinical and clinical studies to explore the feasibility and safety of drug-induced hypothermia by administration of chlorpromazine and ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42308333/
-12. 肿瘤/血液肿瘤研究：Radiotherapy for indolent primary cutaneous B-cell lymphoma: an international multicenter ILROG analysis.
+11. 肿瘤/血液肿瘤研究：Radiotherapy for indolent primary cutaneous B-cell lymphoma: an international multicenter ILROG analysis.
    - 来源：Blood
    - 时间：2026-Jun-18
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Blood，类型初步识别为Guideline。摘要信息显示：Radiotherapy is an established treatment for low-grade primary cutaneous B-cell lymphoma. Recommendations on its use differ internationally, which prompted our group to conduct this analysis. Twenty-two institutions participated in this international study. Patient eligibility required a diagnosis of limited (T1/T2) primary cutaneous marginal zone or follicle center lymphoma treated with radiotherapy between 1995 and 2023. Data were collected retrospectively until February 2024 within the framework of the Internati... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/41824381/
-13. 公共卫生/流行病学研究：Genetic and health determinants of cancer risk in Bangladeshi and Pakistani individuals in the UK.
+12. 公共卫生/流行病学研究：Genetic and health determinants of cancer risk in Bangladeshi and Pakistani individuals in the UK.
    - 来源：Nature communications
    - 时间：2026-Jun-18
    - 摘要：这条内容聚焦公共卫生/流行病学。来源为Nature communications，类型初步识别为Original research。摘要信息显示：South Asian populations remain underrepresented in cancer genomics, despite elevated risk for certain malignancies and distinct clinical profiles. This gap is especially pronounced for British Bangladeshi and Pakistani communities. We analyse data from 57,416 individuals of Bangladeshi and Pakistani ancestry in the UK-based Genes & Health cohort, integrating electronic health records, cancer registry data, and whole-exome sequencing (n = 43,462). Among them, 2,782 (4.8%) has cancer, with earlier onset across multip... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42315506/
-14. 肿瘤/血液肿瘤研究：Second Primary Malignant Neoplasms After T-Cell-Engaging Bispecific Antibody Therapy: A Systematic Review and Meta-Analysis.
+13. 肿瘤/血液肿瘤研究：Second Primary Malignant Neoplasms After T-Cell-Engaging Bispecific Antibody Therapy: A Systematic Review and Meta-Analysis.
    - 来源：JAMA oncology
    - 时间：2026-Jun-18
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为Clinical trial。摘要信息显示：IMPORTANCE: T-cell-engaging bispecific antibodies (BsAbs) are increasingly used in B-cell non-Hodgkin lymphoma (NHL) and multiple myeloma (MM). As these agents transition into earlier courses of therapy and broader clinical use, understanding their safety profile is critical. While second primary malignant neoplasms (SPMs) represent a key long-term safety signal, small sample sizes, single-arm trials, short follow-up, and heterogeneous reporting have limited reliable estimation of their frequency.
 OBJECTIVE: To est... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42313425/
-15. 肿瘤/血液肿瘤研究：Lenalidomide plus rituximab for previously untreated advanced follicular lymphoma: the 10-year RELEVANCE trial analysis.
+14. 肿瘤/血液肿瘤研究：Lenalidomide plus rituximab for previously untreated advanced follicular lymphoma: the 10-year RELEVANCE trial analysis.
    - 来源：Blood
    - 时间：2026-Jun-18
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Blood，类型初步识别为RCT。摘要信息显示：In the multinational, phase 3 RELEVANCE trial, 1030 patients with previously untreated follicular lymphoma were randomized to receive rituximab + lenalidomide (R2; n = 513) or rituximab-based immunochemotherapy (R-Chemo; n = 517). In the final analysis, at 120 months of follow-up, median progression-free survival (PFS) was comparable between the treatment groups: 110.6 months with R2 vs 102.8 months with R-Chemo, according to the independent review committee assessment. The 10-year PFS rates were 46.4% for R2 and 4... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/41915772/
+15. 肿瘤/血液肿瘤研究：Venetoclax combinations in untreated CLL: 5-year results and patient-reported outcomes analysis of the CLL13/GAIA trial.
+   - 来源：Blood
+   - 时间：2026-Jun-18
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Blood，类型初步识别为RCT。摘要信息显示：Fixed-duration venetoclax combinations have become a standard first-line treatment in chronic lymphocytic leukemia (CLL). The phase 3 CLL13/GAIA trial assesses 3 time-limited combinations: venetoclax-rituximab (RV), venetoclax-obinutuzumab (GV), and venetoclax-obinutuzumab-ibrutinib (GIV), in comparison with chemoimmunotherapy (CIT). Fit patients with CLL without TP53 aberrations were randomized between 6 cycles of CIT (fludarabine-cyclophosphamide-rituximab [FCR] or bendamustine-rituximab [BR]) or 12 cycles of RV,... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/41911073/
