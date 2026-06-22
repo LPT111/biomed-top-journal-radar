@@ -10,18 +10,18 @@
    - 时间：Fri, 19 Jun 2026 13:06:23 GMT
    - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE80dEpYeHFMUzhBelcxakQxZEREdkF2azN3NTNtT2dxems3Q25ITDJMT1N3dV9sLTdJUWI1eGR4eE1kU1plMUJmem11alp4QXlrMzJsbmZDXzhBMVN0Nk5kdFUyTFVwa1VYQ0E?oc=5" target="_blank">中国疾控中心（中国预科院）召开2026 年外事工作会议</a>&nbsp;&nbsp;<font color="#6f6f6f">chinacdc.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMiakFVX3lxTE80dEpYeHFMUzhBelcxakQxZEREdkF2azN3NTNtT2dxems3Q25ITDJMT1N3dV9sLTdJUWI1eGR4eE1kU1plMUJmem11alp4QXlrMzJsbmZDXzhBMVN0Nk5kdFUyTFVwa1VYQ0E?oc=5
-3. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
+3. “2025四川十大经济影响力人物”谢胤：将在成都打造百亿级AI健康产业生态圈 - 封面新闻
    - 来源：Google News CN
-   - 时间：Thu, 18 Jun 2026 13:47:47 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbXdoMGVQb0h5a0Z0aE9rdVpjVFItcVdhMGwzbjV0RkdxaDlFYkpLbTVUMm4zd08yU3B4aTAyck40LVV1NlFwdDFVM2VXYmtCRzRZM19qZw?oc=5" target="_blank">2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局</a>&nbsp;&nbsp;<font color="#6f6f6f">摩熵医药</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbXdoMGVQb0h5a0Z0aE9rdVpjVFItcVdhMGwzbjV0RkdxaDlFYkpLbTVUMm4zd08yU3B4aTAyck40LVV1NlFwdDFVM2VXYmtCRzRZM19qZw?oc=5
-4. 技术革命还是概念“画饼”？AI制药的机遇与挑战 - thepaper.cn
+   - 时间：Tue, 16 Jun 2026 22:27:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE15b21tUTNCV0xiNVZwZ1BFMUVQOXFzaktZRmVZM3E2NUh3VENocGI5T1NuVGl5b05tdUdnMUxjOFhUNzI1V3ByTHBUSnIwbkEwRU5abERvT2FVd2xrWC1RQmE0eFhBZVlVOVdTcWZiQmZnekVhZWNoWlNR?oc=5" target="_blank">“2025四川十大经济影响力人物”谢胤：将在成都打造百亿级AI健康产业生态圈</a>&nbsp;&nbsp;<font color="#6f6f6f">封面新闻</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMiekFVX3lxTE15b21tUTNCV0xiNVZwZ1BFMUVQOXFzaktZRmVZM3E2NUh3VENocGI5T1NuVGl5b05tdUdnMUxjOFhUNzI1V3ByTHBUSnIwbkEwRU5abERvT2FVd2xrWC1RQmE0eFhBZVlVOVdTcWZiQmZnekVhZWNoWlNR?oc=5
+4. 南方医科大学，国产顶刊STTT：双靶点免疫新辅助治疗III期非小细胞肺癌！-MedSci.cn - 梅斯医学 MedSci
    - 来源：Google News CN
-   - 时间：Mon, 15 Jun 2026 23:24:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vWVJpNE9fZ3NaaHNRZ0hfM0UwS2d0X3F3Y0JiZkJTM2RwMEdNRUtNVl8tX1RKRnoyenFCbElpdElHQVdBTG1TNm1BbUF4U2RmTXJxUzB0dnl2bUdSd0E?oc=5" target="_blank">技术革命还是概念“画饼”？AI制药的机遇与挑战</a>&nbsp;&nbsp;<font color="#6f6f6f">thepaper.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vWVJpNE9fZ3NaaHNRZ0hfM0UwS2d0X3F3Y0JiZkJTM2RwMEdNRUtNVl8tX1RKRnoyenFCbElpdElHQVdBTG1TNm1BbUF4U2RmTXJxUzB0dnl2bUdSd0E?oc=5
-5. 聚焦细胞基因新赛道！光明一中心成立！ - 奥一网
+   - 时间：Thu, 18 Jun 2026 01:47:09 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFBTb3c0dGYtY3RaZk5qY2RSN0Y2bEhGZW12cjZCYnh3SHBVUWpVM1ltNEZGTTNjSWhOek1QN1RoczdKb1BNeURrbGRzM3JDai1SMmFxNUVmcnY2aWtNbjI3cGRpR2dGS1ZzMkRDLUpB?oc=5" target="_blank">南方医科大学，国产顶刊STTT：双靶点免疫新辅助治疗III期非小细胞肺癌！-MedSci.cn</a>&nbsp;&nbsp;<font color="#6f6f6f">梅斯医学 MedSci</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTFBTb3c0dGYtY3RaZk5qY2RSN0Y2bEhGZW12cjZCYnh3SHBVUWpVM1ltNEZGTTNjSWhOek1QN1RoczdKb1BNeURrbGRzM3JDai1SMmFxNUVmcnY2aWtNbjI3cGRpR2dGS1ZzMkRDLUpB?oc=5
+5. 全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究 - 新浪财经
    - 来源：Google News CN
-   - 时间：Wed, 17 Jun 2026 10:28:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1maVlTS0FBR3dpYnVjUjNSVlAwMWNSY1YwelEzbDhTa3pxWUNzeDlBSWh4cnBvdk9Gcnlpc1lnb1UzejFSdG12U0JmaVF1cWhUMUpqei1EVU4tWUhVUGxyUVllNzNwbk0?oc=5" target="_blank">聚焦细胞基因新赛道！光明一中心成立！</a>&nbsp;&nbsp;<font color="#6f6f6f">奥一网</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1maVlTS0FBR3dpYnVjUjNSVlAwMWNSY1YwelEzbDhTa3pxWUNzeDlBSWh4cnBvdk9Gcnlpc1lnb1UzejFSdG12U0JmaVF1cWhUMUpqei1EVU4tWUhVUGxyUVllNzNwbk0?oc=5
+   - 时间：Sun, 21 Jun 2026 22:01:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdzZFZnlheng4VUtTOUZQS3p5X1lpZ3JERXVCbGZpbGNMYWlTWGNxNVlUdzg1ZGRDQTVCMzVmNDIxQjZKeG1za3dqY3J2d0JsWU9ORG9PYXRzY0xFWkotZFB4VDhReHVYS2dwNUU5Nm1YZE5uUnNZSQ?oc=5" target="_blank">全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究</a>&nbsp;&nbsp;<font color="#6f6f6f">新浪财经</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdzZFZnlheng4VUtTOUZQS3p5X1lpZ3JERXVCbGZpbGNMYWlTWGNxNVlUdzg1ZGRDQTVCMzVmNDIxQjZKeG1za3dqY3J2d0JsWU9ORG9PYXRzY0xFWkotZFB4VDhReHVYS2dwNUU5Nm1YZE5uUnNZSQ?oc=5

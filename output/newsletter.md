@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-06-21 10:04:11
+# 医学科学新闻推文候选草稿｜2026-06-22 10:08:14
 
 ## 1. 中大成功拆解肝癌免疫治疗耐药性机制 揭一种免疫细胞具「除废喂食」新功能助癌细胞耐药性 - The Chinese University of Hong Kong
 
@@ -54,36 +54,9 @@ Google News CN｜Fri, 19 Jun 2026 13:06:23 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
+## 3. “2025四川十大经济影响力人物”谢胤：将在成都打造百亿级AI健康产业生态圈 - 封面新闻
 
-【医学科学新闻】2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
-
-一、为什么重要
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Thu, 18 Jun 2026 13:47:47 GMT｜https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbXdoMGVQb0h5a0Z0aE9rdVpjVFItcVdhMGwzbjV0RkdxaDlFYkpLbTVUMm4zd08yU3B4aTAyck40LVV1NlFwdDFVM2VXYmtCRzRZM19qZw?oc=5
-
----
-
-## 4. 技术革命还是概念“画饼”？AI制药的机遇与挑战 - thepaper.cn
-
-【医学科学新闻】技术革命还是概念“画饼”？AI制药的机遇与挑战 - thepaper.cn
+【医学科学新闻】“2025四川十大经济影响力人物”谢胤：将在成都打造百亿级AI健康产业生态圈 - 封面新闻
 
 一、为什么重要
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -104,13 +77,13 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Mon, 15 Jun 2026 23:24:00 GMT｜https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vWVJpNE9fZ3NaaHNRZ0hfM0UwS2d0X3F3Y0JiZkJTM2RwMEdNRUtNVl8tX1RKRnoyenFCbElpdElHQVdBTG1TNm1BbUF4U2RmTXJxUzB0dnl2bUdSd0E?oc=5
+Google News CN｜Tue, 16 Jun 2026 22:27:00 GMT｜https://news.google.com/rss/articles/CBMiekFVX3lxTE15b21tUTNCV0xiNVZwZ1BFMUVQOXFzaktZRmVZM3E2NUh3VENocGI5T1NuVGl5b05tdUdnMUxjOFhUNzI1V3ByTHBUSnIwbkEwRU5abERvT2FVd2xrWC1RQmE0eFhBZVlVOVdTcWZiQmZnekVhZWNoWlNR?oc=5
 
 ---
 
-## 5. 聚焦细胞基因新赛道！光明一中心成立！ - 奥一网
+## 4. 南方医科大学，国产顶刊STTT：双靶点免疫新辅助治疗III期非小细胞肺癌！-MedSci.cn - 梅斯医学 MedSci
 
-【医学科学新闻】聚焦细胞基因新赛道！光明一中心成立！ - 奥一网
+【医学科学新闻】南方医科大学，国产顶刊STTT：双靶点免疫新辅助治疗III期非小细胞肺癌！-MedSci.cn - 梅斯医学 MedSci
 
 一、为什么重要
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -131,7 +104,34 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Wed, 17 Jun 2026 10:28:00 GMT｜https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1maVlTS0FBR3dpYnVjUjNSVlAwMWNSY1YwelEzbDhTa3pxWUNzeDlBSWh4cnBvdk9Gcnlpc1lnb1UzejFSdG12U0JmaVF1cWhUMUpqei1EVU4tWUhVUGxyUVllNzNwbk0?oc=5
+Google News CN｜Thu, 18 Jun 2026 01:47:09 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTFBTb3c0dGYtY3RaZk5qY2RSN0Y2bEhGZW12cjZCYnh3SHBVUWpVM1ltNEZGTTNjSWhOek1QN1RoczdKb1BNeURrbGRzM3JDai1SMmFxNUVmcnY2aWtNbjI3cGRpR2dGS1ZzMkRDLUpB?oc=5
+
+---
+
+## 5. 全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究 - 新浪财经
+
+【医学科学新闻】全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究 - 新浪财经
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Sun, 21 Jun 2026 22:01:00 GMT｜https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdzZFZnlheng4VUtTOUZQS3p5X1lpZ3JERXVCbGZpbGNMYWlTWGNxNVlUdzg1ZGRDQTVCMzVmNDIxQjZKeG1za3dqY3J2d0JsWU9ORG9PYXRzY0xFWkotZFB4VDhReHVYS2dwNUU5Nm1YZE5uUnNZSQ?oc=5
 
 ---
 
