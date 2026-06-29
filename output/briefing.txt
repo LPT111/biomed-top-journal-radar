@@ -1,34 +1,32 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-06-28 09:50:51
+【Biomed Radar】今日医学科学新闻已更新｜2026-06-29 09:53:50
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
-RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-biorxiv: HTTPError('503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/biorxiv/2026-06-21/2026-06-28/0')
-medrxiv: HTTPError('503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/medrxiv/2026-06-21/2026-06-28/0')
-1. 全球首款实体瘤CAR-T疗法上市！晚期胃癌患者治疗有了“中国方案” - 中国科技网
+1. 中新健康｜我国药物临床试验总量首破5000项 创历史新高 - chinanews.com.cn
+Google News CN｜Medical news｜Score 27
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUc3QzWDdPRDJ6SXJRQnplTS1CUV9BdHZUMGozS1BGdkxnaER5c3lFOXdRWXZZSzBWSG5UNXVVa1JfcGU2NVh0SXRQQS1EQmoyMU5BTlNqNmswZGFDVjE5RzZaMXZZYjRt?oc=5
+
+2. 全球首款实体瘤CAR-T疗法上市！晚期胃癌患者治疗有了“中国方案” - 中国科技网
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMicEFVX3lxTE43X1paNE4zdlpqb3ZWckR2N2tIdzRzTWtWV3F3UktUbTFSU3hRZjQ0T2h5bEVCWWNzVUFSbnEyc2NQWmJjNFIzVzd0eng2dmt5WVFhX1lOQ0VTbHFGOEM2OVJDMi1walNsa1Y2dE1HTkU?oc=5
 
-2. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
+3. 2026年CAR-T药物研发与市场全景深度解析：技术迭代、靶点布局及商业化格局 - 摩熵医药
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbXdoMGVQb0h5a0Z0aE9rdVpjVFItcVdhMGwzbjV0RkdxaDlFYkpLbTVUMm4zd08yU3B4aTAyck40LVV1NlFwdDFVM2VXYmtCRzRZM19qZw?oc=5
 
-3. 【倒计时】AI+医学研究能力提升训练营，7月9-12日即将开营！国家级人才授课，涵盖临床研究/IVD/单细胞/虚拟细胞/大模型等热门应用！ - 会议专区 - 生物谷
+4. 【倒计时】AI+医学研究能力提升训练营，7月9-12日即将开营！国家级人才授课，涵盖临床研究/IVD/单细胞/虚拟细胞/大模型等热门应用！ - 会议专区 - 生物谷
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE85VGRHUzQ3YWdCR2JDSWRYNk9OejJacnV3Yk05c3NwZ1JxMkpwU2loMzBxWGRmRGFyQmF5cVdMSjBFN3hCMFhaWVUzR3p1LXpKbGswRnp0ZG5SNWhr?oc=5
 
-4. 上海创新药公司实现CAR-T细胞疗法历史性突破 - 东方财富
+5. 胃癌患者的福音！全球首个实体瘤CAR-T疗法上市，未来有望治疗胰腺癌 - shobserver.com
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2SWRWbWRLYkExMjBHOTNudDZGZm05SWNyclZpZU5VYjBsX3Y3NC1iU2hESFpzQkpIbTVVcVhIQmpPc19oWlJiUTFsaWl6c1J3T0YxTGNiajZuaUIxTlhaeHZ3UXlrUQ?oc=5
-
-5. 全球首款针对实体瘤的CAR-T细胞治疗产品上市，得益于浦东产业生态环境 - shobserver.com
-Google News CN｜Medical news｜Score 26
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE0waE01dHBPbWxfb01YRXB3TTJpR3RiV3pyN1J0WVJjLWRramlKY1BHa0FyUl9VVDU2ZUFPNHEyRlBIVkowVHVZcjl4dEtSUzE4WkxvRFpTdndJanNTLVE?oc=5
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NnJXQk9BTFN5NUZLU3h0N0ZxNm1BX1loZ0tKU09ZanhsVVpXX0xKNjBoQnFIa01XZ0VvejEtcWc2QzFFUnZxb01ZdFRNVVhNTjBqTGpCbVkydFdMbUE?oc=5
 
 6. 肿瘤/血液肿瘤研究：Neoadjuvant stereotactic body radiation therapy with durvalumab and oleclumab in ER+HER2- breast cancer: a randomized phase 2 trial.
 Nature medicine｜RCT｜Score 94
@@ -50,57 +48,57 @@ The New England journal of medicine｜RCT｜Score 88
 The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42206582/
 
-10. 心血管研究：Pulsed Field Ablation as Initial Therapy for Persistent Atrial Fibrillation.
-The New England journal of medicine｜RCT｜Score 88
-The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42041224/
-
-11. 肿瘤/血液肿瘤研究：Neoadjuvant Paclitaxel, Trastuzumab, and Pertuzumab for Stage II to III, ERBB2-Positive Breast Cancer: A Secondary Analysis of the DAPHNe Trial.
+10. 肿瘤/血液肿瘤研究：Neoadjuvant Paclitaxel, Trastuzumab, and Pertuzumab for Stage II to III, ERBB2-Positive Breast Cancer: A Secondary Analysis of the DAPHNe Trial.
 JAMA oncology｜RCT｜Score 86
 JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42348190/
 
-12. 肿瘤/血液肿瘤研究：Ten-Year Outcomes after CAR T-Cell Therapy for B-Cell Lymphomas.
+11. 肿瘤/血液肿瘤研究：Ten-Year Outcomes after CAR T-Cell Therapy for B-Cell Lymphomas.
 The New England journal of medicine｜RCT｜Score 86
 The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42341302/
 
-13. 综合医学研究：Hospital Policy of Tranexamic Acid to Reduce Transfusion in Major Noncardiac Surgery.
+12. 综合医学研究：Hospital Policy of Tranexamic Acid to Reduce Transfusion in Major Noncardiac Surgery.
 The New England journal of medicine｜RCT｜Score 86
 The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42267805/
 
-14. 感染/疫苗研究：A Pragmatic Trial of a 6-Month Strategy for Rifampicin-Resistant Tuberculosis.
+13. 感染/疫苗研究：A Pragmatic Trial of a 6-Month Strategy for Rifampicin-Resistant Tuberculosis.
 The New England journal of medicine｜RCT｜Score 83
 The New England journal of medicine 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42341301/
 
-15. 肿瘤/血液肿瘤研究：Long-Term Outcomes in Patients With Recurrent Ovarian Cancer and Exceptional Response to PARP Inhibitors.
+14. 肿瘤/血液肿瘤研究：Long-Term Outcomes in Patients With Recurrent Ovarian Cancer and Exceptional Response to PARP Inhibitors.
 JAMA oncology｜Guideline｜Score 82
 JAMA oncology 发布的肿瘤/血液肿瘤相关Guideline，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42348196/
 
-16. 感染/疫苗研究：Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial.
+15. 感染/疫苗研究：Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial.
 Nature medicine｜Phase 2 trial｜Score 78
 Nature medicine 发布的感染/疫苗相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42350642/
 
-17. 肿瘤/血液肿瘤研究：Gut microbiome is associated with recurrence-free survival in patients with resected high-risk melanoma receiving adjuvant immune checkpoint blockade.
-Cell｜Phase 3 trial｜Score 78
-Cell 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/41999744/
-
-18. 生物医药/细胞与基因治疗研究：Re-administration of AAV-mediated gene therapy for OTOF-related deafness: a single-arm trial.
+16. 生物医药/细胞与基因治疗研究：Re-administration of AAV-mediated gene therapy for OTOF-related deafness: a single-arm trial.
 Nature medicine｜Clinical trial｜Score 76
 Nature medicine 发布的生物医药/细胞与基因治疗相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42362868/
 
-19. 肿瘤/血液肿瘤研究：Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling.
+17. 肿瘤/血液肿瘤研究：Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling.
 Nature medicine｜Original research｜Score 70
 Nature medicine 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42350644/
 
-20. 生物医药/细胞与基因治疗研究：A randomized trial of GVHD prophylaxis in haploidentical PBSC transplantation: ATG, PTCy, and low-dose combination therapy.
-Blood｜RCT｜Score 68
-Blood 发布的生物医药/细胞与基因治疗相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/41849227/
+18. 肿瘤/血液肿瘤研究：Personalized targeting of BCL2 family proteins overcomes acquired resistance to BRAF-MEK inhibitors in preclinical melanoma.
+Nature communications｜Clinical trial｜Score 63
+Nature communications 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42362544/
+
+19. 肿瘤/血液肿瘤研究：[Articles] Sacituzumab tirumotecan plus pembrolizumab versus pembrolizumab in PD-L1-positive advanced non-small-cell lung cancer (OptiTROP-Lung05): interim analysis of a randomised, open-label, phase 3 trial
+The Lancet｜Phase 3 trial｜Score 63
+The Lancet 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00968-2/fulltext?rss=yes
+
+20. 感染/疫苗研究：Systemic atopy and upper-airway disease define susceptibility to incident asthma after COVID-19 in Korea.
+Nature communications｜Original research｜Score 62
+Nature communications 发布的感染/疫苗相关Original research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42364998/
