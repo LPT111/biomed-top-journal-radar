@@ -1,105 +1,104 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-07-01 09:55:32
+【Biomed Radar】今日医学科学新闻已更新｜2026-07-02 09:35:45
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-RSS Nature: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 1. 以mRNA脂质纳米颗粒为基础的体内CAR-T细胞-MedSci.cn - 梅斯医学 MedSci
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMibkFVX3lxTE1iLWRvMGFqUWlXazV6VkZpcmRzVHNCVFA0cUxfcTNBZ0hpOGxBT1l4bFh0Wk5ZQXhReFAwZnNkTDlDMnA4dUZRbi1mSkpvZDZZNmhMSHZveEdsYXM1M1hGaGFmWGVFc0k1M2xyQmJn?oc=5
 
-2. “AI与网络药理学赋能胃健康研究与转化”成果发布会在北京举办 - rmzxw.com.cn
-Google News CN｜Medical news｜Score 26
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3I5dml5RWZNZzRxdzF1ZThmWUtUdnloNWtHcXBVYkk1MkJNR1I3SUlXUzVBM3NNOVcwdHRYaEZ1Mk5oSS1wMHZydzRLcGRaMVBkazFjMl9XS0FGYkFVaEJvLTZuWHhHZzBVNnRCSDdmd3JOdjdJcjFMXy0zTUpoSFktZ0hWUzBVVmdYcQ?oc=5
-
-3. 【倒计时】AI+医学研究能力提升训练营，7月9-12日即将开营！国家级人才授课，涵盖临床研究/IVD/单细胞/虚拟细胞/大模型等热门应用！ - 会议专区 - 生物谷
+2. 【倒计时】AI+医学研究能力提升训练营，7月9-12日即将开营！国家级人才授课，涵盖临床研究/IVD/单细胞/虚拟细胞/大模型等热门应用！ - 生物谷
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE85VGRHUzQ3YWdCR2JDSWRYNk9OejJacnV3Yk05c3NwZ1JxMkpwU2loMzBxWGRmRGFyQmF5cVdMSjBFN3hCMFhaWVUzR3p1LXpKbGswRnp0ZG5SNWhr?oc=5
 
-4. 总投资约1.1亿元！国内首条AI+个性化靶点mRNA肿瘤疫苗产线正式开工建设 - ByDrug
+3. 总投资约1.1亿元！国内首条AI+个性化靶点mRNA肿瘤疫苗产线正式开工建设 - ByDrug
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的生物医药/细胞与基因治疗相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMifkFVX3lxTFBJWmgyV0VEVTdodWJpQ21wY0lLY21wZk1reFc2VVFiUWNVU2hwbUw4aEdOdEU1RWZQU3BGTXpjeEk4RlJMbGg1V1dOSUp1aDFpUFdBUWpZZUk0M1RSOXJaVXlUN0VtNXZHUHcyQXNIcG5ZN21JTVRubDlqLWttQQ?oc=5
+https://news.google.com/rss/articles/CBMifkFVX3lxTE9Nd01pQU4tMUstNm1EclY0TkhsRWx1VmM2X2ZLemFPMnF0SHdLVDQwSGhtNm0zOGMxSFpCbFllVjNwNXJpRzEtVnJJc0FJUkkxTVpxLXgzekxFYnJtN3RsdHlhMHkwaVNSNG11d0t6ekFubVNaNGFHdGltRlRsQQ?oc=5
 
-5. “四大慢病”国家科技重大专项项目在华山医院启动，聚焦AI赋能中医药，改善脑出血非手术人群预后 - 上观新闻
+4. “四大慢病”国家科技重大专项项目在华山医院启动，聚焦AI赋能中医药，改善脑出血非手术人群预后 - 新浪财经
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xeWJqVzBRWjQyWF9lZ0pnWGNBQTFYeXludFcxSDJSMXRjeWhCM0ZjMk44bFY4ZFoxZWRLRENFRWFRRkFveVl5THRTTjBrT0tsTWVqdFRPelY?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE51NlM1M3dzX1UwV1NxZXFqUDljQ2d2ZVlpcUZ1ZnNReTBNU0g0NnV5bUtraWJSTkFoakJTRjJnNDJQWnR3MThmLUpZTC1BRnRsQjUwZjFYUHVZX0VHNk9kTHlTWk85RzJSQmNTYnVxS0VPS0dKUmhWdQ?oc=5
 
-6. 综合医学研究：Phase 3 Trial of Oral Infigratinib in Children with Achondroplasia.
-The New England journal of medicine｜RCT｜Score 102
-The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42370681/
+5. 实体瘤CAR-T疗法的研究进展与挑战 - 肿瘤界
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMibkFVX3lxTE8zcEZlMENrZ1JsODdNVUlNTXlVenY2b0ZXNWZrWDVwQ3NVRV9udmMtVHNVMXpnYzVJVXYzektEWnNCeFRBZ0pqaElhU05qd25KZFRPc185QmlRbXJRTjZSNFVQakRRejBvMUthaTZR?oc=5
 
-7. 代谢/肥胖/糖尿病研究：Weekly and Biweekly Treatment With Bofanglutide Versus Semaglutide in Chinese Patients With Type 2 Diabetes : A Phase 2b Randomized Clinical Trial.
-Annals of internal medicine｜RCT｜Score 92
-Annals of internal medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42372276/
+6. 肿瘤/血液肿瘤研究：Dose escalation with intraoperative radiotherapy in newly diagnosed glioblastoma (INTRAGO-II): an open-label, multicentre, randomised, controlled, phase 3 trial.
+The Lancet. Oncology｜RCT｜Score 102
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42372746/
 
-8. 医疗AI/数字医学研究：Generative AI-enabled clinical decision support system in primary care: a pragmatic, cluster-randomized trial.
-Nature medicine｜RCT｜Score 88
-Nature medicine 发布的医疗AI/数字医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42362867/
+7. 肿瘤/血液肿瘤研究：Aumolertinib with or without chemotherapy in EGFR-mutated advanced non-small-cell lung cancer (AENEAS2): an open-label, multicentre, randomised, controlled, phase 3 trial.
+The Lancet. Oncology｜RCT｜Score 102
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42296979/
 
-9. 心血管研究：Immersive virtual reality with synchronous neurostimulation for upper-limb recovery after stroke: a randomized feasibility trial.
-Nature medicine｜RCT｜Score 88
-Nature medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42362865/
+8. 肿瘤/血液肿瘤研究：Perioperative systemic therapy versus surgery alone for resectable colorectal peritoneal-only metastases (CAIRO6): a randomised, open-label, phase 3 trial.
+The Lancet. Oncology｜RCT｜Score 96
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42372745/
 
-10. 综合医学研究：Mindfulness-Based Group Medical Visits for Persons With Chronic Low Back Pain: A Randomized Clinical Trial.
-JAMA internal medicine｜RCT｜Score 80
-JAMA internal medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42371634/
+9. 肿瘤/血液肿瘤研究：SBRT plus abiraterone acetate and ADT versus abiraterone acetate and ADT in oligometastatic castrate-resistant prostate cancer (ARTO): long-term, unplanned overall survival analysis of an open-label, randomised, phase 2 trial.
+The Lancet. Oncology｜RCT｜Score 96
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42372744/
 
-11. 代谢/肥胖/糖尿病研究：Prophylactic Dextrose Gel for Neonatal Hypoglycemia and Neurocognitive Function at 6 to 7 Years of Age: A Secondary Analysis of a Randomized Clinical Trial.
-JAMA pediatrics｜RCT｜Score 78
-JAMA pediatrics 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42371617/
+10. 肿瘤/血液肿瘤研究：Targeting homologous recombination deficiency with intensified chemotherapy versus standard chemotherapy followed by olaparib in stage III breast cancer (SUBITO): an open-label, randomised, controlled, phase 3 trial.
+The Lancet. Oncology｜RCT｜Score 96
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42372741/
 
-12. 生物医药/细胞与基因治疗研究：Re-administration of AAV-mediated gene therapy for OTOF-related deafness: a single-arm trial.
-Nature medicine｜Clinical trial｜Score 76
-Nature medicine 发布的生物医药/细胞与基因治疗相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42362868/
+11. 公共卫生/流行病学研究：Neonatal Survival After Serial Amnioinfusions for Anhydramnios Due to Fetal Kidney Failure: The RAFT Clinical Trial.
+JAMA｜RCT｜Score 94
+JAMA 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42384373/
 
-13. 重症医学/急危重症研究：Effects of a clinical metagenomics intervention on clinical outcomes, healthcare costs, and health-related quality of life in patients with sepsis or septic shock: results of the randomized-controlled DigiSep trial.
-Intensive care medicine｜RCT｜Score 74
-Intensive care medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42377463/
+12. 肿瘤/血液肿瘤研究：Internal mammary chain and medial supraclavicular lymph node irradiation in stage I-III breast cancer (EORTC trial 22922/10925): an unplanned subset analysis of 20-year outcomes in patients with node-negative breast cancer.
+The Lancet. Oncology｜RCT｜Score 88
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42372743/
 
-14. 公共卫生/流行病学研究：Asynchronous Electronic Screening for Unhealthy Alcohol Use Among Veterans in Primary Care: A Cluster Randomized Quality Improvement Trial.
-JAMA internal medicine｜RCT｜Score 72
-JAMA internal medicine 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42371662/
+13. 神经科学/神经疾病研究：Safety and efficacy of decompressive craniectomy versus standard craniotomy for large acute epidural haematoma with tentorial herniation in China (PREDICT-AEDH): a nationwide, multicentre, open-label, parallel-group, randomised controlled trial.
+The Lancet. Neurology｜RCT｜Score 86
+The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42309085/
 
-15. 肿瘤/血液肿瘤研究：TRANSFORM-1 Phase 3 study: Efficacy and safety of navitoclax plus ruxolitinib in patients with untreated myelofibrosis.
-Blood｜RCT｜Score 71
-Blood 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42378247/
+14. 神经科学/神经疾病研究：Safety and efficacy of levacetylleucine in ataxia-telangiectasia: a phase 3, randomised, double-blind, placebo-controlled crossover trial.
+The Lancet. Neurology｜RCT｜Score 86
+The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42309084/
 
-16. 代谢/肥胖/糖尿病研究：Leveraging Real-World Evidence to Inform Regulatory, Clinical, and Coverage Decisions Related to Glucagon-Like Peptide-1-Based Therapies: Synopsis of a National Institute of Diabetes and Digestive and Kidney Diseases Workshop.
-Annals of internal medicine｜RCT｜Score 70
-Annals of internal medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42372278/
+15. 肿瘤/血液肿瘤研究：Treatment-related adverse events of CD3-based T cell-engaging bispecific antibodies in patients with cancer: a meta-analysis of clinical trials.
+The Lancet. Oncology｜Clinical trial｜Score 82
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42285121/
 
-17. 神经科学/神经疾病研究：Prior Traumatic Brain Injury and Alzheimer Disease Blood Biomarkers.
-JAMA neurology｜Guideline｜Score 68
-JAMA neurology 发布的神经科学/神经疾病相关Guideline，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42371653/
+16. 肿瘤/血液肿瘤研究：Lumpectomy Margins and Local Recurrence in DCIS: Results From the NRG Oncology/NSABP B-35 Randomized Clinical Trial.
+JAMA surgery｜RCT｜Score 80
+JAMA surgery 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42384406/
 
-18. 感染/疫苗研究：Adverse Events After Same-Day COVID-19 and Influenza Vaccination Versus Influenza Vaccination Alone : A Target Trial Emulation.
-Annals of internal medicine｜Clinical trial｜Score 66
-Annals of internal medicine 发布的感染/疫苗相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42372279/
+17. 肿瘤/血液肿瘤研究：Effect of [68Ga]Ga-PSMA-11 PET-CT in the diagnosis of prostate cancer in men with equivocal or clinically high-risk non-suspicious findings on multiparametric MRI (PRIMARY2): a multicentre, non-inferiority, phase 3, randomised controlled trial.
+The Lancet. Oncology｜RCT｜Score 80
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42269655/
 
-19. 肿瘤/血液肿瘤研究：A pilot translational study of neoadjuvant fulvestrant plus abemaciclib in women with advanced low-grade serous carcinoma.
-Nature communications｜Phase 2 trial｜Score 65
-Nature communications 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42374029/
+18. 代谢/肥胖/糖尿病研究：Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.
+The lancet. Diabetes & endocrinology｜RCT｜Score 80
+The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42173109/
 
-20. 公共卫生/流行病学研究：Performance of Lung Cancer Risk Prediction Models in Different Racial and Ethnic Groups in the United States: Results From the Lung Cancer Cohort Consortium.
-Annals of internal medicine｜Clinical trial｜Score 64
-Annals of internal medicine 发布的公共卫生/流行病学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42372272/
+19. 肿瘤/血液肿瘤研究：Tailoring radiotherapy in cT1-2N1 breast cancer to nodal response on primary chemotherapy (RAPCHEM: BOOG 2010-03): 10-year follow-up results of a Dutch, prospective, registry study.
+The Lancet. Oncology｜Clinical trial｜Score 76
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42372742/
+
+20. 肿瘤/血液肿瘤研究：Development and validation of artificial intelligence-assisted volumetric response criteria in pleural mesothelioma (ARTIMES): a retrospective, multicohort, multicentre study.
+The Lancet. Oncology｜Clinical trial｜Score 76
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42309108/
