@@ -1,6 +1,33 @@
-# 医学科学新闻推文候选草稿｜2026-07-02 09:35:45
+# 医学科学新闻推文候选草稿｜2026-07-03 09:15:40
 
-## 1. 以mRNA脂质纳米颗粒为基础的体内CAR-T细胞-MedSci.cn - 梅斯医学 MedSci
+## 1. CAR-T细胞输注后的细胞动力学与分子监测-MedSci.cn - 梅斯医学 MedSci
+
+【医学科学新闻】CAR-T细胞输注后的细胞动力学与分子监测-MedSci.cn - 梅斯医学 MedSci
+
+一、为什么重要
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Wed, 01 Jul 2026 02:28:19 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTE85OC1wY1BORFFvRE1DeHNIMExZVkREZFZvMW5Ja0RpSnpKU25tX2JSS2liWkRsYUV2NEptcEVCWmstWld5WE1KQ2xqT0h3UWNwOTQ2VjBsUmM3elBLTnczUVEzLUpRekdlYTVqd29R?oc=5
+
+---
+
+## 2. 以mRNA脂质纳米颗粒为基础的体内CAR-T细胞-MedSci.cn - 梅斯医学 MedSci
 
 【医学科学新闻】以mRNA脂质纳米颗粒为基础的体内CAR-T细胞-MedSci.cn - 梅斯医学 MedSci
 
@@ -27,36 +54,9 @@ Google News CN｜Tue, 30 Jun 2026 13:04:27 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 2. 【倒计时】AI+医学研究能力提升训练营，7月9-12日即将开营！国家级人才授课，涵盖临床研究/IVD/单细胞/虚拟细胞/大模型等热门应用！ - 生物谷
+## 3. 总投资约 1.1 亿元！国内首条 AI+个性化靶点 mRNA 肿瘤疫苗产线正式开工建设 - phirda.com
 
-【医学科学新闻】【倒计时】AI+医学研究能力提升训练营，7月9-12日即将开营！国家级人才授课，涵盖临床研究/IVD/单细胞/虚拟细胞/大模型等热门应用！ - 生物谷
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Thu, 25 Jun 2026 02:05:00 GMT｜https://news.google.com/rss/articles/CBMiXEFVX3lxTE85VGRHUzQ3YWdCR2JDSWRYNk9OejJacnV3Yk05c3NwZ1JxMkpwU2loMzBxWGRmRGFyQmF5cVdMSjBFN3hCMFhaWVUzR3p1LXpKbGswRnp0ZG5SNWhr?oc=5
-
----
-
-## 3. 总投资约1.1亿元！国内首条AI+个性化靶点mRNA肿瘤疫苗产线正式开工建设 - ByDrug
-
-【医学科学新闻】总投资约1.1亿元！国内首条AI+个性化靶点mRNA肿瘤疫苗产线正式开工建设 - ByDrug
+【医学科学新闻】总投资约 1.1 亿元！国内首条 AI+个性化靶点 mRNA 肿瘤疫苗产线正式开工建设 - phirda.com
 
 一、为什么重要
 Google News CN 发布的生物医药/细胞与基因治疗相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -77,7 +77,7 @@ Google News CN 发布的生物医药/细胞与基因治疗相关Medical news，�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Sun, 28 Jun 2026 12:05:00 GMT｜https://news.google.com/rss/articles/CBMifkFVX3lxTE9Nd01pQU4tMUstNm1EclY0TkhsRWx1VmM2X2ZLemFPMnF0SHdLVDQwSGhtNm0zOGMxSFpCbFllVjNwNXJpRzEtVnJJc0FJUkkxTVpxLXgzekxFYnJtN3RsdHlhMHkwaVNSNG11d0t6ekFubVNaNGFHdGltRlRsQQ?oc=5
+Google News CN｜Mon, 29 Jun 2026 20:28:43 GMT｜https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSnRsLUs4MDJ1dXl2TmsyaHRPRjZQa2txMXFGVVIzamN1Tm1BMWF6Y1VBLXdRUjRESWhFUnNJTThWOUs3QmhrTDJJaDdOcEZBYUNlSnl5eU5Vb0ozUkVxMHN6YlhRckZiX0ozNUx5N0FZT1BydFh4QzJR?oc=5
 
 ---
 
@@ -162,12 +162,12 @@ The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42372746/
 
 ---
 
-## 7. 肿瘤/血液肿瘤研究：Aumolertinib with or without chemotherapy in EGFR-mutated advanced non-small-cell lung cancer (AENEAS2): an open-label, multicentre, randomised, controlled, phase 3 trial.
+## 7. 肿瘤/血液肿瘤研究：Neoadjuvant toripalimab plus celecoxib versus toripalimab monotherapy for mismatch repair-deficient or microsatellite instability-high, locally advanced colorectal cancer (PICC-2): an open-label, multicentre, randomised, phase 2 trial.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Aumolertinib with or without chemotherapy in EGFR-mutated advanced non-small-cell lung cancer (AENEAS2): an open-label, multicentre, randomised, controlled, phase 3 trial.
+【医学科学新闻】肿瘤/血液肿瘤研究：Neoadjuvant toripalimab plus celecoxib versus toripalimab monotherapy for mismatch repair-deficient or microsatellite instability-high, locally advanced colorectal cancer (PICC-2): an open-label, multicentre, randomised, phase 2 trial.
 
 一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -185,11 +185,119 @@ The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42296979/
+The Lancet. Oncology｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42385761/
 
 ---
 
-## 8. 肿瘤/血液肿瘤研究：Perioperative systemic therapy versus surgery alone for resectable colorectal peritoneal-only metastases (CAIRO6): a randomised, open-label, phase 3 trial.
+## 8. 肿瘤/血液肿瘤研究：Trastuzumab rezetecan versus pyrotinib plus capecitabine for patients with HER2-positive metastatic breast cancer (HORIZON-Breast01): interim analysis of a multicentre, open-label, randomised, controlled, phase 3 trial.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：Trastuzumab rezetecan versus pyrotinib plus capecitabine for patients with HER2-positive metastatic breast cancer (HORIZON-Breast01): interim analysis of a multicentre, open-label, randomised, controlled, phase 3 trial.
+
+一、为什么重要
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet. Oncology｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42385760/
+
+---
+
+## 9. 综合医学研究：Rituximab versus Ocrelizumab in Newly Diagnosed Relapsing Multiple Sclerosis.
+
+【医学科学新闻】综合医学研究：Rituximab versus Ocrelizumab in Newly Diagnosed Relapsing Multiple Sclerosis.
+
+一、为什么重要
+The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The New England journal of medicine｜2026-Jul-02｜https://pubmed.ncbi.nlm.nih.gov/42384870/
+
+---
+
+## 10. 综合医学研究：Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma.
+
+【医学科学新闻】综合医学研究：Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma.
+
+一、为什么重要
+The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The New England journal of medicine｜2026-Jul-02｜https://pubmed.ncbi.nlm.nih.gov/42384869/
+
+---
+
+## 11. 心血管研究：Angiography-Derived Fractional Flow Reserve to Guide PCI.
+
+【医学科学新闻】心血管研究：Angiography-Derived Fractional Flow Reserve to Guide PCI.
+
+一、为什么重要
+The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The New England journal of medicine｜2026-Jul-02｜https://pubmed.ncbi.nlm.nih.gov/41910384/
+
+---
+
+## 12. 肿瘤/血液肿瘤研究：Perioperative systemic therapy versus surgery alone for resectable colorectal peritoneal-only metastases (CAIRO6): a randomised, open-label, phase 3 trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Perioperative systemic therapy versus surgery alone for resectable colorectal peritoneal-only metastases (CAIRO6): a randomised, open-label, phase 3 trial.
 
@@ -216,7 +324,7 @@ The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42372745/
 
 ---
 
-## 9. 肿瘤/血液肿瘤研究：SBRT plus abiraterone acetate and ADT versus abiraterone acetate and ADT in oligometastatic castrate-resistant prostate cancer (ARTO): long-term, unplanned overall survival analysis of an open-label, randomised, phase 2 trial.
+## 13. 肿瘤/血液肿瘤研究：SBRT plus abiraterone acetate and ADT versus abiraterone acetate and ADT in oligometastatic castrate-resistant prostate cancer (ARTO): long-term, unplanned overall survival analysis of an open-label, randomised, phase 2 trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：SBRT plus abiraterone acetate and ADT versus abiraterone acetate and ADT in oligometastatic castrate-resistant prostate cancer (ARTO): long-term, unplanned overall survival analysis of an open-label, randomised, phase 2 trial.
 
@@ -243,34 +351,7 @@ The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42372744/
 
 ---
 
-## 10. 肿瘤/血液肿瘤研究：Targeting homologous recombination deficiency with intensified chemotherapy versus standard chemotherapy followed by olaparib in stage III breast cancer (SUBITO): an open-label, randomised, controlled, phase 3 trial.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Targeting homologous recombination deficiency with intensified chemotherapy versus standard chemotherapy followed by olaparib in stage III breast cancer (SUBITO): an open-label, randomised, controlled, phase 3 trial.
-
-一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42372741/
-
----
-
-## 11. 公共卫生/流行病学研究：Neonatal Survival After Serial Amnioinfusions for Anhydramnios Due to Fetal Kidney Failure: The RAFT Clinical Trial.
+## 14. 公共卫生/流行病学研究：Neonatal Survival After Serial Amnioinfusions for Anhydramnios Due to Fetal Kidney Failure: The RAFT Clinical Trial.
 
 【医学科学新闻】公共卫生/流行病学研究：Neonatal Survival After Serial Amnioinfusions for Anhydramnios Due to Fetal Kidney Failure: The RAFT Clinical Trial.
 
@@ -297,12 +378,39 @@ JAMA｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42384373/
 
 ---
 
-## 12. 肿瘤/血液肿瘤研究：Internal mammary chain and medial supraclavicular lymph node irradiation in stage I-III breast cancer (EORTC trial 22922/10925): an unplanned subset analysis of 20-year outcomes in patients with node-negative breast cancer.
+## 15. 心血管研究：Angiography-Based Physiology to Guide Coronary Revascularization.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Internal mammary chain and medial supraclavicular lymph node irradiation in stage I-III breast cancer (EORTC trial 22922/10925): an unplanned subset analysis of 20-year outcomes in patients with node-negative breast cancer.
+【医学科学新闻】心血管研究：Angiography-Based Physiology to Guide Coronary Revascularization.
 
 一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The New England journal of medicine｜2026-Jul-02｜https://pubmed.ncbi.nlm.nih.gov/41910382/
+
+---
+
+## 16. 肿瘤/血液肿瘤研究：IDH1-mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：IDH1-mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial.
+
+一、为什么重要
+Nature cancer 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -320,19 +428,19 @@ The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42372743/
+Nature cancer｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42387024/
 
 ---
 
-## 13. 神经科学/神经疾病研究：Safety and efficacy of decompressive craniectomy versus standard craniotomy for large acute epidural haematoma with tentorial herniation in China (PREDICT-AEDH): a nationwide, multicentre, open-label, parallel-group, randomised controlled trial.
+## 17. 心血管研究：A meta-analysis of the long-term effects of antihypertensive therapy on the risk of major cardiovascular disease across 51 randomized trials.
 
-【医学科学新闻】神经科学/神经疾病研究：Safety and efficacy of decompressive craniectomy versus standard craniotomy for large acute epidural haematoma with tentorial herniation in China (PREDICT-AEDH): a nationwide, multicentre, open-label, parallel-group, randomised controlled trial.
+【医学科学新闻】心血管研究：A meta-analysis of the long-term effects of antihypertensive therapy on the risk of major cardiovascular disease across 51 randomized trials.
 
 一、为什么重要
-The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -347,65 +455,11 @@ The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The Lancet. Neurology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42309085/
+Nature medicine｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42387214/
 
 ---
 
-## 14. 神经科学/神经疾病研究：Safety and efficacy of levacetylleucine in ataxia-telangiectasia: a phase 3, randomised, double-blind, placebo-controlled crossover trial.
-
-【医学科学新闻】神经科学/神经疾病研究：Safety and efficacy of levacetylleucine in ataxia-telangiectasia: a phase 3, randomised, double-blind, placebo-controlled crossover trial.
-
-一、为什么重要
-The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Neurology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42309084/
-
----
-
-## 15. 肿瘤/血液肿瘤研究：Treatment-related adverse events of CD3-based T cell-engaging bispecific antibodies in patients with cancer: a meta-analysis of clinical trials.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Treatment-related adverse events of CD3-based T cell-engaging bispecific antibodies in patients with cancer: a meta-analysis of clinical trials.
-
-一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42285121/
-
----
-
-## 16. 肿瘤/血液肿瘤研究：Lumpectomy Margins and Local Recurrence in DCIS: Results From the NRG Oncology/NSABP B-35 Randomized Clinical Trial.
+## 18. 肿瘤/血液肿瘤研究：Lumpectomy Margins and Local Recurrence in DCIS: Results From the NRG Oncology/NSABP B-35 Randomized Clinical Trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Lumpectomy Margins and Local Recurrence in DCIS: Results From the NRG Oncology/NSABP B-35 Randomized Clinical Trial.
 
@@ -432,12 +486,12 @@ JAMA surgery｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42384406/
 
 ---
 
-## 17. 肿瘤/血液肿瘤研究：Effect of [68Ga]Ga-PSMA-11 PET-CT in the diagnosis of prostate cancer in men with equivocal or clinically high-risk non-suspicious findings on multiparametric MRI (PRIMARY2): a multicentre, non-inferiority, phase 3, randomised controlled trial.
+## 19. 肿瘤/血液肿瘤研究：Casdatifan shows durable response linked to HIF-2α biology in kidney cancer.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Effect of [68Ga]Ga-PSMA-11 PET-CT in the diagnosis of prostate cancer in men with equivocal or clinically high-risk non-suspicious findings on multiparametric MRI (PRIMARY2): a multicentre, non-inferiority, phase 3, randomised controlled trial.
+【医学科学新闻】肿瘤/血液肿瘤研究：Casdatifan shows durable response linked to HIF-2α biology in kidney cancer.
 
 一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -455,19 +509,19 @@ The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42269655/
+Nature｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42386974/
 
 ---
 
-## 18. 代谢/肥胖/糖尿病研究：Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.
+## 20. 感染/疫苗研究：Adjunctive ibuprofen in pre-extensively drug-resistant and extensively drug-resistant tuberculosis: a phase IIA open-label pilot clinical trial.
 
-【医学科学新闻】代谢/肥胖/糖尿病研究：Effects of a 6-week subcutaneous infusion of native GIP alone or as add-on to semaglutide in people with type 2 diabetes: a single-centre, double-blind, parallel-group, randomised, placebo-controlled trial.
+【医学科学新闻】感染/疫苗研究：Adjunctive ibuprofen in pre-extensively drug-resistant and extensively drug-resistant tuberculosis: a phase IIA open-label pilot clinical trial.
 
 一、为什么重要
-The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature communications 发布的感染/疫苗相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -482,60 +536,6 @@ The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The lancet. Diabetes & endocrinology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42173109/
-
----
-
-## 19. 肿瘤/血液肿瘤研究：Tailoring radiotherapy in cT1-2N1 breast cancer to nodal response on primary chemotherapy (RAPCHEM: BOOG 2010-03): 10-year follow-up results of a Dutch, prospective, registry study.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Tailoring radiotherapy in cT1-2N1 breast cancer to nodal response on primary chemotherapy (RAPCHEM: BOOG 2010-03): 10-year follow-up results of a Dutch, prospective, registry study.
-
-一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42372742/
-
----
-
-## 20. 肿瘤/血液肿瘤研究：Development and validation of artificial intelligence-assisted volumetric response criteria in pleural mesothelioma (ARTIMES): a retrospective, multicohort, multicentre study.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Development and validation of artificial intelligence-assisted volumetric response criteria in pleural mesothelioma (ARTIMES): a retrospective, multicohort, multicentre study.
-
-一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Oncology｜2026-Jul｜https://pubmed.ncbi.nlm.nih.gov/42309108/
+Nature communications｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42386760/
 
 ---
