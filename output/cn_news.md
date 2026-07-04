@@ -1,27 +1,27 @@
 # 中文医学科学新闻
 
-1. CAR-T细胞输注后的细胞动力学与分子监测-MedSci.cn - 梅斯医学 MedSci
+1. 以mRNA脂质纳米颗粒为基础的体内CAR-T细胞 - 维科号
    - 来源：Google News CN
-   - 时间：Wed, 01 Jul 2026 02:28:19 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE85OC1wY1BORFFvRE1DeHNIMExZVkREZFZvMW5Ja0RpSnpKU25tX2JSS2liWkRsYUV2NEptcEVCWmstWld5WE1KQ2xqT0h3UWNwOTQ2VjBsUmM3elBLTnczUVEzLUpRekdlYTVqd29R?oc=5" target="_blank">CAR-T细胞输注后的细胞动力学与分子监测-MedSci.cn</a>&nbsp;&nbsp;<font color="#6f6f6f">梅斯医学 MedSci</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE85OC1wY1BORFFvRE1DeHNIMExZVkREZFZvMW5Ja0RpSnpKU25tX2JSS2liWkRsYUV2NEptcEVCWmstWld5WE1KQ2xqT0h3UWNwOTQ2VjBsUmM3elBLTnczUVEzLUpRekdlYTVqd29R?oc=5
-2. 以mRNA脂质纳米颗粒为基础的体内CAR-T细胞-MedSci.cn - 梅斯医学 MedSci
-   - 来源：Google News CN
-   - 时间：Tue, 30 Jun 2026 13:04:27 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1iLWRvMGFqUWlXazV6VkZpcmRzVHNCVFA0cUxfcTNBZ0hpOGxBT1l4bFh0Wk5ZQXhReFAwZnNkTDlDMnA4dUZRbi1mSkpvZDZZNmhMSHZveEdsYXM1M1hGaGFmWGVFc0k1M2xyQmJn?oc=5" target="_blank">以mRNA脂质纳米颗粒为基础的体内CAR-T细胞-MedSci.cn</a>&nbsp;&nbsp;<font color="#6f6f6f">梅斯医学 MedSci</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE1iLWRvMGFqUWlXazV6VkZpcmRzVHNCVFA0cUxfcTNBZ0hpOGxBT1l4bFh0Wk5ZQXhReFAwZnNkTDlDMnA4dUZRbi1mSkpvZDZZNmhMSHZveEdsYXM1M1hGaGFmWGVFc0k1M2xyQmJn?oc=5
-3. 总投资约 1.1 亿元！国内首条 AI+个性化靶点 mRNA 肿瘤疫苗产线正式开工建设 - phirda.com
+   - 时间：Tue, 30 Jun 2026 03:51:00 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4NS00X0MzeDAxNExLV2k3dXdHQzFIWDdNVjVrdmRFNDR4bmFzdF8wZ1ZGUmsySXJON1p1X2V6S2d6Q2VEMVZLRXB3R3IwOTBTRzE4Nzhn?oc=5" target="_blank">以mRNA脂质纳米颗粒为基础的体内CAR-T细胞</a>&nbsp;&nbsp;<font color="#6f6f6f">维科号</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4NS00X0MzeDAxNExLV2k3dXdHQzFIWDdNVjVrdmRFNDR4bmFzdF8wZ1ZGUmsySXJON1p1X2V6S2d6Q2VEMVZLRXB3R3IwOTBTRzE4Nzhn?oc=5
+2. 总投资约 1.1 亿元！国内首条 AI+个性化靶点 mRNA 肿瘤疫苗产线正式开工建设 - phirda.com
    - 来源：Google News CN
    - 时间：Mon, 29 Jun 2026 20:28:43 GMT
    - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSnRsLUs4MDJ1dXl2TmsyaHRPRjZQa2txMXFGVVIzamN1Tm1BMWF6Y1VBLXdRUjRESWhFUnNJTThWOUs3QmhrTDJJaDdOcEZBYUNlSnl5eU5Vb0ozUkVxMHN6YlhRckZiX0ozNUx5N0FZT1BydFh4QzJR?oc=5" target="_blank">总投资约 1.1 亿元！国内首条 AI+个性化靶点 mRNA 肿瘤疫苗产线正式开工建设</a>&nbsp;&nbsp;<font color="#6f6f6f">phirda.com</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSnRsLUs4MDJ1dXl2TmsyaHRPRjZQa2txMXFGVVIzamN1Tm1BMWF6Y1VBLXdRUjRESWhFUnNJTThWOUs3QmhrTDJJaDdOcEZBYUNlSnl5eU5Vb0ozUkVxMHN6YlhRckZiX0ozNUx5N0FZT1BydFh4QzJR?oc=5
-4. “四大慢病”国家科技重大专项项目在华山医院启动，聚焦AI赋能中医药，改善脑出血非手术人群预后 - 新浪财经
+3. Sci Adv：上海交通大学吴学锋等团队开发实体瘤CAR-T治疗新策略，靶向TMED4通过IRE1α-自噬轴增强T细胞功能 - 生物谷
    - 来源：Google News CN
-   - 时间：Fri, 26 Jun 2026 11:31:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE51NlM1M3dzX1UwV1NxZXFqUDljQ2d2ZVlpcUZ1ZnNReTBNU0g0NnV5bUtraWJSTkFoakJTRjJnNDJQWnR3MThmLUpZTC1BRnRsQjUwZjFYUHVZX0VHNk9kTHlTWk85RzJSQmNTYnVxS0VPS0dKUmhWdQ?oc=5" target="_blank">“四大慢病”国家科技重大专项项目在华山医院启动，聚焦AI赋能中医药，改善脑出血非手术人群预后</a>&nbsp;&nbsp;<font color="#6f6f6f">新浪财经</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMieEFVX3lxTE51NlM1M3dzX1UwV1NxZXFqUDljQ2d2ZVlpcUZ1ZnNReTBNU0g0NnV5bUtraWJSTkFoakJTRjJnNDJQWnR3MThmLUpZTC1BRnRsQjUwZjFYUHVZX0VHNk9kTHlTWk85RzJSQmNTYnVxS0VPS0dKUmhWdQ?oc=5
-5. 实体瘤CAR-T疗法的研究进展与挑战 - 肿瘤界
+   - 时间：Fri, 03 Jul 2026 08:41:00 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUFF0MnMzQWIxbFBwWnd3OXdlY2c3R0xnSW5ZdTBTVHZQN3pSLXhnTC1PYlBDWXVVWWpmOGxhY20wRTQ4dl9sY0Q3bF9oYzNELTlZMk8zYmd0S3pT?oc=5" target="_blank">Sci Adv：上海交通大学吴学锋等团队开发实体瘤CAR-T治疗新策略，靶向TMED4通过IRE1α-自噬轴增强T细胞功能</a>&nbsp;&nbsp;<font color="#6f6f6f">生物谷</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUFF0MnMzQWIxbFBwWnd3OXdlY2c3R0xnSW5ZdTBTVHZQN3pSLXhnTC1PYlBDWXVVWWpmOGxhY20wRTQ4dl9sY0Q3bF9oYzNELTlZMk8zYmd0S3pT?oc=5
+4. Cancer Cell：复旦大学高强/吴英成团队领衔，推出开源肿瘤免疫（OpenIO）路线图，目标直指AI原生免疫治疗 - thepaper.cn
    - 来源：Google News CN
-   - 时间：Fri, 26 Jun 2026 09:19:04 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE8zcEZlMENrZ1JsODdNVUlNTXlVenY2b0ZXNWZrWDVwQ3NVRV9udmMtVHNVMXpnYzVJVXYzektEWnNCeFRBZ0pqaElhU05qd25KZFRPc185QmlRbXJRTjZSNFVQakRRejBvMUthaTZR?oc=5" target="_blank">实体瘤CAR-T疗法的研究进展与挑战</a>&nbsp;&nbsp;<font color="#6f6f6f">肿瘤界</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE8zcEZlMENrZ1JsODdNVUlNTXlVenY2b0ZXNWZrWDVwQ3NVRV9udmMtVHNVMXpnYzVJVXYzektEWnNCeFRBZ0pqaElhU05qd25KZFRPc185QmlRbXJRTjZSNFVQakRRejBvMUthaTZR?oc=5
+   - 时间：Fri, 03 Jul 2026 03:09:00 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE96R0ZwWGh6WU9zY3NkOTlNTXBuRE5jVkVmTHFhek53WHp0ZGpfZkRleEk5Zkttcms3U0h6ekZFME9oVDJmUWtuRG93OTBkQm1OWlNXbTl6dFNiSWhpanc?oc=5" target="_blank">Cancer Cell：复旦大学高强/吴英成团队领衔，推出开源肿瘤免疫（OpenIO）路线图，目标直指AI原生免疫治疗</a>&nbsp;&nbsp;<font color="#6f6f6f">thepaper.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMiXkFVX3lxTE96R0ZwWGh6WU9zY3NkOTlNTXBuRE5jVkVmTHFhek53WHp0ZGpfZkRleEk5Zkttcms3U0h6ekZFME9oVDJmUWtuRG93OTBkQm1OWlNXbTl6dFNiSWhpanc?oc=5
+5. 善佰生物菌群助力詹启敏院士团队研究，Cell子刊揭示粪菌移植的癌症治疗效果的决定因素 - ByDrug
+   - 来源：Google News CN
+   - 时间：Wed, 01 Jul 2026 07:00:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ldm1xdlJnTVIyb3Q0T1k2cFpmYnpaemhRRmdLb2doUV9mVHZtaTF1NHRndnVoZk0wUm1YZWE4QUFOdFNBcjJiRDUtU0lUOEswb1RNbzRVRXdranlZNzV1NEpnaHMtVmoxaTVMaWt1LUp5dXV5bXA3WU5LNXZVdw?oc=5" target="_blank">善佰生物菌群助力詹启敏院士团队研究，Cell子刊揭示粪菌移植的癌症治疗效果的决定因素</a>&nbsp;&nbsp;<font color="#6f6f6f">ByDrug</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ldm1xdlJnTVIyb3Q0T1k2cFpmYnpaemhRRmdLb2doUV9mVHZtaTF1NHRndnVoZk0wUm1YZWE4QUFOdFNBcjJiRDUtU0lUOEswb1RNbzRVRXdranlZNzV1NEpnaHMtVmoxaTVMaWt1LUp5dXV5bXA3WU5LNXZVdw?oc=5
