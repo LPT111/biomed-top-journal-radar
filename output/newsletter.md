@@ -1,6 +1,33 @@
-# 医学科学新闻推文候选草稿｜2026-07-04 09:14:40
+# 医学科学新闻推文候选草稿｜2026-07-05 09:22:35
 
-## 1. 以mRNA脂质纳米颗粒为基础的体内CAR-T细胞 - 维科号
+## 1. 湖北省传染病防治高质量发展学术论坛在武汉举办 - hb.chinanews.com.cn
+
+【医学科学新闻】湖北省传染病防治高质量发展学术论坛在武汉举办 - hb.chinanews.com.cn
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Sat, 04 Jul 2026 07:04:00 GMT｜https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JVk44VDhZOUw0TGhFUEVvMkY2UTRWaGpiaTNkWkt0UWFweE52YUxtMnhUYjFHWWhxSXV5Skh0VFBKLXJudlc5cUJHT0NVX0NkLUh0X3QyenpoczBnenhlNF9EZGZQcXkt?oc=5
+
+---
+
+## 2. 以mRNA脂质纳米颗粒为基础的体内CAR-T细胞 - 维科号
 
 【医学科学新闻】以mRNA脂质纳米颗粒为基础的体内CAR-T细胞 - 维科号
 
@@ -27,7 +54,7 @@ Google News CN｜Tue, 30 Jun 2026 03:51:00 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 2. 总投资约 1.1 亿元！国内首条 AI+个性化靶点 mRNA 肿瘤疫苗产线正式开工建设 - phirda.com
+## 3. 总投资约 1.1 亿元！国内首条 AI+个性化靶点 mRNA 肿瘤疫苗产线正式开工建设 - phirda.com
 
 【医学科学新闻】总投资约 1.1 亿元！国内首条 AI+个性化靶点 mRNA 肿瘤疫苗产线正式开工建设 - phirda.com
 
@@ -54,7 +81,7 @@ Google News CN｜Mon, 29 Jun 2026 20:28:43 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. Sci Adv：上海交通大学吴学锋等团队开发实体瘤CAR-T治疗新策略，靶向TMED4通过IRE1α-自噬轴增强T细胞功能 - 生物谷
+## 4. Sci Adv：上海交通大学吴学锋等团队开发实体瘤CAR-T治疗新策略，靶向TMED4通过IRE1α-自噬轴增强T细胞功能 - 生物谷
 
 【医学科学新闻】Sci Adv：上海交通大学吴学锋等团队开发实体瘤CAR-T治疗新策略，靶向TMED4通过IRE1α-自噬轴增强T细胞功能 - 生物谷
 
@@ -81,7 +108,7 @@ Google News CN｜Fri, 03 Jul 2026 08:41:00 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 4. Cancer Cell：复旦大学高强/吴英成团队领衔，推出开源肿瘤免疫（OpenIO）路线图，目标直指AI原生免疫治疗 - thepaper.cn
+## 5. Cancer Cell：复旦大学高强/吴英成团队领衔，推出开源肿瘤免疫（OpenIO）路线图，目标直指AI原生免疫治疗 - thepaper.cn
 
 【医学科学新闻】Cancer Cell：复旦大学高强/吴英成团队领衔，推出开源肿瘤免疫（OpenIO）路线图，目标直指AI原生免疫治疗 - thepaper.cn
 
@@ -105,33 +132,6 @@ Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其�
 
 七、参考信息
 Google News CN｜Fri, 03 Jul 2026 03:09:00 GMT｜https://news.google.com/rss/articles/CBMiXkFVX3lxTE96R0ZwWGh6WU9zY3NkOTlNTXBuRE5jVkVmTHFhek53WHp0ZGpfZkRleEk5Zkttcms3U0h6ekZFME9oVDJmUWtuRG93OTBkQm1OWlNXbTl6dFNiSWhpanc?oc=5
-
----
-
-## 5. 善佰生物菌群助力詹启敏院士团队研究，Cell子刊揭示粪菌移植的癌症治疗效果的决定因素 - ByDrug
-
-【医学科学新闻】善佰生物菌群助力詹启敏院士团队研究，Cell子刊揭示粪菌移植的癌症治疗效果的决定因素 - ByDrug
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 01 Jul 2026 07:00:00 GMT｜https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ldm1xdlJnTVIyb3Q0T1k2cFpmYnpaemhRRmdLb2doUV9mVHZtaTF1NHRndnVoZk0wUm1YZWE4QUFOdFNBcjJiRDUtU0lUOEswb1RNbzRVRXdranlZNzV1NEpnaHMtVmoxaTVMaWt1LUp5dXV5bXA3WU5LNXZVdw?oc=5
 
 ---
 
@@ -243,7 +243,34 @@ The New England journal of medicine｜2026-Jul-02｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 10. 心血管研究：Angiography-Based Physiology to Guide Coronary Revascularization.
+## 10. 肿瘤/血液肿瘤研究：Differential impact of proton pump inhibitors and antibiotics on immunotherapy efficacy after chemoradiotherapy in locally advanced non-small-cell lung cancer: a post-hoc analysis of the PACIFIC trial.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：Differential impact of proton pump inhibitors and antibiotics on immunotherapy efficacy after chemoradiotherapy in locally advanced non-small-cell lung cancer: a post-hoc analysis of the PACIFIC trial.
+
+一、为什么重要
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet. Oncology｜2026-Jul-03｜https://pubmed.ncbi.nlm.nih.gov/42398520/
+
+---
+
+## 11. 心血管研究：Angiography-Based Physiology to Guide Coronary Revascularization.
 
 【医学科学新闻】心血管研究：Angiography-Based Physiology to Guide Coronary Revascularization.
 
@@ -270,7 +297,7 @@ The New England journal of medicine｜2026-Jul-02｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 11. 肿瘤/血液肿瘤研究：IDH1-mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial.
+## 12. 肿瘤/血液肿瘤研究：IDH1-mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：IDH1-mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial.
 
@@ -297,7 +324,34 @@ Nature cancer｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42387024/
 
 ---
 
-## 12. 免疫/炎症研究：Autologous macrophage therapy increases transplant-free survival in cirrhosis: Long-term follow-up of a phase 2 clinical trial.
+## 13. 免疫/炎症研究：Oral microbiome modulation mitigates hyperglycemia exacerbation in gestational diabetes mellitus.
+
+【医学科学新闻】免疫/炎症研究：Oral microbiome modulation mitigates hyperglycemia exacerbation in gestational diabetes mellitus.
+
+一、为什么重要
+Nature communications 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕免疫/炎症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-Jul-03｜https://pubmed.ncbi.nlm.nih.gov/42399225/
+
+---
+
+## 14. 免疫/炎症研究：Autologous macrophage therapy increases transplant-free survival in cirrhosis: Long-term follow-up of a phase 2 clinical trial.
 
 【医学科学新闻】免疫/炎症研究：Autologous macrophage therapy increases transplant-free survival in cirrhosis: Long-term follow-up of a phase 2 clinical trial.
 
@@ -324,7 +378,7 @@ Cell stem cell｜2026-Jul-02｜https://pubmed.ncbi.nlm.nih.gov/42184827/
 
 ---
 
-## 13. 心血管研究：A meta-analysis of the long-term effects of antihypertensive therapy on the risk of major cardiovascular disease across 51 randomized trials.
+## 15. 心血管研究：A meta-analysis of the long-term effects of antihypertensive therapy on the risk of major cardiovascular disease across 51 randomized trials.
 
 【医学科学新闻】心血管研究：A meta-analysis of the long-term effects of antihypertensive therapy on the risk of major cardiovascular disease across 51 randomized trials.
 
@@ -351,7 +405,7 @@ Nature medicine｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42387214/
 
 ---
 
-## 14. 肿瘤/血液肿瘤研究：Casdatifan shows durable response linked to HIF-2α biology in kidney cancer.
+## 16. 肿瘤/血液肿瘤研究：Casdatifan shows durable response linked to HIF-2α biology in kidney cancer.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Casdatifan shows durable response linked to HIF-2α biology in kidney cancer.
 
@@ -378,34 +432,7 @@ Nature｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42386974/
 
 ---
 
-## 15. 感染/疫苗研究：Adjunctive ibuprofen in pre-extensively drug-resistant and extensively drug-resistant tuberculosis: a phase IIA open-label pilot clinical trial.
-
-【医学科学新闻】感染/疫苗研究：Adjunctive ibuprofen in pre-extensively drug-resistant and extensively drug-resistant tuberculosis: a phase IIA open-label pilot clinical trial.
-
-一、为什么重要
-Nature communications 发布的感染/疫苗相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature communications｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42386760/
-
----
-
-## 16. 肿瘤/血液肿瘤研究：Circulating Methylated SEPT9 for Detection of Hepatocellular Carcinoma in Cirrhosis.
+## 17. 肿瘤/血液肿瘤研究：Circulating Methylated SEPT9 for Detection of Hepatocellular Carcinoma in Cirrhosis.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Circulating Methylated SEPT9 for Detection of Hepatocellular Carcinoma in Cirrhosis.
 
@@ -429,33 +456,6 @@ JAMA oncology 发布的肿瘤/血液肿瘤相关Guideline，值得关注其研�
 
 七、参考信息
 JAMA oncology｜2026-Jul-02｜https://pubmed.ncbi.nlm.nih.gov/42390849/
-
----
-
-## 17. 综合医学研究：Robotic versus Open Pancreatoduodenectomy (PORTAL): multicentre, single masked, phase 3, non-inferiority randomised controlled trial.
-
-【医学科学新闻】综合医学研究：Robotic versus Open Pancreatoduodenectomy (PORTAL): multicentre, single masked, phase 3, non-inferiority randomised controlled trial.
-
-一、为什么重要
-BMJ (Clinical research ed.) 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-BMJ (Clinical research ed.)｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42386316/
 
 ---
 
@@ -513,12 +513,12 @@ JAMA oncology｜2026-Jul-03｜https://pubmed.ncbi.nlm.nih.gov/42397676/
 
 ---
 
-## 20. 肿瘤/血液肿瘤研究：GPNMB-directed CAR T cell therapy against MiT/TFE-family fusion-driven solid tumors.
+## 20. 肿瘤/血液肿瘤研究：Generalizable AI predicts immunotherapy outcomes across cancers and treatments.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：GPNMB-directed CAR T cell therapy against MiT/TFE-family fusion-driven solid tumors.
+【医学科学新闻】肿瘤/血液肿瘤研究：Generalizable AI predicts immunotherapy outcomes across cancers and treatments.
 
 一、为什么重要
-Nature cancer 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -536,6 +536,6 @@ Nature cancer 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature cancer｜2026-Jul-01｜https://pubmed.ncbi.nlm.nih.gov/42387022/
+Nature medicine｜2026-Jul-03｜https://pubmed.ncbi.nlm.nih.gov/42399673/
 
 ---
