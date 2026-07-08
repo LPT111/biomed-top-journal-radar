@@ -1,105 +1,105 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-07-07 09:21:57
+【Biomed Radar】今日医学科学新闻已更新｜2026-07-08 09:09:26
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-RSS Nature Medicine: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-1. 湖北省传染病防治高质量发展学术论坛在武汉举办 - hb.chinanews.com.cn
-Google News CN｜Medical news｜Score 27
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JVk44VDhZOUw0TGhFUEVvMkY2UTRWaGpiaTNkWkt0UWFweE52YUxtMnhUYjFHWWhxSXV5Skh0VFBKLXJudlc5cUJHT0NVX0NkLUh0X3QyenpoczBnenhlNF9EZGZQcXkt?oc=5
-
-2. 新药上市企业敲钟！温江生物医药产业频频刷屏出圈 - thepaper.cn
+RSS Nature: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+1. 新药上市企业敲钟！温江生物医药产业频频刷屏出圈 - thepaper.cn
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBYkt6dEo2S0MwZ29TbWdfRWJ2TGpMdS01dmt5WmtBdnFEai1pM24zc1h6Vm1YOHhLV3Z4LWxWSWtlNUVWTWFhdkJXaHFRTjFTQl9XVTBMM25tbHE3eUE?oc=5
 
-3. 总投资约 1.1 亿元！国内首条 AI+个性化靶点 mRNA 肿瘤疫苗产线正式开工建设 - phirda.com
-Google News CN｜Medical news｜Score 26
-Google News CN 发布的生物医药/细胞与基因治疗相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSnRsLUs4MDJ1dXl2TmsyaHRPRjZQa2txMXFGVVIzamN1Tm1BMWF6Y1VBLXdRUjRESWhFUnNJTThWOUs3QmhrTDJJaDdOcEZBYUNlSnl5eU5Vb0ozUkVxMHN6YlhRckZiX0ozNUx5N0FZT1BydFh4QzJR?oc=5
-
-4. 以mRNA脂质纳米颗粒为基础的体内CAR-T细胞 - 维科号
-Google News CN｜Medical news｜Score 26
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4NS00X0MzeDAxNExLV2k3dXdHQzFIWDdNVjVrdmRFNDR4bmFzdF8wZ1ZGUmsySXJON1p1X2V6S2d6Q2VEMVZLRXB3R3IwOTBTRzE4Nzhn?oc=5
-
-5. Nat. Med. | 哈佛医学院、罗氏与浙江大学联合发布COMPASS：可泛化AI预测跨癌种、跨治疗的免疫治疗响应 - 智源社区
+2. Nat. Med. | 哈佛医学院、罗氏与浙江大学联合发布COMPASS：可泛化AI预测跨癌种、跨治疗的免疫治疗响应 - 智源社区
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zWVN0UnZiQUFtUDFFNVZZUFNXMzB3dUJWaE14Y1MzOXY4S2xrY0JkdjJsUXRSWkZHZEl0dTFBYXZCZGFnUTJBaA?oc=5
 
-6. 心血管研究：Polypill for heart failure with reduced ejection fraction: the POLY-HF randomized trial.
-Nature medicine｜RCT｜Score 96
-Nature medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42393373/
+3. Cancer Cell：复旦大学高强/吴英成团队领衔，推出开源肿瘤免疫（OpenIO）路线图，目标直指AI原生免疫治疗 - thepaper.cn
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE96R0ZwWGh6WU9zY3NkOTlNTXBuRE5jVkVmTHFhek53WHp0ZGpfZkRleEk5Zkttcms3U0h6ekZFME9oVDJmUWtuRG93OTBkQm1OWlNXbTl6dFNiSWhpanc?oc=5
 
-7. 肿瘤/血液肿瘤研究：Differential impact of proton pump inhibitors and antibiotics on immunotherapy efficacy after chemoradiotherapy in locally advanced non-small-cell lung cancer: a post-hoc analysis of the PACIFIC trial.
-The Lancet. Oncology｜RCT｜Score 94
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42398520/
+4. 顺德企业破局细胞“智造”！罗恩首发细胞生产自动化智造平台 - content.foshanplus.com
+Google News CN｜Medical news｜Score 21
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMid0FVX3lxTE5rdFd1OVZXRlFURE9wckVVNW1TQXBzMEk4V3RNX1NiZGZRSTRWUFZHdzgzeVd4VXJZR1luRG03TVlxYndiRTlCdUo4VEVPZS10VlpvNTdMbHNxcGQydnJ0cGhpUjRmQjBxekZueEItVUtOQWlpclJV?oc=5
 
-8. 免疫/炎症研究：Oral microbiome modulation mitigates hyperglycemia exacerbation in gestational diabetes mellitus.
-Nature communications｜RCT｜Score 80
-Nature communications 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42399225/
+5. 加拿大自动细胞治疗市场规模和预测 - Spherical Insights
+Google News CN｜Medical news｜Score 21
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiigFBVV95cUxQUVJROS1PQlFONzc1WDZTQ0l1RXlkZXpsUU5QZ2dDTEEzVnNkVjZkY1JVYU45S3dCUnl2dnRIZktobzdudVZKcXQta1A3VUMtZzJKeEdBVDRDaVExZFlHeEx1RHFWM2RhTDVYLVhoekc4N0NFTzhNaW9aRDVueGlrOEVsZFdvcmRjeHc?oc=5
 
-9. 感染/疫苗研究：Respiratory Outbreak Mitigation With Point-of-Care Testing in Long-Term Care: A Randomized Clinical Trial.
+6. 代谢/肥胖/糖尿病研究：Human versus analogue insulin for children and young adults with type 1 diabetes in low-resource settings (HumAn-1): a multicentre, open-label, randomised controlled trial.
+The lancet. Diabetes & endocrinology｜RCT｜Score 88
+The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42409045/
+
+7. 感染/疫苗研究：Patient-Centered Prescription Opioid Tapering Methods : A Randomized Clinical Trial.
+Annals of internal medicine｜RCT｜Score 78
+Annals of internal medicine 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42407075/
+
+8. 感染/疫苗研究：Respiratory Outbreak Mitigation With Point-of-Care Testing in Long-Term Care: A Randomized Clinical Trial.
 JAMA internal medicine｜RCT｜Score 78
 JAMA internal medicine 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42406366/
 
-10. 肿瘤/血液肿瘤研究：Personalized neoantigen-pulsed autologous dendritic cells in newly-diagnosed glioblastoma: a phase Ib trial.
-Nature communications｜Phase 2 trial｜Score 78
-Nature communications 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42401550/
+9. 公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
+JAMA｜RCT｜Score 72
+JAMA 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42223961/
 
-11. 肿瘤/血液肿瘤研究：Circulating Methylated SEPT9 for Detection of Hepatocellular Carcinoma in Cirrhosis.
-JAMA oncology｜Guideline｜Score 76
-JAMA oncology 发布的肿瘤/血液肿瘤相关Guideline，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42390849/
+10. 代谢/肥胖/糖尿病研究：Prolonged Short Sleep and Its Effect on Body Weight and Composition : A Pooled Analysis of Randomized Trials.
+Annals of internal medicine｜RCT｜Score 70
+Annals of internal medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42407080/
 
-12. 肿瘤/血液肿瘤研究：Circulating Tumor DNA Status and Adjuvant Chemotherapy in Resected Colorectal Liver Metastases.
-JAMA oncology｜Original research｜Score 70
-JAMA oncology 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42397676/
-
-13. 神经科学/神经疾病研究：Propionic acid in multiple sclerosis: a phase 2b, double-blind, randomized placebo-controlled trial.
+11. 神经科学/神经疾病研究：Propionic acid in multiple sclerosis: a phase 2b, double-blind, randomized placebo-controlled trial.
 Brain : a journal of neurology｜RCT｜Score 68
 Brain : a journal of neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42402345/
 
-14. 肿瘤/血液肿瘤研究：The BRCA1-A complex restricts replication fork reversal-dependent DNA repair in ATM deficient cells.
+12. 肿瘤/血液肿瘤研究：The BRCA1-A complex restricts replication fork reversal-dependent DNA repair in ATM deficient cells.
 Nature communications｜Translational research｜Score 68
 Nature communications 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42401588/
 
-15. 心血管研究：A large-scale multi-ancestry mitochondrial variant association analysis for cardiometabolic traits.
-Nature communications｜Original research｜Score 68
-Nature communications 发布的心血管相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42401575/
+13. 综合医学研究：Decision and Cost-Effectiveness Analyses Complement Results From Randomized Clinical Trials.
+JAMA｜RCT｜Score 64
+JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42223966/
 
-16. 肿瘤/血液肿瘤研究：Generalizable AI predicts immunotherapy outcomes across cancers and treatments.
-Nature medicine｜Clinical trial｜Score 68
-Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42399673/
-
-17. 综合医学研究：Randomized Trials in Pregnancy.
+14. 综合医学研究：Randomized Trials in Pregnancy.
 JAMA｜RCT｜Score 64
 JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42406369/
 
-18. 综合医学研究：Randomized Trials in Pregnancy-Reply.
+15. 综合医学研究：Randomized Trials in Pregnancy-Reply.
 JAMA｜RCT｜Score 64
 JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42406364/
 
-19. 肿瘤/血液肿瘤研究：Reprogramming macrophage immunometabolism via glutamine antagonism potentiates colorectal cancer therapy in mice.
-Nature communications｜Translational research｜Score 62
-Nature communications 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42401559/
+16. 公共卫生/流行病学研究：The Comparative Effectiveness of Carvedilol Versus Other Nonselective β-Blockers in Cirrhosis.
+Annals of internal medicine｜RCT｜Score 62
+Annals of internal medicine 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42407069/
 
-20. 代谢/肥胖/糖尿病研究：Glucagon-like peptide-1 receptor agonists versus dipeptidyl peptidase-4 inhibitors after liver resection for hepatocellular carcinoma in patients with type 2 diabetes: a target trial emulation study.
-Gut｜Clinical trial｜Score 62
-Gut 发布的代谢/肥胖/糖尿病相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42399086/
+17. 肿瘤/血液肿瘤研究：Identifying and reprogramming softness-driven cancer stem-like cells overcomes CAR-T cell resistance in solid tumours.
+Nature biomedical engineering｜Translational research｜Score 62
+Nature biomedical engineering 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42410050/
+
+18. 免疫/炎症研究：Exhausted CD8+ T cell fate is programmed by dynamic CTCF-mediated enhancer activation and invariant CTCF-imposed barriers.
+Nature immunology｜Translational research｜Score 62
+Nature immunology 发布的免疫/炎症相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42409949/
+
+19. 代谢/肥胖/糖尿病研究：Predicting the Path to Attrition: Multidomain Risk Assessment in Diabetic Foot Ulcer Offloading Randomized Controlled Trials.
+Diabetes care｜RCT｜Score 60
+Diabetes care 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42411992/
+
+20. 肿瘤/血液肿瘤研究：Statescope: an integrative deconvolution framework for discovering cell states in tumors.
+Nature communications｜Clinical trial｜Score 60
+Nature communications 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42409797/
