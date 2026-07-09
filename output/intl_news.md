@@ -1,12 +1,29 @@
 # 国际顶刊与医学科学新闻
 
-1. 代谢/肥胖/糖尿病研究：Human versus analogue insulin for children and young adults with type 1 diabetes in low-resource settings (HumAn-1): a multicentre, open-label, randomised controlled trial.
-   - 来源：The lancet. Diabetes & endocrinology
-   - 时间：2026-Jul-06
-   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The lancet. Diabetes & endocrinology，类型初步识别为RCT。摘要信息显示：BACKGROUND: Human insulins including intermediate-acting human insulin (ie, isophane insulin) remain widely used for children and young people with type 1 diabetes, especially in low-resource settings. We aimed to assess whether insulin glargine reduces the risk of serious hypoglycaemia or improves time in range when compared against human isophane insulin among children and young people with type 1 diabetes in low-income and middle-income countries.
-METHODS: HumAn-1 was a randomised, open label, parallel-group tri... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42409045/
-2. 感染/疫苗研究：Patient-Centered Prescription Opioid Tapering Methods : A Randomized Clinical Trial.
+1. 公共卫生/流行病学研究：Meningococcal B Vaccine to Prevent Neisseria gonorrhoeae Infection.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Jul-08
+   - 摘要：这条内容聚焦公共卫生/流行病学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: No vaccines are currently licensed for the prevention of Neisseria gonorrhoeae infection. Observational studies suggest that the four-component meningococcal serogroup B vaccine (4CMenB) may reduce the risk of gonorrhea.
+METHODS: In this multicenter, double-blind, randomized, placebo-controlled trial, we assigned, in a 1:1 ratio, men who have sex with men (MSM) to receive two doses of 4CMenB or placebo. All the participants had recently received a diagnosis of N. gonorrhoeae infection or infectious syph... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418797/
+2. 肿瘤/血液肿瘤研究：Ifebemtinib plus garsorasib as first-line treatment for KRASG12C-mutated non-small-cell lung cancer in China: a multicentre, single-arm expansion cohort from a phase 1b/2 trial.
+   - 来源：The Lancet. Respiratory medicine
+   - 时间：2026-Jul-07
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Respiratory medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Ifebemtinib, a potent selective oral inhibitor of FAK, has shown preclinical synergistic activity with KRASG12C inhibitors. Garsorasib is a novel KRASG12C inhibitor approved in China for patients with KRASG12C-mutated non-small-cell lung cancer (NSCLC). This study aimed to evaluate the safety and efficacy of ifebemtinib plus garsorasib in KRASG12C-mutated solid tumours.
+METHODS: This multicentre study had a phase 1b component to establish the recommended phase 2 dose and a phase 2 multitumour expansion.... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42413526/
+3. 肿瘤/血液肿瘤研究：Single-Encounter Augmented Reality-Guided Localization for Resection of Suspected Early-Stage Lung Cancer: A Randomized Clinical Trial.
+   - 来源：JAMA surgery
+   - 时间：2026-Jul-08
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Preoperative localization is often required to achieve successful sublobar resection with adequate margins for computed tomography (CT)-detected pulmonary nodules suspicious for early-stage lung cancer. Conventional CT-guided localization involves a multiple-encounter workflow that may cause pain, radiation exposure, and complications.
+OBJECTIVE: To determine whether a single-encounter augmented reality (AR)-guided percutaneous localization strategy is noninferior to standard multiple-encounter CT-guide... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418181/
+4. 感染/疫苗研究：Bispecific 10E8.4/iMab broadly neutralizing antibody in people with or without HIV-1: a partially randomized phase 1 trial.
+   - 来源：Nature medicine
+   - 时间：2026-Jul-07
+   - 摘要：这条内容聚焦感染/疫苗。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：Broadly neutralizing antibodies (bnAbs) are a promising tool for HIV prevention and treatment. Here we conducted a first-in-human, phase 1 trial of the bispecific 10E8.4/iMab antibody, which consists of a 10E8.4 arm binding the HIV-1 envelope glycoprotein membrane-proximal external region and an ibalizumab (iMab) arm binding the human CD4 molecule. 10E8.4/iMab was administered intravenously (IV) or subcutaneously (SC). Safety/tolerability within 2 weeks of 10E8.4/iMab administration (primary outcome) and the pharma... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42414619/
+5. 感染/疫苗研究：Patient-Centered Prescription Opioid Tapering Methods : A Randomized Clinical Trial.
    - 来源：Annals of internal medicine
    - 时间：2026-Jul-07
    - 摘要：这条内容聚焦感染/疫苗。来源为Annals of internal medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Evidence is needed on tapering long-term prescription opioids in outpatient settings.
@@ -16,21 +33,27 @@ SETTING: 11 U.S. sites.
 PARTICIPANTS: Adults with pain for at least 6 months receiving a morphine equivalent daily dose (MEDD) of 10 or higher for at least 3 months without moderate or severe opioid use disorder.
 INTE... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42407075/
-3. 感染/疫苗研究：Respiratory Outbreak Mitigation With Point-of-Care Testing in Long-Term Care: A Randomized Clinical Trial.
-   - 来源：JAMA internal medicine
-   - 时间：2026-Jul-06
-   - 摘要：这条内容聚焦感染/疫苗。来源为JAMA internal medicine，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Respiratory infections caused by SARS-CoV-2, influenza, and respiratory syncytial virus (RSV) cause pronounced seasonal morbidity and mortality among residents of nursing homes (NHs).
-OBJECTIVE: To assess the effect of an on-site point-of-care respiratory multiplex polymerase chain reaction (POC-RMPCR) instrument on NH outbreaks.
-DESIGN, SETTING, AND PARTICIPANTS: This multicenter, open-label cluster randomized trial was conducted from November 12, 2024, to May 2, 2025, in NHs in Toronto, Ontario, Canad... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42406366/
-4. 公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
+6. 综合医学研究：Whole-Blood Transfusion From Empiricism to Evidence: A Narrative Review.
+   - 来源：JAMA surgery
+   - 时间：2026-Jul-08
+   - 摘要：这条内容聚焦综合医学。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Hemorrhage remains the leading preventable cause of trauma death, and many fatalities occur before definitive hemorrhage control. Whole blood has reemerged as a promising strategy for early hemostatic resuscitation. However, its modern role remains incompletely defined because the available evidence is heterogeneous and the adoption of whole blood is shaped by safety considerations, implementation challenges, and inequities in access.
+OBSERVATION: Whole blood delivers red cells, plasma factors, and plat... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418186/
+7. 公共卫生/流行病学研究：Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen.
    - 来源：JAMA
    - 时间：2026-Jul-07
    - 摘要：这条内容聚焦公共卫生/流行病学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Helicobacter pylori infection is the leading cause of gastric cancer, yet the economic value of population-based screening and eradication remains uncertain.
 OBJECTIVE: To project the lifetime health benefits and costs of invitation to 1-time H pylori stool antigen testing added to biennial fecal immunochemical test (FIT) screening compared with FIT alone.
 DESIGN, SETTING, AND PARTICIPANTS: Lifetime cost-effectiveness analysis conducted using a Markov decision-analytic model to simulate a cohort informe... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42223961/
-5. 代谢/肥胖/糖尿病研究：Prolonged Short Sleep and Its Effect on Body Weight and Composition : A Pooled Analysis of Randomized Trials.
+8. 肿瘤/血液肿瘤研究：Lung Transplant for Refractory Lung-Limited Stage IV Non-Small Cell Lung Cancer.
+   - 来源：JAMA
+   - 时间：2026-Jul-08
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA，类型初步识别为Translational research。摘要信息显示：IMPORTANCE: Patients with medically refractory, lung-limited, stage IV non-small cell lung cancer (NSCLC) often die of progressive respiratory failure. Although lung transplant offers the possibility of organ-level disease extirpation, the surgery has historically not been offered to such patients due to concerns of poor oncological outcomes.
+OBJECTIVE: To describe outcomes among patients who underwent lung transplant and examine survival associated with lung transplant compared with medical management alone.
+DESIG... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418196/
+9. 代谢/肥胖/糖尿病研究：Prolonged Short Sleep and Its Effect on Body Weight and Composition : A Pooled Analysis of Randomized Trials.
    - 来源：Annals of internal medicine
    - 时间：2026-Jul-07
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Annals of internal medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Insufficient sleep is associated with obesity. However, the causal effect on weight status of chronic, mildly insufficient sleep and its potential variability by gender and menopausal status remain unknown.
@@ -38,57 +61,34 @@ OBJECTIVE: To explore the effect of 6 weeks of sleep restriction (SR) of 1.5 hou
 DESIGN: Pooled analysis of 2 randomized crossover trials. (ClinicalTrials.gov: NCT02960776 and NCT02835261).
 SETTING: Outpatient intervention with inpatient and o... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42407080/
-6. 神经科学/神经疾病研究：Propionic acid in multiple sclerosis: a phase 2b, double-blind, randomized placebo-controlled trial.
-   - 来源：Brain : a journal of neurology
-   - 时间：2026-Jul-06
-   - 摘要：这条内容聚焦神经科学/神经疾病。来源为Brain : a journal of neurology，类型初步识别为RCT。摘要信息显示：Propionic acid (PA), a microbial-derived short-chain fatty acid, contributes to intestinal barrier integrity, systemic immune regulation, and neuronal function. Individuals with multiple sclerosis show reduced PA levels, and open-label data have suggested beneficial immunomodulatory and clinical effects of supplementation. The Multiple sclerosis And DisAbility Improvement (MADAI) trial was a randomized, double-blind, placebo-controlled, single-centre, phase 2b study designed to evaluate the efficacy and safety of P... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42402345/
-7. 肿瘤/血液肿瘤研究：The BRCA1-A complex restricts replication fork reversal-dependent DNA repair in ATM deficient cells.
-   - 来源：Nature communications
-   - 时间：2026-Jul-04
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Ataxia Telangiectasia Mutated (ATM) kinase deficiency results in cancer susceptibility and drug hypersensitivity. Deficiency in either the BRCA1 interacting A complex or XRCC4/Ligase 4 confers resistance to Topoisomerase I or PARP1 inhibitors in ATM-deficient cells. This suggests that BRCA1-A directs toxicity to fork-damaging agents in ATM mutated cells via illegitimate end-joining. Here, we show that ATM inhibition triggers combined SUMO and ubiquitin mediated BRCA1-A damaged fork recognition to restrict end-resec... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42401588/
-8. 综合医学研究：Decision and Cost-Effectiveness Analyses Complement Results From Randomized Clinical Trials.
+10. 心血管研究：Finerenone and Blood Pressure in Heart Failure With Mildly Reduced or Preserved Ejection Fraction: The FINEARTS-HF Randomized Clinical Trial.
+   - 来源：JAMA cardiology
+   - 时间：2026-Jul-08
+   - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418169/
+11. 综合医学研究：Acupuncture versus sham non-acupoint acupuncture for irritable bowel syndrome: a systematic review and meta-analysis.
+   - 来源：Gastroenterology
+   - 时间：2026-Jul-07
+   - 摘要：这条内容聚焦综合医学。来源为Gastroenterology，类型初步识别为RCT。摘要信息显示：BACKGROUND & AIMS: Irritable bowel syndrome (IBS) is a recurrent abdominal disease globally, with limited efficacious therapeutics. Acupuncture is increasingly gaining attention on IBS with inconsistent evidence. Therefore, this study aims to evaluate the specific effect of acupuncture versus sham non-acupoint controls on IBS.
+METHODS: International and Chinese databases were searched to identify eligible randomized controlled trials (RCTs). Primary outcomes included response rate, overall symptom severity, and qua... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42413705/
+12. 综合医学研究：Interpreting the APERITIF Randomized Clinical Trial-Reply.
+   - 来源：JAMA cardiology
+   - 时间：2026-Jul-08
+   - 摘要：这条内容聚焦综合医学。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418194/
+13. 综合医学研究：Interpreting the APERITIF Randomized Clinical Trial.
+   - 来源：JAMA cardiology
+   - 时间：2026-Jul-08
+   - 摘要：这条内容聚焦综合医学。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418170/
+14. 综合医学研究：Decision and Cost-Effectiveness Analyses Complement Results From Randomized Clinical Trials.
    - 来源：JAMA
    - 时间：2026-Jul-07
    - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42223966/
-9. 综合医学研究：Randomized Trials in Pregnancy.
-   - 来源：JAMA
-   - 时间：2026-Jul-06
-   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42406369/
-10. 综合医学研究：Randomized Trials in Pregnancy-Reply.
-   - 来源：JAMA
-   - 时间：2026-Jul-06
-   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42406364/
-11. 公共卫生/流行病学研究：The Comparative Effectiveness of Carvedilol Versus Other Nonselective β-Blockers in Cirrhosis.
-   - 来源：Annals of internal medicine
-   - 时间：2026-Jul-07
-   - 摘要：这条内容聚焦公共卫生/流行病学。来源为Annals of internal medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: In cirrhosis, nonselective β-blockers (NSBBs; carvedilol, nadolol, and propranolol) reduce hepatic portal pressure and have demonstrated benefit versus placebo for preventing decompensation. Although carvedilol has emerged as the preferred NSBB, direct evidence remains limited about its effectiveness for preventing decompensation and death versus other NSBBs.
-OBJECTIVE: To compare the effectiveness of carvedilol versus nadolol versus propranolol in cirrhosis.
-DESIGN: Database cohort study.
-SETTING: A U.... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42407069/
-12. 肿瘤/血液肿瘤研究：Identifying and reprogramming softness-driven cancer stem-like cells overcomes CAR-T cell resistance in solid tumours.
-   - 来源：Nature biomedical engineering
-   - 时间：2026-Jul-06
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature biomedical engineering，类型初步识别为Translational research。摘要信息显示：Solid tumours show substantial mechanical heterogeneity, yet how such cues influence the susceptibility of cancer cells to T cell-based therapies remains unclear. Here we discover that cancer cells grown on soft matrices are less sensitive to chimeric antigen receptor T cell cytotoxicity and exhibit elevated extracellular adenosine triphosphate and sustained calcium activity. To understand the mechanisms underlying this reduced killing, we sought to identify the cells that respond to mechanical softness. We enginee... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42410050/
-13. 免疫/炎症研究：Exhausted CD8+ T cell fate is programmed by dynamic CTCF-mediated enhancer activation and invariant CTCF-imposed barriers.
-   - 来源：Nature immunology
-   - 时间：2026-Jul-06
-   - 摘要：这条内容聚焦免疫/炎症。来源为Nature immunology，类型初步识别为Translational research。摘要信息显示：Exhausted CD8+ T (TEX) cells undergo extensive genome reorganization during differentiation, yet the drivers of this process remain elusive. Here we show that CTCF programmed CD8+ TEX cell fates through two distinct modes of action. CTCF acquired de novo binding sites and concordantly induced open chromatin in early CD8+ TEX cells responding to chronic viral infection. The dynamic CTCF binding activated enhancers and promoted chromatin looping. Consequently, genetic ablation of CTCF diminished chromatin accessibili... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42409949/
-14. 代谢/肥胖/糖尿病研究：Predicting the Path to Attrition: Multidomain Risk Assessment in Diabetic Foot Ulcer Offloading Randomized Controlled Trials.
-   - 来源：Diabetes care
-   - 时间：2026-Jul-07
-   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Diabetes care，类型初步识别为RCT。摘要信息显示：OBJECTIVE: To test whether measured baseline wound, functional, and psychosocial metrics predict attrition from a diabetic foot ulcer randomized controlled trial (RCT) using an offloading device.
-RESEARCH DESIGN AND METHODS: In a 12-week RCT, participants were randomized to removable, removable plus education, or smart removable (feedback-enabled) boots. A secondary analysis projected baseline variables onto a unified attrition-risk scale using a normalization framework and radar visualization, with higher values i... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42411992/
-15. 肿瘤/血液肿瘤研究：Statescope: an integrative deconvolution framework for discovering cell states in tumors.
+15. 生物医药/细胞与基因治疗研究：Discovery of potent low-toxicity antimicrobial peptides through diffusion modeling.
    - 来源：Nature communications
-   - 时间：2026-Jul-06
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Clinical trial。摘要信息显示：Accurate deconvolution of cell states from bulk tumor RNA-seq is hindered by heterogeneous malignant cells specifically in cancer applications. We present Statescope, a Bayesian framework that incorporates DNA-derived malignant cell purity to overcome this heterogeneity and explicitly models inter-sample variation to accurately identify cell states. Comprehensive benchmarking shows Statescope outperforms existing methods in both cell fraction and state estimation, and is unique in its ability to identify states ent... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42409797/
+   - 时间：2026-Jul-07
+   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：The rapid emergence of multidrug-resistant bacteria has created an urgent need for improved antimicrobial discovery and screening platforms. Here, we present ARCADIAMP, a generative and virtual screening platform that couples an iterative-learning discrete denoising diffusion probabilistic model with a two-stage Evolutionary Scale Modeling 2 (ESM2)-based antibacterial activity classifier to generate, classify, and prioritize potent AMPs with high activity, low toxicity, and favorable serum stability. Eight of the t... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42414289/
