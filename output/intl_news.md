@@ -31,64 +31,55 @@ METHODS: In the double-blind TETON-1 trial, we randomly assigned patients with I
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Preclinical data indicate that inhaled treprostinil may be useful for the treatment of idiopathic pulmonary fibrosis (IPF) through an antifibrotic mechanism, a premise that is supported by clinical observation.
 METHODS: In this phase 3, double-blind trial, we randomly assigned patients with IPF to receive inhaled treprostinil or placebo (12 breaths four times daily) over a period of 52 weeks. The primary end point was the change from baseline in the absolute forced vital capacity (FVC) at week 52. Secon... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/41812190/
-6. 感染/疫苗研究：Efficacy and safety of rivaroxaban, colchicine, and famotidine-loratadine with specialist supportive clinical care for fatigue in patients with post-COVID-19 condition in the UK: a multisite, open-label, randomised controlled trial.
-   - 来源：The Lancet. Infectious diseases
-   - 时间：2026-Jul-08
-   - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为RCT。摘要信息显示：BACKGROUND: Post-acute sequelae of COVID-19 or post-COVID-19 condition (also known as long COVID) affects 1-5% of adults globally, most commonly with fatigue, and no evidence-based therapies are available. We aimed to evaluate the efficacy of repurposed medications in fatigue management in adults with long COVID.
-METHODS: We did a phase 3, four-group, randomised, controlled, adaptive platform, open-label drug trial nested within a pragmatic, multicentre, cluster-randomised trial of an integrated care pathway (ICP) ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42419335/
-7. 肿瘤/血液肿瘤研究：Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).
+6. 肿瘤/血液肿瘤研究：Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).
    - 来源：JAMA oncology
    - 时间：2026-Jul-09
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Chemoimmunotherapy followed by immunotherapy maintenance is the standard first-line treatment for extensive-stage small cell lung cancer (ES-SCLC), yet data regarding efficacy and safety of consolidative thoracic radiotherapy (TRT) are lacking.
 OBJECTIVE: To determine whether combining consolidative TRT with immunotherapy maintenance in ES-SCLC is safe and improves patients' overall survival (OS) and progression-free survival (PFS).
 DESIGN, SETTINGS, AND PARTICIPANTS: This was a multicenter open-label p... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42424047/
-8. 肿瘤/血液肿瘤研究：Systemic therapy, gastrectomy, cytoreductive surgery, and hyperthermic intraperitoneal chemotherapy versus systemic therapy alone for gastric cancer with limited peritoneal metastases (PERISCOPE II): final results of a multicentre, randomised, controlled, phase 3 trial after an unplanned commissioned interim analysis.
-   - 来源：The Lancet. Oncology
-   - 时间：2026-Jul-08
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (HIPEC) is widely used for patients with gastric cancer and peritoneal metastases. However, the efficacy of this treatment has never been compared with that of systemic therapy. We aimed to investigate the efficacy of gastrectomy with cytoreductive surgery and HIPEC for patients with gastric cancer and limited peritoneal metastases, compared with systemic therapy alone.
-METHODS: In this European, multicentre, randomised, controlled, ph... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42419336/
-9. 公共卫生/流行病学研究：Meningococcal B Vaccine to Prevent Neisseria gonorrhoeae Infection.
-   - 来源：The New England journal of medicine
-   - 时间：2026-Jul-08
-   - 摘要：这条内容聚焦公共卫生/流行病学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: No vaccines are currently licensed for the prevention of Neisseria gonorrhoeae infection. Observational studies suggest that the four-component meningococcal serogroup B vaccine (4CMenB) may reduce the risk of gonorrhea.
-METHODS: In this multicenter, double-blind, randomized, placebo-controlled trial, we assigned, in a 1:1 ratio, men who have sex with men (MSM) to receive two doses of 4CMenB or placebo. All the participants had recently received a diagnosis of N. gonorrhoeae infection or infectious syph... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418797/
-10. 肿瘤/血液肿瘤研究：Single-Encounter Augmented Reality-Guided Localization for Resection of Suspected Early-Stage Lung Cancer: A Randomized Clinical Trial.
-   - 来源：JAMA surgery
-   - 时间：2026-Jul-08
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Preoperative localization is often required to achieve successful sublobar resection with adequate margins for computed tomography (CT)-detected pulmonary nodules suspicious for early-stage lung cancer. Conventional CT-guided localization involves a multiple-encounter workflow that may cause pain, radiation exposure, and complications.
-OBJECTIVE: To determine whether a single-encounter augmented reality (AR)-guided percutaneous localization strategy is noninferior to standard multiple-encounter CT-guide... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418181/
-11. 心血管研究：Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis.
-   - 来源：BMJ (Clinical research ed.)
-   - 时间：2026-Jul-08
-   - 摘要：这条内容聚焦心血管。来源为BMJ (Clinical research ed.)，类型初步识别为RCT。摘要信息显示：OBJECTIVE: To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for adults with overweight or obesity to inform decision making for policymakers, payers, clinicians, and patients.
-DESIGN: Systematic review and network meta-analysis of 24 outcomes using frequentist random effects models and bayesian dose-response models, the GRADE (Grading of Recommendations Assessment, Development, and Evaluation) approach, and the Cochrane Risk of Bias 2 tool.
-DATA SOURCES: Medline, Embase, a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42419792/
-12. 综合医学研究：Whole-Blood Transfusion From Empiricism to Evidence: A Narrative Review.
-   - 来源：JAMA surgery
-   - 时间：2026-Jul-08
-   - 摘要：这条内容聚焦综合医学。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Hemorrhage remains the leading preventable cause of trauma death, and many fatalities occur before definitive hemorrhage control. Whole blood has reemerged as a promising strategy for early hemostatic resuscitation. However, its modern role remains incompletely defined because the available evidence is heterogeneous and the adoption of whole blood is shaped by safety considerations, implementation challenges, and inequities in access.
-OBSERVATION: Whole blood delivers red cells, plasma factors, and plat... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418186/
-13. 肿瘤/血液肿瘤研究：Lung Transplant for Refractory Lung-Limited Stage IV Non-Small Cell Lung Cancer.
-   - 来源：JAMA
-   - 时间：2026-Jul-08
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA，类型初步识别为Translational research。摘要信息显示：IMPORTANCE: Patients with medically refractory, lung-limited, stage IV non-small cell lung cancer (NSCLC) often die of progressive respiratory failure. Although lung transplant offers the possibility of organ-level disease extirpation, the surgery has historically not been offered to such patients due to concerns of poor oncological outcomes.
-OBJECTIVE: To describe outcomes among patients who underwent lung transplant and examine survival associated with lung transplant compared with medical management alone.
-DESIG... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418196/
-14. 心血管研究：Finerenone and Blood Pressure in Heart Failure With Mildly Reduced or Preserved Ejection Fraction: The FINEARTS-HF Randomized Clinical Trial.
-   - 来源：JAMA cardiology
-   - 时间：2026-Jul-08
-   - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42418169/
-15. 肿瘤/血液肿瘤研究：Dynamic immune profiling predicts response to radiation plus anti-PD-1 therapy in oligometastatic renal cell carcinoma.
+7. 肿瘤/血液肿瘤研究：KRAS-G12D inhibitor HRS-4642 plus chemotherapy in advanced KRASG12D-mutant pancreatic cancer: a phase 1b/2 trial.
+   - 来源：Nature medicine
+   - 时间：2026-Jul-09
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为Phase 2 trial。摘要信息显示：KRASG12D is the predominant oncogenic driver in pancreatic ductal adenocarcinoma (PDAC). While most investigational KRAS-G12D inhibitors are oral small molecules limited by gastrointestinal toxicities and suboptimal tumor exposure, HRS-4642 is a new, high‑affinity, noncovalent KRAS-G12D inhibitor. Formulated as a liposomal nanoparticle for intravenous administration, it is designed to enhance tumor accumulation and prolong the duration of target inhibition. This phase 1b/2 study evaluated HRS-4642 in combination wi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42426224/
+8. 肿瘤/血液肿瘤研究：Human embryonic stem cell-derived dopaminergic cells for Parkinson's disease: a phase 1/2 open-label trial.
+   - 来源：Nature medicine
+   - 时间：2026-Jul-09
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为Clinical trial。摘要信息显示：Parkinson's disease (PD) is characterized by progressive loss of nigral dopaminergic neurons, resulting in disabling motor symptoms. Intracerebral transplantation of stem cell-derived dopaminergic progenitors to replace lost endogenous dopaminergic neurons offers a new potentially restorative therapeutic approach for PD. Here we report the 12-month primary safety end point and interim efficacy outcomes from a phase 1/2, open-label, multicenter trial evaluating STEM-PD, a cryopreserved, off-the-shelf dopaminergic pr... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42426223/
+9. 综合医学研究：Caloric restriction improves glycemic control via the adiponectin-ceramide axis in non-obese men and women: the CALERIE™ 2 randomized controlled trial.
+   - 来源：Nature communications
+   - 时间：2026-Jul-09
+   - 摘要：这条内容聚焦综合医学。来源为Nature communications，类型初步识别为RCT。摘要信息显示：Caloric restriction (CR) improves metabolic health across species, but the molecular mediators of its effects in humans remain incompletely defined. In a 24-month non-blinded randomized controlled trial (Clinicaltrial.gov: NCT00427193) of non-obese (BMI 22-27.9 kg/m2) men and premenopausal women aged 21 to 50 years, we assessed prespecified outcomes. Participants were randomized to an ad libitum or CR diet. We found that CR was associated with increased high-molecular-weight (HMW) adiponectin and reduced circulatin... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42425963/
+10. 肿瘤/血液肿瘤研究：A unified vision-language model for precision oncology and biomarker prediction in neuroblastoma.
+   - 来源：Nature communications
+   - 时间：2026-Jul-09
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Original research。摘要信息显示：Neuroblastoma is a leading cause of childhood cancer mortality, presenting persistent management challenges due to its biological heterogeneity and the limited accessibility of molecular profiling in routine practice. Here we present NEVA (NEuroblastoma Vision-language AI), a multimodal foundation model designed to address these barriers. Unlike conventional approaches that rely on frozen encoders and multiple instance learning, NEVA implements a pathologist-inspired hierarchical workflow with end-to-end optimizati... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42426002/
+11. 肿瘤/血液肿瘤研究：Dynamic immune profiling predicts response to radiation plus anti-PD-1 therapy in oligometastatic renal cell carcinoma.
    - 来源：Nature communications
    - 时间：2026-Jul-08
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Clinical trial。摘要信息显示：Biomarkers that predict response to combined radiation and anti-PD-1 therapy in clear cell renal cell carcinoma (ccRCC) are poorly defined. RAPPORT trial (NCT02855203) is a prospective phase I/II study of stereotactic ablative body radiotherapy (SABR) and pembrolizumab in 30 patients with oligometastatic ccRCC. The primary endpoint was safety; secondary endpoints included overall survival, time to local progression, distant progression-free survival, objective and disease control rates, duration of response and pat... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42420295/
+12. 代谢/肥胖/糖尿病研究：[Articles] Orforglipron compared with dapagliflozin in adults with type 2 diabetes and inadequate glycaemic control with metformin (ACHIEVE-2): a multicentre, randomised, non-inferiority, open-label, phase 3 trial
+   - 来源：The Lancet
+   - 时间：2026-06-08T18:30:01Z
+   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The Lancet，类型初步识别为Phase 3 trial。摘要信息显示：Orforglipron demonstrated superior glycaemic control compared with dapagliflozin, with a tolerability profile consistent with the GLP-1 receptor agonist class, including increased rates of discontinuation due to adverse events, positioning it as a potential effective oral treatment option for type 2 diabetes. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00800-7/fulltext?rss=yes
+13. 肿瘤/血液肿瘤研究：Cellular architecture and neighborhood-informed virtual spatial tumor profiling from histopathology.
+   - 来源：Cell
+   - 时间：2026-Jul-09
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cell，类型初步识别为Translational research。摘要信息显示：The tumor microenvironment (TME) critically shapes disease progression and therapeutic resistance. However, a comprehensive understanding of its spatial architecture remains elusive, and clinical translation is challenging. Here, we present cellular architecture and neighborhood-informed virtual AI-driven spatial profiling (CANVAS), an artificial intelligence platform that infers tumor ecological habitats from hematoxylin and eosin (H&E) histopathology. Built on an atlas of over 18 million cells profiled by 41-plex... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42302781/
+14. 免疫/炎症研究：A phase 1/1b study of the BCMA-targeting bispecific T-cell engager pavurutamab for relapsed/refractory multiple myeloma.
+   - 来源：Blood
+   - 时间：2026-Jul-09
+   - 摘要：这条内容聚焦免疫/炎症。来源为Blood，类型初步识别为Phase 2 trial。摘要信息显示：The B-cell maturation antigen (BCMA)-targeting bispecific T-cell engager pavurutamab (AMG 701) directs the cytotoxic T-cell response toward multiple myeloma (MM) cells. This phase 1/1b, open-label, dose-exploration and dose-expansion study evaluated the safety, tolerability, and efficacy of pavurutamab monotherapy in patients with triple-class relapsed/refractory MM (RRMM). Pavurutamab (5-18 000 μg) was administered IV weekly with step-up dosing in week 1. Overall, 172 patients received at least 1 dose of pavurutam... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/41950113/
+15. 肿瘤/血液肿瘤研究：Global Consensus on the Management of Primary Localized Chordoma.
+   - 来源：JAMA oncology
+   - 时间：2026-Jul-09
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为Guideline。摘要信息显示：IMPORTANCE: Chordoma is a rare malignant bone tumor with high local recurrence, metastatic spread in 40% to 60% of patients over the disease course, and significant morbidity. Because of its rarity, anatomical complexity, and prolonged natural history, high-quality evidence to guide management is limited. International consensus guidelines for localized chordoma were first published in 2015; however, advances in pathology, imaging, surgery, radiotherapy, and supportive care since then necessitate updated multidisci... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42424068/

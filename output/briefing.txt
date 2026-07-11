@@ -1,17 +1,18 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-07-10 09:14:32
+【Biomed Radar】今日医学科学新闻已更新｜2026-07-11 09:05:36
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
-RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
 Bing News CN｜RCT｜Score 51
 Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a50477a893c448a9da4d11ff5b7d9ca&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5196e1bccc4c2c88d44b95500c3b3e&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 
 2. 血液肿瘤细胞免疫治疗有新招
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a50477a893c448a9da4d11ff5b7d9ca&url=http%3a%2f%2fah.anhuinews.com%2fkjyww%2f202601%2ft20260122_9050487.html&c=3843762742510189167&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5196e1bccc4c2c88d44b95500c3b3e&url=http%3a%2f%2fah.anhuinews.com%2fkjyww%2f202601%2ft20260122_9050487.html&c=3843762742510189167&mkt=en-us
 
 3. 由浦东企业主导，全球首个AI创新药三期临床试验启动 - 新浪财经
 Google News CN｜Medical news｜Score 26
@@ -26,7 +27,7 @@ https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GUUk2aDcyeXlmZWxZNWtPTlVwMEx
 5. 背靠背两篇Cancer Cell：靶向巨噬细胞的CAR-T细胞疗法，重塑肿瘤微环境，广谱治疗实体瘤
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a50477a893c448a9da4d11ff5b7d9ca&url=https%3a%2f%2fnews.bioon.com%2farticle%2f737992339886.html&c=10065354352884522307&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5196e1bccc4c2c88d44b95500c3b3e&url=https%3a%2f%2fnews.bioon.com%2farticle%2f737992339886.html&c=10065354352884522307&mkt=en-us
 
 6. 肿瘤/血液肿瘤研究：Durvalumab Plus Chemotherapy for Advanced Biliary Tract Cancer: A Post Hoc Analysis of the TOPAZ-1 Randomized Clinical Trial.
 JAMA oncology｜RCT｜Score 96
@@ -53,52 +54,52 @@ The New England journal of medicine｜RCT｜Score 96
 The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/41812190/
 
-11. 感染/疫苗研究：Efficacy and safety of rivaroxaban, colchicine, and famotidine-loratadine with specialist supportive clinical care for fatigue in patients with post-COVID-19 condition in the UK: a multisite, open-label, randomised controlled trial.
-The Lancet. Infectious diseases｜RCT｜Score 96
-The Lancet. Infectious diseases 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42419335/
-
-12. 肿瘤/血液肿瘤研究：Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).
+11. 肿瘤/血液肿瘤研究：Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320).
 JAMA oncology｜RCT｜Score 94
 JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42424047/
 
-13. 肿瘤/血液肿瘤研究：Systemic therapy, gastrectomy, cytoreductive surgery, and hyperthermic intraperitoneal chemotherapy versus systemic therapy alone for gastric cancer with limited peritoneal metastases (PERISCOPE II): final results of a multicentre, randomised, controlled, phase 3 trial after an unplanned commissioned interim analysis.
-The Lancet. Oncology｜Phase 3 trial｜Score 94
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42419336/
+12. 肿瘤/血液肿瘤研究：KRAS-G12D inhibitor HRS-4642 plus chemotherapy in advanced KRASG12D-mutant pancreatic cancer: a phase 1b/2 trial.
+Nature medicine｜Phase 2 trial｜Score 78
+Nature medicine 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42426224/
 
-14. 公共卫生/流行病学研究：Meningococcal B Vaccine to Prevent Neisseria gonorrhoeae Infection.
-The New England journal of medicine｜RCT｜Score 94
-The New England journal of medicine 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42418797/
+13. 肿瘤/血液肿瘤研究：Human embryonic stem cell-derived dopaminergic cells for Parkinson's disease: a phase 1/2 open-label trial.
+Nature medicine｜Clinical trial｜Score 77
+Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42426223/
 
-15. 肿瘤/血液肿瘤研究：Single-Encounter Augmented Reality-Guided Localization for Resection of Suspected Early-Stage Lung Cancer: A Randomized Clinical Trial.
-JAMA surgery｜RCT｜Score 86
-JAMA surgery 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42418181/
+14. 综合医学研究：Caloric restriction improves glycemic control via the adiponectin-ceramide axis in non-obese men and women: the CALERIE™ 2 randomized controlled trial.
+Nature communications｜RCT｜Score 72
+Nature communications 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42425963/
 
-16. 心血管研究：Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis.
-BMJ (Clinical research ed.)｜RCT｜Score 78
-BMJ (Clinical research ed.) 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42419792/
+15. 肿瘤/血液肿瘤研究：A unified vision-language model for precision oncology and biomarker prediction in neuroblastoma.
+Nature communications｜Original research｜Score 70
+Nature communications 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42426002/
 
-17. 综合医学研究：Whole-Blood Transfusion From Empiricism to Evidence: A Narrative Review.
-JAMA surgery｜RCT｜Score 72
-JAMA surgery 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42418186/
-
-18. 肿瘤/血液肿瘤研究：Lung Transplant for Refractory Lung-Limited Stage IV Non-Small Cell Lung Cancer.
-JAMA｜Translational research｜Score 70
-JAMA 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42418196/
-
-19. 心血管研究：Finerenone and Blood Pressure in Heart Failure With Mildly Reduced or Preserved Ejection Fraction: The FINEARTS-HF Randomized Clinical Trial.
-JAMA cardiology｜RCT｜Score 69
-JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42418169/
-
-20. 肿瘤/血液肿瘤研究：Dynamic immune profiling predicts response to radiation plus anti-PD-1 therapy in oligometastatic renal cell carcinoma.
+16. 肿瘤/血液肿瘤研究：Dynamic immune profiling predicts response to radiation plus anti-PD-1 therapy in oligometastatic renal cell carcinoma.
 Nature communications｜Clinical trial｜Score 68
 Nature communications 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42420295/
+
+17. 代谢/肥胖/糖尿病研究：[Articles] Orforglipron compared with dapagliflozin in adults with type 2 diabetes and inadequate glycaemic control with metformin (ACHIEVE-2): a multicentre, randomised, non-inferiority, open-label, phase 3 trial
+The Lancet｜Phase 3 trial｜Score 68
+The Lancet 发布的代谢/肥胖/糖尿病相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00800-7/fulltext?rss=yes
+
+18. 肿瘤/血液肿瘤研究：Cellular architecture and neighborhood-informed virtual spatial tumor profiling from histopathology.
+Cell｜Translational research｜Score 62
+Cell 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42302781/
+
+19. 免疫/炎症研究：A phase 1/1b study of the BCMA-targeting bispecific T-cell engager pavurutamab for relapsed/refractory multiple myeloma.
+Blood｜Phase 2 trial｜Score 61
+Blood 发布的免疫/炎症相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/41950113/
+
+20. 肿瘤/血液肿瘤研究：Global Consensus on the Management of Primary Localized Chordoma.
+JAMA oncology｜Guideline｜Score 60
+JAMA oncology 发布的肿瘤/血液肿瘤相关Guideline，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42424068/
