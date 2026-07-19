@@ -25,11 +25,11 @@ METHODS: In this double-blind, ... 该摘要由规则模板生成，适合快速
 OBJECTIVE: To compare BICR- and investigator-assessed PFS of patients with hormone receptor-positive/ERBB2-negative mBC.
 DATA SOURCES: PubMed, Em... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42461660/
-5. 肿瘤/血液肿瘤研究：Immunotherapy with a short-lived anti-PD-L1 antibody in Alzheimer's disease: a phase 1b, randomized, double-blind trial.
-   - 来源：Nature medicine
-   - 时间：2026-Jul-15
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：While Alzheimer's disease (AD) is initiated by amyloid plaque accumulation, its progression involves local neuroinflammation that the brain cannot resolve when age-related dysfunction of the systemic immune system limits peripheral immune support. Preclinical studies using rodent models showed that transient systemic blockade of programmed death-ligand 1 is associated with reduced neuroinflammation, neuroprotection and attenuation of disease progression. Based on the underlying mechanism, a new short-lived anti-pro... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42458012/
+5. 感染/疫苗研究：Renal resistive index-guided mean arterial pressure titration in sepsis: a prospective single-center, single-blind, parallel-group randomized controlled trial.
+   - 来源：Nature communications
+   - 时间：2026-Jul-17
+   - 摘要：这条内容聚焦感染/疫苗。来源为Nature communications，类型初步识别为RCT。摘要信息显示：In sepsis, optimizing mean arterial pressure (MAP) for organ perfusion remains challenging. We conduct a single-center, single-blind, parallel-group randomized controlled trial enrolling 274 sepsis patients to evaluate whether renal resistive index (RRI)-guided MAP titration (MAP titration group, MTG) reduces 28-day all-cause mortality (primary endpoint) compared with conventional treatment (conventional treatment group, CTG). Post-titration, RRI decreases significantly in the MTG versus CTG (0.61 vs. 0.67, P < 0.0... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42469213/
 6. 心血管研究：Extended Dual Antiplatelet Therapy for Multivessel Coronary Artery Disease.
    - 来源：The New England journal of medicine
    - 时间：2026-Jul-16
@@ -41,27 +41,27 @@ METHODS: We conducted an open-label, randomized trial at 97 centers in China. Pa
    - 时间：2026-Jul-16
    - 摘要：这条内容聚焦免疫/炎症。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：There is an unmet need for effective, off-the-shelf therapies for relapsed or refractory aggressive B cell non-Hodgkin lymphoma (B-NHL). Part 2 of the current study was an open-label, nonrandomized, phase 1 study of escalating doses of the CD19-4-1BBL co-stimulatory molecule, englumafusp alfa, in combination with glofitamab in patients with relapsed or refractory B-NHL. Obinutuzumab pretreatment was administered 7 days before the first glofitamab dose. Glofitamab step-up dosing in cycle 1 was followed by 11 cycles ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42463852/
-8. 免疫/炎症研究：GPC3-specific dnTGFβRII-armoured CAR T cells for hepatocellular carcinoma.
-   - 来源：Nature
-   - 时间：2026-Jul-15
-   - 摘要：这条内容聚焦免疫/炎症。来源为Nature，类型初步识别为Clinical trial。摘要信息显示：Glypican-3 (GPC3) is highly expressed in hepatocellular carcinoma (HCC), making it an attractive target for chimeric antigen receptor (CAR) T cell therapy; however, this approach has previously shown limited clinical efficacy, potentially owing to high levels of transforming growth factor-β (TGFβ) in the tumour microenvironment1-4. We therefore engineered CAR T cells with a dominant-negative TGFβ receptor II, which showed enhanced antitumour activity in preclinical studies5. Here we report findings from a first-in-... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42457964/
-9. 肿瘤/血液肿瘤研究：CenSegNet: a generalist high-throughput deep learning framework for centrosome phenotyping at spatial and single-cell resolution in heterogeneous tissues.
-   - 来源：Nature communications
-   - 时间：2026-Jul-15
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Centrosome abnormalities (CA) are a hallmark of epithelial cancers, yet their spatial complexity and phenotypic heterogeneity remain poorly understood due to limitations in conventional image analysis. Here we present CenSegNet (Centrosome Segmentation Network), a modular deep learning framework for high-throughput segmentation of centrosomes and epithelial architecture, enabling accurate and generalisable centrosome phenotyping at spatial and single-cell resolution across imaging modalities and tissue contexts. Ap... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42457714/
-10. 感染/疫苗研究：Safety, pharmacokinetics, and antimalarial efficacy of single-dose cabamiquine-pyronaridine combination therapy for the treatment of adults and adolescents with acute uncomplicated Plasmodium falciparum malaria (CAPTURE 1): a prospective, multicentre, open-label, phase 2a study.
+8. 感染/疫苗研究：Safety, pharmacokinetics, and antimalarial efficacy of single-dose cabamiquine-pyronaridine combination therapy for the treatment of adults and adolescents with acute uncomplicated Plasmodium falciparum malaria (CAPTURE 1): a prospective, multicentre, open-label, phase 2a study.
    - 来源：The Lancet. Infectious diseases
    - 时间：2026-Jul-16
    - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为Phase 2 trial。摘要信息显示：BACKGROUND: Novel antimalarial combinations are needed to address the threat of emerging resistance to artemisinins. This study evaluated the safety, tolerability, pharmacokinetics, and efficacy of a single oral dose of cabamiquine-pyronaridine for the treatment of uncomplicated Plasmodium falciparum malaria.
 METHODS: This two-part, multicentre, open-label, phase 2a study (CAPTURE 1) enrolled patients aged 12-55 years from five hospitals in four countries across Africa with acute uncomplicated P falciparum monoinfe... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42462745/
-11. 综合医学研究：Author Correction: Integrated community-based HIV and sexual and reproductive health services for youth: a cluster-randomized trial.
+9. 综合医学研究：Meta-analytic evidence for distinct neural correlates of conditioned versus verbally induced placebo analgesia.
+   - 来源：Nature communications
+   - 时间：2026-Jul-17
+   - 摘要：这条内容聚焦综合医学。来源为Nature communications，类型初步识别为Meta-analysis。摘要信息显示：Placebo analgesia demonstrates that belief and expectation can significantly alter pain, even without active treatment. Placebo analgesia can be induced through verbal suggestion, classical conditioning, or their combination, though the role of conditioned neural responses above and beyond effects of verbal instructions remains unclear. We conduct a systematic meta-analysis of individual participant data from 16 within-participant placebo neuroimaging studies (n = 409), employing univariate and multivariate analyse... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42469238/
+10. 综合医学研究：Author Correction: Integrated community-based HIV and sexual and reproductive health services for youth: a cluster-randomized trial.
    - 来源：Nature medicine
    - 时间：2026-Jul-16
    - 摘要：这条内容聚焦综合医学。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42463854/
+11. 医疗AI/数字医学研究：Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting.
+   - 来源：Nature communications
+   - 时间：2026-Jul-17
+   - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature communications，类型初步识别为Original research。摘要信息显示：Esophagogastroduodenoscopy (EGD) is an essential clinical procedure for diagnosing gastrointestinal (GI) diseases, while the subsequent EGD reports play a vital role in clinical decision-making and therapeutic interventions. This paper makes the first attempt to bootstrap Multimodal Large Language Models (MLLM) with medical knowledge for EGD diagnosis and reporting (EDR). We collected the largest multicentric EGD dataset so far, containing 4461 participants with 203,838 EGD images and 4461 corresponding EGD reports... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42469206/
 12. 公共卫生/流行病学研究：Saxiphilin functions as a toxin sponge protein that counteracts the effects of saxitoxin poisoning.
    - 来源：Nature communications
    - 时间：2026-Jul-16

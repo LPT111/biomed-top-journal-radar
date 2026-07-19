@@ -1,10 +1,10 @@
-# 全医学科学新闻雷达｜2026-07-18 09:03:44
+# 全医学科学新闻雷达｜2026-07-19 09:09:10
 
 - 今日新闻：20 条
 - 中文来源：5 条
 - 国际来源：15 条
 - 顶刊论文：15 条
-- RCT/临床试验：11 条
+- RCT/临床试验：10 条
 
 > RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
@@ -13,22 +13,22 @@
    - 来源：Google News CN｜类型：Medical news｜分数：27
    - 链接：https://news.google.com/rss/articles/CBMizwJBVV95cUxOaHBzbFp1WG52dFpkYjktZjU3UDJFalUzd0lxMy0tQ3ZUUFluRGxBV2dRdzBTZU5YTXhjaG5Ja1VKZVVUS1hsQWxTNzI0WHE2d2dZRzJWMnR4U0pOWEloTFNiNXIybHZPODhVeWh4U2wwM3prdXgzSjZSbXRhOFVKQlNnY2xmaHhzdUlIRkhQLXdXQUhGQ2xra0dVSVRtNFhXWTM2ajllVGlEdVIxSmVQWFdzNFZEZWoxQzdyWDFGbksyNWt2X202QlEyS1FhRTlLUXdFUGx4R1lpSFRhV2ZfUjJ2UlhzM3ZqSTFPTjk5c3lWc3haVmY1YWhUQmdQWWQwd0VRTkh0U1g1eFdabGpHS004RFJsLW1NSEpxaGd1NWxzd2lSOVdQQ1ZIV1Q5clM0Y0xOMEJTUnU2NE1OOEFwaHRxS18zRl9SamZ6VlpDWQ?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-2. 上海仁济医院：首款实体瘤 CAR-T 疗法落地 - ByDrug
+2. 佰炼医药工程化外泌体平台成功实现 in vivo CAR-T 递送 - 搜狐网
    - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMifkFVX3lxTE1xVVAxakRJRU5JakRvMEVEQlJHTGR0cjFPYWNJVVU0a0VyS25JQmR4MWpMZWc2ek5FUFI2RUNNUk11Q1B5Q3dxaWJOWUZIRG8tYjlzTnJLblpvdXhCaWpsTzUtQnQwY2x3U1hMWW1qZ0FMM1haZnNzaE9nU0tmZw?oc=5
+   - 链接：https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2pmQzFRNVdtTTRDVzNHOXphUlp5OTdoR054Q2Fad2lsRDhaRERrSVNPVElyOTJCeEp4N0syRXFpTldnWFhrdGZHTUYzenR6eEQ4Z1FnVjlsbGY2eDNiOHZMcnZuR1dJeUZtN1FrMXJ5MTF5TDdHOXJ6VjhTZUwtbGhRRGlTTG9kdGxTTA?oc=5
    - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-3. 乐福思健康与同济医学院生殖健康研究所开启合作，聚焦早孕关爱，深化医研协同，共筑优生优育健康屏障 - yemacaijing.com
+3. 聚焦两款国产ADC：翰森制药新药肺癌3期临床成功，打破传统疗法天花板；百利天恒针对乳腺癌发起头对头研究，挑战第一三共｜掘金创新药 - QQ News
    - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMiYkFVX3lxTE92SndPR0MwM2hpZFFHVURQcXJDajJRNGxKamNRb04wc1VqMWhHOUItV0VPU0w3N2lzVEtlRUpXLThtU3QwNTFERjRhUDVxYkZDYkR6eWhteHVWa3NDS1NCeHdR?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-4. “装甲”CAR-T登顶Nature：晚期肝癌中位生存期达14.2个月 - ByDrug
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMifkFVX3lxTE5lQWRBSmYwclhjc0hLX1lEcGJIUlJnZGxPNVF6Y3g4Z2lkcTVrZElkNzIwZ1c0YTBMbXN6LUxWenRYV0JtZU9rdzhrekh5WE1heWJBbzU0OFNVdmJPNHptQllLYXpVcHJZdTFzTl85cWdNVThtQ2c5dlZuTC0zdw?oc=5
+   - 链接：https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kbDdNZGZVZ2piWVVZaE5relFoUXZHY1c0T3pVX0dWSDBlaXc4YjBuLVlRVkdLUEM0Rkt1eVFSbVp0VFpwb3NSYkltZ2FWYkx4c25IOFZR?oc=5
    - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. 湘雅二医院牵头建设西藏首个国家糖尿病标准化防控分中心 - 凤凰网
-   - 来源：Google News CN｜类型：Medical news｜分数：21
-   - 链接：https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ialF5Y3hEWVVvQmZ5TzFZeFpraHBWTGhSQkFmbTF0SkRLVlVnYzl5MDllN0pXVVQtWW1YbDBLQy1uM08wNjNDWg?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+4. 国家卫健委：加强外文期刊撤稿论文主动监测
+   - 来源：Bing News CN｜类型：Medical news｜分数：26
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5c23b9c5234819a8affb7fdcdd4571&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103063526.html&c=6908917026610984632&mkt=en-us
+   - 简述：Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+5. 【Nature子刊】CAR-T 细胞疗法的发展、现状与未来展望-MedSci.cn - 梅斯医学 MedSci
+   - 来源：Google News CN｜类型：Medical news｜分数：26
+   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE42QTNxdWFOOElfZVNsakpwVmladnFCdzI5YWUzVFBwU0xDSk9vMmV3RXQ3QVY0TDBpSUVYYzVDYWhQbUlpSkRTdVRDZmJoTmZDRV9IOU8wczh2d2ZSVFdWaXBSMXEzZEwzOXZBbXln?oc=5
+   - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 6. 综合医学研究：Efficacy and Safety of Obinutuzumab in Active Systemic Lupus Erythematosus.
    - 来源：The New England journal of medicine｜类型：RCT｜分数：102
    - 链接：https://pubmed.ncbi.nlm.nih.gov/41789864/
@@ -45,10 +45,10 @@
    - 来源：JAMA oncology｜类型：RCT｜分数：88
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42461660/
    - 简述：JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-10. 肿瘤/血液肿瘤研究：Immunotherapy with a short-lived anti-PD-L1 antibody in Alzheimer's disease: a phase 1b, randomized, double-blind trial.
-   - 来源：Nature medicine｜类型：RCT｜分数：88
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42458012/
-   - 简述：Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+10. 感染/疫苗研究：Renal resistive index-guided mean arterial pressure titration in sepsis: a prospective single-center, single-blind, parallel-group randomized controlled trial.
+   - 来源：Nature communications｜类型：RCT｜分数：86
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42469213/
+   - 简述：Nature communications 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
 11. 心血管研究：Extended Dual Antiplatelet Therapy for Multivessel Coronary Artery Disease.
    - 来源：The New England journal of medicine｜类型：RCT｜分数：86
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42456136/
@@ -57,22 +57,22 @@
    - 来源：Nature medicine｜类型：RCT｜分数：83
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42463852/
    - 简述：Nature medicine 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
-13. 免疫/炎症研究：GPC3-specific dnTGFβRII-armoured CAR T cells for hepatocellular carcinoma.
-   - 来源：Nature｜类型：Clinical trial｜分数：71
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42457964/
-   - 简述：Nature 发布的免疫/炎症相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-14. 肿瘤/血液肿瘤研究：CenSegNet: a generalist high-throughput deep learning framework for centrosome phenotyping at spatial and single-cell resolution in heterogeneous tissues.
-   - 来源：Nature communications｜类型：Translational research｜分数：70
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42457714/
-   - 简述：Nature communications 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
-15. 感染/疫苗研究：Safety, pharmacokinetics, and antimalarial efficacy of single-dose cabamiquine-pyronaridine combination therapy for the treatment of adults and adolescents with acute uncomplicated Plasmodium falciparum malaria (CAPTURE 1): a prospective, multicentre, open-label, phase 2a study.
+13. 感染/疫苗研究：Safety, pharmacokinetics, and antimalarial efficacy of single-dose cabamiquine-pyronaridine combination therapy for the treatment of adults and adolescents with acute uncomplicated Plasmodium falciparum malaria (CAPTURE 1): a prospective, multicentre, open-label, phase 2a study.
    - 来源：The Lancet. Infectious diseases｜类型：Phase 2 trial｜分数：65
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42462745/
    - 简述：The Lancet. Infectious diseases 发布的感染/疫苗相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
-16. 综合医学研究：Author Correction: Integrated community-based HIV and sexual and reproductive health services for youth: a cluster-randomized trial.
+14. 综合医学研究：Meta-analytic evidence for distinct neural correlates of conditioned versus verbally induced placebo analgesia.
+   - 来源：Nature communications｜类型：Meta-analysis｜分数：64
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42469238/
+   - 简述：Nature communications 发布的综合医学相关Meta-analysis，值得关注其研究设计、核心发现和转化边界。
+15. 综合医学研究：Author Correction: Integrated community-based HIV and sexual and reproductive health services for youth: a cluster-randomized trial.
    - 来源：Nature medicine｜类型：RCT｜分数：64
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42463854/
    - 简述：Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+16. 医疗AI/数字医学研究：Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting.
+   - 来源：Nature communications｜类型：Original research｜分数：62
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42469206/
+   - 简述：Nature communications 发布的医疗AI/数字医学相关Original research，值得关注其研究设计、核心发现和转化边界。
 17. 公共卫生/流行病学研究：Saxiphilin functions as a toxin sponge protein that counteracts the effects of saxitoxin poisoning.
    - 来源：Nature communications｜类型：Translational research｜分数：62
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42463655/

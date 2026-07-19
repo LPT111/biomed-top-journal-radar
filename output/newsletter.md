@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-07-18 09:03:44
+# 医学科学新闻推文候选草稿｜2026-07-19 09:09:10
 
 ## 1. 留台联总举办健康管理讲座 郑博文分享预防医学 - 中國報 China Press
 
@@ -27,63 +27,9 @@ Google News CN｜Tue, 14 Jul 2026 17:09:51 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 2. 上海仁济医院：首款实体瘤 CAR-T 疗法落地 - ByDrug
+## 2. 佰炼医药工程化外泌体平台成功实现 in vivo CAR-T 递送 - 搜狐网
 
-【医学科学新闻】上海仁济医院：首款实体瘤 CAR-T 疗法落地 - ByDrug
-
-一、为什么重要
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Tue, 14 Jul 2026 06:21:00 GMT｜https://news.google.com/rss/articles/CBMifkFVX3lxTE1xVVAxakRJRU5JakRvMEVEQlJHTGR0cjFPYWNJVVU0a0VyS25JQmR4MWpMZWc2ek5FUFI2RUNNUk11Q1B5Q3dxaWJOWUZIRG8tYjlzTnJLblpvdXhCaWpsTzUtQnQwY2x3U1hMWW1qZ0FMM1haZnNzaE9nU0tmZw?oc=5
-
----
-
-## 3. 乐福思健康与同济医学院生殖健康研究所开启合作，聚焦早孕关爱，深化医研协同，共筑优生优育健康屏障 - yemacaijing.com
-
-【医学科学新闻】乐福思健康与同济医学院生殖健康研究所开启合作，聚焦早孕关爱，深化医研协同，共筑优生优育健康屏障 - yemacaijing.com
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Mon, 13 Jul 2026 00:57:26 GMT｜https://news.google.com/rss/articles/CBMiYkFVX3lxTE92SndPR0MwM2hpZFFHVURQcXJDajJRNGxKamNRb04wc1VqMWhHOUItV0VPU0w3N2lzVEtlRUpXLThtU3QwNTFERjRhUDVxYkZDYkR6eWhteHVWa3NDS1NCeHdR?oc=5
-
----
-
-## 4. “装甲”CAR-T登顶Nature：晚期肝癌中位生存期达14.2个月 - ByDrug
-
-【医学科学新闻】“装甲”CAR-T登顶Nature：晚期肝癌中位生存期达14.2个月 - ByDrug
+【医学科学新闻】佰炼医药工程化外泌体平台成功实现 in vivo CAR-T 递送 - 搜狐网
 
 一、为什么重要
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -104,16 +50,43 @@ Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Fri, 17 Jul 2026 06:40:00 GMT｜https://news.google.com/rss/articles/CBMifkFVX3lxTE5lQWRBSmYwclhjc0hLX1lEcGJIUlJnZGxPNVF6Y3g4Z2lkcTVrZElkNzIwZ1c0YTBMbXN6LUxWenRYV0JtZU9rdzhrekh5WE1heWJBbzU0OFNVdmJPNHptQllLYXpVcHJZdTFzTl85cWdNVThtQ2c5dlZuTC0zdw?oc=5
+Google News CN｜Thu, 16 Jul 2026 23:20:00 GMT｜https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2pmQzFRNVdtTTRDVzNHOXphUlp5OTdoR054Q2Fad2lsRDhaRERrSVNPVElyOTJCeEp4N0syRXFpTldnWFhrdGZHTUYzenR6eEQ4Z1FnVjlsbGY2eDNiOHZMcnZuR1dJeUZtN1FrMXJ5MTF5TDdHOXJ6VjhTZUwtbGhRRGlTTG9kdGxTTA?oc=5
 
 ---
 
-## 5. 湘雅二医院牵头建设西藏首个国家糖尿病标准化防控分中心 - 凤凰网
+## 3. 聚焦两款国产ADC：翰森制药新药肺癌3期临床成功，打破传统疗法天花板；百利天恒针对乳腺癌发起头对头研究，挑战第一三共｜掘金创新药 - QQ News
 
-【医学科学新闻】湘雅二医院牵头建设西藏首个国家糖尿病标准化防控分中心 - 凤凰网
+【医学科学新闻】聚焦两款国产ADC：翰森制药新药肺癌3期临床成功，打破传统疗法天花板；百利天恒针对乳腺癌发起头对头研究，挑战第一三共｜掘金创新药 - QQ News
 
 一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Thu, 16 Jul 2026 04:28:00 GMT｜https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kbDdNZGZVZ2piWVVZaE5relFoUXZHY1c0T3pVX0dWSDBlaXc4YjBuLVlRVkdLUEM0Rkt1eVFSbVp0VFpwb3NSYkltZ2FWYkx4c25IOFZR?oc=5
+
+---
+
+## 4. 国家卫健委：加强外文期刊撤稿论文主动监测
+
+【医学科学新闻】国家卫健委：加强外文期刊撤稿论文主动监测
+
+一、为什么重要
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -131,7 +104,34 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Wed, 15 Jul 2026 20:23:32 GMT｜https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ialF5Y3hEWVVvQmZ5TzFZeFpraHBWTGhSQkFmbTF0SkRLVlVnYzl5MDllN0pXVVQtWW1YbDBLQy1uM08wNjNDWg?oc=5
+Bing News CN｜Sat, 28 Feb 2026 09:02:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5c23b9c5234819a8affb7fdcdd4571&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103063526.html&c=6908917026610984632&mkt=en-us
+
+---
+
+## 5. 【Nature子刊】CAR-T 细胞疗法的发展、现状与未来展望-MedSci.cn - 梅斯医学 MedSci
+
+【医学科学新闻】【Nature子刊】CAR-T 细胞疗法的发展、现状与未来展望-MedSci.cn - 梅斯医学 MedSci
+
+一、为什么重要
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Sat, 18 Jul 2026 02:34:07 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTE42QTNxdWFOOElfZVNsakpwVmladnFCdzI5YWUzVFBwU0xDSk9vMmV3RXQ3QVY0TDBpSUVYYzVDYWhQbUlpSkRTdVRDZmJoTmZDRV9IOU8wczh2d2ZSVFdWaXBSMXEzZEwzOXZBbXln?oc=5
 
 ---
 
@@ -243,15 +243,15 @@ JAMA oncology｜2026-Jul-16｜https://pubmed.ncbi.nlm.nih.gov/42461660/
 
 ---
 
-## 10. 肿瘤/血液肿瘤研究：Immunotherapy with a short-lived anti-PD-L1 antibody in Alzheimer's disease: a phase 1b, randomized, double-blind trial.
+## 10. 感染/疫苗研究：Renal resistive index-guided mean arterial pressure titration in sepsis: a prospective single-center, single-blind, parallel-group randomized controlled trial.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Immunotherapy with a short-lived anti-PD-L1 antibody in Alzheimer's disease: a phase 1b, randomized, double-blind trial.
+【医学科学新闻】感染/疫苗研究：Renal resistive index-guided mean arterial pressure titration in sepsis: a prospective single-center, single-blind, parallel-group randomized controlled trial.
 
 一、为什么重要
-Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature communications 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -266,7 +266,7 @@ Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature medicine｜2026-Jul-15｜https://pubmed.ncbi.nlm.nih.gov/42458012/
+Nature communications｜2026-Jul-17｜https://pubmed.ncbi.nlm.nih.gov/42469213/
 
 ---
 
@@ -324,61 +324,7 @@ Nature medicine｜2026-Jul-16｜https://pubmed.ncbi.nlm.nih.gov/42463852/
 
 ---
 
-## 13. 免疫/炎症研究：GPC3-specific dnTGFβRII-armoured CAR T cells for hepatocellular carcinoma.
-
-【医学科学新闻】免疫/炎症研究：GPC3-specific dnTGFβRII-armoured CAR T cells for hepatocellular carcinoma.
-
-一、为什么重要
-Nature 发布的免疫/炎症相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕免疫/炎症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature｜2026-Jul-15｜https://pubmed.ncbi.nlm.nih.gov/42457964/
-
----
-
-## 14. 肿瘤/血液肿瘤研究：CenSegNet: a generalist high-throughput deep learning framework for centrosome phenotyping at spatial and single-cell resolution in heterogeneous tissues.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：CenSegNet: a generalist high-throughput deep learning framework for centrosome phenotyping at spatial and single-cell resolution in heterogeneous tissues.
-
-一、为什么重要
-Nature communications 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature communications｜2026-Jul-15｜https://pubmed.ncbi.nlm.nih.gov/42457714/
-
----
-
-## 15. 感染/疫苗研究：Safety, pharmacokinetics, and antimalarial efficacy of single-dose cabamiquine-pyronaridine combination therapy for the treatment of adults and adolescents with acute uncomplicated Plasmodium falciparum malaria (CAPTURE 1): a prospective, multicentre, open-label, phase 2a study.
+## 13. 感染/疫苗研究：Safety, pharmacokinetics, and antimalarial efficacy of single-dose cabamiquine-pyronaridine combination therapy for the treatment of adults and adolescents with acute uncomplicated Plasmodium falciparum malaria (CAPTURE 1): a prospective, multicentre, open-label, phase 2a study.
 
 【医学科学新闻】感染/疫苗研究：Safety, pharmacokinetics, and antimalarial efficacy of single-dose cabamiquine-pyronaridine combination therapy for the treatment of adults and adolescents with acute uncomplicated Plasmodium falciparum malaria (CAPTURE 1): a prospective, multicentre, open-label, phase 2a study.
 
@@ -405,7 +351,34 @@ The Lancet. Infectious diseases｜2026-Jul-16｜https://pubmed.ncbi.nlm.nih.gov/
 
 ---
 
-## 16. 综合医学研究：Author Correction: Integrated community-based HIV and sexual and reproductive health services for youth: a cluster-randomized trial.
+## 14. 综合医学研究：Meta-analytic evidence for distinct neural correlates of conditioned versus verbally induced placebo analgesia.
+
+【医学科学新闻】综合医学研究：Meta-analytic evidence for distinct neural correlates of conditioned versus verbally induced placebo analgesia.
+
+一、为什么重要
+Nature communications 发布的综合医学相关Meta-analysis，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-Jul-17｜https://pubmed.ncbi.nlm.nih.gov/42469238/
+
+---
+
+## 15. 综合医学研究：Author Correction: Integrated community-based HIV and sexual and reproductive health services for youth: a cluster-randomized trial.
 
 【医学科学新闻】综合医学研究：Author Correction: Integrated community-based HIV and sexual and reproductive health services for youth: a cluster-randomized trial.
 
@@ -429,6 +402,33 @@ Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、�
 
 七、参考信息
 Nature medicine｜2026-Jul-16｜https://pubmed.ncbi.nlm.nih.gov/42463854/
+
+---
+
+## 16. 医疗AI/数字医学研究：Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting.
+
+【医学科学新闻】医疗AI/数字医学研究：Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting.
+
+一、为什么重要
+Nature communications 发布的医疗AI/数字医学相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕医疗AI/数字医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-Jul-17｜https://pubmed.ncbi.nlm.nih.gov/42469206/
 
 ---
 
