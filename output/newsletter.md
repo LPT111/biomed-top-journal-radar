@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-07-19 09:09:10
+# 医学科学新闻推文候选草稿｜2026-07-20 09:12:10
 
 ## 1. 留台联总举办健康管理讲座 郑博文分享预防医学 - 中國報 China Press
 
@@ -27,7 +27,34 @@ Google News CN｜Tue, 14 Jul 2026 17:09:51 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 2. 佰炼医药工程化外泌体平台成功实现 in vivo CAR-T 递送 - 搜狐网
+## 2. 数智化成《国民健康"十五五"规划》重要引擎！医疗AI、数据共享、脑机接口写入国家蓝图_医健资讯 - 大健康派
+
+【医学科学新闻】数智化成《国民健康"十五五"规划》重要引擎！医疗AI、数据共享、脑机接口写入国家蓝图_医健资讯 - 大健康派
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Wed, 15 Jul 2026 01:32:18 GMT｜https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGcDJ2OUVqekdCQlVvT0U2OHVMQUJLVjM3T25iS3ZtcDA1b1dfQU4tTUZiR2tXVFhKTGpKdjlaZjR4NmFWU2VkZnlQWVhEc1FId0hlcmNpRFBJeGQwSHZyYg?oc=5
+
+---
+
+## 3. 佰炼医药工程化外泌体平台成功实现 in vivo CAR-T 递送 - 搜狐网
 
 【医学科学新闻】佰炼医药工程化外泌体平台成功实现 in vivo CAR-T 递送 - 搜狐网
 
@@ -54,9 +81,9 @@ Google News CN｜Thu, 16 Jul 2026 23:20:00 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. 聚焦两款国产ADC：翰森制药新药肺癌3期临床成功，打破传统疗法天花板；百利天恒针对乳腺癌发起头对头研究，挑战第一三共｜掘金创新药 - QQ News
+## 4. 用于快速在床边或体内对CAR-T细胞进行编程的可注射生物导向微泡 - 生物通
 
-【医学科学新闻】聚焦两款国产ADC：翰森制药新药肺癌3期临床成功，打破传统疗法天花板；百利天恒针对乳腺癌发起头对头研究，挑战第一三共｜掘金创新药 - QQ News
+【医学科学新闻】用于快速在床边或体内对CAR-T细胞进行编程的可注射生物导向微泡 - 生物通
 
 一、为什么重要
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -77,34 +104,7 @@ Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Thu, 16 Jul 2026 04:28:00 GMT｜https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kbDdNZGZVZ2piWVVZaE5relFoUXZHY1c0T3pVX0dWSDBlaXc4YjBuLVlRVkdLUEM0Rkt1eVFSbVp0VFpwb3NSYkltZ2FWYkx4c25IOFZR?oc=5
-
----
-
-## 4. 国家卫健委：加强外文期刊撤稿论文主动监测
-
-【医学科学新闻】国家卫健委：加强外文期刊撤稿论文主动监测
-
-一、为什么重要
-Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Bing News CN｜Sat, 28 Feb 2026 09:02:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5c23b9c5234819a8affb7fdcdd4571&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103063526.html&c=6908917026610984632&mkt=en-us
+Google News CN｜Sun, 19 Jul 2026 18:45:49 GMT｜https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZmpUU3BGRTZ5RkFJUmVKNk14cDdhUGJNNjhFNVh6THVYMDQ2cUtaZjNqVmNlZkEzZG5qSVkyejBRWlBsNFJDTk5QZUc3N29ZZEFIVHZxc19fQXpVdWJ5Vl91UktiS0JNeXdlWA?oc=5
 
 ---
 
@@ -405,7 +405,34 @@ Nature medicine｜2026-Jul-16｜https://pubmed.ncbi.nlm.nih.gov/42463854/
 
 ---
 
-## 16. 医疗AI/数字医学研究：Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting.
+## 16. 神经科学/神经疾病研究：Frequency-dependent effects of motor thalamus deep brain stimulation on speech and swallowing.
+
+【医学科学新闻】神经科学/神经疾病研究：Frequency-dependent effects of motor thalamus deep brain stimulation on speech and swallowing.
+
+一、为什么重要
+Nature communications 发布的神经科学/神经疾病相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-Jul-18｜https://pubmed.ncbi.nlm.nih.gov/42471326/
+
+---
+
+## 17. 医疗AI/数字医学研究：Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting.
 
 【医学科学新闻】医疗AI/数字医学研究：Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting.
 
@@ -432,7 +459,7 @@ Nature communications｜2026-Jul-17｜https://pubmed.ncbi.nlm.nih.gov/42469206/
 
 ---
 
-## 17. 公共卫生/流行病学研究：Saxiphilin functions as a toxin sponge protein that counteracts the effects of saxitoxin poisoning.
+## 18. 公共卫生/流行病学研究：Saxiphilin functions as a toxin sponge protein that counteracts the effects of saxitoxin poisoning.
 
 【医学科学新闻】公共卫生/流行病学研究：Saxiphilin functions as a toxin sponge protein that counteracts the effects of saxitoxin poisoning.
 
@@ -459,7 +486,7 @@ Nature communications｜2026-Jul-16｜https://pubmed.ncbi.nlm.nih.gov/42463655/
 
 ---
 
-## 18. 肿瘤/血液肿瘤研究：PD-1 blockade unleashes local hepatitis B virus-related B cell response inhibiting hepatocellular carcinoma.
+## 19. 肿瘤/血液肿瘤研究：PD-1 blockade unleashes local hepatitis B virus-related B cell response inhibiting hepatocellular carcinoma.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：PD-1 blockade unleashes local hepatitis B virus-related B cell response inhibiting hepatocellular carcinoma.
 
@@ -486,7 +513,7 @@ Cancer cell｜2026-Jul-16｜https://pubmed.ncbi.nlm.nih.gov/42462708/
 
 ---
 
-## 19. 公共卫生/流行病学研究：Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed.
+## 20. 公共卫生/流行病学研究：Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed.
 
 【医学科学新闻】公共卫生/流行病学研究：Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed.
 
@@ -510,32 +537,5 @@ Science (New York, N.Y.) 发布的公共卫生/流行病学相关Translational r
 
 七、参考信息
 Science (New York, N.Y.)｜2026-Jul-16｜https://pubmed.ncbi.nlm.nih.gov/42462027/
-
----
-
-## 20. 免疫/炎症研究：High numerical aperture confocal volumetric mesoscope reveals mesoscale subcellular dynamics in vivo.
-
-【医学科学新闻】免疫/炎症研究：High numerical aperture confocal volumetric mesoscope reveals mesoscale subcellular dynamics in vivo.
-
-一、为什么重要
-Nature biotechnology 发布的免疫/炎症相关Translational research，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕免疫/炎症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature biotechnology｜2026-Jul-15｜https://pubmed.ncbi.nlm.nih.gov/42458054/
 
 ---

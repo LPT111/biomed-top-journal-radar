@@ -57,28 +57,28 @@ METHODS: This two-part, multicentre, open-label, phase 2a study (CAPTURE 1) enro
    - 时间：2026-Jul-16
    - 摘要：这条内容聚焦综合医学。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42463854/
-11. 医疗AI/数字医学研究：Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting.
+11. 神经科学/神经疾病研究：Frequency-dependent effects of motor thalamus deep brain stimulation on speech and swallowing.
+   - 来源：Nature communications
+   - 时间：2026-Jul-18
+   - 摘要：这条内容聚焦神经科学/神经疾病。来源为Nature communications，类型初步识别为Original research。摘要信息显示：Speech and swallowing are complex motor sequences driven by cortico-bulbar communication between motor cortex and cranial muscles. Damage to these pathways impairs strength and control of orofacial muscles, causing chronic dysarthria and dysphagia that increase social isolation, aspiration risks, and mortality. We show that motor thalamus Deep Brain Stimulation (DBS) can improve these functions after traumatic brain injury (TBI). First, we demonstrated that low-frequency DBS (50-80 Hz) facilitates activation of cor... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42471326/
+12. 医疗AI/数字医学研究：Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting.
    - 来源：Nature communications
    - 时间：2026-Jul-17
    - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature communications，类型初步识别为Original research。摘要信息显示：Esophagogastroduodenoscopy (EGD) is an essential clinical procedure for diagnosing gastrointestinal (GI) diseases, while the subsequent EGD reports play a vital role in clinical decision-making and therapeutic interventions. This paper makes the first attempt to bootstrap Multimodal Large Language Models (MLLM) with medical knowledge for EGD diagnosis and reporting (EDR). We collected the largest multicentric EGD dataset so far, containing 4461 participants with 203,838 EGD images and 4461 corresponding EGD reports... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42469206/
-12. 公共卫生/流行病学研究：Saxiphilin functions as a toxin sponge protein that counteracts the effects of saxitoxin poisoning.
+13. 公共卫生/流行病学研究：Saxiphilin functions as a toxin sponge protein that counteracts the effects of saxitoxin poisoning.
    - 来源：Nature communications
    - 时间：2026-Jul-16
    - 摘要：这条内容聚焦公共卫生/流行病学。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Saxitoxin (STX) is among the most potent toxins known, is classified as a chemical weapon, and is the archetype of the paralytic shellfish toxin (PST) family produced by marine and freshwater harmful algal blooms (HAB). STX causes paralysis and death through inhibition of voltage-gated sodium channels (NaVs), has no antidote, and poses a public health and commercial fishing threat due to its accumulation in seafood and increasing HAB occurrences. Although STX is lethal to varied vertebrates, including humans, certa... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42463655/
-13. 肿瘤/血液肿瘤研究：PD-1 blockade unleashes local hepatitis B virus-related B cell response inhibiting hepatocellular carcinoma.
+14. 肿瘤/血液肿瘤研究：PD-1 blockade unleashes local hepatitis B virus-related B cell response inhibiting hepatocellular carcinoma.
    - 来源：Cancer cell
    - 时间：2026-Jul-16
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cancer cell，类型初步识别为Phase 2 trial。摘要信息显示：The prevailing notion is that effector T cell activation mediates anti-PD-1 efficacy in cancer. Here, we conducted a mechanistic study parallel to our phase 2 trial of perioperative anti-PD-1 therapy in patients with resectable recurrent hepatocellular carcinoma (HCC) (NCT04615143) to study its mechanism of action. Late-recurrence patients present two distinct subtypes characterized by T cell or B cell dominant responses in the tumor microenvironment by dynamic single-cell multi-omics analysis. Clonal antibody repe... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42462708/
-14. 公共卫生/流行病学研究：Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed.
+15. 公共卫生/流行病学研究：Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed.
    - 来源：Science (New York, N.Y.)
    - 时间：2026-Jul-16
    - 摘要：这条内容聚焦公共卫生/流行病学。来源为Science (New York, N.Y.)，类型初步识别为Translational research。摘要信息显示：Most genetic variants associated with complex traits are hypothesized to regulate gene expression. To understand the genetics underlying gene expression variability, we characterized 14,324 RNA-sequencing samples from the Trans-Omics for Precision Medicine program and performed expression and splicing quantitative trait locus (e/sQTL) analyses in six tissues and cell types, including whole blood (n = 6454) and lung (n = 1291). We detected tens of thousands of secondary cis-e/sQTLs, showing that secondary cis-e/sQTL... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42462027/
-15. 免疫/炎症研究：High numerical aperture confocal volumetric mesoscope reveals mesoscale subcellular dynamics in vivo.
-   - 来源：Nature biotechnology
-   - 时间：2026-Jul-15
-   - 摘要：这条内容聚焦免疫/炎症。来源为Nature biotechnology，类型初步识别为Translational research。摘要信息显示：Simultaneously capturing subcellular dynamics across thousands of cells in mammals remains challenging because of trade-offs among spatial resolution, field of view, imaging speed and sample viability, particularly under high-NA (numerical aperture) conditions. Here we design a high-NA mesoscale objective lens and present a confocal volumetric mesoscope with an NA of 1.05, RUSH3D-HR, achieving ~390-nm resolution across a volume of 2.7 × 2.0 × 0.04 mm3 at five volumes per second with low phototoxicity. By integratin... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42458054/
