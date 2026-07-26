@@ -23,30 +23,29 @@ DESIGN, SETTING, AND PARTICIPANTS: This nonrandomized, phase 1 clinical trial wa
    - 摘要：这条内容聚焦公共卫生/流行病学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: No vaccines are currently licensed for the prevention of Neisseria gonorrhoeae infection. Observational studies suggest that the four-component meningococcal serogroup B vaccine (4CMenB) may reduce the risk of gonorrhea.
 METHODS: In this multicenter, double-blind, randomized, placebo-controlled trial, we assigned, in a 1:1 ratio, men who have sex with men (MSM) to receive two doses of 4CMenB or placebo. All the participants had recently received a diagnosis of N. gonorrhoeae infection or infectious syph... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42418797/
-5. 感染/疫苗研究：Efficacy, safety, and acceptability of a child-friendly, chewable formulation of oxantel pamoate versus mebendazole for Trichuris spp infections in children aged 2-12 years in Tanzania: a randomised, single-blind, phase 2 trial.
-   - 来源：The Lancet. Infectious diseases
-   - 时间：2026-Jul-22
-   - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Trichuriasis, caused by the nematodes Trichuris trichiura and Trichuris incognita, affects an estimated 267 million people worldwide, particularly children. Currently available treatments (albendazole and mebendazole) fail to achieve sufficient cure rates. Oxantel pamoate is a drug known for its trichuricidal activity. In this study, we aimed to assess whether a newly developed, child-friendly oxantel pamoate formulation is superior to mebendazole, one of WHO's recommended treatments for trichuriasis.
-M... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42486129/
-6. 肿瘤/血液肿瘤研究：Enfortumab Vedotin and Pembrolizumab in Cisplatin-Eligible Bladder Cancer.
+5. 肿瘤/血液肿瘤研究：Enfortumab Vedotin and Pembrolizumab in Cisplatin-Eligible Bladder Cancer.
    - 来源：The New England journal of medicine
    - 时间：2026-Jul-23
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Neoadjuvant cisplatin-based chemotherapy is a standard therapy for muscle-invasive bladder cancer. The efficacy and safety of neoadjuvant and adjuvant (perioperative) enfortumab vedotin-pembrolizumab as compared with neoadjuvant cisplatin-based chemotherapy in persons with this cancer are unclear.
 METHODS: We conducted a phase 3, open-label, randomized trial involving adults with muscle-invasive bladder cancer eligible for cisplatin-based chemotherapy and radical cystectomy with pelvic lymph-node dissec... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42485627/
-7. 肿瘤/血液肿瘤研究：Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer.
+6. 肿瘤/血液肿瘤研究：Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer.
    - 来源：The New England journal of medicine
    - 时间：2026-Jul-23
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Current therapies offer limited benefit for patients with previously treated metastatic pancreatic ductal adenocarcinoma (mPDAC). Aberrant activation of the RAS pathway is the key driver of PDAC, with oncogenic RAS mutations present in more than 90% of cases. Daraxonrasib is an oral RAS(ON) multiselective, tri-complex inhibitor of the active guanosine triphosphate-bound state of mutant and wild-type RAS.
 METHODS: In this phase 3, international, open-label, randomized trial, we randomly assigned patients... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42223072/
-8. 重症医学/急危重症研究：Mavacamten in Adolescents with Obstructive Hypertrophic Cardiomyopathy.
+7. 重症医学/急危重症研究：Mavacamten in Adolescents with Obstructive Hypertrophic Cardiomyopathy.
    - 来源：The New England journal of medicine
    - 时间：2026-Jul-23
    - 摘要：这条内容聚焦重症医学/急危重症。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Approved pharmacologic therapies for pediatric hypertrophic cardiomyopathy are lacking, and surgical intervention may be indicated in patients with left ventricular outflow tract obstruction. The efficacy and safety of mavacamten, a cardiac myosin inhibitor that is available for adults, warrant evaluation in adolescents.
 METHODS: We conducted a phase 3, double-blind, randomized, placebo-controlled trial involving symptomatic adolescents (12 to <18 years of age) with New York Heart Association class II o... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/41910394/
+8. 医疗AI/数字医学研究：AI-based clinician decision support system for diagnosis of inherited retinal diseases: a multicenter, randomized trial.
+   - 来源：Nature medicine
+   - 时间：2026-Jul-24
+   - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：The accurate and timely diagnosis of inherited retinal diseases (IRDs) represents an unmet clinical need in ophthalmology, as the current pathways rely on resource-intensive phenotyping, multidisciplinary expertise and genetic testing. Here we developed Retina4IRD, an artificial intelligence (AI)-based clinician decision support system (CDSS) that predicts 17 genotype categories from retina images. Retina4IRD uses a Vision Transformer model pretrained with RETFound. We then trained and validated Retina4IRD using mu... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42498742/
 9. 重症医学/急危重症研究：Safe Sleep Video Intervention via Text Messaging to Low-Income Families: The SMARTER Randomized Clinical Trial.
    - 来源：JAMA
    - 时间：2026-Jul-23
@@ -69,18 +68,18 @@ DESIGN, SETTING, AND PARTICIPANTS: Unblinded 4-group randomized clinical trial o
    - 时间：2026-Jul-23
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：The development of effective treatment strategies for human immunodeficiency virus (HIV) infection is a major achievement. Antiretroviral drugs inhibit key steps in the viral replication cycle and consist of six mechanistic classes: HIV entry inhibitors, reverse-transcriptase inhibitors (both nucleosides and nonnucleosides), capsid inhibitors, integrase inhibitors, and protease inhibitors. Antiretroviral therapy (ART) suppresses viral replication, thereby enhancing immune function, decreasing morbidity and mortalit... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42485628/
-13. 肿瘤/血液肿瘤研究：Microbial engraftment and immune regulation during fecal microbiota transplantation and immune checkpoint inhibitor therapy.
+13. 代谢/肥胖/糖尿病研究：Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study.
+   - 来源：Nature medicine
+   - 时间：2026-Jul-24
+   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Nature medicine，类型初步识别为Translational research。摘要信息显示：There is a need for robust evaluations of noninvasive biomarkers for metabolic dysfunction-associated steatotic liver disease. This prospective multicenter study assessed the diagnostic accuracy of imaging (including liver stiffness measurement (LSM) using magnetic resonance elastography (MRE) and FibroScan (vibration-controlled transient elastography (VCTE)), serum biomarkers (including NIS2+) and composite scores (including Agile 3+ and Agile 4) for centrally read steatohepatitis and fibrosis. For cirrhosis, seve... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42498741/
+14. 肿瘤/血液肿瘤研究：Microbial engraftment and immune regulation during fecal microbiota transplantation and immune checkpoint inhibitor therapy.
    - 来源：Nature communications
    - 时间：2026-Jul-23
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Clinical trial。摘要信息显示：The gut microbiota is a critical determinant of both therapeutic efficacy and immune-related toxicity during cancer immunotherapy with immune checkpoint inhibitors (ICIs). Fecal microbiota transplantation (FMT) has emerged as a strategy to introduce beneficial microbial functions, yet clinical outcomes remain variable. In this Review, we integrate evidence from recent clinical trials combining FMT with ICIs in a mechanism-based framework for understanding this variability and to guide safer clinical applications. W... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42493518/
-14. 医疗AI/数字医学研究：CLEAR: an auditable foundation model for radiology grounded in clinical concepts.
+15. 医疗AI/数字医学研究：CLEAR: an auditable foundation model for radiology grounded in clinical concepts.
    - 来源：Nature biomedical engineering
    - 时间：2026-Jul-22
    - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature biomedical engineering，类型初步识别为Original research。摘要信息显示：'Black box' deep learning models for medical image interpretation limit clinical trust and analysis of performance degradation. Here we introduce Concept-Level Embeddings for Auditable Radiology (CLEAR), an auditable foundation model based on clinical concepts. Trained on over 0.87 million image-report pairs from 239,391 patients, CLEAR learns a visual representation and projects chest X-rays into a semantically rich space defined by large language model embeddings, making every prediction decomposable into weighte... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42486902/
-15. 综合医学研究：AI-based clinician decision support system for diagnosis of inherited retinal diseases: a multicenter, randomized trial
-   - 来源：Nature Medicine
-   - 时间：2026-07-24
-   - 摘要：这条内容聚焦综合医学。来源为Nature Medicine，类型初步识别为RCT。摘要信息显示：<p>Nature Medicine, Published online: 24 July 2026; <a href="https://www.nature.com/articles/s41591-026-04545-w">doi:10.1038/s41591-026-04545-w</a></p>Retina4IRD, an AI-based clinician decision support system, enhances inherited retinal disease diagnosis through multimodal imaging and clinical data integration, achieving 88.5% accuracy in a randomized clinical trial. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.nature.com/articles/s41591-026-04545-w
