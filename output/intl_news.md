@@ -68,18 +68,20 @@ DESIGN, SETTING, AND PARTICIPANTS: Unblinded 4-group randomized clinical trial o
    - 时间：2026-Jul-23
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：The development of effective treatment strategies for human immunodeficiency virus (HIV) infection is a major achievement. Antiretroviral drugs inhibit key steps in the viral replication cycle and consist of six mechanistic classes: HIV entry inhibitors, reverse-transcriptase inhibitors (both nucleosides and nonnucleosides), capsid inhibitors, integrase inhibitors, and protease inhibitors. Antiretroviral therapy (ART) suppresses viral replication, thereby enhancing immune function, decreasing morbidity and mortalit... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42485628/
-13. 代谢/肥胖/糖尿病研究：Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study.
+13. 综合医学研究：In-person therapist-delivered hypnotherapy versus smartphone-based self-guided hypnotherapy in IBS: a multicentre three-armed randomised controlled trial.
+   - 来源：Gut
+   - 时间：2026-Jul-25
+   - 摘要：这条内容聚焦综合医学。来源为Gut，类型初步识别为RCT。摘要信息显示：BACKGROUND: Hypnotherapy is an evidence-based therapy recommended for IBS, but access to therapist-led hypnotherapy is limited by costs and availability.
+OBJECTIVE: We studied the effectiveness of smartphone-based self-guided hypnotherapy versus in-person therapist-delivered hypnotherapy.
+DESIGN: This multicentre, three-armed non-inferiority randomised controlled trial (RCT) included patients with IBS (Rome IV, 16-75 years). Patients were randomised to 12-week in-person therapist-delivered hypnotherapy, smartphone-... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42502003/
+14. 代谢/肥胖/糖尿病研究：Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study.
    - 来源：Nature medicine
    - 时间：2026-Jul-24
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Nature medicine，类型初步识别为Translational research。摘要信息显示：There is a need for robust evaluations of noninvasive biomarkers for metabolic dysfunction-associated steatotic liver disease. This prospective multicenter study assessed the diagnostic accuracy of imaging (including liver stiffness measurement (LSM) using magnetic resonance elastography (MRE) and FibroScan (vibration-controlled transient elastography (VCTE)), serum biomarkers (including NIS2+) and composite scores (including Agile 3+ and Agile 4) for centrally read steatohepatitis and fibrosis. For cirrhosis, seve... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42498741/
-14. 肿瘤/血液肿瘤研究：Microbial engraftment and immune regulation during fecal microbiota transplantation and immune checkpoint inhibitor therapy.
+15. 肿瘤/血液肿瘤研究：Microbial engraftment and immune regulation during fecal microbiota transplantation and immune checkpoint inhibitor therapy.
    - 来源：Nature communications
    - 时间：2026-Jul-23
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Clinical trial。摘要信息显示：The gut microbiota is a critical determinant of both therapeutic efficacy and immune-related toxicity during cancer immunotherapy with immune checkpoint inhibitors (ICIs). Fecal microbiota transplantation (FMT) has emerged as a strategy to introduce beneficial microbial functions, yet clinical outcomes remain variable. In this Review, we integrate evidence from recent clinical trials combining FMT with ICIs in a mechanism-based framework for understanding this variability and to guide safer clinical applications. W... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42493518/
-15. 医疗AI/数字医学研究：CLEAR: an auditable foundation model for radiology grounded in clinical concepts.
-   - 来源：Nature biomedical engineering
-   - 时间：2026-Jul-22
-   - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature biomedical engineering，类型初步识别为Original research。摘要信息显示：'Black box' deep learning models for medical image interpretation limit clinical trust and analysis of performance degradation. Here we introduce Concept-Level Embeddings for Auditable Radiology (CLEAR), an auditable foundation model based on clinical concepts. Trained on over 0.87 million image-report pairs from 239,391 patients, CLEAR learns a visual representation and projects chest X-rays into a semantically rich space defined by large language model embeddings, making every prediction decomposable into weighte... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42486902/

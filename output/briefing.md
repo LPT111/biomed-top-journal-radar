@@ -1,39 +1,46 @@
-# 全医学科学新闻雷达｜2026-07-26 09:14:15
+# 全医学科学新闻雷达｜2026-07-27 09:16:53
 
 - 今日新闻：20 条
-- 中文来源：5 条
-- 国际来源：15 条
-- 顶刊论文：15 条
-- RCT/临床试验：13 条
+- 中文来源：0 条
+- 国际来源：20 条
+- 顶刊论文：18 条
+- RCT/临床试验：17 条
 
+> Google News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> Google News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> Google News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> Google News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> Google News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS The Lancet: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS Cell: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-> biorxiv: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=25)"))
+> 中文来源不足，已由国际来源补位。
 ## 今日 20 条
-1. 海尔生物亮相CPIC！服务大国新药，以AI提速IND - 同花顺
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NTTFzX211UUdPNTlnNW1rODNPdE9uNmxDWjNJQUV3YWxWZThtaFR3ZHVlUHFnMXN3SHloWGlzN2FDakVCUzFCSHJBSENwTVZGdl8tZ3ZfU1V1aTdZYWNPeW9B?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-2. “AI赋能四大慢病防治管理新范式研究”项目启动会举行 - 手机网易网
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVXI5c1dGc3k5OTAzZ09VTXlnR2NwR3FYM1RqWVJ0QlVhdEJyWnk1clhYdlJ1Mjc1YUhoLWxOYXdtQ05kd25RV3RKcFVISXYyVjZJZzZLSHU0dWFWSEY2R1Rn?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-3. 上海双雄终极对决：瑞金医院VS中山医院，到底谁才是真正的第一 - 手机网易网
-   - 来源：Google News CN｜类型：Medical news｜分数：21
-   - 链接：https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VdXRkc0ExdEVwcS1LWFV4emE2N0prazNpVU5MZUN0RW9HNnpSbEprdEl5Rkwyc1dUQzZ3Wm50Wk5HcGVHZ1Q1MUxSQzBDdXdNbm9yRXI4Z245Nm9Ha09fNHh3?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-4. 综述：放射治疗与三级淋巴结构：在癌症免疫治疗中平衡免疫激活与免疫损伤 - 生物通
-   - 来源：Google News CN｜类型：Medical news｜分数：21
-   - 链接：https://news.google.com/rss/articles/CBMibEFVX3lxTFB2aGFwX0RNM1NnWE5DWFoyMGNYWHBSdE5kRjlmZm1MOGNkajJnZVR0WDZ0aGEyeER5UjZnTG9DSnVMZUNNOXI4Q0w1QnBDNnNENmxDUzduVTVZanhqajVFWEQ5TVZOTVNkRXNlSA?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. 2026年中国体外诊断产业链图谱及投资布局分析 - 手机网易网
-   - 来源：Google News CN｜类型：Medical news｜分数：21
-   - 链接：https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPS3p3WE44Nkg2NENQbTZrWDg4VXhlZGMzMktGOVhTeUNtc0ptZHhIclJ1U3dFdDczVDRBdGJUNE82U0p3YkJkcEthei1UWnpoS1N6Q0szdjFEbnJyc2llS0N3?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+1. 综合医学研究：AI-based clinician decision support system for diagnosis of inherited retinal diseases: a multicenter, randomized trial
+   - 来源：Nature Medicine｜类型：RCT｜分数：68
+   - 链接：https://www.nature.com/articles/s41591-026-04545-w
+   - 简述：Nature Medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+2. 感染/疫苗研究：JN.1-adapted vaccination is associated with readjustment of ancestral memory B cells toward neutralization within the JN.1 antigenic space.
+   - 来源：Nature communications｜类型：Translational research｜分数：62
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42498786/
+   - 简述：Nature communications 发布的感染/疫苗相关Translational research，值得关注其研究设计、核心发现和转化边界。
+3. 神经科学/神经疾病研究：Arc mediates intercellular tau transmission via extracellular vesicles.
+   - 来源：Cell｜类型：Translational research｜分数：62
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42372723/
+   - 简述：Cell 发布的神经科学/神经疾病相关Translational research，值得关注其研究设计、核心发现和转化边界。
+4. 综合医学研究：Povorcitinib for hidradenitis suppurativa: the randomized, double-blind, placebo-controlled STOP-HS1 and STOP-HS2 phase 3 trials
+   - 来源：Nature Medicine｜类型：RCT｜分数：62
+   - 链接：https://www.nature.com/articles/s41591-026-04534-z
+   - 简述：Nature Medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+5. 综合医学研究：Ustekinumab for fistulising perianal Crohn's disease: a randomised placebo-controlled trial from the GETAID.
+   - 来源：Gut｜类型：RCT｜分数：60
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42498622/
+   - 简述：Gut 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 6. 综合医学研究：Povorcitinib for hidradenitis suppurativa: the randomized, double-blind, placebo-controlled STOP-HS1 and STOP-HS2 phase 3 trials.
    - 来源：Nature medicine｜类型：RCT｜分数：96
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42493571/
@@ -82,15 +89,15 @@
    - 来源：The New England journal of medicine｜类型：RCT｜分数：72
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42485628/
    - 简述：The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-18. 代谢/肥胖/糖尿病研究：Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study.
+18. 综合医学研究：In-person therapist-delivered hypnotherapy versus smartphone-based self-guided hypnotherapy in IBS: a multicentre three-armed randomised controlled trial.
+   - 来源：Gut｜类型：RCT｜分数：68
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42502003/
+   - 简述：Gut 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+19. 代谢/肥胖/糖尿病研究：Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study.
    - 来源：Nature medicine｜类型：Translational research｜分数：68
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42498741/
    - 简述：Nature medicine 发布的代谢/肥胖/糖尿病相关Translational research，值得关注其研究设计、核心发现和转化边界。
-19. 肿瘤/血液肿瘤研究：Microbial engraftment and immune regulation during fecal microbiota transplantation and immune checkpoint inhibitor therapy.
+20. 肿瘤/血液肿瘤研究：Microbial engraftment and immune regulation during fecal microbiota transplantation and immune checkpoint inhibitor therapy.
    - 来源：Nature communications｜类型：Clinical trial｜分数：68
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42493518/
    - 简述：Nature communications 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-20. 医疗AI/数字医学研究：CLEAR: an auditable foundation model for radiology grounded in clinical concepts.
-   - 来源：Nature biomedical engineering｜类型：Original research｜分数：68
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42486902/
-   - 简述：Nature biomedical engineering 发布的医疗AI/数字医学相关Original research，值得关注其研究设计、核心发现和转化边界。
