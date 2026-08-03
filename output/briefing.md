@@ -1,4 +1,4 @@
-# 全医学科学新闻雷达｜2026-08-02 09:13:15
+# 全医学科学新闻雷达｜2026-08-03 09:13:25
 
 - 今日新闻：20 条
 - 中文来源：5 条
@@ -6,6 +6,10 @@
 - 顶刊论文：15 条
 - RCT/临床试验：15 条
 
+> Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 ## 今日 20 条
@@ -13,22 +17,22 @@
    - 来源：Google News CN｜类型：Medical news｜分数：27
    - 链接：https://news.google.com/rss/articles/CBMib0FVX3lxTE03RndQekFfU1ZFZnRuS1VYWkhtRmU1aTRfSldNMnB3WkRoMTZ6RUc4WjJyZkFkQ01lMVlDYk1BYVNONWdGeHVrNmV4VjVZV2dELXBIS0E5aHZOUl96Z0tiS3ZCdjN1Ri12M3ZCZWktSQ?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-2. 这支团队如何用 AI撬动新药研发未来？ - 四川日报
+2. 英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
+   - 来源：Bing News CN｜类型：Medical news｜分数：26
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6feb36c4844409b7817ccbd98f443d&url=https%3a%2f%2fwww.36kr.com%2fp%2f2956420971755648&c=1064439207480232078&mkt=en-us
+   - 简述：Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+3. 这支团队如何用 AI撬动新药研发未来？ - 四川日报
    - 来源：Google News CN｜类型：Medical news｜分数：26
    - 链接：https://news.google.com/rss/articles/CBMiakFVX3lxTE5CT20wWkU5YXoxelBpY0VfcW9fWm5pb0VkUlhKUlhjTXBxWl9vOHpzekU3a3pma1QxN3BQNnltLXhFZUJrUl9NRTFGbkdTUXQ0Q3Q1ZE9VNWVOYTFwbjRoXzV3c0c2RWZjR0E?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-3. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
-   - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e99acd92a44a5b2fb6cb667754f62&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
-   - 简述：Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 4. 全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究
    - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e99aca3c946cc937f0bd6f6b48ca2&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260622A03KGS00&c=5299750458260417961&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6feb36c4844409b7817ccbd98f443d&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260622A03KGS00&c=5299750458260417961&mkt=en-us
    - 简述：Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. Cell：华人学者开发新型细胞免疫疗法——CAR-GMP疗法，可体外长期扩增，对白血病和实体瘤都有效
-   - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e99acd92a44a5b2fb6cb667754f62&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260621A03R9K00&c=15498765052816110406&mkt=en-us
-   - 简述：Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+5. CAR-T细胞疗法研究进展（第56期） - 生物谷
+   - 来源：Google News CN｜类型：Medical news｜分数：26
+   - 链接：https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnLXlYRUZTMmJtcTBuU3FhX2lCTXlmMnd4VnlucHN0Mk40b1Q2VzZuNENqXy1aS3FjZUYxYy1sZTkxZnFyNWlBb3owVlp6QlVXRVg2YWVjQ3FmZm9D?oc=5
+   - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 6. 肿瘤/血液肿瘤研究：Efficacy and safety of dabrafenib plus trametinib in adults with differentiated thyroid cancer: a randomised, double-blind, placebo-controlled, phase 3 trial.
    - 来源：The Lancet. Oncology｜类型：RCT｜分数：102
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42442381/
