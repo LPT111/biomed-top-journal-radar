@@ -4,24 +4,24 @@
    - 来源：Bing News CN
    - 时间：Mon, 10 Oct 2016 20:16:00 GMT
    - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为RCT。摘要信息显示：韩国首尔--(BUSINESS WIRE)--(美国商业资讯)--以“以韩国人中最新确诊的胶质母细胞瘤患者为对象，并用标准疗法和基于CIK诱导杀伤细胞的细胞免疫治疗法的第三期随机临床试验(Phase III randomized trial ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a753a52facc47b19c3ee0d1b900549a&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
-2. 7岁女孩远视储备告急！上海浦东爱尔眼科白晨曦谈近视防控 - hea.china.com
-   - 来源：Google News CN
-   - 时间：Tue, 04 Aug 2026 02:55:16 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE45VnR5Zzk0VERwS1JRcXA2YjZuTFM4TlZQZGp3WDBtTDZjYVBBM2swRVMtaWR5Ml9fR2E1bW96NGMtZ2hMN2dscW5WWGxub3htNVJUTFdnMkgtRU5ncjRJUzktc250UnRUbVYtQg?oc=5" target="_blank">7岁女孩远视储备告急！上海浦东爱尔眼科白晨曦谈近视防控</a>&nbsp;&nbsp;<font color="#6f6f6f">hea.china.com</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMibEFVX3lxTE45VnR5Zzk0VERwS1JRcXA2YjZuTFM4TlZQZGp3WDBtTDZjYVBBM2swRVMtaWR5Ml9fR2E1bW96NGMtZ2hMN2dscW5WWGxub3htNVJUTFdnMkgtRU5ncjRJUzktc250UnRUbVYtQg?oc=5
-3. 全国细胞与基因治疗技术培训班在哈医大肿瘤医院成功举办 - hlj.chinanews.com.cn
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76728bf9314b0fa93aba5541b5ad48&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+2. 全国细胞与基因治疗技术培训班在哈医大肿瘤医院成功举办 - hlj.chinanews.com.cn
    - 来源：Google News CN
    - 时间：Sat, 01 Aug 2026 04:22:00 GMT
    - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE03RndQekFfU1ZFZnRuS1VYWkhtRmU1aTRfSldNMnB3WkRoMTZ6RUc4WjJyZkFkQ01lMVlDYk1BYVNONWdGeHVrNmV4VjVZV2dELXBIS0E5aHZOUl96Z0tiS3ZCdjN1Ri12M3ZCZWktSQ?oc=5" target="_blank">全国细胞与基因治疗技术培训班在哈医大肿瘤医院成功举办</a>&nbsp;&nbsp;<font color="#6f6f6f">hlj.chinanews.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMib0FVX3lxTE03RndQekFfU1ZFZnRuS1VYWkhtRmU1aTRfSldNMnB3WkRoMTZ6RUc4WjJyZkFkQ01lMVlDYk1BYVNONWdGeHVrNmV4VjVZV2dELXBIS0E5aHZOUl96Z0tiS3ZCdjN1Ri12M3ZCZWktSQ?oc=5
-4. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+3. 临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
    - 来源：Bing News CN
-   - 时间：Tue, 23 Jun 2026 09:51:00 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：1.楚天科技300358依托控股子公司楚天思为康深度布局CGT细胞治疗装备赛道，自研全自动细胞培养生产线自动化水平处于行业领先梯队，设备可显著降低CAR-T细胞药物工业化生产成本，面向细胞治疗 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a753a52facc47b19c3ee0d1b900549a&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
-5. 深耕CAR-T赛道 破解商业化难题
+   - 时间：Wed, 13 May 2026 11:25:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：前述内容由第一财经“星翼大模型”智能生成，相关AI内容力求但不保证准确性、时效性、完整性等。请用户注意甄别，第一财经不承担由此产生的任何责任。 如您有疑问或需要更多信息，可以 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76728b1137434ea07368af23200000&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
+4. 黄晓军院士详解CAR-T细胞治疗血液系统恶性肿瘤的突破：从体外修饰到体内原位工程 - 肿瘤界
+   - 来源：Google News CN
+   - 时间：Tue, 04 Aug 2026 09:28:30 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1KeGp5RzZQeFNta05qRTlHNDRlSzNkR2dISXpwTHNSOXIxeWxCQmdCekNmVjREc194MThnTmFrNXdZOHJ2VWNvNm5FY1F6NDY1dnYxMk1sSS0wcDIzWWlXazFkMW01bUJWNk80QXp3?oc=5" target="_blank">黄晓军院士详解CAR-T细胞治疗血液系统恶性肿瘤的突破：从体外修饰到体内原位工程</a>&nbsp;&nbsp;<font color="#6f6f6f">肿瘤界</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE1KeGp5RzZQeFNta05qRTlHNDRlSzNkR2dISXpwTHNSOXIxeWxCQmdCekNmVjREc194MThnTmFrNXdZOHJ2VWNvNm5FY1F6NDY1dnYxMk1sSS0wcDIzWWlXazFkMW01bUJWNk80QXp3?oc=5
+5. 翻转传统医学！ 长庚大学医学院培育「会把脉、懂AI」的中西医双修医师
    - 来源：Bing News CN
-   - 时间：Thu, 06 Aug 2026 10:41:00 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：当下，中国创新药行业正步入高质量发展深水区，以CAR-T（嵌合抗原受体T细胞免疫疗法）为代表的细胞治疗技术，凭借肿瘤“治愈”潜力成为生物医药赛道的核心风口。但与此同时，商业化落地难、生产成本高昂等痛点，也制约着行业规模化发展。 “这款药提供了一种新的治疗选择，但如果患者没有商业保险，支付能力不足，我不建议勉强使用。”近日，在上海的科济药业控股有限公司（以下简称“科济药业”）会议室里，该公司董事长李 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a753a52facc47b19c3ee0d1b900549a&url=https%3a%2f%2fwww.stcn.com%2farticle%2fdetail%2f4062845.html&c=2386952066085244028&mkt=en-us
+   - 时间：Thu, 06 Aug 2026 06:36:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：从指尖把脉到 AI 解码，现代医师必须鑑往知来。长庚大学医学院正积极培养能精准把脉、又能善用 AI 智慧医疗的跨域人才。长庚中医系开创全台特有的「中西医双主修」制度，首创全新「中医药基础研究概论与实作」课程，将传统医学、实证医学与智慧医疗深度结合。学生不仅能取得医学士与 AI 硕士双学位，将来还能同时考取西医与中医师执照，打造具备国际竞争力的中西医双主修医学生。此外，为台湾培育兼具研究精神的新世代 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76728b1137434ea07368af23200000&url=https%3a%2f%2fwww.chinatimes.com%2fcn%2fcampus%2f20260806002724-262301&c=17093881132075240627&mkt=en-us
