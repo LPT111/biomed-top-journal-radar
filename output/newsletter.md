@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-08-08 08:04:26
+# 医学科学新闻推文候选草稿｜2026-08-09 08:00:42
 
 ## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
 
@@ -23,16 +23,16 @@ Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Mon, 10 Oct 2016 20:16:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76728bf9314b0fa93aba5541b5ad48&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+Bing News CN｜Mon, 10 Oct 2016 20:16:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a77c32b81f841f697a33f2fb0dd46aa&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 
 ---
 
-## 2. 全国细胞与基因治疗技术培训班在哈医大肿瘤医院成功举办 - hlj.chinanews.com.cn
+## 2. 大湾区首个国际药物临床试验项目落地
 
-【医学科学新闻】全国细胞与基因治疗技术培训班在哈医大肿瘤医院成功举办 - hlj.chinanews.com.cn
+【医学科学新闻】大湾区首个国际药物临床试验项目落地
 
 一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Bing News CN 发布的综合医学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -50,7 +50,7 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Sat, 01 Aug 2026 04:22:00 GMT｜https://news.google.com/rss/articles/CBMib0FVX3lxTE03RndQekFfU1ZFZnRuS1VYWkhtRmU1aTRfSldNMnB3WkRoMTZ6RUc4WjJyZkFkQ01lMVlDYk1BYVNONWdGeHVrNmV4VjVZV2dELXBIS0E5aHZOUl96Z0tiS3ZCdjN1Ri12M3ZCZWktSQ?oc=5
+Bing News CN｜Thu, 06 Aug 2026 05:56:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a77c32b758f4b58b3c1358c2de3976e&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-08-06%2fdoc-inimizpf3096733.shtml&c=390029407564241556&mkt=en-us
 
 ---
 
@@ -77,11 +77,38 @@ Bing News CN 发布的综合医学相关Medical news，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 13 May 2026 11:25:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76728b1137434ea07368af23200000&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
+Bing News CN｜Wed, 13 May 2026 11:25:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a77c32b758f4b58b3c1358c2de3976e&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
 
 ---
 
-## 4. 黄晓军院士详解CAR-T细胞治疗血液系统恶性肿瘤的突破：从体外修饰到体内原位工程 - 肿瘤界
+## 4. 国产帕金森病创新药研发迎来里程碑，在中美两国取得进展 - jfdaily.com.cn
+
+【医学科学新闻】国产帕金森病创新药研发迎来里程碑，在中美两国取得进展 - jfdaily.com.cn
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Wed, 05 Aug 2026 09:38:00 GMT｜https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ud1dZZjM0WU42bjdadjJsNHZCV1VpT2xUV3p5OXpVYkZ3bENuWnkzX0dEMHc2NHpDdEpwYUgxcWpETnI0dG5EeS13cG9GWjk1TEZma2Q4S2IwMk9faWc?oc=5
+
+---
+
+## 5. 黄晓军院士详解CAR-T细胞治疗血液系统恶性肿瘤的突破：从体外修饰到体内原位工程 - 肿瘤界
 
 【医学科学新闻】黄晓军院士详解CAR-T细胞治疗血液系统恶性肿瘤的突破：从体外修饰到体内原位工程 - 肿瘤界
 
@@ -105,33 +132,6 @@ Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其�
 
 七、参考信息
 Google News CN｜Tue, 04 Aug 2026 09:28:30 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTE1KeGp5RzZQeFNta05qRTlHNDRlSzNkR2dISXpwTHNSOXIxeWxCQmdCekNmVjREc194MThnTmFrNXdZOHJ2VWNvNm5FY1F6NDY1dnYxMk1sSS0wcDIzWWlXazFkMW01bUJWNk80QXp3?oc=5
-
----
-
-## 5. 翻转传统医学！ 长庚大学医学院培育「会把脉、懂AI」的中西医双修医师
-
-【医学科学新闻】翻转传统医学！ 长庚大学医学院培育「会把脉、懂AI」的中西医双修医师
-
-一、为什么重要
-Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Bing News CN｜Thu, 06 Aug 2026 06:36:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a76728b1137434ea07368af23200000&url=https%3a%2f%2fwww.chinatimes.com%2fcn%2fcampus%2f20260806002724-262301&c=17093881132075240627&mkt=en-us
 
 ---
 
@@ -162,7 +162,34 @@ The New England journal of medicine｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 7. 心血管研究：Finerenone in Persons with Chronic Kidney Disease without Diabetes.
+## 7. 代谢/肥胖/糖尿病研究：Effect of semaglutide on kidney outcomes in the SELECT, FLOW, and SOUL trials: a prespecified pooled analysis.
+
+【医学科学新闻】代谢/肥胖/糖尿病研究：Effect of semaglutide on kidney outcomes in the SELECT, FLOW, and SOUL trials: a prespecified pooled analysis.
+
+一、为什么重要
+The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The lancet. Diabetes & endocrinology｜2026-Aug-07｜https://pubmed.ncbi.nlm.nih.gov/42567173/
+
+---
+
+## 8. 心血管研究：Finerenone in Persons with Chronic Kidney Disease without Diabetes.
 
 【医学科学新闻】心血管研究：Finerenone in Persons with Chronic Kidney Disease without Diabetes.
 
@@ -186,33 +213,6 @@ The New England journal of medicine 发布的心血管相关RCT，值得关注�
 
 七、参考信息
 The New England journal of medicine｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/42246672/
-
----
-
-## 8. 综合医学研究：Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease.
-
-【医学科学新闻】综合医学研究：Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease.
-
-一、为什么重要
-The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The New England journal of medicine｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/41911022/
 
 ---
 
@@ -270,7 +270,34 @@ The New England journal of medicine｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 11. 公共卫生/流行病学研究：Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial.
+## 11. 肿瘤/血液肿瘤研究：Angstrom-fluidic chemical synapses for accurate cancer diagnosis.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：Angstrom-fluidic chemical synapses for accurate cancer diagnosis.
+
+一、为什么重要
+Nature communications 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-Aug-07｜https://pubmed.ncbi.nlm.nih.gov/42567863/
+
+---
+
+## 12. 公共卫生/流行病学研究：Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial.
 
 【医学科学新闻】公共卫生/流行病学研究：Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial.
 
@@ -297,7 +324,7 @@ Nature medicine｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/42562964/
 
 ---
 
-## 12. 公共卫生/流行病学研究：Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children: The IRMA Randomized Clinical Trial.
+## 13. 公共卫生/流行病学研究：Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children: The IRMA Randomized Clinical Trial.
 
 【医学科学新闻】公共卫生/流行病学研究：Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children: The IRMA Randomized Clinical Trial.
 
@@ -324,7 +351,7 @@ JAMA｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/42560689/
 
 ---
 
-## 13. 肿瘤/血液肿瘤研究：Mathematical Biomarkers of Adaptive Therapy Outcomes in Prostate Cancer.
+## 14. 肿瘤/血液肿瘤研究：Mathematical Biomarkers of Adaptive Therapy Outcomes in Prostate Cancer.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Mathematical Biomarkers of Adaptive Therapy Outcomes in Prostate Cancer.
 
@@ -351,7 +378,7 @@ JAMA oncology｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/42560686/
 
 ---
 
-## 14. 免疫/炎症研究：Intracranial delivery of B7-H3-targeting CAR-T cells for recurrent glioblastoma: a phase 1 trial.
+## 15. 免疫/炎症研究：Intracranial delivery of B7-H3-targeting CAR-T cells for recurrent glioblastoma: a phase 1 trial.
 
 【医学科学新闻】免疫/炎症研究：Intracranial delivery of B7-H3-targeting CAR-T cells for recurrent glioblastoma: a phase 1 trial.
 
@@ -378,7 +405,7 @@ Nature medicine｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/42562965/
 
 ---
 
-## 15. 感染/疫苗研究：Evaluation of patient centred digital adherence technology for tuberculosis treatment outcomes: pragmatic randomised controlled trial.
+## 16. 感染/疫苗研究：Evaluation of patient centred digital adherence technology for tuberculosis treatment outcomes: pragmatic randomised controlled trial.
 
 【医学科学新闻】感染/疫苗研究：Evaluation of patient centred digital adherence technology for tuberculosis treatment outcomes: pragmatic randomised controlled trial.
 
@@ -405,7 +432,7 @@ BMJ (Clinical research ed.)｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/4256
 
 ---
 
-## 16. 心血管研究：Combined transcatheter mitral and tricuspid edge-to-edge repair or tricuspid edge-to-edge repair alone in moderate mitral regurgitation: a propensity-matched analysis.
+## 17. 心血管研究：Combined transcatheter mitral and tricuspid edge-to-edge repair or tricuspid edge-to-edge repair alone in moderate mitral regurgitation: a propensity-matched analysis.
 
 【医学科学新闻】心血管研究：Combined transcatheter mitral and tricuspid edge-to-edge repair or tricuspid edge-to-edge repair alone in moderate mitral regurgitation: a propensity-matched analysis.
 
@@ -429,33 +456,6 @@ European heart journal 发布的心血管相关RCT，值得关注其研究设计
 
 七、参考信息
 European heart journal｜2026-Aug-07｜https://pubmed.ncbi.nlm.nih.gov/42030119/
-
----
-
-## 17. 生物医药/细胞与基因治疗研究：Consensus recommendations for CAR T-cell administration in adult acute lymphoblastic leukemia: a modified Delphi study.
-
-【医学科学新闻】生物医药/细胞与基因治疗研究：Consensus recommendations for CAR T-cell administration in adult acute lymphoblastic leukemia: a modified Delphi study.
-
-一、为什么重要
-Blood 发布的生物医药/细胞与基因治疗相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕生物医药/细胞与基因治疗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Blood｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/42154904/
 
 ---
 
@@ -513,15 +513,15 @@ Nature communications｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/42562827/
 
 ---
 
-## 20. 生物医药/细胞与基因治疗研究：Dissecting divergent outcomes in stem cell-derived dopamine cell therapy trials for Parkinson's disease.
+## 20. 心血管研究：Bruton's tyrosine kinase inhibitors and cardiovascular risk: a meta-analysis.
 
-【医学科学新闻】生物医药/细胞与基因治疗研究：Dissecting divergent outcomes in stem cell-derived dopamine cell therapy trials for Parkinson's disease.
+【医学科学新闻】心血管研究：Bruton's tyrosine kinase inhibitors and cardiovascular risk: a meta-analysis.
 
 一、为什么重要
-Cell stem cell 发布的生物医药/细胞与基因治疗相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕生物医药/细胞与基因治疗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -536,6 +536,6 @@ Cell stem cell 发布的生物医药/细胞与基因治疗相关Clinical trial�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Cell stem cell｜2026-Aug-06｜https://pubmed.ncbi.nlm.nih.gov/42497857/
+European heart journal｜2026-Aug-08｜https://pubmed.ncbi.nlm.nih.gov/42568037/
 
 ---
