@@ -76,14 +76,13 @@ PARTICIPANTS: 555 patients aged ≥16 years with newly diagnosed drug susceptibl
    - 时间：2026-Aug-06
    - 摘要：这条内容聚焦免疫/炎症。来源为Blood，类型初步识别为Phase 2 trial。摘要信息显示：Talquetamab is the first and only approved bispecific antibody targeting G protein-coupled receptor class C group 5 member D (GPRC5D) for treatment of relapsed/refractory multiple myeloma based on results from the phase 1/2 MonumenTAL-1 study. Here, we report efficacy and ongoing safety from MonumenTAL-1 with 3 years of follow-up. Patients naïve to T-cell redirection therapy (TCR) received talquetamab 0.4 mg/kg weekly (n=143) or 0.8 mg/kg every other week (n=154); a separate cohort received prior TCR (n=78, either ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42561120/
-14. 神经科学/神经疾病研究：α-Synuclein blocks endoplasmic reticulum co-translational protein translocation early in Parkinson's disease.
+14. 感染/疫苗研究：Healthy vaccinee effect in the evaluation of updated COVID-19 vaccines in elderly populations.
+   - 来源：Nature communications
+   - 时间：2026-Aug-08
+   - 摘要：这条内容聚焦感染/疫苗。来源为Nature communications，类型初步识别为Original research。摘要信息显示：Established determinants of health in the elderly help guide routines for indicated vaccine administration, while unmeasured frailty may limit vaccine access. We evaluate the performance of the 2024-2025 COVID-19 vaccine adapted to the Omicron JN.1 lineage in a Swedish population aged ≥65 years (N = 245 696). Vaccine effectiveness (VE) on COVID-19-related hospitalization and a negative control outcome (NCO; all-cause mortality) are assessed in various cohorts between October 1, 2024 to March 31, 2025. The VE was 75... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42570961/
+15. 神经科学/神经疾病研究：α-Synuclein blocks endoplasmic reticulum co-translational protein translocation early in Parkinson's disease.
    - 来源：Nature communications
    - 时间：2026-Aug-06
    - 摘要：这条内容聚焦神经科学/神经疾病。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：The primary mechanism and subcellular localisation of α-synuclein toxicity in Parkinson's disease pathogenesis remain unknown. We spatially and temporally resolved proteomic and transcriptomic changes in human iPSC-derived dopaminergic neurons with increasing burden of pathological α-synuclein. We found that misfolded α-synuclein proteoforms, signified by the formation of nanoscale intraneuronal puncta, are associated with impaired translocon function at the endoplasmic reticulum (ER). We show that α-synuclein inte... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42562827/
-15. 心血管研究：Bruton's tyrosine kinase inhibitors and cardiovascular risk: a meta-analysis.
-   - 来源：European heart journal
-   - 时间：2026-Aug-08
-   - 摘要：这条内容聚焦心血管。来源为European heart journal，类型初步识别为RCT。摘要信息显示：BACKGROUND AND AIMS: Bruton's tyrosine kinase inhibitors (BTK-I) affect platelet function, increasing bleeding risk, and are also associated with hypertension and atrial fibrillation. This study aimed to assess the risk of incident non-fatal ischaemic major adverse cardiovascular events (MACE) associated with BTK-I exposure through a systematic review and meta-analysis of randomized controlled trials (RCTs).
-METHODS: ClinicalTrials.gov, EudraCT, MEDLINE, and Cochrane CENTRAL were systematically searched to identify... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42568037/

@@ -4,24 +4,24 @@
    - 来源：Bing News CN
    - 时间：Mon, 10 Oct 2016 20:16:00 GMT
    - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为RCT。摘要信息显示：韩国首尔--(BUSINESS WIRE)--(美国商业资讯)--以“以韩国人中最新确诊的胶质母细胞瘤患者为对象，并用标准疗法和基于CIK诱导杀伤细胞的细胞免疫治疗法的第三期随机临床试验(Phase III randomized trial ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a77c32b81f841f697a33f2fb0dd46aa&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
-2. 大湾区首个国际药物临床试验项目落地
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a791534b2f14d1d93f2851b547399e1&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+2. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
    - 来源：Bing News CN
-   - 时间：Thu, 06 Aug 2026 05:56:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Clinical trial。摘要信息显示：近日，粤港澳大湾区国际临床试验中心、粤港澳大湾区国际临床试验所与希华医药签署三方合作备忘录，支持希华医药在大湾区内开展全球多中心I/II/III期临床试验，其中包括治疗乳腺癌及黄斑变性的两款重磅新药。 7月28日，粤港澳大湾区国际临床试验所（GBAICTI）、粤港澳大湾区国际临床试验中心（BAY TRIAL）与希华医药（Health Hope Pharma）正式签署合作备忘录。图源：深圳医学科学院 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a77c32b758f4b58b3c1358c2de3976e&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-08-06%2fdoc-inimizpf3096733.shtml&c=390029407564241556&mkt=en-us
-3. 临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
-   - 来源：Bing News CN
-   - 时间：Wed, 13 May 2026 11:25:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：前述内容由第一财经“星翼大模型”智能生成，相关AI内容力求但不保证准确性、时效性、完整性等。请用户注意甄别，第一财经不承担由此产生的任何责任。 如您有疑问或需要更多信息，可以 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a77c32b758f4b58b3c1358c2de3976e&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
-4. 国产帕金森病创新药研发迎来里程碑，在中美两国取得进展 - jfdaily.com.cn
-   - 来源：Google News CN
-   - 时间：Wed, 05 Aug 2026 09:38:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ud1dZZjM0WU42bjdadjJsNHZCV1VpT2xUV3p5OXpVYkZ3bENuWnkzX0dEMHc2NHpDdEpwYUgxcWpETnI0dG5EeS13cG9GWjk1TEZma2Q4S2IwMk9faWc?oc=5" target="_blank">国产帕金森病创新药研发迎来里程碑，在中美两国取得进展</a>&nbsp;&nbsp;<font color="#6f6f6f">jfdaily.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ud1dZZjM0WU42bjdadjJsNHZCV1VpT2xUV3p5OXpVYkZ3bENuWnkzX0dEMHc2NHpDdEpwYUgxcWpETnI0dG5EeS13cG9GWjk1TEZma2Q4S2IwMk9faWc?oc=5
-5. 黄晓军院士详解CAR-T细胞治疗血液系统恶性肿瘤的突破：从体外修饰到体内原位工程 - 肿瘤界
+   - 时间：Tue, 23 Jun 2026 09:51:00 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：1.楚天科技300358依托控股子公司楚天思为康深度布局CGT细胞治疗装备赛道，自研全自动细胞培养生产线自动化水平处于行业领先梯队，设备可显著降低CAR-T细胞药物工业化生产成本，面向细胞治疗 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a791534b2f14d1d93f2851b547399e1&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
+3. 黄晓军院士详解CAR-T细胞治疗血液系统恶性肿瘤的突破：从体外修饰到体内原位工程 - 肿瘤界
    - 来源：Google News CN
    - 时间：Tue, 04 Aug 2026 09:28:30 GMT
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1KeGp5RzZQeFNta05qRTlHNDRlSzNkR2dISXpwTHNSOXIxeWxCQmdCekNmVjREc194MThnTmFrNXdZOHJ2VWNvNm5FY1F6NDY1dnYxMk1sSS0wcDIzWWlXazFkMW01bUJWNk80QXp3?oc=5" target="_blank">黄晓军院士详解CAR-T细胞治疗血液系统恶性肿瘤的突破：从体外修饰到体内原位工程</a>&nbsp;&nbsp;<font color="#6f6f6f">肿瘤界</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE1KeGp5RzZQeFNta05qRTlHNDRlSzNkR2dISXpwTHNSOXIxeWxCQmdCekNmVjREc194MThnTmFrNXdZOHJ2VWNvNm5FY1F6NDY1dnYxMk1sSS0wcDIzWWlXazFkMW01bUJWNk80QXp3?oc=5
+4. 细胞和基因治疗市场规模、份额、增长、分析，2034 年 - Straits Research
+   - 来源：Google News CN
+   - 时间：Thu, 06 Aug 2026 11:54:25 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9ESzNTZ00tblVwVEdNTEs0MVMzR0VVNUVTOFhrN2h6ekxCeU9TUW1GS1BpTnlkTTlYWEhQMkFRbEpJQUxZZEhGcUNETGY1enFCaUdpSy00TG9pa0RFUEk5ZG5qYWtxR2lHNDBkNjEtX3QxOXhQ?oc=5" target="_blank">细胞和基因治疗市场规模、份额、增长、分析，2034 年</a>&nbsp;&nbsp;<font color="#6f6f6f">Straits Research</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMidEFVX3lxTE9ESzNTZ00tblVwVEdNTEs0MVMzR0VVNUVTOFhrN2h6ekxCeU9TUW1GS1BpTnlkTTlYWEhQMkFRbEpJQUxZZEhGcUNETGY1enFCaUdpSy00TG9pa0RFUEk5ZG5qYWtxR2lHNDBkNjEtX3QxOXhQ?oc=5
+5. 全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究
+   - 来源：Bing News CN
+   - 时间：Sun, 21 Jun 2026 23:02:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：全球首个由人工智能驱动识别新靶点、设计分子结构的创新药‌Ⅲ期临床试验将在我国启动。近日，治疗特发性肺纤维化的Rentosertib口服药‌Ⅲ期临床试验中国研究者会议在北京举行，计划7月 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a791533e3954a4a85b0d02a478501b7&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260622A03KGS00&c=5299750458260417961&mkt=en-us
