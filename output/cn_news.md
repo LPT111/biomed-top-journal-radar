@@ -1,27 +1,27 @@
 # 中文医学科学新闻
 
-1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
-   - 来源：Bing News CN
-   - 时间：Mon, 10 Oct 2016 20:16:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为RCT。摘要信息显示：韩国首尔--(BUSINESS WIRE)--(美国商业资讯)--以“以韩国人中最新确诊的胶质母细胞瘤患者为对象，并用标准疗法和基于CIK诱导杀伤细胞的细胞免疫治疗法的第三期随机临床试验(Phase III randomized trial ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7bc11501e54ca297daf63385bcac96&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
-2. AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
+1. AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
    - 来源：Google News CN
    - 时间：Tue, 11 Aug 2026 01:52:23 GMT
    - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTYWhUYW5KV2tzSU9VQnhnb3FWMVNyRDZZTThnSWhHVUZBNWt4ZlAxeG1ZcFZSRThQaEFxVGFWR1F1Zk9GVDFTQzlJcExaeFVzZ2d2dFdhb29DX0swRXQtQnVVLUNoZ1Jm?oc=5" target="_blank">AI进药企，如何真正驱动创新药高质量发展？</a>&nbsp;&nbsp;<font color="#6f6f6f">chinanews.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTYWhUYW5KV2tzSU9VQnhnb3FWMVNyRDZZTThnSWhHVUZBNWt4ZlAxeG1ZcFZSRThQaEFxVGFWR1F1Zk9GVDFTQzlJcExaeFVzZ2d2dFdhb29DX0swRXQtQnVVLUNoZ1Jm?oc=5
-3. 国产帕金森病创新药研发迎来里程碑，在中美两国取得进展 - 新浪财经
+2. 「基因编辑的代价」——从6岁女孩之死看科研伦理困境 - haiwaiwai.com
    - 来源：Google News CN
-   - 时间：Wed, 05 Aug 2026 07:00:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMi2gRBVV95cUxQSXlLUXprSlJVaS00ZFF2WXN0M3piOUpfSGJYUndfb0o2WVJNMk9QSGQ3bG0zelNSMHphLW5kb0xoNEJfRXIteWRGai1pUTBVb0RwWTVjRnZFRkZxSW1wMHZBSUlVMGR5V3RYR2hwMHFOek1BMmY1V1ZxRDF4TEV2bWRMQXpHUmFBZWZjZktFU2tobXRHQTRWQ1RSLUhkVDNBalFCNTdKUXgybUF3b1ktV1pwTTI1czl1enNJUlpmZ0RnTmJmZFB0U2gxUDB6anlwYzEwakRNVjI1SExIUDdhdEhFZ2xIUkI4OU82YUpzZEhRcmtLOFpIbVZUQ09uSWQwZHRSaTExRWpIdVU3Q1d4S19qVU8tOW9hTzczTG5oaGxGSGhXX1ZUTnQtSFp3ZzRON0VIN21LTjVKVV9XcndiaG1yYjJRWTZHams4WEp5ZWlJa3lBVWVsRnJEemMteV... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMi2gRBVV95cUxQSXlLUXprSlJVaS00ZFF2WXN0M3piOUpfSGJYUndfb0o2WVJNMk9QSGQ3bG0zelNSMHphLW5kb0xoNEJfRXIteWRGai1pUTBVb0RwWTVjRnZFRkZxSW1wMHZBSUlVMGR5V3RYR2hwMHFOek1BMmY1V1ZxRDF4TEV2bWRMQXpHUmFBZWZjZktFU2tobXRHQTRWQ1RSLUhkVDNBalFCNTdKUXgybUF3b1ktV1pwTTI1czl1enNJUlpmZ0RnTmJmZFB0U2gxUDB6anlwYzEwakRNVjI1SExIUDdhdEhFZ2xIUkI4OU82YUpzZEhRcmtLOFpIbVZUQ09uSWQwZHRSaTExRWpIdVU3Q1d4S19qVU8tOW9hTzczTG5oaGxGSGhXX1ZUTnQtSFp3ZzRON0VIN21LTjVKVV9XcndiaG1yYjJRWTZHams4WEp5ZWlJa3lBVWVsRnJEemMteVdhNWt4dVlaejJPWGExQjFSSGhCbzBBLW1jazFZa2hpS0F1OGI2M1AyeWkwZy1naERkaFBTZHY4ZU80bnRURmc1a1Nlcm1uUDQ5Z3V2QTI1WGo1WER4WHV5QWpLZjRxdXY3Zm4tU1FfeU82cEphVGxpQnh2NWVCZ0t5WHZiQkZZb0FYcjJUMlFEOWtjRlhLcndNeFhITUw3b1k5ZTd0QW03Y19GU0FVTkJZZkZ4eTU0NzFVNDlwZWpsTzNBa2hQR2hoTVg3QURDUDU2N2JaMVE3SGhVM19Jeno4NElpQVdha0lqZm55dTltZ3JINV85anlOalpTUFZWXzR3QQ?oc=5
-4. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+   - 时间：Wed, 12 Aug 2026 05:03:42 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JVmFralYydVdDX21raGhUbjV5N3d4UFlDN2JqeUYtYU1hbngxZDRZTXJaYmdWQUNVTWNBbGxhbjEydmRma3hnbA?oc=5" target="_blank">「基因编辑的代价」——从6岁女孩之死看科研伦理困境</a>&nbsp;&nbsp;<font color="#6f6f6f">haiwaiwai.com</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JVmFralYydVdDX21raGhUbjV5N3d4UFlDN2JqeUYtYU1hbngxZDRZTXJaYmdWQUNVTWNBbGxhbjEydmRma3hnbA?oc=5
+3. AI进药企，新药研发在提速
    - 来源：Bing News CN
-   - 时间：Tue, 23 Jun 2026 09:51:00 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：1.楚天科技300358依托控股子公司楚天思为康深度布局CGT细胞治疗装备赛道，自研全自动细胞培养生产线自动化水平处于行业领先梯队，设备可显著降低CAR-T细胞药物工业化生产成本，面向细胞治疗 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7bc11501e54ca297daf63385bcac96&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
-5. 6岁女孩的基因编辑悲剧：580万投入与伦理困局的深刻反思 - haiwaiwai.com
-   - 来源：Google News CN
-   - 时间：Tue, 11 Aug 2026 20:55:49 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE56a1l0R2FlNkFpRGEtaEFERFdSWGZZTVB4cVU1RmtadWM0Y1U5RGtXWE1OMzVJX1ZueDd3YjJ4TFVfeUVFZ1hLNw?oc=5" target="_blank">6岁女孩的基因编辑悲剧：580万投入与伦理困局的深刻反思</a>&nbsp;&nbsp;<font color="#6f6f6f">haiwaiwai.com</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMiSEFVX3lxTE56a1l0R2FlNkFpRGEtaEFERFdSWGZZTVB4cVU1RmtadWM0Y1U5RGtXWE1OMzVJX1ZueDd3YjJ4TFVfeUVFZ1hLNw?oc=5
+   - 时间：Wed, 12 Aug 2026 02:44:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：如今，AI已融入新药研发全链条，实现降本、提速、提效多重突破。依托政策、技术、资本的助力，AI制药产业商业化进程也在不断加速。AI赋能创新药实际落地成效如何？行业发展逻辑发生了怎样的转变？还存在哪些挑战？产业全新增量又将在何处释放？记者就此展开采访。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7d132726964751a2925260086fbf80&url=https%3a%2f%2fwww.sohu.com%2fa%2f1061746716_362042&c=394226111196735863&mkt=en-us
+4. AI进药企，新药研发在提速丨打造智能经济新形态
+   - 来源：Bing News CN
+   - 时间：Tue, 11 Aug 2026 05:40:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：近年来，我国创新药上市数量快速增长，医药创新硬实力持续提升。随着技术加速渗透，人工智能已深度融入药品研发、生产、质控、监管全链条，AI赋能创新药正站上产业发展新风口。在政策红利、资本加持和跨界合作的多重助推下，AI技术能否从单点试点迈向全产业应用，真正驱动创新药高质量发展？ 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7d132726964751a2925260086fbf80&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-11%2fdoc-inimxmep7543507.shtml&c=6464939675859864390&mkt=en-us
+5. 阿诺医药即将启动新药临床试验，实体瘤治疗迎来新希望！
+   - 来源：Bing News CN
+   - 时间：Tue, 04 Aug 2026 12:01:00 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：在面对癌症这一全球性健康挑战时，治疗选择的创新与发展从未止步。最近，阿诺医药（ANL.O）宣布即将启动其新药AN4035的I期临床试验，这一消息引发了广泛关注。AN4035是一款靶向CEACAM5的抗体偶联药物（ADC），专门用于治疗CEACAM5高表达、RAS依赖性的实体瘤。你是否好奇，这款新药到底能为癌症患者带来怎样的希望？ 众所周知，癌症的治疗一直是医学界的难题，尤其是实体瘤的治疗效果常常不 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a7d132726964751a2925260086fbf80&url=https%3a%2f%2fwww.sohu.com%2fa%2f1058737583_121956422&c=1435377869124642694&mkt=en-us
