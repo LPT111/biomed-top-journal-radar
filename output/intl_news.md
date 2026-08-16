@@ -40,48 +40,49 @@ METHODS: We enrolled patients with recently relapsed polymyalgia rheumatica and 
    - 时间：2026-Aug-13
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cancer cell，类型初步识别为Clinical trial。摘要信息显示：SYS6010 is an antibody-drug conjugate targeting epidermal growth factor receptor (EGFR). We report the results of a phase 1 trial (ChiCTR2300072141) of SYS6010 in patients with non-small cell lung cancer (NSCLC). A total of 236 patients were treated. One dose-limiting toxicity occurred at 6.4 mg/kg; therefore, 4.2, 4.5, and 4.8 mg/kg were selected for cohort expansion. Treatment-related adverse events (TRAEs; any/grade ≥ 3) occurred in 99.6%/57.2% of patients. Common grade ≥3 TRAEs included neutropenia (30.9%), leu... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42594871/
-8. 肿瘤/血液肿瘤研究：First-line PD-1/VEGF bispecific antibody plus chemotherapy in triple-negative breast cancer: a phase 2 trial.
-   - 来源：Nature medicine
-   - 时间：2026-Aug-12
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为Phase 2 trial。摘要信息显示：Triple-negative breast cancer is an aggressive subtype comprising 10-20% of all breast cancer cases and has a worse prognosis than other subtypes. This open-label, multicenter, single-arm, phase 2 clinical trial evaluates the safety and efficacy of ivonescimab combined with chemotherapy as first-line treatment in female patients with locally advanced unresectable or metastatic triple-negative breast cancer who have not received previous systemic therapy. Eligible patients received ivonescimab 20 mg kg-1 intravenous... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42587052/
-9. 肿瘤/血液肿瘤研究：Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer.
+8. 肿瘤/血液肿瘤研究：Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer.
    - 来源：JAMA oncology
    - 时间：2026-Aug-13
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为Phase 2 trial。摘要信息显示：IMPORTANCE: Molecular residual disease (MRD) detection has potential to transform the selection of adjuvant therapy. Most evidence is from tumor-informed assays. Tissue-free assays not requiring sequencing of the primary tumor may simplify workflows if they offer accuracy similar to that of tumor-informed assays.
 OBJECTIVE: To evaluate tissue-free circulating tumor DNA (ctDNA) analysis in patients with triple negative breast cancer (TNBC) and compare the tissue-free assay with tumor-informed assay results.
 DESIGN, ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42593771/
-10. 代谢/肥胖/糖尿病研究：Housing Instability Associated With Cost-Related Nonadherence and Financial Toxicity in People With Uncontrolled Diabetes.
+9. 代谢/肥胖/糖尿病研究：Housing Instability Associated With Cost-Related Nonadherence and Financial Toxicity in People With Uncontrolled Diabetes.
    - 来源：Diabetes care
    - 时间：2026-Aug-13
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Diabetes care，类型初步识别为RCT。摘要信息显示：OBJECTIVE: To assess the prevalence of housing instability and its associations with cost-related nonadherence and financial toxicity among adults with uncontrolled diabetes.
 RESEARCH DESIGN AND METHODS: We analyzed baseline randomized controlled trial data from 600 adults with uncontrolled diabetes and cost-related barriers to care. Logistic and linear regression assessed associations of housing instability with cost-related nonadherence and financial toxicity.
 RESULTS: Half (n = 298) reported housing instability,... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42594248/
-11. 医疗AI/数字医学研究：Discovery and design of potent cell surface display elements.
+10. 医疗AI/数字医学研究：Discovery and design of potent cell surface display elements.
    - 来源：Nature biotechnology
    - 时间：2026-Aug-12
    - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature biotechnology，类型初步识别为Translational research。摘要信息显示：Cell surface display (CSD) elements are a major class of bioengineering modules, but systematic rules linking CSD sequence to functional potency are lacking. Here we develop DeepSCan, a suite of deep learning and artificial intelligence models to systematically map CSD sequence-function relationships to reliably capture potent elements' conserved features and iteratively design and develop potent de novo CSD modules for mRNA antigen display. We experimentally quantify surface expression across >570 chimeric antigen... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42587137/
-12. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
+11. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
    - 来源：The Lancet
    - 时间：2026-07-30T22:30:01Z
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The Lancet，类型初步识别为RCT。摘要信息显示：In people with type 2 diabetes, once-daily oral zenagamtide showed clinically meaningful and significant improvements in HbA1c from baseline to week 36 compared with placebo at all three dose levels (6, 25, and 50 mg). The safety and tolerability of oral zenagamtide was consistent with other GLP-1 and amylin receptor agonists. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01247-X/fulltext?rss=yes
-13. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
+12. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
    - 来源：The Lancet
    - 时间：2026-07-30T22:30:01Z
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The Lancet，类型初步识别为RCT。摘要信息显示：In people with type 2 diabetes, once-weekly subcutaneous zenagamtide 0·4–40 mg demonstrated clinically meaningful and significant improvements in change in HbA1c from baseline to week 36 compared with placebo, with a safety and tolerability profile consistent with that of other GLP-1-based and amylin-based therapies. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01248-1/fulltext?rss=yes
-14. 综合医学研究：Fiber supplementation in irritable bowel syndrome: a systematic review and meta-analysis of randomized controlled trials.
+13. 综合医学研究：Fiber supplementation in irritable bowel syndrome: a systematic review and meta-analysis of randomized controlled trials.
    - 来源：Gastroenterology
    - 时间：2026-Aug-14
    - 摘要：这条内容聚焦综合医学。来源为Gastroenterology，类型初步识别为RCT。摘要信息显示：BACKGROUND AND AIMS: Fiber supplementation is widely used and recommended for irritable bowel syndrome (IBS), however there is no recent evidence synthesis. We aimed to investigate the efficacy of fiber supplements in IBS through a systematic review and meta-analysis of randomized controlled trials.
 METHODS: We searched MEDLINE, Embase, Web of Science, and Cochrane Central Register of Controlled Trials (inception to 9 April 2026). Trials recruiting adults with IBS that investigated fiber supplements compared with a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42600900/
-15. 感染/疫苗研究：Guiding principles for pragmatic randomised trials of tuberculosis treatments.
+14. 感染/疫苗研究：Guiding principles for pragmatic randomised trials of tuberculosis treatments.
    - 来源：The Lancet. Infectious diseases
    - 时间：2026-Aug-14
    - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为Guideline。摘要信息显示：Tuberculosis remains a major global health challenge, despite recent advances in drug and regimen development. Pragmatic randomised trials are needed to evaluate the effectiveness, safety, and tolerability of new tuberculosis treatments under routine care conditions to appropriately inform practice guidelines and facilitate uptake. In this Review, we propose guiding principles for pragmatic tuberculosis treatment trials. Using the PRECIS-2 framework, we address eligibility, recruitment, setting, organisation of car... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42600623/
+15. 肿瘤/血液肿瘤研究：Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer.
+   - 来源：JAMA oncology
+   - 时间：2026-Aug-13
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为Original research。摘要信息显示：IMPORTANCE: Metabolic syndrome (MetS) includes obesity, insulin resistance, hypertension, and dyslipidemia. While androgen deprivation therapy (ADT) is associated with an increased risk of dyslipidemia, adiposity, and MetS, evidence is limited on the occurrence and timing of metabolic dysfunction among men receiving concurrent androgen receptor pathway inhibitor (ARPI) therapy and whether patterns vary by age.
+OBJECTIVE: To characterize the occurrence and rate of MetS during the first year following initiation of A... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42593785/

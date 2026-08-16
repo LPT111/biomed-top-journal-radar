@@ -1,27 +1,27 @@
 # 中文医学科学新闻
 
-1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
-   - 来源：Bing News CN
-   - 时间：Mon, 10 Oct 2016 20:16:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为RCT。摘要信息显示：韩国首尔--(BUSINESS WIRE)--(美国商业资讯)--以“以韩国人中最新确诊的胶质母细胞瘤患者为对象，并用标准疗法和基于CIK诱导杀伤细胞的细胞免疫治疗法的第三期随机临床试验(Phase III randomized trial ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a80fc60758c46ebb9ca1536f476b288&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
-2. AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
+1. AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
    - 来源：Google News CN
    - 时间：Tue, 11 Aug 2026 01:52:23 GMT
    - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTYWhUYW5KV2tzSU9VQnhnb3FWMVNyRDZZTThnSWhHVUZBNWt4ZlAxeG1ZcFZSRThQaEFxVGFWR1F1Zk9GVDFTQzlJcExaeFVzZ2d2dFdhb29DX0swRXQtQnVVLUNoZ1Jm?oc=5" target="_blank">AI进药企，如何真正驱动创新药高质量发展？</a>&nbsp;&nbsp;<font color="#6f6f6f">chinanews.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTYWhUYW5KV2tzSU9VQnhnb3FWMVNyRDZZTThnSWhHVUZBNWt4ZlAxeG1ZcFZSRThQaEFxVGFWR1F1Zk9GVDFTQzlJcExaeFVzZ2d2dFdhb29DX0swRXQtQnVVLUNoZ1Jm?oc=5
-3. 亦度正康全程助力！国内首个预防急性高山病新药获批上市 - business.china.com.cn
+2. 选路、转轨、冲刺——CGT企业如何在双轨制下找到最优解 - caifuhao.eastmoney.com
    - 来源：Google News CN
-   - 时间：Thu, 13 Aug 2026 05:07:35 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFB2RmNkc0xkNENKV1dxbkJsb3ZzcFNGUVItc2tNdU1oaEpPaWVETHBsTVJVX1RLWjNXTzZyeHNHOUxvd3hzRjlUTS1QMEhDa254M3I3WHM3ZEpLZ2lwNE5KN284WU80dFRmcW5LaXpWbw?oc=5" target="_blank">亦度正康全程助力！国内首个预防急性高山病新药获批上市</a>&nbsp;&nbsp;<font color="#6f6f6f">business.china.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMib0FVX3lxTFB2RmNkc0xkNENKV1dxbkJsb3ZzcFNGUVItc2tNdU1oaEpPaWVETHBsTVJVX1RLWjNXTzZyeHNHOUxvd3hzRjlUTS1QMEhDa254M3I3WHM3ZEpLZ2lwNE5KN284WU80dFRmcW5LaXpWbw?oc=5
-4. 博凡格鲁肽临床新证亮相ADA丨肾功能不全及联用二甲双胍均无需调整剂量，双周给药新证带来GLP‑1RA便利新方案
+   - 时间：Thu, 13 Aug 2026 09:44:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE4yTGRkUld2T2VmR1JsQTZGRUhvVGFuWml0THcyUEJnbmxRbmU4RG53QU9SNWNPWm9KR2lwWVZ4NjU5dlhJZGVRVjEtUko5OE4zcWQtZlMxTzJyR2ZIQy1HdW9OUFdETFN1YUhV?oc=5" target="_blank">选路、转轨、冲刺——CGT企业如何在双轨制下找到最优解</a>&nbsp;&nbsp;<font color="#6f6f6f">caifuhao.eastmoney.com</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMia0FVX3lxTE4yTGRkUld2T2VmR1JsQTZGRUhvVGFuWml0THcyUEJnbmxRbmU4RG53QU9SNWNPWm9KR2lwWVZ4NjU5dlhJZGVRVjEtUko5OE4zcWQtZlMxTzJyR2ZIQy1HdW9OUFdETFN1YUhV?oc=5
+3. 动物模型市场规模、份额、增长、分析、报告（至2034年） - Straits Research
+   - 来源：Google News CN
+   - 时间：Thu, 13 Aug 2026 07:00:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwVWdrYkdPT1JlTlpydTFSSllydmZ3TENnS095THY1MlJlT2J0STZWYjNZb3hNU0lweGg2OFY1bGFsbW9IWWpYX0Y1VXk0OUJ4SzRTZHJYa2NzdUJOWnVIRms0MG53dWZ5?oc=5" target="_blank">动物模型市场规模、份额、增长、分析、报告（至2034年）</a>&nbsp;&nbsp;<font color="#6f6f6f">Straits Research</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwVWdrYkdPT1JlTlpydTFSSllydmZ3TENnS095THY1MlJlT2J0STZWYjNZb3hNU0lweGg2OFY1bGFsbW9IWWpYX0Y1VXk0OUJ4SzRTZHJYa2NzdUJOWnVIRms0MG53dWZ5?oc=5
+4. AI进药企，新药研发在提速
    - 来源：Bing News CN
-   - 时间：Wed, 29 Jul 2026 02:00:00 GMT
-   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：GLP-1RA联合二甲双胍是治疗T2DM临床常用方案 [1] ，药物相互作用特性将直接影响处方便利性与患者依从性。ADA大会另一项研究则分析了博凡格鲁肽与二甲双胍之间是否存在潜在的相互作用。 本项研究纳入了32名健康参与者（BMI 24-33 kg/m 2 ）。试验期间参与者单独服用二甲双胍（500 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a80fc5f8bc1407b9f96a58475199d5b&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-07-29%2fdoc-inikmytp5848792.shtml&c=15890548245257534225&mkt=en-us
-5. 英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
+   - 时间：Thu, 13 Aug 2026 05:15:03 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：如今，AI已融入新药研发全链条，实现降本、提速、提效多重突破。依托政策、技术、资本的助力，AI制药产业商业化进程也在不断加速。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a824db49d454dafbdf19131494b617b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fai%25E8%25BF%259B%25E8%258D%25AF%25E4%25BC%2581-%25E6%2596%25B0%25E8%258D%25AF%25E7%25A0%2594%25E5%258F%2591%25E5%259C%25A8%25E6%258F%2590%25E9%2580%259F%2far-AA2a1OOX&c=16526453813438051725&mkt=en-us
+5. 全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究
    - 来源：Bing News CN
-   - 时间：Wed, 18 Sep 2024 17:00:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：近年来，AI驱动药物研发的热潮迭起。提升速度、压缩时间、降低成本曾是AI成药故事中最令人振奋的部分。但伴随时移世易，人们越来越意识到，无论是否有AI介入，药品有效性的验证都需要漫长的时间以验证。然而到目前为止，尚无一款由AI做出的药物诞生。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a80fc5f8bc1407b9f96a58475199d5b&url=https%3a%2f%2fwww.36kr.com%2fp%2f2956420971755648&c=1064439207480232078&mkt=en-us
+   - 时间：Sun, 21 Jun 2026 23:02:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：全球首个由人工智能驱动识别新靶点、设计分子结构的创新药‌Ⅲ期临床试验将在我国启动。近日，治疗特发性肺纤维化的Rentosertib口服药‌Ⅲ期临床试验中国研究者会议在北京举行，计划7月 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a824db49d454dafbdf19131494b617b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260622A03KGS00&c=5299750458260417961&mkt=en-us

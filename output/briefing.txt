@@ -1,34 +1,35 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-08-16 07:55:11
+【Biomed Radar】今日医学科学新闻已更新｜2026-08-17 07:54:28
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
+Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-biorxiv: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
-medrxiv: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
-1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
-Bing News CN｜RCT｜Score 51
-Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a80fc60758c46ebb9ca1536f476b288&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
-
-2. AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
+RSS Nature: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+1. AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
 Google News CN｜Medical news｜Score 32
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTYWhUYW5KV2tzSU9VQnhnb3FWMVNyRDZZTThnSWhHVUZBNWt4ZlAxeG1ZcFZSRThQaEFxVGFWR1F1Zk9GVDFTQzlJcExaeFVzZ2d2dFdhb29DX0swRXQtQnVVLUNoZ1Jm?oc=5
 
-3. 亦度正康全程助力！国内首个预防急性高山病新药获批上市 - business.china.com.cn
-Google News CN｜Medical news｜Score 27
+2. 选路、转轨、冲刺——CGT企业如何在双轨制下找到最优解 - caifuhao.eastmoney.com
+Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMib0FVX3lxTFB2RmNkc0xkNENKV1dxbkJsb3ZzcFNGUVItc2tNdU1oaEpPaWVETHBsTVJVX1RLWjNXTzZyeHNHOUxvd3hzRjlUTS1QMEhDa254M3I3WHM3ZEpLZ2lwNE5KN284WU80dFRmcW5LaXpWbw?oc=5
+https://news.google.com/rss/articles/CBMia0FVX3lxTE4yTGRkUld2T2VmR1JsQTZGRUhvVGFuWml0THcyUEJnbmxRbmU4RG53QU9SNWNPWm9KR2lwWVZ4NjU5dlhJZGVRVjEtUko5OE4zcWQtZlMxTzJyR2ZIQy1HdW9OUFdETFN1YUhV?oc=5
 
-4. 博凡格鲁肽临床新证亮相ADA丨肾功能不全及联用二甲双胍均无需调整剂量，双周给药新证带来GLP‑1RA便利新方案
-Bing News CN｜Medical news｜Score 26
-Bing News CN 发布的代谢/肥胖/糖尿病相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a80fc5f8bc1407b9f96a58475199d5b&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-07-29%2fdoc-inikmytp5848792.shtml&c=15890548245257534225&mkt=en-us
+3. 动物模型市场规模、份额、增长、分析、报告（至2034年） - Straits Research
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwVWdrYkdPT1JlTlpydTFSSllydmZ3TENnS095THY1MlJlT2J0STZWYjNZb3hNU0lweGg2OFY1bGFsbW9IWWpYX0Y1VXk0OUJ4SzRTZHJYa2NzdUJOWnVIRms0MG53dWZ5?oc=5
 
-5. 英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
+4. AI进药企，新药研发在提速
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a80fc5f8bc1407b9f96a58475199d5b&url=https%3a%2f%2fwww.36kr.com%2fp%2f2956420971755648&c=1064439207480232078&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a824db49d454dafbdf19131494b617b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fai%25E8%25BF%259B%25E8%258D%25AF%25E4%25BC%2581-%25E6%2596%25B0%25E8%258D%25AF%25E7%25A0%2594%25E5%258F%2591%25E5%259C%25A8%25E6%258F%2590%25E9%2580%259F%2far-AA2a1OOX&c=16526453813438051725&mkt=en-us
+
+5. 全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究
+Bing News CN｜Medical news｜Score 26
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a824db49d454dafbdf19131494b617b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260622A03KGS00&c=5299750458260417961&mkt=en-us
 
 6. 肿瘤/血液肿瘤研究：Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer: A Randomized Clinical Trial.
 JAMA｜RCT｜Score 94
@@ -65,42 +66,42 @@ Cancer cell｜Clinical trial｜Score 79
 Cancer cell 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42594871/
 
-13. 肿瘤/血液肿瘤研究：First-line PD-1/VEGF bispecific antibody plus chemotherapy in triple-negative breast cancer: a phase 2 trial.
-Nature medicine｜Phase 2 trial｜Score 79
-Nature medicine 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42587052/
-
-14. 肿瘤/血液肿瘤研究：Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer.
+13. 肿瘤/血液肿瘤研究：Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer.
 JAMA oncology｜Phase 2 trial｜Score 76
 JAMA oncology 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42593771/
 
-15. 代谢/肥胖/糖尿病研究：Housing Instability Associated With Cost-Related Nonadherence and Financial Toxicity in People With Uncontrolled Diabetes.
+14. 代谢/肥胖/糖尿病研究：Housing Instability Associated With Cost-Related Nonadherence and Financial Toxicity in People With Uncontrolled Diabetes.
 Diabetes care｜RCT｜Score 68
 Diabetes care 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42594248/
 
-16. 医疗AI/数字医学研究：Discovery and design of potent cell surface display elements.
+15. 医疗AI/数字医学研究：Discovery and design of potent cell surface display elements.
 Nature biotechnology｜Translational research｜Score 62
 Nature biotechnology 发布的医疗AI/数字医学相关Translational research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42587137/
 
-17. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
+16. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
 The Lancet｜RCT｜Score 62
 The Lancet 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01247-X/fulltext?rss=yes
 
-18. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
+17. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
 The Lancet｜RCT｜Score 62
 The Lancet 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01248-1/fulltext?rss=yes
 
-19. 综合医学研究：Fiber supplementation in irritable bowel syndrome: a systematic review and meta-analysis of randomized controlled trials.
+18. 综合医学研究：Fiber supplementation in irritable bowel syndrome: a systematic review and meta-analysis of randomized controlled trials.
 Gastroenterology｜RCT｜Score 60
 Gastroenterology 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42600900/
 
-20. 感染/疫苗研究：Guiding principles for pragmatic randomised trials of tuberculosis treatments.
+19. 感染/疫苗研究：Guiding principles for pragmatic randomised trials of tuberculosis treatments.
 The Lancet. Infectious diseases｜Guideline｜Score 60
 The Lancet. Infectious diseases 发布的感染/疫苗相关Guideline，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42600623/
+
+20. 肿瘤/血液肿瘤研究：Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer.
+JAMA oncology｜Original research｜Score 60
+JAMA oncology 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42593785/
