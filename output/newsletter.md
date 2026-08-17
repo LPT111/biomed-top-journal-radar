@@ -1,6 +1,33 @@
-# 医学科学新闻推文候选草稿｜2026-08-17 07:54:28
+# 医学科学新闻推文候选草稿｜2026-08-18 07:56:21
 
-## 1. AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
+## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+
+【医学科学新闻】免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+
+一、为什么重要
+Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Bing News CN｜Mon, 10 Oct 2016 20:16:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a839fa63a854a1e9fb2b11ba820b4d8&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+
+---
+
+## 2. AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
 
 【医学科学新闻】AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
 
@@ -27,36 +54,9 @@ Google News CN｜Tue, 11 Aug 2026 01:52:23 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 2. 选路、转轨、冲刺——CGT企业如何在双轨制下找到最优解 - caifuhao.eastmoney.com
+## 3. 中国疾病预防控制中心 - chinacdc.cn
 
-【医学科学新闻】选路、转轨、冲刺——CGT企业如何在双轨制下找到最优解 - caifuhao.eastmoney.com
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Thu, 13 Aug 2026 09:44:00 GMT｜https://news.google.com/rss/articles/CBMia0FVX3lxTE4yTGRkUld2T2VmR1JsQTZGRUhvVGFuWml0THcyUEJnbmxRbmU4RG53QU9SNWNPWm9KR2lwWVZ4NjU5dlhJZGVRVjEtUko5OE4zcWQtZlMxTzJyR2ZIQy1HdW9OUFdETFN1YUhV?oc=5
-
----
-
-## 3. 动物模型市场规模、份额、增长、分析、报告（至2034年） - Straits Research
-
-【医学科学新闻】动物模型市场规模、份额、增长、分析、报告（至2034年） - Straits Research
+【医学科学新闻】中国疾病预防控制中心 - chinacdc.cn
 
 一、为什么重要
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -77,13 +77,40 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Thu, 13 Aug 2026 07:00:00 GMT｜https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwVWdrYkdPT1JlTlpydTFSSllydmZ3TENnS095THY1MlJlT2J0STZWYjNZb3hNU0lweGg2OFY1bGFsbW9IWWpYX0Y1VXk0OUJ4SzRTZHJYa2NzdUJOWnVIRms0MG53dWZ5?oc=5
+Google News CN｜Wed, 12 Aug 2026 08:46:58 GMT｜https://news.google.com/rss/articles/CBMicEFVX3lxTE0yX2YzWVludC1sc1ZPRHJDUVdFeXdYOG1NT05XWGRubmxjdk1vWV9za1pZLVlWVTdaX2wyVlVyMURvMHF4M3dLc2N5T2R4WGZzYm12dkpsOFdiLTNlZkt3SXAwTW9NMy1KajllTXVyUjI?oc=5
 
 ---
 
-## 4. AI进药企，新药研发在提速
+## 4. 博凡格鲁肽临床新证亮相ADA丨肾功能不全及联用二甲双胍均无需调整剂量，双周给药新证带来GLP‑1RA便利新方案
 
-【医学科学新闻】AI进药企，新药研发在提速
+【医学科学新闻】博凡格鲁肽临床新证亮相ADA丨肾功能不全及联用二甲双胍均无需调整剂量，双周给药新证带来GLP‑1RA便利新方案
+
+一、为什么重要
+Bing News CN 发布的代谢/肥胖/糖尿病相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Bing News CN｜Wed, 29 Jul 2026 02:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a839fa5a6994eecb74ce94280aadd78&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-07-29%2fdoc-inikmytp5848792.shtml&c=15890548245257534225&mkt=en-us
+
+---
+
+## 5. 英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
+
+【医学科学新闻】英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
 
 一、为什么重要
 Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -104,19 +131,19 @@ Bing News CN 发布的综合医学相关Medical news，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Thu, 13 Aug 2026 05:15:03 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a824db49d454dafbdf19131494b617b&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2fai%25E8%25BF%259B%25E8%258D%25AF%25E4%25BC%2581-%25E6%2596%25B0%25E8%258D%25AF%25E7%25A0%2594%25E5%258F%2591%25E5%259C%25A8%25E6%258F%2590%25E9%2580%259F%2far-AA2a1OOX&c=16526453813438051725&mkt=en-us
+Bing News CN｜Wed, 18 Sep 2024 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a839fa5a6994eecb74ce94280aadd78&url=https%3a%2f%2fwww.36kr.com%2fp%2f2956420971755648&c=1064439207480232078&mkt=en-us
 
 ---
 
-## 5. 全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究
+## 6. 重症医学/急危重症研究：Cold and Room-Temperature Platelets in Cardiac Surgery: The CHIPS Randomized Clinical Trial.
 
-【医学科学新闻】全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究
+【医学科学新闻】重症医学/急危重症研究：Cold and Room-Temperature Platelets in Cardiac Surgery: The CHIPS Randomized Clinical Trial.
 
 一、为什么重要
-Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+JAMA 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕重症医学/急危重症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -131,11 +158,11 @@ Bing News CN 发布的综合医学相关Medical news，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Sun, 21 Jun 2026 23:02:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a824db49d454dafbdf19131494b617b&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260622A03KGS00&c=5299750458260417961&mkt=en-us
+JAMA｜2026-Aug-17｜https://pubmed.ncbi.nlm.nih.gov/42606886/
 
 ---
 
-## 6. 肿瘤/血液肿瘤研究：Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer: A Randomized Clinical Trial.
+## 7. 肿瘤/血液肿瘤研究：Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer: A Randomized Clinical Trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer: A Randomized Clinical Trial.
 
@@ -162,7 +189,7 @@ JAMA｜2026-Aug-13｜https://pubmed.ncbi.nlm.nih.gov/42593775/
 
 ---
 
-## 7. 综合医学研究：Talquetamab-Daratumumab in Relapsed or Refractory Myeloma.
+## 8. 综合医学研究：Talquetamab-Daratumumab in Relapsed or Refractory Myeloma.
 
 【医学科学新闻】综合医学研究：Talquetamab-Daratumumab in Relapsed or Refractory Myeloma.
 
@@ -186,33 +213,6 @@ The New England journal of medicine 发布的综合医学相关RCT，值得关�
 
 七、参考信息
 The New England journal of medicine｜2026-Aug-13｜https://pubmed.ncbi.nlm.nih.gov/42294841/
-
----
-
-## 8. 肿瘤/血液肿瘤研究：Selpercatinib in Early-Stage RET Fusion-Positive Non-Small-Cell Lung Cancer.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Selpercatinib in Early-Stage RET Fusion-Positive Non-Small-Cell Lung Cancer.
-
-一、为什么重要
-The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The New England journal of medicine｜2026-Aug-13｜https://pubmed.ncbi.nlm.nih.gov/42223087/
 
 ---
 
@@ -270,34 +270,7 @@ The lancet. Diabetes & endocrinology｜2026-Aug-13｜https://pubmed.ncbi.nlm.nih
 
 ---
 
-## 11. 肿瘤/血液肿瘤研究：Biomarkers of nivolumab benefit in resectable non-small cell lung cancer.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Biomarkers of nivolumab benefit in resectable non-small cell lung cancer.
-
-一、为什么重要
-Nature 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature｜2026-Aug-12｜https://pubmed.ncbi.nlm.nih.gov/42587156/
-
----
-
-## 12. 肿瘤/血液肿瘤研究：SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial.
+## 11. 肿瘤/血液肿瘤研究：SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial.
 
@@ -324,7 +297,7 @@ Cancer cell｜2026-Aug-13｜https://pubmed.ncbi.nlm.nih.gov/42594871/
 
 ---
 
-## 13. 肿瘤/血液肿瘤研究：Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer.
+## 12. 肿瘤/血液肿瘤研究：Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer.
 
@@ -351,7 +324,7 @@ JAMA oncology｜2026-Aug-13｜https://pubmed.ncbi.nlm.nih.gov/42593771/
 
 ---
 
-## 14. 代谢/肥胖/糖尿病研究：Housing Instability Associated With Cost-Related Nonadherence and Financial Toxicity in People With Uncontrolled Diabetes.
+## 13. 代谢/肥胖/糖尿病研究：Housing Instability Associated With Cost-Related Nonadherence and Financial Toxicity in People With Uncontrolled Diabetes.
 
 【医学科学新闻】代谢/肥胖/糖尿病研究：Housing Instability Associated With Cost-Related Nonadherence and Financial Toxicity in People With Uncontrolled Diabetes.
 
@@ -378,15 +351,15 @@ Diabetes care｜2026-Aug-13｜https://pubmed.ncbi.nlm.nih.gov/42594248/
 
 ---
 
-## 15. 医疗AI/数字医学研究：Discovery and design of potent cell surface display elements.
+## 14. 公共卫生/流行病学研究：Changes in Emergency Department Pediatric Readiness, Inpatient Services, and Excess Child Deaths.
 
-【医学科学新闻】医疗AI/数字医学研究：Discovery and design of potent cell surface display elements.
+【医学科学新闻】公共卫生/流行病学研究：Changes in Emergency Department Pediatric Readiness, Inpatient Services, and Excess Child Deaths.
 
 一、为什么重要
-Nature biotechnology 发布的医疗AI/数字医学相关Translational research，值得关注其研究设计、核心发现和转化边界。
+JAMA pediatrics 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕医疗AI/数字医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -401,11 +374,65 @@ Nature biotechnology 发布的医疗AI/数字医学相关Translational research�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature biotechnology｜2026-Aug-12｜https://pubmed.ncbi.nlm.nih.gov/42587137/
+JAMA pediatrics｜2026-Aug-17｜https://pubmed.ncbi.nlm.nih.gov/42606885/
 
 ---
 
-## 16. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
+## 15. 公共卫生/流行病学研究：Screen Use and Children's Language Development From Ages 5 to 7 Years.
+
+【医学科学新闻】公共卫生/流行病学研究：Screen Use and Children's Language Development From Ages 5 to 7 Years.
+
+一、为什么重要
+JAMA pediatrics 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA pediatrics｜2026-Aug-17｜https://pubmed.ncbi.nlm.nih.gov/42606877/
+
+---
+
+## 16. 公共卫生/流行病学研究：Anti-CD320 Autoantibodies and Central Nervous System Vitamin B12 Deficiency in Idiopathic Myelopathy.
+
+【医学科学新闻】公共卫生/流行病学研究：Anti-CD320 Autoantibodies and Central Nervous System Vitamin B12 Deficiency in Idiopathic Myelopathy.
+
+一、为什么重要
+JAMA neurology 发布的公共卫生/流行病学相关Translational research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA neurology｜2026-Aug-17｜https://pubmed.ncbi.nlm.nih.gov/42606839/
+
+---
+
+## 17. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
 
 【医学科学新闻】代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
 
@@ -432,7 +459,7 @@ The Lancet｜2026-07-30T22:30:01Z｜https://www.thelancet.com/journals/lancet/ar
 
 ---
 
-## 17. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
+## 18. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
 
 【医学科学新闻】代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
 
@@ -459,15 +486,15 @@ The Lancet｜2026-07-30T22:30:01Z｜https://www.thelancet.com/journals/lancet/ar
 
 ---
 
-## 18. 综合医学研究：Fiber supplementation in irritable bowel syndrome: a systematic review and meta-analysis of randomized controlled trials.
+## 19. 代谢/肥胖/糖尿病研究：Serologic Immunity to Hepatitis A and B in US Adults and High-Risk Populations.
 
-【医学科学新闻】综合医学研究：Fiber supplementation in irritable bowel syndrome: a systematic review and meta-analysis of randomized controlled trials.
+【医学科学新闻】代谢/肥胖/糖尿病研究：Serologic Immunity to Hepatitis A and B in US Adults and High-Risk Populations.
 
 一、为什么重要
-Gastroenterology 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+JAMA internal medicine 发布的代谢/肥胖/糖尿病相关Original research，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -482,19 +509,19 @@ Gastroenterology 发布的综合医学相关RCT，值得关注其研究设计、
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Gastroenterology｜2026-Aug-14｜https://pubmed.ncbi.nlm.nih.gov/42600900/
+JAMA internal medicine｜2026-Aug-17｜https://pubmed.ncbi.nlm.nih.gov/42606884/
 
 ---
 
-## 19. 感染/疫苗研究：Guiding principles for pragmatic randomised trials of tuberculosis treatments.
+## 20. 神经科学/神经疾病研究：Safety of Antiseizure Medications During Direct Oral Anticoagulant Therapy in Epilepsy.
 
-【医学科学新闻】感染/疫苗研究：Guiding principles for pragmatic randomised trials of tuberculosis treatments.
+【医学科学新闻】神经科学/神经疾病研究：Safety of Antiseizure Medications During Direct Oral Anticoagulant Therapy in Epilepsy.
 
 一、为什么重要
-The Lancet. Infectious diseases 发布的感染/疫苗相关Guideline，值得关注其研究设计、核心发现和转化边界。
+JAMA neurology 发布的神经科学/神经疾病相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -509,33 +536,6 @@ The Lancet. Infectious diseases 发布的感染/疫苗相关Guideline，值得�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The Lancet. Infectious diseases｜2026-Aug-14｜https://pubmed.ncbi.nlm.nih.gov/42600623/
-
----
-
-## 20. 肿瘤/血液肿瘤研究：Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer.
-
-一、为什么重要
-JAMA oncology 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA oncology｜2026-Aug-13｜https://pubmed.ncbi.nlm.nih.gov/42593785/
+JAMA neurology｜2026-Aug-17｜https://pubmed.ncbi.nlm.nih.gov/42606848/
 
 ---
