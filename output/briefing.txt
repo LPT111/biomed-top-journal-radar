@@ -1,4 +1,4 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-08-18 07:56:21
+【Biomed Radar】今日医学科学新闻已更新｜2026-08-19 07:55:52
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
@@ -6,99 +6,99 @@ RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
 Bing News CN｜RCT｜Score 51
 Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a839fa63a854a1e9fb2b11ba820b4d8&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a84f10a4c004204a9791432f40a7ec8&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 
-2. AI进药企，如何真正驱动创新药高质量发展？ - chinanews.com.cn
-Google News CN｜Medical news｜Score 32
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTYWhUYW5KV2tzSU9VQnhnb3FWMVNyRDZZTThnSWhHVUZBNWt4ZlAxeG1ZcFZSRThQaEFxVGFWR1F1Zk9GVDFTQzlJcExaeFVzZ2d2dFdhb29DX0swRXQtQnVVLUNoZ1Jm?oc=5
-
-3. 中国疾病预防控制中心 - chinacdc.cn
+2. 四部门发布《关于加强医院法治建设的意见》 - chinanews.com.cn
 Google News CN｜Medical news｜Score 27
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMicEFVX3lxTE0yX2YzWVludC1sc1ZPRHJDUVdFeXdYOG1NT05XWGRubmxjdk1vWV9za1pZLVlWVTdaX2wyVlVyMURvMHF4M3dLc2N5T2R4WGZzYm12dkpsOFdiLTNlZkt3SXAwTW9NMy1KajllTXVyUjI?oc=5
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUZkgtYkcwNVBlRk0yYlhDUzMyY09sRVM3dkwyb21Mb1hZSTk1UGFpRkJYeG9mM1VYR2p1WEJtWUZ2QVpIS0F0QTFuS2VJOTRjcU8wTWRVTHhlVHhaQmZ5WGNaN3RucTVF?oc=5
 
-4. 博凡格鲁肽临床新证亮相ADA丨肾功能不全及联用二甲双胍均无需调整剂量，双周给药新证带来GLP‑1RA便利新方案
-Bing News CN｜Medical news｜Score 26
-Bing News CN 发布的代谢/肥胖/糖尿病相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a839fa5a6994eecb74ce94280aadd78&url=https%3a%2f%2ffinance.sina.com.cn%2fwm%2f2026-07-29%2fdoc-inikmytp5848792.shtml&c=15890548245257534225&mkt=en-us
-
-5. 英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
+3. 英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a839fa5a6994eecb74ce94280aadd78&url=https%3a%2f%2fwww.36kr.com%2fp%2f2956420971755648&c=1064439207480232078&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a84f10917ce4a7c87be900d67383a37&url=https%3a%2f%2fwww.36kr.com%2fp%2f2956420971755648&c=1064439207480232078&mkt=en-us
 
-6. 重症医学/急危重症研究：Cold and Room-Temperature Platelets in Cardiac Surgery: The CHIPS Randomized Clinical Trial.
+4. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+Bing News CN｜Medical news｜Score 26
+Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a84f10a4c004204a9791432f40a7ec8&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
+
+5. 甘李药业GLP-1新药7.26亿欧元授权出海|艾力斯医药引进全球首创双抗ADC - phirda.com
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiekFVX3lxTE56UVV4a2VuMVZLTGZvOFFJTVJKZVZpQmpPX0lHTEw3VDlrbDVQYVZiV0V0bGxMWVN4WXVYLWhDZG1JOTVmQlg3SzYtbHliblNHYWl5eWRvaW9Lb2Q0T3doRm8xYURxblFxeWphMkxEWHRMdFpHRVJQTXpB?oc=5
+
+6. 代谢/肥胖/糖尿病研究：Long-term safety of oral orforglipron in Japanese participants with type 2 diabetes (ACHIEVE-J): a multicentre, randomised, open-label, parallel-group phase 3 trial.
+The lancet. Diabetes & endocrinology｜Phase 3 trial｜Score 100
+The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42607698/
+
+7. 重症医学/急危重症研究：Cold and Room-Temperature Platelets in Cardiac Surgery: The CHIPS Randomized Clinical Trial.
 JAMA｜RCT｜Score 94
 JAMA 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42606886/
 
-7. 肿瘤/血液肿瘤研究：Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer: A Randomized Clinical Trial.
-JAMA｜RCT｜Score 94
-JAMA 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42593775/
+8. 公共卫生/流行病学研究：Lifestyle and Metformin Interventions and Risk of Multimorbidity in Adults With Prediabetes.
+JAMA｜RCT｜Score 80
+JAMA 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42295772/
 
-8. 综合医学研究：Talquetamab-Daratumumab in Relapsed or Refractory Myeloma.
-The New England journal of medicine｜RCT｜Score 91
-The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42294841/
+9. 生物医药/细胞与基因治疗研究：Eltrombopag plus cyclosporine A for moderate aplastic anemia (EMAA): a placebo-controlled, double-blind, phase 3 trial.
+Blood｜RCT｜Score 74
+Blood 发布的生物医药/细胞与基因治疗相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42611779/
 
-9. 综合医学研究：Phase 3 Trial of Secukinumab in Polymyalgia Rheumatica.
-The New England journal of medicine｜RCT｜Score 88
-The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42234540/
+10. 心血管研究：Bempedoic Acid and First and Recurrent Limb Outcomes in Statin-Intolerant Patients With Peripheral Artery Disease: Insights From the CLEAR Outcomes Trial.
+Circulation｜RCT｜Score 71
+Circulation 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42610264/
 
-10. 代谢/肥胖/糖尿病研究：Once-weekly IcoSema versus once-daily insulin glargine U100 in type 2 diabetes management (COMBINE 4): an open-label, multicentre, treat-to-target, randomised, phase 3b trial.
-The lancet. Diabetes & endocrinology｜Phase 3 trial｜Score 86
-The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42594928/
+11. 公共卫生/流行病学研究：Sapablursen for Erythrocytosis Control in Patients with Polycythemia Vera.
+Blood｜RCT｜Score 68
+Blood 发布的公共卫生/流行病学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42611791/
 
-11. 肿瘤/血液肿瘤研究：SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial.
-Cancer cell｜Clinical trial｜Score 79
-Cancer cell 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42594871/
+12. 生物医药/细胞与基因治疗研究：Virus-like particles enable targeted gene engineering and pooled CRISPR screening in primary human myeloid cells.
+Nature biotechnology｜Translational research｜Score 62
+Nature biotechnology 发布的生物医药/细胞与基因治疗相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42608566/
 
-12. 肿瘤/血液肿瘤研究：Tissue-Free vs Tumor-Informed ctDNA Assays for Molecular Residual Disease Detection in Early Triple Negative Breast Cancer.
-JAMA oncology｜Phase 2 trial｜Score 76
-JAMA oncology 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42593771/
-
-13. 代谢/肥胖/糖尿病研究：Housing Instability Associated With Cost-Related Nonadherence and Financial Toxicity in People With Uncontrolled Diabetes.
-Diabetes care｜RCT｜Score 68
-Diabetes care 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42594248/
-
-14. 公共卫生/流行病学研究：Changes in Emergency Department Pediatric Readiness, Inpatient Services, and Excess Child Deaths.
+13. 公共卫生/流行病学研究：Changes in Emergency Department Pediatric Readiness, Inpatient Services, and Excess Child Deaths.
 JAMA pediatrics｜Original research｜Score 62
 JAMA pediatrics 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42606885/
 
-15. 公共卫生/流行病学研究：Screen Use and Children's Language Development From Ages 5 to 7 Years.
+14. 公共卫生/流行病学研究：Screen Use and Children's Language Development From Ages 5 to 7 Years.
 JAMA pediatrics｜Original research｜Score 62
 JAMA pediatrics 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42606877/
 
-16. 公共卫生/流行病学研究：Anti-CD320 Autoantibodies and Central Nervous System Vitamin B12 Deficiency in Idiopathic Myelopathy.
+15. 公共卫生/流行病学研究：Anti-CD320 Autoantibodies and Central Nervous System Vitamin B12 Deficiency in Idiopathic Myelopathy.
 JAMA neurology｜Translational research｜Score 62
 JAMA neurology 发布的公共卫生/流行病学相关Translational research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42606839/
 
-17. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
+16. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
 The Lancet｜RCT｜Score 62
 The Lancet 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01247-X/fulltext?rss=yes
 
-18. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
+17. 代谢/肥胖/糖尿病研究：[Articles] Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial
 The Lancet｜RCT｜Score 62
 The Lancet 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01248-1/fulltext?rss=yes
 
-19. 代谢/肥胖/糖尿病研究：Serologic Immunity to Hepatitis A and B in US Adults and High-Risk Populations.
-JAMA internal medicine｜Original research｜Score 60
-JAMA internal medicine 发布的代谢/肥胖/糖尿病相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42606884/
+18. 神经科学/神经疾病研究：Gastroparesis: A Review.
+JAMA｜Guideline｜Score 60
+JAMA 发布的神经科学/神经疾病相关Guideline，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42485161/
 
-20. 神经科学/神经疾病研究：Safety of Antiseizure Medications During Direct Oral Anticoagulant Therapy in Epilepsy.
-JAMA neurology｜Clinical trial｜Score 60
-JAMA neurology 发布的神经科学/神经疾病相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42606848/
+19. 心血管研究：Effects of a "Food Is Medicine" Intervention on Glucose Control Among Medicaid-Insured Patients With Type 2 Diabetes: A Randomized Controlled Trial.
+Circulation｜RCT｜Score 60
+Circulation 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42478360/
+
+20. 心血管研究：Implications of the 2026 Dyslipidemia Guideline for Primary Prevention Statin Therapy.
+JAMA｜Guideline｜Score 60
+JAMA 发布的心血管相关Guideline，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42475062/
