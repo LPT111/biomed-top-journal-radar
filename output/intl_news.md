@@ -6,25 +6,23 @@
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Although medications with glucagon-like peptide-1 (GLP-1) receptor agonist activity have transformed the management of obesity and shown substantial cardiometabolic benefits, unmet needs remain. Survodutide, an investigational glucagon receptor-GLP-1 receptor dual agonist, led to substantial weight reduction in a phase 2 trial involving adults with obesity without diabetes.
 METHODS: In this phase 3, double-blind trial, we randomly assigned adults with a body-mass index (BMI; the weight in kilograms divi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42253238/
-2. 重症医学/急危重症研究：Carbocisteine or Hypertonic Saline for Acute Respiratory Failure.
+2. 感染/疫苗研究：Azithromycin with or without cefixime for suspected or culture-confirmed uncomplicated typhoid fever in Nepal, Bangladesh, and Pakistan (ACT-South Asia): a double-blind, parallel-group, randomised, placebo-controlled, phase 4 trial.
+   - 来源：The Lancet. Infectious diseases
+   - 时间：2026-Aug-20
+   - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为RCT。摘要信息显示：BACKGROUND: WHO recommends azithromycin for uncomplicated typhoid fever treatment. Cefixime is also commonly used, but both drugs have reported failure rates of 10% or more. We hypothesised that combining azithromycin's intracellular activity with the extracellular activity of cefixime could overcome each drugs' pharmacokinetic gaps and enhance tissue sterilisation. The study objective was to determine if a combination of azithromycin and cefixime would reduce treatment failure rates compared with azithromycin alon... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42624818/
+3. 重症医学/急危重症研究：Carbocisteine or Hypertonic Saline for Acute Respiratory Failure.
    - 来源：The New England journal of medicine
    - 时间：2026-Aug-20
    - 摘要：这条内容聚焦重症医学/急危重症。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Mucoactive agents are widely used in patients with acute respiratory failure despite limited evidence of their effectiveness or safety.
 METHODS: We conducted a multicenter, open-label, randomized trial with a 2-by-2 factorial design that involved critically ill, mechanically ventilated participants 16 years of age or older with acute respiratory failure and difficult-to-clear secretions. All participants received usual care along with carbocisteine (750 mg three times daily enterally), 6% or 7% nebulize... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42267821/
-3. 感染/疫苗研究：Azithromycin for Preschoolers with Wheezing in the Emergency Department.
+4. 感染/疫苗研究：Azithromycin for Preschoolers with Wheezing in the Emergency Department.
    - 来源：The New England journal of medicine
    - 时间：2026-Aug-20
    - 摘要：这条内容聚焦感染/疫苗。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Wheezing illnesses are a leading cause of hospitalization for preschool-age children and are frequently treated with antibiotics. Observational studies have shown more frequent isolation of three pathogenic bacteria (Streptococcus pneumoniae, Moraxella catarrhalis, and Haemophilus influenzae) from nasopharyngeal samples from children with recurrent episodes of wheezing than from those without such illnesses.
 METHODS: In this multicenter trial, we randomly assigned patients 18 to 59 months of age who pre... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42149992/
-4. 肿瘤/血液肿瘤研究：Preoperative High-Dose Corticosteroids in Digestive Cancer Surgery: A Randomized Clinical Trial.
-   - 来源：JAMA surgery
-   - 时间：2026-Aug-19
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Modulating perioperative inflammation could be associated with fewer postoperative complications and better outcomes in major digestive surgery. The clinical benefit of corticosteroids with this purpose remains controversial.
-OBJECTIVE: To assess whether preoperative high-dose corticosteroids improve postoperative outcomes after surgery for digestive cancer.
-DESIGN, SETTING, AND PARTICIPANTS: This double-blind, placebo-controlled, superiority randomized clinical trial included patients undergoing electi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42616512/
 5. 肿瘤/血液肿瘤研究：First-Line Sunvozertinib in NSCLC with EGFR Exon 20 Insertion Mutations.
    - 来源：The New England journal of medicine
    - 时间：2026-Aug-20
@@ -51,39 +49,41 @@ METHODS: In this phase 3, international trial, we randomly assigned, in a 1:1 ra
    - 时间：2026-Aug-19
    - 摘要：这条内容聚焦免疫/炎症。来源为Science translational medicine，类型初步识别为RCT。摘要信息显示：Chimeric antigen receptor (CAR) T cell therapy for acute myeloid leukemia (AML) is constrained by antigen heterogeneity and shared expression with healthy compartments, and there are often challenges in obtaining autologous T cells from heavily pretreated patients. To address these challenges, we developed universal donor-derived, base-edited, anti-CD33 CAR T cells (BE-CAR33) that used precise multiplexed cytidine deamination to simultaneously disrupt the TRAC, CD52, and CD7 loci to prevent graft-versus-host diseas... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42616838/
-10. 公共卫生/流行病学研究：Daily Zinc Supplementation for Infection Prevention in Children With Sickle Cell Anemia: The ZIPS-2 Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Aug-19
-   - 摘要：这条内容聚焦公共卫生/流行病学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Despite existing prevention strategies, infections remain a major cause of morbidity and mortality in children in Africa with sickle cell anemia.
-OBJECTIVE: To determine the safety and effectiveness of daily zinc supplementation to prevent all-cause infection in children with sickle cell anemia in Uganda.
-DESIGN, SETTING, AND PARTICIPANTS: A randomized, double-blind, placebo-controlled trial of children aged 1.00 to 4.99 years with sickle cell anemia at Jinja Regional Referral Hospital in Jinja, Uganda,... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42616536/
-11. 重症医学/急危重症研究：Incisional Negative Pressure Wound Therapy for Prevention of Surgical Site Infection: A Systematic Review and Meta-Analysis.
-   - 来源：JAMA surgery
-   - 时间：2026-Aug-19
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Incisional negative pressure wound therapy (iNPWT) has been proposed as a nonantibiotic adjunct to standard dressings for preventing surgical site infection (SSI), but uncertainty remains regarding consistency across SSI subtypes and dressing-related harms.
-OBJECTIVE: To evaluate the efficacy and safety of iNPWT vs standard dressing in adults undergoing surgery.
-DATA SOURCES: PubMed, Embase, and Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception through March 7, 2026.
-... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42616534/
-12. 感染/疫苗研究：Comparison of VPM1002 with BCG in the prevention of tuberculosis in newborn infants: a multicentre, double-blind, randomised, phase 3, non-inferiority trial.
-   - 来源：The Lancet. Infectious diseases
-   - 时间：2026-Aug-18
-   - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为RCT。摘要信息显示：BACKGROUND: Although BCG provides protection against severe forms of tuberculosis in children, its efficacy against pulmonary tuberculosis in adolescents and adults is highly variable, and it offers limited and inconsistent protection against infection and transmission. VPM1002 is a recombinant BCG vaccine that showed manageable toxicity and immunogenicity in phase 1 trials in adults and in phase 2 trials in South African newborns. We compared VPM1002 with BCG for the prevention of Mycobacterium tuberculosis infect... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42612668/
-13. 医疗AI/数字医学研究：Large-scale AI-guided liver malignancy diagnosis: multicenter study and a single-arm trial.
+10. 医疗AI/数字医学研究：Large-scale AI-guided liver malignancy diagnosis: multicenter study and a single-arm trial.
    - 来源：Nature medicine
    - 时间：2026-Aug-19
    - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature medicine，类型初步识别为Clinical trial。摘要信息显示：Liver malignancies are frequently evaluated on contrast-enhanced computed tomography (CE-CT), but missed or delayed diagnoses remain a clinically important challenge in high-volume, real-world radiology workflows, highlighting the need for scalable diagnostic safety net approaches. To address this, we developed the Liver DiagnOsis Network (LiON), a CE-CT-based artificial intelligence (AI) system that supports flexible multiphase processing, clinical data integration and workflow-compatible liver malignancy diagnosi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42618635/
-14. 重症医学/急危重症研究：Early red blood cell transfusion strategy in septic shock among patients with cancer: the TRANSPORT randomized controlled trial.
-   - 来源：Intensive care medicine
-   - 时间：2026-Aug-19
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为Intensive care medicine，类型初步识别为RCT。摘要信息显示：PURPOSE: Septic shock in cancer patients remains associated with a grim prognosis. With regard to the high prevalence of anemia, the optimal hemoglobin target to restore tissue oxygenation remains uncertain.
-METHODS: This was a multicenter superiority randomized controlled trial carried out in 18 centers in France. Adult patients with hematological or solid malignancies presenting with septic shock with lactate level > 2.0 mmol/L and hemoglobin level < 9.0 g/dL were randomly assigned to liberal or restrictive red b... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42616082/
-15. 综合医学研究：Arginine Therapy for Sickle Cell Disease Acute Pain Episodes: The STArT Randomized Clinical Trial.
+11. 公共卫生/流行病学研究：Symptom burden to characterise, predict, and prevent asthma attacks: a patient-level meta-analysis of randomised trials and translational prospective studies.
+   - 来源：The Lancet. Respiratory medicine
+   - 时间：2026-Aug-20
+   - 摘要：这条内容聚焦公共卫生/流行病学。来源为The Lancet. Respiratory medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Asthma symptoms often guide disease assessment and management, but their prognostic and predictive value is unclear. We evaluated the extent to which symptom burden measured by the 5-item Asthma Control Questionnaire (ACQ-5) predicts future severe asthma attacks and response to anti-inflammatory therapy.
+METHODS: We conducted an individual participant data meta-analysis of selected randomised controlled trials and translational observational cohort studies of asthma of varying severity. Primary analyses... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42624803/
+12. 综合医学研究：Arginine Therapy for Sickle Cell Disease Acute Pain Episodes: The STArT Randomized Clinical Trial.
    - 来源：JAMA
    - 时间：2026-Aug-19
    - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Acute pain episodes are the leading cause of emergency department visits and hospitalizations for patients with sickle cell disease (SCD), yet US Food and Drug Administration-approved drugs for acute pain episodes are lacking. During acute pain episodes, patients develop acute arginine deficiency associated with longer time to crisis resolution and greater total parenteral opioid use. Multiple single-center, phase 2 randomized clinical trials have shown that arginine is safe, is opioid sparing, improves... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42616542/
+13. 心血管研究：Head positioning after endovascular therapy for acute stroke due to large vessel occlusion (HeadSOAR): multicentre randomised controlled trial.
+   - 来源：BMJ (Clinical research ed.)
+   - 时间：2026-Aug-20
+   - 摘要：这条内容聚焦心血管。来源为BMJ (Clinical research ed.)，类型初步识别为RCT。摘要信息显示：OBJECTIVE: To determine whether an elevated head position (30-40°) improves functional outcomes compared with a flat head position (0-10°) in patients with acute ischaemic stroke caused by anterior circulation large vessel occlusion who have achieved successful reperfusion after endovascular thrombectomy.
+DESIGN: Multicentre, prospective, randomised, open label, blinded endpoint clinical trial.
+SETTING: 67 comprehensive stroke centres in China, between 16 November 2023 and 23 January 2025.
+PARTICIPANTS: 1368 adults... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42624516/
+14. 综合医学研究：Intravenous iron to treat anaemia before cardiac surgery (ITACS): international, double blind, placebo controlled randomised trial.
+   - 来源：BMJ (Clinical research ed.)
+   - 时间：2026-Aug-19
+   - 摘要：这条内容聚焦综合医学。来源为BMJ (Clinical research ed.)，类型初步识别为RCT。摘要信息显示：OBJECTIVE: To evaluate the effects of intravenous iron on red cell transfusion and recovery after cardiac surgery.
+DESIGN: International, multicentre, double blind, placebo controlled randomised trial (ITACS).
+SETTING: 33 hospitals across 10 countries. Participants were enrolled between July 2016 and December 2023.
+PARTICIPANTS: 955 adults with anaemia undergoing elective cardiac surgery. Exclusion criteria included haemoglobinopathy or iron storage disorder, renal dialysis, and erythropoietin or intravenous iron g... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42618081/
+15. 免疫/炎症研究：β-Cell Function and Diabetes Outcomes 1 Year After Stopping Oral Baricitinib Immunotherapy for Type 1 Diabetes.
+   - 来源：Diabetes care
+   - 时间：2026-Aug-21
+   - 摘要：这条内容聚焦免疫/炎症。来源为Diabetes care，类型初步识别为RCT。摘要信息显示：OBJECTIVE: The Baricitinib in New-Onset Type 1 Diabetes (BANDIT) trial showed that baricitinib treatment for 48 weeks preserved β-cell function and lowered insulin requirements and glucose in recent-onset type 1 diabetes. We aimed to determine the durability of these effects following treatment cessation.
+RESEARCH DESIGN AND METHODS: The following posttreatment outcomes of the randomized, double-blind, placebo-controlled BANDIT trial were analyzed: C-peptide and glucagon responses to a mixed meal, HbA1c, continuous... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42627334/
