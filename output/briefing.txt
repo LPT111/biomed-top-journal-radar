@@ -1,33 +1,33 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-08-23 07:55:08
+【Biomed Radar】今日医学科学新闻已更新｜2026-08-24 07:55:21
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS Nature: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-1. 四部门发布《关于加强医院法治建设的意见》 - chinanews.com.cn
+1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+Bing News CN｜RCT｜Score 51
+Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8b886a27af4f878f86d14412c4f009&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+
+2. 四部门发布《关于加强医院法治建设的意见》 - chinanews.com.cn
 Google News CN｜Medical news｜Score 27
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUZkgtYkcwNVBlRk0yYlhDUzMyY09sRVM3dkwyb21Mb1hZSTk1UGFpRkJYeG9mM1VYR2p1WEJtWUZ2QVpIS0F0QTFuS2VJOTRjcU8wTWRVTHhlVHhaQmZ5WGNaN3RucTVF?oc=5
 
-2. GIL 2026 | 沙利文增长、科创与领导力最佳实践奖医疗行业获奖企业公布 - Frost & Sullivan China
+3. GIL 2026 | 沙利文增长、科创与领导力最佳实践奖医疗行业获奖企业公布 - Frost & Sullivan China
 Google News CN｜Medical news｜Score 27
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMigAFBVV95cUxOTnhUYjhIa0x6U2ZFZ1Q3MDFMM0xmZmZzWjlIaEZ4OW02ZmtsaVJNWkwxejBnbFVOLUpIN0REelZDemV5ZHE0NHZpYjRMV0IzOWxaZTBPOXExQTJrNWRHckk2QXUxeko1bkptbWRYSlFUNnoxaWt0OE8tdVA1OUF0Xw?oc=5
 
-3. 从实验室到临床：细胞与基因治疗的临床试验及转化
-Bing News CN｜Medical news｜Score 26
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a36ddfe964d19aedfab8fd819bb3b&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+4. 中国疾病预防控制中心（中国预防医学科学院） 与浙江大学签署战略合作框架协议 - chinacdc.cn
+Google News CN｜Medical news｜Score 27
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiakFVX3lxTE8xR0tEQi1tS3N3eWZpVHZqTk5HNEhLMUFsd3VZMDQwQlhXTk5FUy15QW1GQWxGMVM1dGFTX3A4UW1NV3h0TmtNdXZ1ZFdQbHJ5Q3ctcHlfR1NobXJUNUFkV28xa2ZacTBiNUE?oc=5
 
-4. 36氪首发 | 开发CAR-巨噬细胞免疫疗法，「元迈细胞」获数千万元天使轮融资
+5. 从实验室到临床：细胞与基因治疗的临床试验及转化
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a36ddfe964d19aedfab8fd819bb3b&url=https%3a%2f%2fwww.36kr.com%2fp%2f2028289937484804&c=11023749146922413707&mkt=en-us
-
-5. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
-Bing News CN｜Medical news｜Score 26
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a36ddfe964d19aedfab8fd819bb3b&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8b886a27af4f878f86d14412c4f009&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
 6. 代谢/肥胖/糖尿病研究：Efficacy and safety of mazdutide in adults with obesity or overweight: a US-based, multicentre, phase 2, randomised, placebo-controlled clinical trial.
 The lancet. Diabetes & endocrinology｜RCT｜Score 96

@@ -1,6 +1,33 @@
-# 医学科学新闻推文候选草稿｜2026-08-23 07:55:08
+# 医学科学新闻推文候选草稿｜2026-08-24 07:55:21
 
-## 1. 四部门发布《关于加强医院法治建设的意见》 - chinanews.com.cn
+## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+
+【医学科学新闻】免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+
+一、为什么重要
+Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Bing News CN｜Mon, 10 Oct 2016 20:16:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8b886a27af4f878f86d14412c4f009&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+
+---
+
+## 2. 四部门发布《关于加强医院法治建设的意见》 - chinanews.com.cn
 
 【医学科学新闻】四部门发布《关于加强医院法治建设的意见》 - chinanews.com.cn
 
@@ -27,7 +54,7 @@ Google News CN｜Tue, 18 Aug 2026 04:14:28 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 2. GIL 2026 | 沙利文增长、科创与领导力最佳实践奖医疗行业获奖企业公布 - Frost & Sullivan China
+## 3. GIL 2026 | 沙利文增长、科创与领导力最佳实践奖医疗行业获奖企业公布 - Frost & Sullivan China
 
 【医学科学新闻】GIL 2026 | 沙利文增长、科创与领导力最佳实践奖医疗行业获奖企业公布 - Frost & Sullivan China
 
@@ -54,7 +81,34 @@ Google News CN｜Thu, 20 Aug 2026 10:32:45 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. 从实验室到临床：细胞与基因治疗的临床试验及转化
+## 4. 中国疾病预防控制中心（中国预防医学科学院） 与浙江大学签署战略合作框架协议 - chinacdc.cn
+
+【医学科学新闻】中国疾病预防控制中心（中国预防医学科学院） 与浙江大学签署战略合作框架协议 - chinacdc.cn
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Sun, 23 Aug 2026 05:48:43 GMT｜https://news.google.com/rss/articles/CBMiakFVX3lxTE8xR0tEQi1tS3N3eWZpVHZqTk5HNEhLMUFsd3VZMDQwQlhXTk5FUy15QW1GQWxGMVM1dGFTX3A4UW1NV3h0TmtNdXZ1ZFdQbHJ5Q3ctcHlfR1NobXJUNUFkV28xa2ZacTBiNUE?oc=5
+
+---
+
+## 5. 从实验室到临床：细胞与基因治疗的临床试验及转化
 
 【医学科学新闻】从实验室到临床：细胞与基因治疗的临床试验及转化
 
@@ -77,61 +131,7 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a36ddfe964d19aedfab8fd819bb3b&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
-
----
-
-## 4. 36氪首发 | 开发CAR-巨噬细胞免疫疗法，「元迈细胞」获数千万元天使轮融资
-
-【医学科学新闻】36氪首发 | 开发CAR-巨噬细胞免疫疗法，「元迈细胞」获数千万元天使轮融资
-
-一、为什么重要
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Bing News CN｜Wed, 07 Dec 2022 16:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a36ddfe964d19aedfab8fd819bb3b&url=https%3a%2f%2fwww.36kr.com%2fp%2f2028289937484804&c=11023749146922413707&mkt=en-us
-
----
-
-## 5. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
-
-【医学科学新闻】攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
-
-一、为什么重要
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Bing News CN｜Tue, 23 Jun 2026 09:51:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8a36ddfe964d19aedfab8fd819bb3b&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
+Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8b886a27af4f878f86d14412c4f009&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
 ---
 
