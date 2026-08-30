@@ -15,7 +15,7 @@
    - 时间：Mon, 24 Aug 2026 03:06:38 GMT
    - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVlVOWpldTFtQW16dU91dGthaUg0NEo5YnZwdUNGLURpNkpMVm1jeXJrNXVoWXFZMzlWV0ZReXFEQjkxbUVtcjRtOTd4ZjN4MUJiUGRjUGJPYUZTbzdBREk0aWpaajhXWnhtLVpVZ2VEeV9PYnJDMmdrRFA1TllpWGV2QQ?oc=5" target="_blank">国家卫健委重点实验室“高血压诊疗研究重点实验室”学术委员会会议在新疆人民医院顺利召开</a>&nbsp;&nbsp;<font color="#6f6f6f">xj.chinanews.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVlVOWpldTFtQW16dU91dGthaUg0NEo5YnZwdUNGLURpNkpMVm1jeXJrNXVoWXFZMzlWV0ZReXFEQjkxbUVtcjRtOTd4ZjN4MUJiUGRjUGJPYUZTbzdBREk0aWpaajhXWnhtLVpVZ2VEeV9PYnJDMmdrRFA1TllpWGV2QQ?oc=5
-4. “AI+DIY”癌症免疫治疗时代到来|黑色素瘤|默沙东|抗原|肿瘤|个性化_手机新浪网 - 新浪财经
+4. “AI+DIY”癌症免疫治疗时代到来|黑色素瘤|默沙东|抗原|肿瘤|个性化_手机新浪网 - finance.sina.com.cn
    - 来源：Google News CN
    - 时间：Wed, 26 Aug 2026 19:08:07 GMT
    - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMingJBVV95cUxNeXF2OEtncFl3SVNHcW0zZ3V2eUpScE83MVhKSnluTHNuSTF4ZkE3cHo2eTFyM2cxMHJQdnpRX2NQSjNkdjJmTTNMWkQ5b1F0SnhIUldIb1NRSHlDN3cyY2RoLXRLRUpuN3VmZWczX0VUYWdqQl9DWHVGOGxTRTF4d2pEbXNlT3YyQlhONWl4UndmYUhuN1p6bldYZXBERDZwSXhVYmZzRk9oNm82azN6eE5DLXVhSXQ0anJOWlhrTjZiMTZvT0hGQmI1WGFaaHF3MDh5RWlqdzJfV1RIcVZkR0NjMjFEandfdUZMQktQb2Eyakd1OWY2a2tneDZNMGUxWmx1cFpQRDlicDZKUkRTSHpoek5ZZ2dUenlTU1N3?oc=5" target="_blank">“AI+DIY”癌症免疫治疗时代到来|黑色素瘤|默沙东|抗原|肿瘤|个性化_手机新浪网</a>&nbsp;&nbsp;<fon... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。

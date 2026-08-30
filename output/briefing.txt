@@ -1,9 +1,8 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-08-29 12:18:36
+【Biomed Radar】今日医学科学新闻已更新｜2026-08-30 09:38:21
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-medrxiv: HTTPError('503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/medrxiv/2026-08-22/2026-08-29/0')
 1. 中国疾控中心（中国预科院）新发突发与重大传染病防控国家科技重大专项2026年8 月调度会议顺利召开 - chinacdc.cn
 Google News CN｜Medical news｜Score 27
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -19,7 +18,7 @@ Google News CN｜Medical news｜Score 27
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVlVOWpldTFtQW16dU91dGthaUg0NEo5YnZwdUNGLURpNkpMVm1jeXJrNXVoWXFZMzlWV0ZReXFEQjkxbUVtcjRtOTd4ZjN4MUJiUGRjUGJPYUZTbzdBREk0aWpaajhXWnhtLVpVZ2VEeV9PYnJDMmdrRFA1TllpWGV2QQ?oc=5
 
-4. “AI+DIY”癌症免疫治疗时代到来|黑色素瘤|默沙东|抗原|肿瘤|个性化_手机新浪网 - 新浪财经
+4. “AI+DIY”癌症免疫治疗时代到来|黑色素瘤|默沙东|抗原|肿瘤|个性化_手机新浪网 - finance.sina.com.cn
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMingJBVV95cUxNeXF2OEtncFl3SVNHcW0zZ3V2eUpScE83MVhKSnluTHNuSTF4ZkE3cHo2eTFyM2cxMHJQdnpRX2NQSjNkdjJmTTNMWkQ5b1F0SnhIUldIb1NRSHlDN3cyY2RoLXRLRUpuN3VmZWczX0VUYWdqQl9DWHVGOGxTRTF4d2pEbXNlT3YyQlhONWl4UndmYUhuN1p6bldYZXBERDZwSXhVYmZzRk9oNm82azN6eE5DLXVhSXQ0anJOWlhrTjZiMTZvT0hGQmI1WGFaaHF3MDh5RWlqdzJfV1RIcVZkR0NjMjFEandfdUZMQktQb2Eyakd1OWY2a2tneDZNMGUxWmx1cFpQRDlicDZKUkRTSHpoek5ZZ2dUenlTU1N3?oc=5
@@ -44,62 +43,62 @@ The New England journal of medicine｜RCT｜Score 96
 The New England journal of medicine 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42663312/
 
-9. 心血管研究：Eplontersen for Transthyretin Amyloid Cardiomyopathy.
+9. 心血管研究：Pulmonary Vein Isolation Using Pulsed Field Ablation With vs Without Posterior Wall Isolation in Patients With Symptomatic Persistent Atrial Fibrillation: The PIFPAF-PFA Randomized Clinical Trial.
+JAMA｜RCT｜Score 94
+JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42667231/
+
+10. 心血管研究：Eplontersen for Transthyretin Amyloid Cardiomyopathy.
 The New England journal of medicine｜RCT｜Score 91
 The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42663301/
 
-10. 免疫/炎症研究：CD19 CAR T cell therapy for treatment-refractory seropositive rheumatoid arthritis: a phase 1 trial.
+11. 免疫/炎症研究：CD19 CAR T cell therapy for treatment-refractory seropositive rheumatoid arthritis: a phase 1 trial.
 Nature medicine｜RCT｜Score 88
 Nature medicine 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42661098/
 
-11. 感染/疫苗研究：Response-Tailored or Standard-Duration Antibiotic Treatment for Infective Endocarditis.
+12. 心血管研究：Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence: The ADHERE-ASCVD Randomized Clinical Trial.
+JAMA｜RCT｜Score 86
+JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42667613/
+
+13. 心血管研究：LDL Cholesterol Lowering With Evolocumab Before Percutaneous Coronary Intervention for Acute Myocardial Infarction: The AMUNDSEN Randomized Clinical Trial.
+JAMA｜RCT｜Score 80
+JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42666092/
+
+14. 感染/疫苗研究：Response-Tailored or Standard-Duration Antibiotic Treatment for Infective Endocarditis.
 The New England journal of medicine｜RCT｜Score 80
 The New England journal of medicine 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42663314/
 
-12. 心血管研究：Cardiovascular Magnetic Resonance to Guide Defibrillator Implantation for LVEF of 36% to 50%: The CMR GUIDE Randomized Clinical Trial.
+15. 心血管研究：Cardiovascular Magnetic Resonance to Guide Defibrillator Implantation for LVEF of 36% to 50%: The CMR GUIDE Randomized Clinical Trial.
 JAMA｜RCT｜Score 80
 JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42663169/
 
-13. 综合医学研究：Daratumumab-bortezomib-cyclophosphamide-dexamethasone for newly diagnosed amyloidosis: ANDROMEDA final survival analysis.
+16. 综合医学研究：Daratumumab-bortezomib-cyclophosphamide-dexamethasone for newly diagnosed amyloidosis: ANDROMEDA final survival analysis.
 Blood｜RCT｜Score 76
 Blood 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42118698/
 
-14. 综合医学研究：A multi-faceted hospital-based intervention for intrapartum care in sub-Saharan Africa: a stepped-wedge cluster-randomized trial.
-Nature medicine｜RCT｜Score 72
-Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42649257/
+17. 心血管研究：Effect of Aficamten on Cardiac Structure and Function in Patients with Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.
+Circulation｜RCT｜Score 74
+Circulation 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42667274/
 
-15. 心血管研究：Vitamin K2 and D3 Supplementation in Patients With Severe Coronary Artery Calcification: The DANCODE Trial.
+18. 心血管研究：Vitamin K2 and D3 Supplementation in Patients With Severe Coronary Artery Calcification: The DANCODE Trial.
 Circulation｜RCT｜Score 69
 Circulation 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42661461/
 
-16. 免疫/炎症研究：Nipocalimab for warm autoimmune hemolytic anemia: results from the phase 2/3 randomized, double-blind ENERGY study.
+19. 心血管研究：Causal Endotype-Based Classification of Myocardial Infarction.
+JAMA cardiology｜Translational research｜Score 68
+JAMA cardiology 发布的心血管相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42667602/
+
+20. 免疫/炎症研究：Nipocalimab for warm autoimmune hemolytic anemia: results from the phase 2/3 randomized, double-blind ENERGY study.
 Blood｜RCT｜Score 68
 Blood 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42664110/
-
-17. 心血管研究：Machine Learning-Driven Risk Prediction Model in Transthyretin Amyloid Cardiomyopathy.
-JAMA cardiology｜Original research｜Score 68
-JAMA cardiology 发布的心血管相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42663418/
-
-18. 心血管研究：Mortality reduction with implanted defibrillator for primary prevention of sudden death after Myocardial Infarction: temporal trends in the PROFID study.
-European heart journal｜RCT｜Score 68
-European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42663237/
-
-19. 代谢/肥胖/糖尿病研究：Effect of diet macronutrient content on the cardiometabolic response to weight loss: A randomized clinical trial.
-Cell metabolism｜RCT｜Score 67
-Cell metabolism 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42660124/
-
-20. 医疗AI/数字医学研究：Electrocardiogram-Based Deep Learning to Prioritize Testing for Transthyretin Amyloid Cardiomyopathy.
-JAMA｜Original research｜Score 62
-JAMA 发布的医疗AI/数字医学相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42663420/
