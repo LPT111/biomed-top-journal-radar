@@ -1,11 +1,12 @@
-# 全医学科学新闻雷达｜2026-09-01 10:02:03
+# 全医学科学新闻雷达｜2026-09-02 09:23:10
 
 - 今日新闻：20 条
 - 中文来源：5 条
 - 国际来源：15 条
-- 顶刊论文：15 条
+- 顶刊论文：14 条
 - RCT/临床试验：15 条
 
+> Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 ## 今日 20 条
@@ -21,71 +22,71 @@
    - 来源：Google News CN｜类型：Medical news｜分数：26
    - 链接：https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVkVDeVJ4UGpuaUVncjVneEJjZGppUzJCQl80LS16QXNKN090YWhoZmpic3FvOXc2VzdYendQblprdXM0aHJ2SkRXQW1kNGw2WjFDai1mblhmdw?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-4. 爱诺斯科技"五健"AI一体化平台亮相"儿童青少年全面健康促进行动能力提升《"五健"融合，共促成长》大会" - 中华网
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMibEFVX3lxTFBLR01yeF9XckZEdXdyZkljdy10bEVWU1BkT0tUcWRVM3ZpTlh4ajVuQ2VsY21DNy1DQ1R3MVdmOUdVaFZHZzFUc2xOb0RYcVhaMTJ4RERxM3dRZEJJS3BJa2Nod2F3WXlwejMwYg?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. 从实验室到临床：细胞与基因治疗的临床试验及转化
+4. “AI+DIY”癌症免疫治疗时代到来
    - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96321c9a0141d58b50f00ca68b1c39&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a977a7f2e3d45f090ffb21c0a07c255&url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-26%2fdoc-inipqsyf6412463.shtml&c=843885834525866668&mkt=en-us
+   - 简述：Bing News CN 发布的生物医药/细胞与基因治疗相关Medical news，值得关注其研究设计、核心发现和转化边界。
+5. 给免疫细胞“松绑”：去除一个基因，能否让CAR-T疗法攻克骨肉瘤？ ｜#科学资讯# #医学# #骨肉瘤治疗#
+   - 来源：Bing News CN｜类型：Medical news｜分数：26
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a977a7f2e3d45f090ffb21c0a07c255&url=https%3a%2f%2fwww.sohu.com%2fa%2f1067576220_122154728&c=17690598681326358770&mkt=en-us
    - 简述：Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-6. 心血管研究：Anticoagulation for Atrial Fibrillation with Intermediate Stroke Risk.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：97
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42663303/
-   - 简述：The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-7. 心血管研究：Timing of PCI in Patients Undergoing Transcatheter Aortic-Valve Implantation.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：96
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42670987/
-   - 简述：The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-8. 心血管研究：Atorvastatin, Cardiovascular Events, and Disability-free Survival in Older Adults.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：96
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42670961/
-   - 简述：The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-9. 免疫/炎症研究：Aficamten for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：96
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42663312/
-   - 简述：The New England journal of medicine 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
-10. 心血管研究：Pulmonary Denervation for Heart Failure-Related Pulmonary Hypertension.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：94
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42670986/
-   - 简述：The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-11. 心血管研究：Low-Voltage Ablation in Persistent Atrial Fibrillation: The IDEAL-AF Randomized Clinical Trial.
+6. 肿瘤/血液肿瘤研究：Adjuvant alectinib versus chemotherapy in resected ALK-positive non-small-cell lung cancer (ALINA): health-related quality-of-life and safety outcomes from a randomised, open-label, phase 3 trial.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：102
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42636834/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+7. 肿瘤/血液肿瘤研究：Ivonescimab plus chemotherapy versus placebo plus chemotherapy in patients with advanced EGFR-mutated non-small-cell lung cancer after disease progression on EGFR tyrosine kinase inhibitor therapy (HARMONi): a multicentre, randomised, double-blind, phase 3 trial.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：102
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42636833/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+8. 心血管研究：Durvalumab and tremelimumab, with or without lenvatinib, combined with transarterial chemoembolisation in participants with embolisation-eligible hepatocellular carcinoma (EMERALD-3): a global, randomised, open-label, sponsor-blinded, phase 3 study.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：102
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42636832/
+   - 简述：The Lancet. Oncology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+9. 肿瘤/血液肿瘤研究：Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).
+   - 来源：JAMA｜类型：RCT｜分数：96
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42545685/
+   - 简述：JAMA 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+10. 肿瘤/血液肿瘤研究：High-dose radiotherapy in patients with high-risk prostate cancers treated with long-term androgen deprivation therapy (GETUG AFU 18): a randomised, phase 3 trial.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：96
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42636837/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+11. 肿瘤/血液肿瘤研究：Chemoradiotherapy versus short-course radiotherapy for response-adapted organ preservation in early-stage and intermediate-stage rectal cancer (STAR-TREC): 12-month results of an international, multicentre, open-label, parallel-group, randomised, phase 2/3 trial.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：96
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42633754/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+12. 神经科学/神经疾病研究：Tolerability, safety, and efficacy of atogepant versus topiramate in adults with migraine (TEMPLE): a randomised, head-to-head, phase 3b trial.
+   - 来源：The Lancet. Neurology｜类型：RCT｜分数：96
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42492556/
+   - 简述：The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+13. 心血管研究：Dapagliflozin and Acute Kidney Injury Following Cardiac Surgery: A Randomized Clinical Trial.
    - 来源：JAMA｜类型：RCT｜分数：94
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42669133/
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42530910/
    - 简述：JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-12. 心血管研究：124I-Evuzamitide Positron Emission Tomography/Computed Tomography for Diagnosing Cardiac Amyloidosis: The REVEAL Nonrandomized Clinical Trial.
-   - 来源：JAMA｜类型：RCT｜分数：94
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42669054/
-   - 简述：JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-13. 心血管研究：Targeted Use of Computed Tomographic Coronary Angiography in Acute Chest Pain.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：94
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42670980/
-   - 简述：The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-14. 心血管研究：Aspirin Omission at the Time of Primary Percutaneous Coronary Intervention in STEMI.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：94
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42670955/
-   - 简述：The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-15. 心血管研究：Pulmonary Vein Isolation Using Pulsed Field Ablation With vs Without Posterior Wall Isolation in Patients With Symptomatic Persistent Atrial Fibrillation: The PIFPAF-PFA Randomized Clinical Trial.
-   - 来源：JAMA｜类型：RCT｜分数：94
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42667231/
-   - 简述：JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-16. 心血管研究：Eplontersen for Transthyretin Amyloid Cardiomyopathy.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：91
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42663301/
-   - 简述：The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-17. 重症医学/急危重症研究：Immediate Ambulatory Electrocardiographic Monitoring in Syncope.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：88
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42670977/
-   - 简述：The New England journal of medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
-18. 心血管研究：Gene Silencer Therapy in Transthyretin Amyloid Cardiomyopathy: A Meta-Analysis of Outcomes Trials.
-   - 来源：JAMA｜类型：RCT｜分数：88
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42669065/
-   - 简述：JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-19. 综合医学研究：Anticoagulation Monotherapy vs Antiplatelet Monotherapy After Transcatheter Aortic Valve Implant: The ACASA-TAVI Randomized Clinical Trial.
-   - 来源：JAMA｜类型：RCT｜分数：88
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42669043/
-   - 简述：JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-20. 心血管研究：Prasugrel versus Ticagrelor in Acute Coronary Syndromes.
-   - 来源：The New England journal of medicine｜类型：RCT｜分数：88
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42670968/
-   - 简述：The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+14. 心血管研究：Intensive blood pressure lowering after spontaneous intracerebral haemorrhage for secondary stroke prevention (RECAP-ICH): a systematic review and individual participant data meta-analysis.
+   - 来源：The Lancet. Neurology｜类型：RCT｜分数：94
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42586098/
+   - 简述：The Lancet. Neurology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+15. 肿瘤/血液肿瘤研究：SHR-A2102, a nectin-4 directed antibody-drug conjugate, in patients with pretreated advanced solid tumours: a multicentre, single-arm, phase 1 trial.
+   - 来源：The Lancet. Oncology｜类型：Phase 2 trial｜分数：92
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42636836/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+16. 肿瘤/血液肿瘤研究：Artificial intelligence-based tumour infiltrating lymphocyte quantification in patients with triple-negative breast cancer: an independent validation study.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：88
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42636839/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+17. 肿瘤/血液肿瘤研究：Manual, digital, and AI tumour-infiltrating lymphocyte scoring: a secondary analysis of the APHINITY randomised trial.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：88
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42636838/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+18. 肿瘤/血液肿瘤研究：Ifebemtinib plus garsorasib in previously treated metastatic colorectal cancer with KRASG12C mutation: a multicentre, randomised, phase 1b/2 trial.
+   - 来源：The Lancet. Oncology｜类型：RCT｜分数：86
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42636835/
+   - 简述：The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+19. 重症医学/急危重症研究：Safe Sleep Video Intervention via Text Messaging to Low-Income Families: The SMARTER Randomized Clinical Trial.
+   - 来源：JAMA｜类型：RCT｜分数：80
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42490082/
+   - 简述：JAMA 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
+20. 代谢/肥胖/糖尿病研究：Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review.
+   - 来源：Annals of internal medicine｜类型：RCT｜分数：78
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42673585/
+   - 简述：Annals of internal medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
