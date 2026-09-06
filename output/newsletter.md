@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-09-05 09:23:21
+# 医学科学新闻推文候选草稿｜2026-09-06 09:19:29
 
 ## 1. 中国疾控中心（中国预科院）举行2026 级研究生新生开学典礼 - chinacdc.cn
 
@@ -50,7 +50,7 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b6f0b726f42d18a657c08611c60ba&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9cbfa35d3d492c8d4167eb1bc5834b&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
 ---
 
@@ -131,7 +131,7 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Tue, 23 Jun 2026 09:51:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9b6f0b726f42d18a657c08611c60ba&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
+Bing News CN｜Tue, 23 Jun 2026 09:51:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9cbfa35d3d492c8d4167eb1bc5834b&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
 
 ---
 
@@ -297,7 +297,34 @@ The New England journal of medicine｜2026-Sep-03｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 12. 心血管研究：Geographic heterogeneity in outcomes of intravascular ultrasound-guided vs angiography-guided percutaneous coronary intervention: a meta-analysis of randomized trials.
+## 12. 肿瘤/血液肿瘤研究：An integrated lifestyle intervention for mitigation of adverse effects associated with androgen deprivation therapy for prostate cancer (STAMINA): a multicentre, randomised trial.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：An integrated lifestyle intervention for mitigation of adverse effects associated with androgen deprivation therapy for prostate cancer (STAMINA): a multicentre, randomised trial.
+
+一、为什么重要
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet. Oncology｜2026-Sep-04｜https://pubmed.ncbi.nlm.nih.gov/42697217/
+
+---
+
+## 13. 心血管研究：Geographic heterogeneity in outcomes of intravascular ultrasound-guided vs angiography-guided percutaneous coronary intervention: a meta-analysis of randomized trials.
 
 【医学科学新闻】心血管研究：Geographic heterogeneity in outcomes of intravascular ultrasound-guided vs angiography-guided percutaneous coronary intervention: a meta-analysis of randomized trials.
 
@@ -324,7 +351,7 @@ European heart journal｜2026-Sep-03｜https://pubmed.ncbi.nlm.nih.gov/42690150/
 
 ---
 
-## 13. 综合医学研究：Secondary use and scholarly impact of a portfolio of clinical trials with shared individual participant level data: cross sectional study.
+## 14. 综合医学研究：Secondary use and scholarly impact of a portfolio of clinical trials with shared individual participant level data: cross sectional study.
 
 【医学科学新闻】综合医学研究：Secondary use and scholarly impact of a portfolio of clinical trials with shared individual participant level data: cross sectional study.
 
@@ -351,7 +378,7 @@ BMJ (Clinical research ed.)｜2026-Sep-02｜https://pubmed.ncbi.nlm.nih.gov/4268
 
 ---
 
-## 14. 肿瘤/血液肿瘤研究：Author Correction: Machine learning model-guided selective use of temporary diverting ileostomy in rectal cancer surgery: a randomized controlled trial.
+## 15. 肿瘤/血液肿瘤研究：Author Correction: Machine learning model-guided selective use of temporary diverting ileostomy in rectal cancer surgery: a randomized controlled trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Author Correction: Machine learning model-guided selective use of temporary diverting ileostomy in rectal cancer surgery: a randomized controlled trial.
 
@@ -378,7 +405,7 @@ Nature communications｜2026-Sep-03｜https://pubmed.ncbi.nlm.nih.gov/42693109/
 
 ---
 
-## 15. 肿瘤/血液肿瘤研究：Arlocabtagene autoleucel: a GPRC5D-targeted CAR T-cell therapy for heavily pretreated relapsed/refractory multiple myeloma.
+## 16. 肿瘤/血液肿瘤研究：Arlocabtagene autoleucel: a GPRC5D-targeted CAR T-cell therapy for heavily pretreated relapsed/refractory multiple myeloma.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Arlocabtagene autoleucel: a GPRC5D-targeted CAR T-cell therapy for heavily pretreated relapsed/refractory multiple myeloma.
 
@@ -405,7 +432,34 @@ Blood｜2026-Sep-03｜https://pubmed.ncbi.nlm.nih.gov/42233419/
 
 ---
 
-## 16. 肿瘤/血液肿瘤研究：Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.
+## 17. 肿瘤/血液肿瘤研究：HDAC inhibition via suberoylanilide hydroxamic acid ameliorates doxorubicin-induced cardiotoxicity.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：HDAC inhibition via suberoylanilide hydroxamic acid ameliorates doxorubicin-induced cardiotoxicity.
+
+一、为什么重要
+Nature communications 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-Sep-04｜https://pubmed.ncbi.nlm.nih.gov/42697879/
+
+---
+
+## 18. 肿瘤/血液肿瘤研究：Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.
 
@@ -432,7 +486,7 @@ Science (New York, N.Y.)｜2026-Sep-03｜https://pubmed.ncbi.nlm.nih.gov/4269118
 
 ---
 
-## 17. 代谢/肥胖/糖尿病研究：(Un)intended consequences of mass-prescribing GLP-1s.
+## 19. 代谢/肥胖/糖尿病研究：(Un)intended consequences of mass-prescribing GLP-1s.
 
 【医学科学新闻】代谢/肥胖/糖尿病研究：(Un)intended consequences of mass-prescribing GLP-1s.
 
@@ -459,7 +513,7 @@ Science (New York, N.Y.)｜2026-Sep-03｜https://pubmed.ncbi.nlm.nih.gov/4269115
 
 ---
 
-## 18. 生物医药/细胞与基因治疗研究：Co-option of lysosomal machinery shapes the evolution of the intracellular photosymbiosis supporting coral reefs.
+## 20. 生物医药/细胞与基因治疗研究：Co-option of lysosomal machinery shapes the evolution of the intracellular photosymbiosis supporting coral reefs.
 
 【医学科学新闻】生物医药/细胞与基因治疗研究：Co-option of lysosomal machinery shapes the evolution of the intracellular photosymbiosis supporting coral reefs.
 
@@ -483,59 +537,5 @@ Cell 发布的生物医药/细胞与基因治疗相关Translational research，�
 
 七、参考信息
 Cell｜2026-Sep-03｜https://pubmed.ncbi.nlm.nih.gov/42385704/
-
----
-
-## 19. 感染/疫苗研究：Sepsis, endemic and emerging infectious diseases: converging concepts and clinical implications.
-
-【医学科学新闻】感染/疫苗研究：Sepsis, endemic and emerging infectious diseases: converging concepts and clinical implications.
-
-一、为什么重要
-The Lancet. Infectious diseases 发布的感染/疫苗相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Infectious diseases｜2026-Sep-02｜https://pubmed.ncbi.nlm.nih.gov/42685734/
-
----
-
-## 20. 综合医学研究：[Articles] Liposuction versus conservative therapy for patients with lipoedema in Germany: a multicentre, randomised controlled clinical trial
-
-【医学科学新闻】综合医学研究：[Articles] Liposuction versus conservative therapy for patients with lipoedema in Germany: a multicentre, randomised controlled clinical trial
-
-一、为什么重要
-The Lancet 发布的综合医学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet｜2026-09-05｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00910-4/fulltext?rss=yes
 
 ---
