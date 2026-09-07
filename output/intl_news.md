@@ -76,13 +76,13 @@ PARTICIPANTS: Johnson & Johnson sponsored clinical trials listed on the YODA Pro
    - 时间：2026-Sep-03
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Science (New York, N.Y.)，类型初步识别为Original research。摘要信息显示：Chemotherapy-induced peripheral neuropathy (CIPN) is a disabling, often irreversible toxicity that affects millions of patients, limits life-saving cancer therapy, and lacks proven treatment. In this work, we show that as little as two doses of psilocybin before chemotherapy durably prevented the onset of CIPN across platinum- and taxane-based models, including repeated chemotherapy cycles, without impairing antitumor efficacy. Peripherally, psilocybin maintained tactile sensitivity and intraepidermal nerve fiber e... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42691184/
-14. 代谢/肥胖/糖尿病研究：(Un)intended consequences of mass-prescribing GLP-1s.
+14. 生物医药/细胞与基因治疗研究：Helicobacter pylori triggers gastric mucosal remodeling toward a fetal-like transcriptional program via stromal IL-1β signaling.
+   - 来源：Nature communications
+   - 时间：2026-Sep-05
+   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：In the gastrointestinal tract, Wnt and BMP signals control Lgr5⁺ stem cell activity during homeostasis, whereas injury elicits an Lgr5-independent, fetal-like regenerative program driven by YAP. Helicobacter pylori (H. pylori) infection activates YAP, but whether fetal-like reprogramming contributes to gastric pathology, and what drives it, has remained unclear. Here we show that H. pylori-induced gland hyperplasia is accompanied by YAP-dependent fetal-like transcriptional response and loss of epithelial BMP signal... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42701138/
+15. 代谢/肥胖/糖尿病研究：(Un)intended consequences of mass-prescribing GLP-1s.
    - 来源：Science (New York, N.Y.)
    - 时间：2026-Sep-03
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Science (New York, N.Y.)，类型初步识别为Guideline。摘要信息显示：It is difficult to overstate how much glucagon-like peptide-1 (GLP-1) pharmacotherapies have inundated the public discourse on obesity. An avalanche of scientific papers, news articles, and social media posts debate the efficacy, affordability, and appropriateness of GLP-1 receptor agonists not just for obesity but also skin disease, erectile dysfunction, pregnancy, and addiction. Attempting to cut through the noise, the World Health Organization (WHO) recently published the first-ever global guidelines recommendin... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42691159/
-15. 生物医药/细胞与基因治疗研究：Co-option of lysosomal machinery shapes the evolution of the intracellular photosymbiosis supporting coral reefs.
-   - 来源：Cell
-   - 时间：2026-Sep-03
-   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Cell，类型初步识别为Translational research。摘要信息显示：Endosymbiosis has spurred the evolution of new organelles across life. Corals and other cnidarians have repeatedly evolved an organelle, called the symbiosome, which houses intracellular algal symbionts. However, the molecular mechanisms enabling this repeated evolution remain unclear. Using the sea anemone Aiptasia, we generated a high-quality proteome of the symbiosome, revealing protein trafficking mechanisms and the types of biomolecules exchanged during symbiosis. Symbiosomal enrichment of lysosomal proteins, ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42385704/

@@ -1,34 +1,36 @@
-# 全医学科学新闻雷达｜2026-09-06 09:19:29
+# 全医学科学新闻雷达｜2026-09-07 09:17:47
 
 - 今日新闻：20 条
 - 中文来源：5 条
 - 国际来源：15 条
 - 顶刊论文：12 条
-- RCT/临床试验：11 条
+- RCT/临床试验：12 条
 
 > RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> RSS Nature: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+> medrxiv: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=25)"))
 ## 今日 20 条
-1. 中国疾控中心（中国预科院）举行2026 级研究生新生开学典礼 - chinacdc.cn
+1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+   - 来源：Bing News CN｜类型：RCT｜分数：51
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e10bc6b1441b59009325b82780c87&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+   - 简述：Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+2. 中国疾控中心（中国预科院）举行2026 级研究生新生开学典礼 - chinacdc.cn
    - 来源：Google News CN｜类型：Medical news｜分数：27
    - 链接：https://news.google.com/rss/articles/CBMiakFVX3lxTE50VFNsLVNzM1hYaE0yMlhXMTAwWUpFWlFZRkFqNkJTa2JfSkJXaTd0ZUZIYmpTMHBVS0xsU0thUEhhN0VPTHc1VEZSSkJWVGE2bWJGdDBpR0JCekNSTWlRZGdQNm5vaDgxMGc?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-2. 从实验室到临床：细胞与基因治疗的临床试验及转化
-   - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9cbfa35d3d492c8d4167eb1bc5834b&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
-   - 简述：Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-3. 2026浦江泌尿肿瘤学术大会丨沈益君教授：ADC推动膀胱癌保膀胱治疗迈向精准联合——从高危NMIBC联合治疗、MIBC路径重塑到分子标志物分层 - 肿瘤瞭望
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zVW82WkxJbGpaeDA0TEszSTdXNG44ejVDbmI5Y3V1clZLZzh3QlRQMHd0U3BFMjJ0eTZycmpPOXQwYngwODhBWkdMQTNxM19tN1NRVWhod1R6aFk4?oc=5
-   - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-4. 以岭药业中报：营收净利稳健增长，以创新机制抓中医药产业升级红利 - caiwennews.com
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMiXEFVX3lxTE05czVkZ2JMcXVybmVBbVdlNGNKaEhFcUthUWh5ekJ6d1lJd2ZmZkFfX3Q0VUktNk5RTF9lektEaFB0bktQZjZlLVdQZURkWDh6S1RKVy0zRDlja1dV?oc=5
+3. 中国疾控中心（中国预科院） 青年科学家联盟举办第三期团山科研沙龙 - chinacdc.cn
+   - 来源：Google News CN｜类型：Medical news｜分数：27
+   - 链接：https://news.google.com/rss/articles/CBMiakFVX3lxTE1BT0JRTkJ3R0tNRU1LYU5Od3J1MV80WFRCVGtCd21xTzFMMEdjeHQ5dy1vc2FCSWQ4X0htaW9nM3ZyUHhGa1ctbW5rblJCU0taaFFOUWpNNUs4dUN2N1ZVR2dlMUxXTGtlVWc?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+4. 从实验室到临床：细胞与基因治疗的临床试验及转化
    - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9cbfa35d3d492c8d4167eb1bc5834b&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e10bc6b1441b59009325b82780c87&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
    - 简述：Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+5. 中外学者共商人工智能助推公共卫生事业发展
+   - 来源：Bing News CN｜类型：Medical news｜分数：26
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e10bdf6224b2e97a990ce6afb164a&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+   - 简述：Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 6. 肿瘤/血液肿瘤研究：Neoadjuvant Anbenitamab and HB1801 in ERBB2-Positive Breast Cancer: A Phase 3 Randomized Clinical Trial.
    - 来源：JAMA oncology｜类型：RCT｜分数：102
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42690668/
@@ -81,11 +83,11 @@
    - 来源：Science (New York, N.Y.)｜类型：Original research｜分数：62
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42691184/
    - 简述：Science (New York, N.Y.) 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
-19. 代谢/肥胖/糖尿病研究：(Un)intended consequences of mass-prescribing GLP-1s.
+19. 生物医药/细胞与基因治疗研究：Helicobacter pylori triggers gastric mucosal remodeling toward a fetal-like transcriptional program via stromal IL-1β signaling.
+   - 来源：Nature communications｜类型：Translational research｜分数：60
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42701138/
+   - 简述：Nature communications 发布的生物医药/细胞与基因治疗相关Translational research，值得关注其研究设计、核心发现和转化边界。
+20. 代谢/肥胖/糖尿病研究：(Un)intended consequences of mass-prescribing GLP-1s.
    - 来源：Science (New York, N.Y.)｜类型：Guideline｜分数：60
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42691159/
    - 简述：Science (New York, N.Y.) 发布的代谢/肥胖/糖尿病相关Guideline，值得关注其研究设计、核心发现和转化边界。
-20. 生物医药/细胞与基因治疗研究：Co-option of lysosomal machinery shapes the evolution of the intracellular photosymbiosis supporting coral reefs.
-   - 来源：Cell｜类型：Translational research｜分数：60
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42385704/
-   - 简述：Cell 发布的生物医药/细胞与基因治疗相关Translational research，值得关注其研究设计、核心发现和转化边界。
