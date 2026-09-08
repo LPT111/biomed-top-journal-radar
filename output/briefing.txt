@@ -1,106 +1,104 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-09-07 09:17:47
+【Biomed Radar】今日医学科学新闻已更新｜2026-09-08 09:23:22
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-RSS Nature: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-medrxiv: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=25)"))
-1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
-Bing News CN｜RCT｜Score 51
-Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e10bc6b1441b59009325b82780c87&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
-
-2. 中国疾控中心（中国预科院）举行2026 级研究生新生开学典礼 - chinacdc.cn
+1. 中国疾控中心（中国预科院）举行2026 级研究生新生开学典礼 - chinacdc.cn
 Google News CN｜Medical news｜Score 27
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiakFVX3lxTE50VFNsLVNzM1hYaE0yMlhXMTAwWUpFWlFZRkFqNkJTa2JfSkJXaTd0ZUZIYmpTMHBVS0xsU0thUEhhN0VPTHc1VEZSSkJWVGE2bWJGdDBpR0JCekNSTWlRZGdQNm5vaDgxMGc?oc=5
 
-3. 中国疾控中心（中国预科院） 青年科学家联盟举办第三期团山科研沙龙 - chinacdc.cn
+2. 中国疾控中心（中国预科院） 青年科学家联盟举办第三期团山科研沙龙 - chinacdc.cn
 Google News CN｜Medical news｜Score 27
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiakFVX3lxTE1BT0JRTkJ3R0tNRU1LYU5Od3J1MV80WFRCVGtCd21xTzFMMEdjeHQ5dy1vc2FCSWQ4X0htaW9nM3ZyUHhGa1ctbW5rblJCU0taaFFOUWpNNUs4dUN2N1ZVR2dlMUxXTGtlVWc?oc=5
 
-4. 从实验室到临床：细胞与基因治疗的临床试验及转化
+3. 从实验室到临床：细胞与基因治疗的临床试验及转化
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e10bc6b1441b59009325b82780c87&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f638bdb714e7493ff7776545180a8&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
-5. 中外学者共商人工智能助推公共卫生事业发展
+4. 中外学者共商人工智能助推公共卫生事业发展
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9e10bdf6224b2e97a990ce6afb164a&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9f638c90334b9ea1d7e23b97c2f4a5&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+
+5. 2026浦江泌尿肿瘤学术大会丨沈益君教授：ADC推动膀胱癌保膀胱治疗迈向精准联合——从高危NMIBC联合治疗、MIBC路径重塑到分子标志物分层 - 肿瘤瞭望
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zVW82WkxJbGpaeDA0TEszSTdXNG44ejVDbmI5Y3V1clZLZzh3QlRQMHd0U3BFMjJ0eTZycmpPOXQwYngwODhBWkdMQTNxM19tN1NRVWhod1R6aFk4?oc=5
 
 6. 肿瘤/血液肿瘤研究：Neoadjuvant Anbenitamab and HB1801 in ERBB2-Positive Breast Cancer: A Phase 3 Randomized Clinical Trial.
 JAMA oncology｜RCT｜Score 102
 JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42690668/
 
-7. 综合医学研究：Phase 3 Trial of Oral Infigratinib in Children with Achondroplasia.
-The New England journal of medicine｜RCT｜Score 102
-The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42370681/
-
-8. 肿瘤/血液肿瘤研究：Bicistronic CD19/CD22 CAR T-Cell Therapy in Pediatric B-Cell Acute Lymphoblastic Leukemia: A Nonrandomized Clinical Trial.
+7. 肿瘤/血液肿瘤研究：Bicistronic CD19/CD22 CAR T-Cell Therapy in Pediatric B-Cell Acute Lymphoblastic Leukemia: A Nonrandomized Clinical Trial.
 JAMA oncology｜RCT｜Score 94
 JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42690647/
 
-9. 肿瘤/血液肿瘤研究：Daraxonrasib for Previously Treated RAS-Mutant Non-Small-Cell Lung Cancer.
+8. 肿瘤/血液肿瘤研究：Daraxonrasib for Previously Treated RAS-Mutant Non-Small-Cell Lung Cancer.
 The New England journal of medicine｜Clinical trial｜Score 90
 The New England journal of medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42685317/
 
-10. 肿瘤/血液肿瘤研究：Azacitidine-Venetoclax or Induction Chemotherapy for Acute Myeloid Leukemia.
+9. 肿瘤/血液肿瘤研究：Azacitidine-Venetoclax or Induction Chemotherapy for Acute Myeloid Leukemia.
 The New England journal of medicine｜RCT｜Score 89
 The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42685316/
 
-11. 重症医学/急危重症研究：Balanced Fluid or 0.9% Saline in Children Treated for Septic Shock.
-The New England journal of medicine｜RCT｜Score 83
-The New England journal of medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42028918/
-
-12. 肿瘤/血液肿瘤研究：An integrated lifestyle intervention for mitigation of adverse effects associated with androgen deprivation therapy for prostate cancer (STAMINA): a multicentre, randomised trial.
+10. 肿瘤/血液肿瘤研究：An integrated lifestyle intervention for mitigation of adverse effects associated with androgen deprivation therapy for prostate cancer (STAMINA): a multicentre, randomised trial.
 The Lancet. Oncology｜Clinical trial｜Score 76
 The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42697217/
 
-13. 心血管研究：Geographic heterogeneity in outcomes of intravascular ultrasound-guided vs angiography-guided percutaneous coronary intervention: a meta-analysis of randomized trials.
+11. 心血管研究：Geographic heterogeneity in outcomes of intravascular ultrasound-guided vs angiography-guided percutaneous coronary intervention: a meta-analysis of randomized trials.
 European heart journal｜RCT｜Score 66
 European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42690150/
 
-14. 综合医学研究：Secondary use and scholarly impact of a portfolio of clinical trials with shared individual participant level data: cross sectional study.
-BMJ (Clinical research ed.)｜Clinical trial｜Score 66
-BMJ (Clinical research ed.) 发布的综合医学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42686366/
-
-15. 肿瘤/血液肿瘤研究：Author Correction: Machine learning model-guided selective use of temporary diverting ileostomy in rectal cancer surgery: a randomized controlled trial.
+12. 肿瘤/血液肿瘤研究：Author Correction: Machine learning model-guided selective use of temporary diverting ileostomy in rectal cancer surgery: a randomized controlled trial.
 Nature communications｜RCT｜Score 64
 Nature communications 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42693109/
 
-16. 肿瘤/血液肿瘤研究：Arlocabtagene autoleucel: a GPRC5D-targeted CAR T-cell therapy for heavily pretreated relapsed/refractory multiple myeloma.
-Blood｜Clinical trial｜Score 64
-Blood 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42233419/
-
-17. 肿瘤/血液肿瘤研究：HDAC inhibition via suberoylanilide hydroxamic acid ameliorates doxorubicin-induced cardiotoxicity.
+13. 肿瘤/血液肿瘤研究：HDAC inhibition via suberoylanilide hydroxamic acid ameliorates doxorubicin-induced cardiotoxicity.
 Nature communications｜Original research｜Score 62
 Nature communications 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42697879/
 
-18. 肿瘤/血液肿瘤研究：Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.
+14. 肿瘤/血液肿瘤研究：Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.
 Science (New York, N.Y.)｜Original research｜Score 62
 Science (New York, N.Y.) 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42691184/
 
-19. 生物医药/细胞与基因治疗研究：Helicobacter pylori triggers gastric mucosal remodeling toward a fetal-like transcriptional program via stromal IL-1β signaling.
+15. 医疗AI/数字医学研究：From algorithms to patient outcomes — lessons from one of the first randomized trials of AI in medicine
+Nature Medicine｜RCT｜Score 62
+Nature Medicine 发布的医疗AI/数字医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://www.nature.com/articles/s41591-026-04633-x
+
+16. 心血管研究：Targeted vitamin D supplementation and major adverse cardiovascular events after myocardial infarction: the TARGET-D trial.
+European heart journal｜RCT｜Score 60
+European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42702500/
+
+17. 生物医药/细胞与基因治疗研究：Helicobacter pylori triggers gastric mucosal remodeling toward a fetal-like transcriptional program via stromal IL-1β signaling.
 Nature communications｜Translational research｜Score 60
 Nature communications 发布的生物医药/细胞与基因治疗相关Translational research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42701138/
 
-20. 代谢/肥胖/糖尿病研究：(Un)intended consequences of mass-prescribing GLP-1s.
+18. 代谢/肥胖/糖尿病研究：(Un)intended consequences of mass-prescribing GLP-1s.
 Science (New York, N.Y.)｜Guideline｜Score 60
 Science (New York, N.Y.) 发布的代谢/肥胖/糖尿病相关Guideline，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42691159/
+
+19. 综合医学研究：[Articles] Liposuction versus conservative therapy for patients with lipoedema in Germany: a multicentre, randomised controlled clinical trial
+The Lancet｜Clinical trial｜Score 58
+The Lancet 发布的综合医学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00910-4/fulltext?rss=yes
+
+20. 肿瘤/血液肿瘤研究：Targeted therapies in advanced non-small-cell lung cancer: new biomarkers and treatment strategies.
+The Lancet. Respiratory medicine｜Review｜Score 55
+The Lancet. Respiratory medicine 发布的肿瘤/血液肿瘤相关Review，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42702211/
