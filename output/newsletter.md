@@ -1,33 +1,6 @@
-# 医学科学新闻推文候选草稿｜2026-09-09 09:31:15
+# 医学科学新闻推文候选草稿｜2026-09-10 09:27:00
 
-## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
-
-【医学科学新闻】免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
-
-一、为什么重要
-Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa0b6e4a9644511bf4079a2f00fc836&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
-
----
-
-## 2. 中国疾控中心（中国预科院） 青年科学家联盟举办第三期团山科研沙龙 - chinacdc.cn
+## 1. 中国疾控中心（中国预科院） 青年科学家联盟举办第三期团山科研沙龙 - chinacdc.cn
 
 【医学科学新闻】中国疾控中心（中国预科院） 青年科学家联盟举办第三期团山科研沙龙 - chinacdc.cn
 
@@ -54,7 +27,61 @@ Google News CN｜Sun, 06 Sep 2026 12:31:46 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. AI全面进医院！ 政府正式发布方案 - chyyyygl.com
+## 2. 英矽智能(03696)：公司管线中领先的人工智能驱动候选创新药物 Rentosertib已在针对特发性肺纤维化的III期临床试验中完成首例患者入组
+
+【医学科学新闻】英矽智能(03696)：公司管线中领先的人工智能驱动候选创新药物 Rentosertib已在针对特发性肺纤维化的III期临床试验中完成首例患者入组
+
+一、为什么重要
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Bing News CN｜Wed, 09 Sep 2026 18:26:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2076575ba4e69aff0e05f7de8e6de&url=https%3a%2f%2fi.ifeng.com%2fc%2f8wIbWDTwaas&c=10470822708215652672&mkt=en-us
+
+---
+
+## 3. 英矽智能：公司管线中领先的人工智能驱动候选创新药物已完成临床试验的首例患者入组
+
+【医学科学新闻】英矽智能：公司管线中领先的人工智能驱动候选创新药物已完成临床试验的首例患者入组
+
+一、为什么重要
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Bing News CN｜Wed, 09 Sep 2026 11:38:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2076575ba4e69aff0e05f7de8e6de&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-09-10%2fdoc-inirhvxe7998962.shtml&c=12895789444547551750&mkt=en-us
+
+---
+
+## 4. AI全面进医院！ 政府正式发布方案 - chyyyygl.com
 
 【医学科学新闻】AI全面进医院！ 政府正式发布方案 - chyyyygl.com
 
@@ -81,12 +108,12 @@ Google News CN｜Wed, 09 Sep 2026 00:49:18 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 4. 2026浦江泌尿肿瘤学术大会丨沈益君教授：ADC推动膀胱癌保膀胱治疗迈向精准联合——从高危NMIBC联合治疗、MIBC路径重塑到分子标志物分层 - 肿瘤瞭望
+## 5. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
 
-【医学科学新闻】2026浦江泌尿肿瘤学术大会丨沈益君教授：ADC推动膀胱癌保膀胱治疗迈向精准联合——从高危NMIBC联合治疗、MIBC路径重塑到分子标志物分层 - 肿瘤瞭望
+【医学科学新闻】攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
 
 一、为什么重要
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -104,34 +131,7 @@ Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Wed, 02 Sep 2026 09:04:07 GMT｜https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zVW82WkxJbGpaeDA0TEszSTdXNG44ejVDbmI5Y3V1clZLZzh3QlRQMHd0U3BFMjJ0eTZycmpPOXQwYngwODhBWkdMQTNxM19tN1NRVWhod1R6aFk4?oc=5
-
----
-
-## 5. 以岭药业中报：营收净利稳健增长，以创新机制抓中医药产业升级红利 - caiwennews.com
-
-【医学科学新闻】以岭药业中报：营收净利稳健增长，以创新机制抓中医药产业升级红利 - caiwennews.com
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 02 Sep 2026 08:54:25 GMT｜https://news.google.com/rss/articles/CBMiXEFVX3lxTE05czVkZ2JMcXVybmVBbVdlNGNKaEhFcUthUWh5ekJ6d1lJd2ZmZkFfX3Q0VUktNk5RTF9lektEaFB0bktQZjZlLVdQZURkWDh6S1RKVy0zRDlja1dV?oc=5
+Bing News CN｜Tue, 23 Jun 2026 09:51:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa20765abde435da1e12ee50a4604ef&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
 
 ---
 
@@ -162,15 +162,15 @@ JAMA｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42574006/
 
 ---
 
-## 7. 肿瘤/血液肿瘤研究：Chemotherapy with or without pembrolizumab followed by maintenance pembrolizumab with or without olaparib as first-line treatment of patients with advanced BRCA non-mutated epithelial ovarian cancer (ENGOT-OV43/GOG-3036/KEYLYNK-001): a randomised, double-blind, placebo-controlled, phase 3 trial.
+## 7. 综合医学研究：Oveporexton for Narcolepsy Type 1 - Results from Two Phase 3 Trials.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Chemotherapy with or without pembrolizumab followed by maintenance pembrolizumab with or without olaparib as first-line treatment of patients with advanced BRCA non-mutated epithelial ovarian cancer (ENGOT-OV43/GOG-3036/KEYLYNK-001): a randomised, double-blind, placebo-controlled, phase 3 trial.
+【医学科学新闻】综合医学研究：Oveporexton for Narcolepsy Type 1 - Results from Two Phase 3 Trials.
 
 一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+The New England journal of medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -185,7 +185,7 @@ The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The Lancet. Oncology｜2026-Sep-07｜https://pubmed.ncbi.nlm.nih.gov/42705254/
+The New England journal of medicine｜2026-Sep-09｜https://pubmed.ncbi.nlm.nih.gov/42714024/
 
 ---
 
@@ -216,7 +216,34 @@ The New England journal of medicine｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 9. 神经科学/神经疾病研究：Common MC1R Variants and Parkinson Disease Progression.
+## 9. 公共卫生/流行病学研究：Safety and efficacy of vanzacaftor-tezacaftor-deutivacaftor in children with cystic fibrosis aged 2-5 years (TIMBERLINE Trial VX21-121-105): a phase 3, open-label study.
+
+【医学科学新闻】公共卫生/流行病学研究：Safety and efficacy of vanzacaftor-tezacaftor-deutivacaftor in children with cystic fibrosis aged 2-5 years (TIMBERLINE Trial VX21-121-105): a phase 3, open-label study.
+
+一、为什么重要
+The Lancet. Respiratory medicine 发布的公共卫生/流行病学相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+The Lancet. Respiratory medicine｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42710511/
+
+---
+
+## 10. 神经科学/神经疾病研究：Common MC1R Variants and Parkinson Disease Progression.
 
 【医学科学新闻】神经科学/神经疾病研究：Common MC1R Variants and Parkinson Disease Progression.
 
@@ -243,7 +270,7 @@ JAMA neurology｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42709445/
 
 ---
 
-## 10. 重症医学/急危重症研究：Gastric Residual Volume Assessment in Critically Ill Children: The GASTRIC-PICU Randomized Clinical Trial.
+## 11. 重症医学/急危重症研究：Gastric Residual Volume Assessment in Critically Ill Children: The GASTRIC-PICU Randomized Clinical Trial.
 
 【医学科学新闻】重症医学/急危重症研究：Gastric Residual Volume Assessment in Critically Ill Children: The GASTRIC-PICU Randomized Clinical Trial.
 
@@ -270,15 +297,15 @@ JAMA｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42283228/
 
 ---
 
-## 11. 肿瘤/血液肿瘤研究：Induction and extended consolidation with daratumumab, cyclophosphamide, bortezomib, lenalidomide, and dexamethasone in patients with high-risk multiple myeloma (OPTIMUM/MUKnine): 5-year follow-up of a multicentre, externally controlled, phase 2 trial.
+## 12. 综合医学研究：Prophylactic Mesh Placement and Incisional Hernia Incidence in Hepatobiliopancreatic Surgery: A Randomized Clinical Trial.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Induction and extended consolidation with daratumumab, cyclophosphamide, bortezomib, lenalidomide, and dexamethasone in patients with high-risk multiple myeloma (OPTIMUM/MUKnine): 5-year follow-up of a multicentre, externally controlled, phase 2 trial.
+【医学科学新闻】综合医学研究：Prophylactic Mesh Placement and Incisional Hernia Incidence in Hepatobiliopancreatic Surgery: A Randomized Clinical Trial.
 
 一、为什么重要
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+JAMA surgery 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -293,11 +320,11 @@ The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-The Lancet. Oncology｜2026-Sep-07｜https://pubmed.ncbi.nlm.nih.gov/42705255/
+JAMA surgery｜2026-Sep-09｜https://pubmed.ncbi.nlm.nih.gov/42714891/
 
 ---
 
-## 12. 感染/疫苗研究：RSV Bivalent Prefusion F Protein Vaccine in Pregnancy and Protection Against RSV-Associated Illness in Infants: A Systematic Review and Meta-Analysis.
+## 13. 感染/疫苗研究：RSV Bivalent Prefusion F Protein Vaccine in Pregnancy and Protection Against RSV-Associated Illness in Infants: A Systematic Review and Meta-Analysis.
 
 【医学科学新闻】感染/疫苗研究：RSV Bivalent Prefusion F Protein Vaccine in Pregnancy and Protection Against RSV-Associated Illness in Infants: A Systematic Review and Meta-Analysis.
 
@@ -324,7 +351,7 @@ JAMA pediatrics｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42709454/
 
 ---
 
-## 13. 神经科学/神经疾病研究：Smoking, Exhaled Carbon Monoxide, and Risk of Parkinson Disease.
+## 14. 神经科学/神经疾病研究：Smoking, Exhaled Carbon Monoxide, and Risk of Parkinson Disease.
 
 【医学科学新闻】神经科学/神经疾病研究：Smoking, Exhaled Carbon Monoxide, and Risk of Parkinson Disease.
 
@@ -351,7 +378,88 @@ JAMA neurology｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42709430/
 
 ---
 
-## 14. 公共卫生/流行病学研究：Interventions to Improve Outpatient Follow-up for Hospitalized Patients With Alcohol Use Disorder : A Systematic Review.
+## 15. 心血管研究：Designing Cardiovascular Outcomes Trials in Clonal Hematopoiesis of Indeterminate Potential.
+
+【医学科学新闻】心血管研究：Designing Cardiovascular Outcomes Trials in Clonal Hematopoiesis of Indeterminate Potential.
+
+一、为什么重要
+JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA cardiology｜2026-Sep-09｜https://pubmed.ncbi.nlm.nih.gov/42714878/
+
+---
+
+## 16. 综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
+
+【医学科学新闻】综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
+
+一、为什么重要
+JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA｜2026-Sep-09｜https://pubmed.ncbi.nlm.nih.gov/42714881/
+
+---
+
+## 17. 肿瘤/血液肿瘤研究：Risk of Relapse and Efficacy of Adjuvant Chemotherapy in Localized Appendiceal Adenocarcinoma.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：Risk of Relapse and Efficacy of Adjuvant Chemotherapy in Localized Appendiceal Adenocarcinoma.
+
+一、为什么重要
+JAMA surgery 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA surgery｜2026-Sep-09｜https://pubmed.ncbi.nlm.nih.gov/42714885/
+
+---
+
+## 18. 公共卫生/流行病学研究：Interventions to Improve Outpatient Follow-up for Hospitalized Patients With Alcohol Use Disorder : A Systematic Review.
 
 【医学科学新闻】公共卫生/流行病学研究：Interventions to Improve Outpatient Follow-up for Hospitalized Patients With Alcohol Use Disorder : A Systematic Review.
 
@@ -378,15 +486,15 @@ Annals of internal medicine｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/4270
 
 ---
 
-## 15. 综合医学研究：From algorithms to patient outcomes - lessons from one of the first randomized trials of AI in medicine.
+## 19. 感染/疫苗研究：Risk factors for hospital admission and mortality in patients with influenza virus infection: a systematic review and meta-analysis.
 
-【医学科学新闻】综合医学研究：From algorithms to patient outcomes - lessons from one of the first randomized trials of AI in medicine.
+【医学科学新闻】感染/疫苗研究：Risk factors for hospital admission and mortality in patients with influenza virus infection: a systematic review and meta-analysis.
 
 一、为什么重要
-Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+The Lancet. Respiratory medicine 发布的感染/疫苗相关Guideline，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -401,19 +509,19 @@ Nature medicine 发布的综合医学相关RCT，值得关注其研究设计、�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature medicine｜2026-Sep-07｜https://pubmed.ncbi.nlm.nih.gov/42706370/
+The Lancet. Respiratory medicine｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42710513/
 
 ---
 
-## 16. 心血管研究：Menopausal Hormone Therapy and Cardiovascular Risk in Midlife Women With Vasomotor Symptoms.
+## 20. 感染/疫苗研究：Global hospital admission and case fatality risks among patients with influenza virus infection: a systematic review and meta-analysis.
 
-【医学科学新闻】心血管研究：Menopausal Hormone Therapy and Cardiovascular Risk in Midlife Women With Vasomotor Symptoms.
+【医学科学新闻】感染/疫苗研究：Global hospital admission and case fatality risks among patients with influenza virus infection: a systematic review and meta-analysis.
 
 一、为什么重要
-JAMA internal medicine 发布的心血管相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+The Lancet. Respiratory medicine 发布的感染/疫苗相关Guideline，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -428,114 +536,6 @@ JAMA internal medicine 发布的心血管相关Clinical trial，值得关注其�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA internal medicine｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42709460/
-
----
-
-## 17. 医疗AI/数字医学研究：From algorithms to patient outcomes — lessons from one of the first randomized trials of AI in medicine
-
-【医学科学新闻】医疗AI/数字医学研究：From algorithms to patient outcomes — lessons from one of the first randomized trials of AI in medicine
-
-一、为什么重要
-Nature Medicine 发布的医疗AI/数字医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕医疗AI/数字医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature Medicine｜2026-09-07｜https://www.nature.com/articles/s41591-026-04633-x
-
----
-
-## 18. 肿瘤/血液肿瘤研究：Timing of Initiation of Methadone Take-Home Dosing.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Timing of Initiation of Methadone Take-Home Dosing.
-
-一、为什么重要
-JAMA internal medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA internal medicine｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42709433/
-
----
-
-## 19. 神经科学/神经疾病研究：Salovum® reduces mortality in isolated severe traumatic brain injury: a randomized phase II trial.
-
-【医学科学新闻】神经科学/神经疾病研究：Salovum® reduces mortality in isolated severe traumatic brain injury: a randomized phase II trial.
-
-一、为什么重要
-Brain : a journal of neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Brain : a journal of neurology｜2026-Sep-07｜https://pubmed.ncbi.nlm.nih.gov/42705343/
-
----
-
-## 20. 心血管研究：Targeted vitamin D supplementation and major adverse cardiovascular events after myocardial infarction: the TARGET-D trial.
-
-【医学科学新闻】心血管研究：Targeted vitamin D supplementation and major adverse cardiovascular events after myocardial infarction: the TARGET-D trial.
-
-一、为什么重要
-European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕心血管方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-European heart journal｜2026-Sep-07｜https://pubmed.ncbi.nlm.nih.gov/42702500/
+The Lancet. Respiratory medicine｜2026-Sep-08｜https://pubmed.ncbi.nlm.nih.gov/42710510/
 
 ---
