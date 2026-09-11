@@ -1,101 +1,94 @@
 # 国际顶刊与医学科学新闻
 
-1. 肿瘤/血液肿瘤研究：Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Sep-08
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Combination therapy has emerged as a promising therapeutic approach for patients with epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC). However, its clinical benefit-risk profile remains a focus of ongoing debate. Identifying patients most likely to derive benefit from such regimens remains an unmet clinical need.
-OBJECTIVE: To prospectively compare the efficacy and safety of first-line osimertinib plus chemotherapy with osimertinib monotherapy for patients with EGFR-mu... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42574006/
-2. 综合医学研究：Oveporexton for Narcolepsy Type 1 - Results from Two Phase 3 Trials.
+1. 心血管研究：Myeloperoxidase inhibition with mitiperstat in heart failure with preserved or mildly reduced ejection fraction: a randomized phase 2b trial.
+   - 来源：Nature medicine
+   - 时间：2026-Sep-09
+   - 摘要：这条内容聚焦心血管。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：Myeloperoxidase (MPO)-derived oxidants reduce nitric oxide bioavailability and promote coronary microvascular dysfunction, cardiomyocyte stiffening and interstitial fibrosis-mechanisms implicated in the pathogenesis of heart failure with preserved and mildly reduced ejection fraction. Here, in a multicenter, randomized, double-blind, placebo-controlled, three-arm, parallel-group phase 2b trial of patients with heart failure and an ejection fraction of >40%, we evaluated whether treatment with the MPO inhibitor miti... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42717033/
+2. 肿瘤/血液肿瘤研究：Pembrolizumab Plus Chemotherapy for Cervical Cancer: An Exploratory Analysis of the KEYNOTE-826 Randomized Clinical Trial.
+   - 来源：JAMA oncology
+   - 时间：2026-Sep-10
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: In the KEYNOTE-826 study, pembrolizumab (vs placebo) plus platinum-based chemotherapy (with or without bevacizumab) significantly improved progression-free survival and overall survival in participants with previously untreated persistent, recurrent, or metastatic cervical cancer at interim analysis 1 (median follow-up, 22.0 months), with continued benefit at final analysis (median follow-up, 39.1 months). Long-term follow-up is important to further inform the benefit-risk profile of anticancer treatmen... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42720936/
+3. 肿瘤/血液肿瘤研究：Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Sep-10
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Studies of obinutuzumab, a type II anti-CD20 antibody, have shown efficacy in the treatment of hematologic cancers and autoimmune diseases. An evaluation of the efficacy and safety of obinutuzumab in patients with primary membranous nephropathy is needed.
+METHODS: In a phase 3 trial, we randomly assigned adults with primary membranous nephropathy in a 1:1 ratio to receive intravenous obinutuzumab or oral tacrolimus. The primary end point was complete remission (defined as a urinary protein-to-creatinine... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42246654/
+4. 综合医学研究：Oveporexton for Narcolepsy Type 1 - Results from Two Phase 3 Trials.
    - 来源：The New England journal of medicine
    - 时间：2026-Sep-09
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Narcolepsy type 1 is characterized by excessive daytime sleepiness, cataplexy, disrupted sleep, sleep paralysis, and hypnagogic or hypnopompic hallucinations. Oveporexton (TAK-861), an oral orexin receptor 2-selective agonist, reduced symptoms of narcolepsy type 1 in a previous phase 2 trial.
 METHODS: We conducted two phase 3, randomized, placebo-controlled trials evaluating the efficacy and safety of oveporexton over a period of 12 weeks. Participants 16 to 70 years of age with narcolepsy type 1 were r... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42714024/
-3. 公共卫生/流行病学研究：Tozorakimab to Prevent COPD Exacerbations.
+5. 心血管研究：Loberamisal for Acute Ischemic Stroke: The LAIS Randomized Clinical Trial.
+   - 来源：JAMA
+   - 时间：2026-Sep-10
+   - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Effective neuroprotective and neuroreparative therapies for acute ischemic stroke remain limited. Loberamisal is a small-molecule compound that dually targets the postsynaptic density 95 (PSD-95) pathway and α2 γ-aminobutyric acid type α (α2-GABAA) receptor.
+OBJECTIVE: To evaluate the efficacy and safety of intravenous loberamisal for improving functional outcomes in patients with acute ischemic stroke.
+DESIGN, SETTING, AND PARTICIPANTS: The Loberamisal for Acute Ischemic Stroke (LAIS) trial was a multi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42721021/
+6. 生物医药/细胞与基因治疗研究：Inhaled siRNA therapy targeting RAGE for pulmonary inflammation: a first-in-human randomized trial.
+   - 来源：Nature medicine
+   - 时间：2026-Sep-09
+   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：The receptor for advanced glycation end products (RAGE), a multiligand receptor that is abundantly expressed by lung alveolar type-1 cells, amplifies and sustains the innate immune response in a variety of pulmonary disorders, including asthma and chronic obstructive pulmonary disease. Here we developed ARO-RAGE, an inhaled, lung-epithelium-targeted siRNA directed against pulmonary RAGE mRNA. Preclinical data from rat models of asthma, chronic obstructive pulmonary disease and acute lung injury, as well as mouse mo... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42717034/
+7. 生物医药/细胞与基因治疗研究：Exa-cel in Children with Transfusion-Dependent β-Thalassemia or Sickle Cell Disease.
    - 来源：The New England journal of medicine
-   - 时间：2026-Sep-08
-   - 摘要：这条内容聚焦公共卫生/流行病学。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Many patients with chronic obstructive pulmonary disease (COPD) have exacerbations despite receiving standard-of-care inhaled maintenance therapy. Dysregulated interleukin-33 signaling is implicated in the pathogenesis of COPD. Tozorakimab is a monoclonal antibody that inhibits the activity of interleukin-33.
-METHODS: In two replicate phase 3 trials (OBERON and TITANIA), we enrolled adults with COPD who were current or former smokers and had a history of exacerbations in the previous year despite receiv... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42708515/
-4. 公共卫生/流行病学研究：Safety and efficacy of vanzacaftor-tezacaftor-deutivacaftor in children with cystic fibrosis aged 2-5 years (TIMBERLINE Trial VX21-121-105): a phase 3, open-label study.
+   - 时间：2026-Sep-10
+   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Exagamglogene autotemcel (exa-cel) is a cell therapy in which autologous CD34+ hematopoietic cells are engineered through ex vivo clustered regularly interspaced short palindromic repeats-Cas9 editing of the erythroid-specific enhancer region of BCL11A to express fetal hemoglobin. In phase 3 studies involving participants 12 to 35 years of age with sickle cell disease or transfusion-dependent β-thalassemia, exa-cel eliminated vaso-occlusive crises and the need for red-cell transfusions.
+METHODS: In two ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42274009/
+8. 公共卫生/流行病学研究：Safety and efficacy of vanzacaftor-tezacaftor-deutivacaftor in children with cystic fibrosis aged 2-5 years (TIMBERLINE Trial VX21-121-105): a phase 3, open-label study.
    - 来源：The Lancet. Respiratory medicine
    - 时间：2026-Sep-08
    - 摘要：这条内容聚焦公共卫生/流行病学。来源为The Lancet. Respiratory medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Vanzacaftor-tezacaftor-deutivacaftor was shown to be efficacious and safe in people with cystic fibrosis aged 6 years and older, providing further restoration of CFTR function compared with elexacaftor-tezacaftor-ivacaftor. We aimed to assess the safety and efficacy of vanzacaftor-tezacaftor-deutivacaftor in children aged 2-5 years.
 METHODS: This phase 3, single-arm, open-label study (TIMBERLINE Trial VX21-121-105) consisted of two parts: part A (conducted at 11 sites in the USA) assessed the pharmacoki... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42710511/
-5. 神经科学/神经疾病研究：Common MC1R Variants and Parkinson Disease Progression.
-   - 来源：JAMA neurology
-   - 时间：2026-Sep-08
-   - 摘要：这条内容聚焦神经科学/神经疾病。来源为JAMA neurology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Melanocortin 1 receptor (MC1R) is a key regulator of pigmentation and oxidative stress implicated in Parkinson disease (PD). MC1R loss-of-function variants, defined by experimentally demonstrated reductions in MC1R function, are carried by more than 60% of individuals of European descent.
-OBJECTIVE: To determine whether MC1R loss-of-function variants are associated with accelerated PD progression.
-DESIGN, SETTING, AND PARTICIPANTS: This longitudinal cohort study used data from July 2010 to January 2026 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42709445/
-6. 重症医学/急危重症研究：Gastric Residual Volume Assessment in Critically Ill Children: The GASTRIC-PICU Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Sep-08
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Routine assessment of gastric residual volume (GRV) to guide enteral feeding in critically ill children is widespread but not based on evidence. Perceived high gastric volumes often lead to withholding feeds, impairing nutritional delivery.
-OBJECTIVE: To evaluate the effect of not routinely assessing GRV compared with assessments at least every 6 hours in children undergoing mechanical ventilation on the duration of mechanical ventilation and survival and achievement of nutritional targets.
-DESIGN, SETT... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42283228/
-7. 综合医学研究：Prophylactic Mesh Placement and Incisional Hernia Incidence in Hepatobiliopancreatic Surgery: A Randomized Clinical Trial.
+9. 心血管研究：Complete Revascularization Guided by Functional Coronary Angiography in STEMI.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Sep-10
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Complete coronary-artery revascularization is recommended in patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease, but the preferred strategy for identifying nonculprit lesions that warrant treatment remains uncertain.
+METHODS: In this international, randomized trial, we assigned patients with STEMI and multivessel disease in whom the culprit lesion had been successfully treated to undergo complete coronary-artery revascularization guided by functional coronary angiog... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42670979/
+10. 综合医学研究：Prophylactic Mesh Placement and Incisional Hernia Incidence in Hepatobiliopancreatic Surgery: A Randomized Clinical Trial.
    - 来源：JAMA surgery
    - 时间：2026-Sep-09
    - 摘要：这条内容聚焦综合医学。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: The incidence of incisional hernia after hepatobiliopancreatic surgery could reach 40%. There is a lack of evidence regarding the use of prophylactic mesh in subcostal incisions.
 OBJECTIVE: To evaluate whether prophylactic mesh placement during abdominal wall closure reduces the rate of incisional hernias.
 DESIGN, SETTING, AND PARTICIPANTS: This prospective, double-blinded randomized clinical trial was conducted between July 2020 and December 2024 at Virgen Macarena Hospital in Seville, Spain. Patients ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42714891/
-8. 感染/疫苗研究：RSV Bivalent Prefusion F Protein Vaccine in Pregnancy and Protection Against RSV-Associated Illness in Infants: A Systematic Review and Meta-Analysis.
-   - 来源：JAMA pediatrics
-   - 时间：2026-Sep-08
-   - 摘要：这条内容聚焦感染/疫苗。来源为JAMA pediatrics，类型初步识别为RCT。摘要信息显示：IMPORTANCE: The respiratory syncytial virus (RSV) bivalent prefusion F protein vaccine (RSVpreF) administered during pregnancy has demonstrated efficacy in protecting infants against early-life RSV disease in the pivotal clinical trial.
-OBJECTIVE: To conduct a systematic review and meta-analysis to synthesize real-world evidence on the effectiveness of RSVpreF in preventing RSV-associated lower respiratory tract infection (LRTI) in infants.
-DATA SOURCES: PubMed, Scopus, and Europe PMC were searched from January 1, ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42709454/
-9. 神经科学/神经疾病研究：Smoking, Exhaled Carbon Monoxide, and Risk of Parkinson Disease.
-   - 来源：JAMA neurology
-   - 时间：2026-Sep-08
-   - 摘要：这条内容聚焦神经科学/神经疾病。来源为JAMA neurology，类型初步识别为Clinical trial。摘要信息显示：IMPORTANCE: Smoking has been associated with lower risks of Parkinson disease (PD) in epidemiological studies, but the underlying mechanisms remain poorly elucidated.
-OBJECTIVE: To investigate the association of exhaled carbon monoxide (CO) with risk of PD.
-DESIGN, SETTING, AND PARTICIPANTS: This nationwide prospective cohort study leveraged data from the China Kadoorie Biobank across 10 geographically diverse areas in China. A total of 512 724 adults aged 30 to 79 years were recruited between June 2004 and July 20... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42709430/
-10. 心血管研究：Designing Cardiovascular Outcomes Trials in Clonal Hematopoiesis of Indeterminate Potential.
+11. 心血管研究：Designing Cardiovascular Outcomes Trials in Clonal Hematopoiesis of Indeterminate Potential.
    - 来源：JAMA cardiology
    - 时间：2026-Sep-09
    - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an independent and potent cardiovascular risk factor. As genetic sequencing becomes more widespread and the population ages, the identification of CHIP will increase substantially. Despite strong epidemiologic and mechanistic evidence linking CHIP to cardiovascular disease, no randomized trials have prospectively addressed this population.
 OBJECTIVE: To examine the major challenges in designing cardiovascular outcomes trials in CHIP a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42714878/
-11. 综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
+12. 重症医学/急危重症研究：Mobile education builds resilience during shocks in five countries.
+   - 来源：Nature
+   - 时间：2026-Sep-09
+   - 摘要：这条内容聚焦重症医学/急危重症。来源为Nature，类型初步识别为RCT。摘要信息显示：Education systems need to withstand frequent shocks, including disease and climate events, which close schools for more than 222 million children1. During these emergencies, alternative models are needed to deliver education. However, rigorous evaluation of effective educational approaches in these settings is challenging and rare, especially across multiple countries. Here we present results from five randomized trials in India, Kenya, Nepal, the Philippines and Uganda to evaluate the provision of education in eme... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42717082/
+13. 综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
    - 来源：JAMA
    - 时间：2026-Sep-09
    - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: The optimal initial fraction of inspired oxygen (Fio2) for delivery room resuscitation of neonates born at 32 to 35 weeks' gestation is unknown.
 OBJECTIVE: To compare outcomes for neonates born at 32 to 35 weeks' gestation when initiating resuscitation with Fio2 0.30 vs 0.21.
 DESIGN, SETTING, AND PARTICIPANTS: Unblinded, cluster randomized crossover trial in 26 Australian maternity hospitals, including tertiary, nontertiary, metropolitan, regional, public, and private sites, using a waiver of informed c... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42714881/
-12. 肿瘤/血液肿瘤研究：Risk of Relapse and Efficacy of Adjuvant Chemotherapy in Localized Appendiceal Adenocarcinoma.
+14. 综合医学研究：Effect of exercise on bone health in middle aged and older adults: hierarchical network meta-analysis of randomised trials.
+   - 来源：BMJ (Clinical research ed.)
+   - 时间：2026-Sep-09
+   - 摘要：这条内容聚焦综合医学。来源为BMJ (Clinical research ed.)，类型初步识别为RCT。摘要信息显示：OBJECTIVE: To determine the type and dose of exercise needed to maintain bone mineral density (BMD) and reduce fracture risk in adults aged ≥40 years.
+DESIGN: Hierarchical bayesian network meta-analysis and multivariable dose-response network meta-analysis.
+DATA SOURCES: PubMed, Embase, the Cochrane Library, and Web of Science from inception to January 2026.
+ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Randomised controlled trials comparing structured exercise interventions with non-exercise control or alternative e... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42716561/
+15. 肿瘤/血液肿瘤研究：Risk of Relapse and Efficacy of Adjuvant Chemotherapy in Localized Appendiceal Adenocarcinoma.
    - 来源：JAMA surgery
    - 时间：2026-Sep-09
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA surgery，类型初步识别为Translational research。摘要信息显示：IMPORTANCE: Relapse risk and benefit of adjuvant chemotherapy after resection of appendiceal adenocarcinoma (AA) are uncertain.
 OBJECTIVE: To identify clinicopathologic and genomic factors associated with relapse and assess efficacy of adjuvant chemotherapy in localized AA.
 DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study (January 2000 through February 2024; median follow-up, 62.6 months) used Kaplan-Meier and Cox proportional hazards modeling. It took place at the University of Texas MD (UT MD) A... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42714885/
-13. 公共卫生/流行病学研究：Interventions to Improve Outpatient Follow-up for Hospitalized Patients With Alcohol Use Disorder : A Systematic Review.
-   - 来源：Annals of internal medicine
-   - 时间：2026-Sep-08
-   - 摘要：这条内容聚焦公共卫生/流行病学。来源为Annals of internal medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Hospitalizations for alcohol use disorder (AUD) are common and morbid. Outpatient follow-up after discharge is critical for reducing alcohol use and subsequent readmissions, but effective interventions to support this transition are unknown.
-PURPOSE: To summarize evidence on the effectiveness of hospital-based interventions to improve outpatient follow-up for AUD.
-DATA SOURCES: Ovid MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials, PsycInfo, and CINAHL (January 2000 to February 2025).
-STU... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42704903/
-14. 感染/疫苗研究：Risk factors for hospital admission and mortality in patients with influenza virus infection: a systematic review and meta-analysis.
-   - 来源：The Lancet. Respiratory medicine
-   - 时间：2026-Sep-08
-   - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Respiratory medicine，类型初步识别为Guideline。摘要信息显示：BACKGROUND: Identifying risk factors associated with hospital admission and mortality in patients with influenza is crucial for guiding clinical management and public health strategies. To support an update of WHO influenza clinical guidelines, this systematic review and meta-analysis assessed risk factors for hospital admission and all-cause mortality in patients with seasonal influenza.
-METHODS: We systematically searched Medline, Embase, Cochrane Central Register of Controlled Trials, Cumulative Index to Nursing... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42710513/
-15. 感染/疫苗研究：Global hospital admission and case fatality risks among patients with influenza virus infection: a systematic review and meta-analysis.
-   - 来源：The Lancet. Respiratory medicine
-   - 时间：2026-Sep-08
-   - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Respiratory medicine，类型初步识别为Guideline。摘要信息显示：BACKGROUND: Global comprehensive assessments of hospital admission and mortality among patients with influenza across diverse populations and geographical settings remain limited. To support an update of WHO influenza clinical guidelines, we aimed to assess the baseline risks of hospital admission and case fatality among patients with seasonal, pandemic, or zoonotic influenza.
-METHODS: In this systematic review and meta-analysis, we systematically searched MEDLINE, Embase, Cochrane Central Register of Controlled Tr... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42710510/
