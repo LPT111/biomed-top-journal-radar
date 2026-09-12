@@ -1,19 +1,18 @@
-# 全医学科学新闻雷达｜2026-09-11 09:27:48
+# 全医学科学新闻雷达｜2026-09-12 09:32:39
 
 - 今日新闻：20 条
 - 中文来源：5 条
 - 国际来源：15 条
-- 顶刊论文：14 条
-- RCT/临床试验：15 条
+- 顶刊论文：15 条
+- RCT/临床试验：16 条
 
 > RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-> biorxiv: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
-> medrxiv: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+> RSS Nature: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 ## 今日 20 条
 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
    - 来源：Bing News CN｜类型：RCT｜分数：51
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa359159b914fffa65b0fa7084325a4&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa4abb846844fd2a6baadb6e301ed99&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
    - 简述：Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 2. 赓续红色血脉铸就医学高峰——哈尔滨医科大学迎来建校百年华诞- 中国日报网 - China Daily
    - 来源：Google News CN｜类型：Medical news｜分数：32
@@ -23,13 +22,13 @@
    - 来源：Google News CN｜类型：Medical news｜分数：27
    - 链接：https://news.google.com/rss/articles/CBMiakFVX3lxTE1BT0JRTkJ3R0tNRU1LYU5Od3J1MV80WFRCVGtCd21xTzFMMEdjeHQ5dy1vc2FCSWQ4X0htaW9nM3ZyUHhGa1ctbW5rblJCU0taaFFOUWpNNUs4dUN2N1ZVR2dlMUxXTGtlVWc?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-4. 英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
-   - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa35915ee2043559b473082766690dd&url=https%3a%2f%2fwww.36kr.com%2fp%2f2956420971755648&c=1064439207480232078&mkt=en-us
-   - 简述：Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. AI全面进医院！ 政府正式发布方案 - chyyyygl.com
+4. AI全面进医院！ 政府正式发布方案 - chyyyygl.com
    - 来源：Google News CN｜类型：Medical news｜分数：26
    - 链接：https://news.google.com/rss/articles/CBMiWkFVX3lxTFBidVRiWkJ0UU9iQVZaOTdvVWR1QUZZMkVkZFBhLTF4Y05fcWRnalZwRDAwZ0w5QWdXS1A4Mm9Yb29fRWlJOERLcnN4cDN1N180WG8wc2FXOFlxdw?oc=5
+   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+5. 重磅！全球首个AI抗衰新药，登上《自然·生物技术》 - 新浪财经
+   - 来源：Google News CN｜类型：Medical news｜分数：26
+   - 链接：https://news.google.com/rss/articles/CBMieEFVX3lxTE1fN0dQRU9qNGtiSHVGVkJtOTJ1dHpUdS1vWkMtc2NKUzVXTFUxMU5FS2JIc1l1X3M2SFVmRzlJQkJJU3l3d21mRzNRcnFfOVVKUW5ZSXZ0OVZiSGxlWldJeWRVeGp3a3g0Q1EzRFQyNEgyMWlTcTVuNw?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 6. 心血管研究：Myeloperoxidase inhibition with mitiperstat in heart failure with preserved or mildly reduced ejection fraction: a randomized phase 2b trial.
    - 来源：Nature medicine｜类型：RCT｜分数：102
@@ -51,18 +50,18 @@
    - 来源：JAMA｜类型：RCT｜分数：94
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42721021/
    - 简述：JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-11. 生物医药/细胞与基因治疗研究：Inhaled siRNA therapy targeting RAGE for pulmonary inflammation: a first-in-human randomized trial.
+11. 感染/疫苗研究：Immunogenicity and safety of an MF59-adjuvanted cell-derived higher-dose quadrivalent influenza vaccine (aQIVc) in adults aged 50 years or older: a phase 3 randomised controlled trial.
+   - 来源：The Lancet. Infectious diseases｜类型：RCT｜分数：88
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42721997/
+   - 简述：The Lancet. Infectious diseases 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
+12. 生物医药/细胞与基因治疗研究：Inhaled siRNA therapy targeting RAGE for pulmonary inflammation: a first-in-human randomized trial.
    - 来源：Nature medicine｜类型：RCT｜分数：88
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42717034/
    - 简述：Nature medicine 发布的生物医药/细胞与基因治疗相关RCT，值得关注其研究设计、核心发现和转化边界。
-12. 生物医药/细胞与基因治疗研究：Exa-cel in Children with Transfusion-Dependent β-Thalassemia or Sickle Cell Disease.
+13. 生物医药/细胞与基因治疗研究：Exa-cel in Children with Transfusion-Dependent β-Thalassemia or Sickle Cell Disease.
    - 来源：The New England journal of medicine｜类型：Phase 3 trial｜分数：86
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42274009/
    - 简述：The New England journal of medicine 发布的生物医药/细胞与基因治疗相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-13. 公共卫生/流行病学研究：Safety and efficacy of vanzacaftor-tezacaftor-deutivacaftor in children with cystic fibrosis aged 2-5 years (TIMBERLINE Trial VX21-121-105): a phase 3, open-label study.
-   - 来源：The Lancet. Respiratory medicine｜类型：Phase 3 trial｜分数：86
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42710511/
-   - 简述：The Lancet. Respiratory medicine 发布的公共卫生/流行病学相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 14. 心血管研究：Complete Revascularization Guided by Functional Coronary Angiography in STEMI.
    - 来源：The New England journal of medicine｜类型：RCT｜分数：80
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42670979/
@@ -71,23 +70,23 @@
    - 来源：JAMA surgery｜类型：RCT｜分数：80
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42714891/
    - 简述：JAMA surgery 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-16. 心血管研究：Designing Cardiovascular Outcomes Trials in Clonal Hematopoiesis of Indeterminate Potential.
+16. 免疫/炎症研究：A bispecific CD3×CD19 antibody for systemic lupus erythematosus: a phase 1 trial.
+   - 来源：Nature medicine｜类型：Clinical trial｜分数：76
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42722888/
+   - 简述：Nature medicine 发布的免疫/炎症相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+17. 心血管研究：Designing Cardiovascular Outcomes Trials in Clonal Hematopoiesis of Indeterminate Potential.
    - 来源：JAMA cardiology｜类型：RCT｜分数：73
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42714878/
    - 简述：JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-17. 重症医学/急危重症研究：Mobile education builds resilience during shocks in five countries.
+18. 重症医学/急危重症研究：Mobile education builds resilience during shocks in five countries.
    - 来源：Nature｜类型：RCT｜分数：72
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42717082/
    - 简述：Nature 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
-18. 综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
+19. 综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
    - 来源：JAMA｜类型：RCT｜分数：72
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42714881/
    - 简述：JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-19. 综合医学研究：Effect of exercise on bone health in middle aged and older adults: hierarchical network meta-analysis of randomised trials.
-   - 来源：BMJ (Clinical research ed.)｜类型：RCT｜分数：70
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42716561/
-   - 简述：BMJ (Clinical research ed.) 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-20. 肿瘤/血液肿瘤研究：Risk of Relapse and Efficacy of Adjuvant Chemotherapy in Localized Appendiceal Adenocarcinoma.
-   - 来源：JAMA surgery｜类型：Translational research｜分数：70
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42714885/
-   - 简述：JAMA surgery 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
+20. 肿瘤/血液肿瘤研究：COVID-19 vaccination around immune checkpoint inhibitor start and survival in a nationwide cohort of patients with cancer.
+   - 来源：Nature medicine｜类型：Clinical trial｜分数：71
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42722885/
+   - 简述：Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
