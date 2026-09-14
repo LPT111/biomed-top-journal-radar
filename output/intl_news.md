@@ -40,19 +40,17 @@ METHODS: This phase 3, randomised, observer-blind, parallel-group, ... 该摘要
    - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Exagamglogene autotemcel (exa-cel) is a cell therapy in which autologous CD34+ hematopoietic cells are engineered through ex vivo clustered regularly interspaced short palindromic repeats-Cas9 editing of the erythroid-specific enhancer region of BCL11A to express fetal hemoglobin. In phase 3 studies involving participants 12 to 35 years of age with sickle cell disease or transfusion-dependent β-thalassemia, exa-cel eliminated vaso-occlusive crises and the need for red-cell transfusions.
 METHODS: In two ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42274009/
-8. 心血管研究：Complete Revascularization Guided by Functional Coronary Angiography in STEMI.
+8. 免疫/炎症研究：Teclistamab versus lenalidomide-dexamethasone in high-risk smoldering multiple myeloma: a randomized phase 2 trial.
+   - 来源：Nature medicine
+   - 时间：2026-Sep-11
+   - 摘要：这条内容聚焦免疫/炎症。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：Teclistamab, a B cell maturation antigen-targeting bispecific antibody, has demonstrated substantial activity in relapsed multiple myeloma (MM), particularly in earlier lines of therapy, and may have higher efficacy in high-risk smoldering MM (HR-SMM) with a more functional immune system. In the randomized phase 2 ImmunoPRISM trial, we compared fixed-duration teclistamab with lenalidomide-dexamethasone (Rd) in HR-SMM. After a six-patient safety run-in, patients were randomized 2:1 to teclistamab or Rd. The primary ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42728379/
+9. 心血管研究：Complete Revascularization Guided by Functional Coronary Angiography in STEMI.
    - 来源：The New England journal of medicine
    - 时间：2026-Sep-10
    - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Complete coronary-artery revascularization is recommended in patients with ST-segment elevation myocardial infarction (STEMI) and multivessel disease, but the preferred strategy for identifying nonculprit lesions that warrant treatment remains uncertain.
 METHODS: In this international, randomized trial, we assigned patients with STEMI and multivessel disease in whom the culprit lesion had been successfully treated to undergo complete coronary-artery revascularization guided by functional coronary angiog... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42670979/
-9. 综合医学研究：Prophylactic Mesh Placement and Incisional Hernia Incidence in Hepatobiliopancreatic Surgery: A Randomized Clinical Trial.
-   - 来源：JAMA surgery
-   - 时间：2026-Sep-09
-   - 摘要：这条内容聚焦综合医学。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: The incidence of incisional hernia after hepatobiliopancreatic surgery could reach 40%. There is a lack of evidence regarding the use of prophylactic mesh in subcostal incisions.
-OBJECTIVE: To evaluate whether prophylactic mesh placement during abdominal wall closure reduces the rate of incisional hernias.
-DESIGN, SETTING, AND PARTICIPANTS: This prospective, double-blinded randomized clinical trial was conducted between July 2020 and December 2024 at Virgen Macarena Hospital in Seville, Spain. Patients ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42714891/
 10. 肿瘤/血液肿瘤研究：Patient-reported symptom monitoring in patients with lung cancer (SYMPRO-Lung trial): long-term, post-hoc survival results of a multicentre, stepped-wedged, cluster-randomised clinical trial.
    - 来源：The Lancet. Oncology
    - 时间：2026-Sep-11
@@ -82,10 +80,9 @@ DESIGN: Hierarchical bayesian network meta-analysis and multivariable dose-respo
 DATA SOURCES: PubMed, Embase, the Cochrane Library, and Web of Science from inception to January 2026.
 ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Randomised controlled trials comparing structured exercise interventions with non-exercise control or alternative e... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42716561/
-15. 肿瘤/血液肿瘤研究：Risk of Relapse and Efficacy of Adjuvant Chemotherapy in Localized Appendiceal Adenocarcinoma.
-   - 来源：JAMA surgery
+15. 肿瘤/血液肿瘤研究：Development and external validation of a new prognostic model for metastatic clear cell renal cell carcinoma: a preregistered analysis using data from randomised clinical trials in the checkpoint inhibitor era.
+   - 来源：The Lancet. Oncology
    - 时间：2026-Sep-09
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA surgery，类型初步识别为Translational research。摘要信息显示：IMPORTANCE: Relapse risk and benefit of adjuvant chemotherapy after resection of appendiceal adenocarcinoma (AA) are uncertain.
-OBJECTIVE: To identify clinicopathologic and genomic factors associated with relapse and assess efficacy of adjuvant chemotherapy in localized AA.
-DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study (January 2000 through February 2024; median follow-up, 62.6 months) used Kaplan-Meier and Cox proportional hazards modeling. It took place at the University of Texas MD (UT MD) A... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42714885/
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND: Prognostic classification of patients with metastatic clear cell renal cell carcinoma (mccRCC) is instrumental for clinical trials and treatment decisions. Hence, optimal performance of prognostic models is crucial. This study aimed to develop and externally validate the new Clinical Prognostic Index in the Checkpoint Inhibitor era (CPI2) model using clinical trial data, and to externally validate the International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) model.
+METHODS: Individual pat... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42716079/

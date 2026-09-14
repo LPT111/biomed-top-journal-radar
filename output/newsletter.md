@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-09-13 09:24:25
+# 医学科学新闻推文候选草稿｜2026-09-14 09:38:09
 
 ## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
 
@@ -23,16 +23,16 @@ Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5fb4ac3704dcf997fe69f852783f9&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7500249384fe196a9b1c632ffd240&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 
 ---
 
-## 2. 赓续红色血脉铸就医学高峰——哈尔滨医科大学迎来建校百年华诞- 中国日报网 - China Daily
+## 2. 英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
 
-【医学科学新闻】赓续红色血脉铸就医学高峰——哈尔滨医科大学迎来建校百年华诞- 中国日报网 - China Daily
+【医学科学新闻】英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
 
 一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -50,19 +50,19 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Thu, 10 Sep 2026 11:42:49 GMT｜https://news.google.com/rss/articles/CBMifkFVX3lxTE1GMUZ1TXlvVThfUEZCTVFiLTc5MDdCdnVwZG5qTUN4R2prTTNDeVFTRWR2aGhjNHVmeVFFT3FsdHFkbVQ5MWMzZVZodXZ4ZXd6a3pSakYtQ09DbGJYRmtJeU1vRTUxamd6eGJtcE9SX3RTNTNXZ2lXT2o3cUEtQQ?oc=5
+Bing News CN｜Wed, 18 Sep 2024 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7500198d24ae88448fe0dfff258d3&url=https%3a%2f%2fwww.36kr.com%2fp%2f2956420971755648&c=1064439207480232078&mkt=en-us
 
 ---
 
-## 3. 中国疾控中心（中国预科院） 青年科学家联盟举办第三期团山科研沙龙 - chinacdc.cn
+## 3. 从实验室到临床：细胞与基因治疗的临床试验及转化
 
-【医学科学新闻】中国疾控中心（中国预科院） 青年科学家联盟举办第三期团山科研沙龙 - chinacdc.cn
+【医学科学新闻】从实验室到临床：细胞与基因治疗的临床试验及转化
 
 一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -77,7 +77,7 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Sun, 06 Sep 2026 12:31:46 GMT｜https://news.google.com/rss/articles/CBMiakFVX3lxTE1BT0JRTkJ3R0tNRU1LYU5Od3J1MV80WFRCVGtCd21xTzFMMEdjeHQ5dy1vc2FCSWQ4X0htaW9nM3ZyUHhGa1ctbW5rblJCU0taaFFOUWpNNUs4dUN2N1ZVR2dlMUxXTGtlVWc?oc=5
+Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7500249384fe196a9b1c632ffd240&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
 ---
 
@@ -108,12 +108,12 @@ Google News CN｜Wed, 09 Sep 2026 00:49:18 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 5. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+## 5. Cancer Immunology, Immunotherapy丨胡凯教授团队：CAR-T巩固治疗助R/R LBCL再缓解患者获持久控制，高危亚组联合ASCT进一步获益 - ihemato.com
 
-【医学科学新闻】攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+【医学科学新闻】Cancer Immunology, Immunotherapy丨胡凯教授团队：CAR-T巩固治疗助R/R LBCL再缓解患者获持久控制，高危亚组联合ASCT进一步获益 - ihemato.com
 
 一、为什么重要
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -131,7 +131,7 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Tue, 23 Jun 2026 09:51:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5fb4ac3704dcf997fe69f852783f9&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-us
+Google News CN｜Thu, 10 Sep 2026 03:16:11 GMT｜https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nUXk5a1VCdm9iTmRETVNCaGU0Y3BtNlRfelE2cU45VDVFY2I0WFpfbGwyeWo0MnpHeHdXaDVLTTduY1FwZDdfU19oeU14UQ?oc=5
 
 ---
 
@@ -324,7 +324,34 @@ The New England journal of medicine｜2026-Sep-10｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 13. 心血管研究：Complete Revascularization Guided by Functional Coronary Angiography in STEMI.
+## 13. 免疫/炎症研究：Teclistamab versus lenalidomide-dexamethasone in high-risk smoldering multiple myeloma: a randomized phase 2 trial.
+
+【医学科学新闻】免疫/炎症研究：Teclistamab versus lenalidomide-dexamethasone in high-risk smoldering multiple myeloma: a randomized phase 2 trial.
+
+一、为什么重要
+Nature medicine 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕免疫/炎症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature medicine｜2026-Sep-11｜https://pubmed.ncbi.nlm.nih.gov/42728379/
+
+---
+
+## 14. 心血管研究：Complete Revascularization Guided by Functional Coronary Angiography in STEMI.
 
 【医学科学新闻】心血管研究：Complete Revascularization Guided by Functional Coronary Angiography in STEMI.
 
@@ -348,33 +375,6 @@ The New England journal of medicine 发布的心血管相关RCT，值得关注�
 
 七、参考信息
 The New England journal of medicine｜2026-Sep-10｜https://pubmed.ncbi.nlm.nih.gov/42670979/
-
----
-
-## 14. 综合医学研究：Prophylactic Mesh Placement and Incisional Hernia Incidence in Hepatobiliopancreatic Surgery: A Randomized Clinical Trial.
-
-【医学科学新闻】综合医学研究：Prophylactic Mesh Placement and Incisional Hernia Incidence in Hepatobiliopancreatic Surgery: A Randomized Clinical Trial.
-
-一、为什么重要
-JAMA surgery 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA surgery｜2026-Sep-09｜https://pubmed.ncbi.nlm.nih.gov/42714891/
 
 ---
 
@@ -513,12 +513,12 @@ BMJ (Clinical research ed.)｜2026-Sep-09｜https://pubmed.ncbi.nlm.nih.gov/4271
 
 ---
 
-## 20. 肿瘤/血液肿瘤研究：Risk of Relapse and Efficacy of Adjuvant Chemotherapy in Localized Appendiceal Adenocarcinoma.
+## 20. 肿瘤/血液肿瘤研究：Development and external validation of a new prognostic model for metastatic clear cell renal cell carcinoma: a preregistered analysis using data from randomised clinical trials in the checkpoint inhibitor era.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Risk of Relapse and Efficacy of Adjuvant Chemotherapy in Localized Appendiceal Adenocarcinoma.
+【医学科学新闻】肿瘤/血液肿瘤研究：Development and external validation of a new prognostic model for metastatic clear cell renal cell carcinoma: a preregistered analysis using data from randomised clinical trials in the checkpoint inhibitor era.
 
 一、为什么重要
-JAMA surgery 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -536,6 +536,6 @@ JAMA surgery 发布的肿瘤/血液肿瘤相关Translational research，值得�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA surgery｜2026-Sep-09｜https://pubmed.ncbi.nlm.nih.gov/42714885/
+The Lancet. Oncology｜2026-Sep-09｜https://pubmed.ncbi.nlm.nih.gov/42716079/
 
 ---
