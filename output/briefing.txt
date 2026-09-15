@@ -1,39 +1,37 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-09-14 09:38:09
+【Biomed Radar】今日医学科学新闻已更新｜2026-09-15 09:53:32
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-biorxiv: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=25)"))
-medrxiv: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=25)"))
 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
 Bing News CN｜RCT｜Score 51
 Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7500249384fe196a9b1c632ffd240&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8a51e5a70402587c59e0d7307f4f9&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 
-2. 英矽智能AI驱动新药开发，IIa期临床试验取得积极进展 | 最前线
-Bing News CN｜Medical news｜Score 26
-Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7500198d24ae88448fe0dfff258d3&url=https%3a%2f%2fwww.36kr.com%2fp%2f2956420971755648&c=1064439207480232078&mkt=en-us
+2. 济南市儿童医院临床微生物科获批2026年度济南市医药卫生重点实验室 - sd.chinanews.com.cn
+Google News CN｜Medical news｜Score 27
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE15OGE1YVdvNmVNSnVyVXNaNDZVdkg4QVFmdWozSnZIUFd0MlFYWlhxbEI4Vk92NzBzX2J6LXFkVXZyQWhPT0s1LVJhSzl3bkJLLUZfdVBCVlFHZFRhckFUM0EyOGs5QQ?oc=5
 
 3. 从实验室到临床：细胞与基因治疗的临床试验及转化
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7500249384fe196a9b1c632ffd240&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa8a51e5a70402587c59e0d7307f4f9&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
 4. AI全面进医院！ 政府正式发布方案 - chyyyygl.com
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBidVRiWkJ0UU9iQVZaOTdvVWR1QUZZMkVkZFBhLTF4Y05fcWRnalZwRDAwZ0w5QWdXS1A4Mm9Yb29fRWlJOERLcnN4cDN1N180WG8wc2FXOFlxdw?oc=5
 
-5. Cancer Immunology, Immunotherapy丨胡凯教授团队：CAR-T巩固治疗助R/R LBCL再缓解患者获持久控制，高危亚组联合ASCT进一步获益 - ihemato.com
+5. 医渡科技(02158)接连中标头部医院项目服贸会签约共建联合实验室医疗AI落地加速提供者智通财经 - 英为财情 Investing.com
 Google News CN｜Medical news｜Score 26
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nUXk5a1VCdm9iTmRETVNCaGU0Y3BtNlRfelE2cU45VDVFY2I0WFpfbGwyeWo0MnpHeHdXaDVLTTduY1FwZDdfU19oeU14UQ?oc=5
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMicEFVX3lxTE1xXzZqMFNNLXJfVDNBaUtuOVVIS1hYa2ZLWEJmVEdZdGwzZjZxdWxHMlljR0dkbmpQT0dYUWhaNTFLZ2tSZ0RCYlZjbHlBWFdrVUJWOWJSamZzRnpSeWtHcGJ4UDBPMEM4NndndTNEcTE?oc=5
 
-6. 心血管研究：Myeloperoxidase inhibition with mitiperstat in heart failure with preserved or mildly reduced ejection fraction: a randomized phase 2b trial.
-Nature medicine｜RCT｜Score 102
-Nature medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42717033/
+6. 肿瘤/血液肿瘤研究：Tambotatug Pelitecan in Small-Cell Lung Cancer after Platinum-Based Therapy.
+The New England journal of medicine｜RCT｜Score 102
+The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42734213/
 
 7. 肿瘤/血液肿瘤研究：Pembrolizumab Plus Chemotherapy for Cervical Cancer: An Exploratory Analysis of the KEYNOTE-826 Randomized Clinical Trial.
 JAMA oncology｜RCT｜Score 96
@@ -55,20 +53,20 @@ The Lancet. Infectious diseases｜RCT｜Score 88
 The Lancet. Infectious diseases 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42721997/
 
-11. 生物医药/细胞与基因治疗研究：Inhaled siRNA therapy targeting RAGE for pulmonary inflammation: a first-in-human randomized trial.
-Nature medicine｜RCT｜Score 88
-Nature medicine 发布的生物医药/细胞与基因治疗相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42717034/
-
-12. 生物医药/细胞与基因治疗研究：Exa-cel in Children with Transfusion-Dependent β-Thalassemia or Sickle Cell Disease.
+11. 生物医药/细胞与基因治疗研究：Exa-cel in Children with Transfusion-Dependent β-Thalassemia or Sickle Cell Disease.
 The New England journal of medicine｜Phase 3 trial｜Score 86
 The New England journal of medicine 发布的生物医药/细胞与基因治疗相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42274009/
 
-13. 免疫/炎症研究：Teclistamab versus lenalidomide-dexamethasone in high-risk smoldering multiple myeloma: a randomized phase 2 trial.
+12. 免疫/炎症研究：Teclistamab versus lenalidomide-dexamethasone in high-risk smoldering multiple myeloma: a randomized phase 2 trial.
 Nature medicine｜RCT｜Score 83
 Nature medicine 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42728379/
+
+13. 神经科学/神经疾病研究：Intravenous Immunoglobulin Add-On in Newly Diagnosed Idiopathic Inflammatory Myopathies: A Randomized Clinical Trial.
+JAMA neurology｜RCT｜Score 80
+JAMA neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42734930/
 
 14. 心血管研究：Complete Revascularization Guided by Functional Coronary Angiography in STEMI.
 The New England journal of medicine｜RCT｜Score 80
@@ -85,22 +83,22 @@ Nature medicine｜Clinical trial｜Score 76
 Nature medicine 发布的免疫/炎症相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42722888/
 
-17. 重症医学/急危重症研究：Mobile education builds resilience during shocks in five countries.
-Nature｜RCT｜Score 72
-Nature 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42717082/
+17. 重症医学/急危重症研究：Individually Targeted Human Milk Fortification: A Randomized Clinical Trial.
+JAMA pediatrics｜RCT｜Score 72
+JAMA pediatrics 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42734908/
 
 18. 肿瘤/血液肿瘤研究：COVID-19 vaccination around immune checkpoint inhibitor start and survival in a nationwide cohort of patients with cancer.
 Nature medicine｜Clinical trial｜Score 71
 Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42722885/
 
-19. 综合医学研究：Effect of exercise on bone health in middle aged and older adults: hierarchical network meta-analysis of randomised trials.
-BMJ (Clinical research ed.)｜RCT｜Score 70
-BMJ (Clinical research ed.) 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42716561/
+19. 公共卫生/流行病学研究：Cumulative Incidence and Prevalence of Autism Spectrum Disorder.
+JAMA pediatrics｜Guideline｜Score 68
+JAMA pediatrics 发布的公共卫生/流行病学相关Guideline，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42734950/
 
-20. 肿瘤/血液肿瘤研究：Development and external validation of a new prognostic model for metastatic clear cell renal cell carcinoma: a preregistered analysis using data from randomised clinical trials in the checkpoint inhibitor era.
-The Lancet. Oncology｜Clinical trial｜Score 68
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42716079/
+20. 公共卫生/流行病学研究：Joint impact of pathological burden and cognitive resilience on Alzheimer's disease risk.
+Nature medicine｜Clinical trial｜Score 66
+Nature medicine 发布的公共卫生/流行病学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42728380/
