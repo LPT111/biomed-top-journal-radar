@@ -4,7 +4,7 @@
    - 来源：Bing News CN
    - 时间：Mon, 10 Oct 2016 17:00:00 GMT
    - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为RCT。摘要信息显示：韩国首尔--(BUSINESS WIRE)--(美国商业资讯)--以“以韩国人中最新确诊的胶质母细胞瘤患者为对象，并用标准疗法和基于CIK诱导杀伤细胞的细胞免疫治疗法的第三期随机临床试验(Phase III randomized trial ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aac93c6694f42d08041fa1444f6d3eb&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aade6b40a5e46e6bdaeb2590f73c439&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 2. 149个项目激烈角逐 见证湾区医健产业前景无限 - gd.chinanews.com.cn
    - 来源：Google News CN
    - 时间：Tue, 15 Sep 2026 13:44:00 GMT
@@ -24,4 +24,4 @@
    - 来源：Bing News CN
    - 时间：Wed, 11 Dec 2024 06:18:00 GMT
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：我们正处在医学变革的时代，基因与细胞治疗的巨大潜力，即将彻底改变一系列疾病的治疗。近年来，细胞与基因治疗领域所取得的进展令人瞩目，其中开创性的一个例子就是CAR-T细胞疗法。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aac93c6694f42d08041fa1444f6d3eb&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aade6b40a5e46e6bdaeb2590f73c439&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us

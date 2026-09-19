@@ -26,71 +26,63 @@ DATA SOURCES:... 该摘要由规则模板生成，适合快速浏览，不替代
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Blinatumomab, a bispecific T-cell engager targeting the CD19 antigen on B cells, may offer an option to safely replace cycles of traditional chemotherapy in pediatric patients with newly diagnosed high-risk B-cell acute lymphoblastic leukemia (ALL).
 METHODS: We randomly assigned, in a 1:1 ratio, children with high-risk B-cell ALL to receive two cycles of blinatumomab (blinatumomab group) or two cycles of chemotherapy (control group) after consolidation. The primary end point was event-free survival as e... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42748428/
-5. 心血管研究：Efficacy and Safety of Semaglutide According to Frailty Status: A Post Hoc Analysis of the SELECT Randomized Clinical Trial.
-   - 来源：JAMA cardiology
-   - 时间：2026-Sep-16
-   - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Whether frailty influences the benefit-risk balance of glucagon-like peptide-1 receptor agonists (GLP-1 RA) is uncertain.
-OBJECTIVE: To evaluate whether frailty modifies the efficacy and safety of the GLP-1 RA semaglutide in adults with cardiovascular disease and overweight/obesity.
-DESIGN, SETTING, AND PARTICIPANTS: In this secondary analysis of a randomized clinical trial, participants were adults with a body mass index of 27 or higher and established cardiovascular disease without diabetes. A 31-item... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42747817/
-6. 综合医学研究：Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: A Randomized Clinical Trial.
+5. 综合医学研究：Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: A Randomized Clinical Trial.
    - 来源：JAMA
    - 时间：2026-Sep-17
    - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Concern about pain during intrauterine device (IUD) placement is common and reduces selection of an IUD. Reducing procedure-related pain may support informed contraceptive decision-making and patient autonomy and has also been associated with improved patient satisfaction and procedural experience.
 OBJECTIVE: To determine whether intrauterine instillation of mepivacaine reduces pain during IUD placement in nulliparous individuals.
 DESIGN, SETTING, AND PARTICIPANTS: Multicenter, double-blind, randomized,... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42752558/
-7. 综合医学研究：Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment and Cognitive Outcomes: The CREST-H Substudy of the CREST-2 Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Sep-16
-   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Cerebral hemodynamic impairment in patients with asymptomatic internal carotid artery (ICA) stenosis is associated with reduced cognition. It is uncertain whether revascularization might be an effective treatment for cognitive impairment in these patients.
-OBJECTIVE: To test whether any cognitive benefit from revascularization of high-grade, asymptomatic ICA stenosis varies based on the degree of baseline cerebral hemodynamic impairment.
-DESIGN, SETTING, AND PARTICIPANTS: This substudy was conducted wit... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42747834/
-8. 生物医药/细胞与基因治疗研究：Factor IX Padua AAV gene therapy in adolescents with hemophilia B: a phase 1 trial.
+6. 生物医药/细胞与基因治疗研究：Factor IX Padua AAV gene therapy in adolescents with hemophilia B: a phase 1 trial.
    - 来源：Nature medicine
    - 时间：2026-Sep-16
    - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Nature medicine，类型初步识别为Clinical trial。摘要信息显示：Adeno-associated virus (AAV)-mediated factor IX Padua gene therapy has demonstrated good safety and efficacy in adult patients with hemophilia B, but its safety and efficacy in adolescent patients with hemophilia B remain unknown. Here we report a multicenter, single-arm, phase 1 study involving 11 adolescent participants (aged 12-18 years) with severe or moderately severe hemophilia B (factor IX coagulant activity (FIX:C) ≤2 IU dl-1) in China. All of them received the AAV gene therapy BBM-H901 at a dose of 5 × 101... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42749889/
-9. 肿瘤/血液肿瘤研究：Chemotherapy-free phase 1/2 trial of HRS-4642 plus adebrelimab in previously treated metastatic KRAS G12D-mutant pancreatic cancer.
-   - 来源：Cancer cell
-   - 时间：2026-Sep-16
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cancer cell，类型初步识别为Phase 2 trial。摘要信息显示：KRAS G12D mutations drive approximately 40% of pancreatic ductal adenocarcinoma (PDAC) cases and foster an immunosuppressive tumor microenvironment. This phase 1/2 trial (NCT06427239) evaluated HRS-4642, a selective KRAS G12D inhibitor, combined with the PD-L1 blockade adebrelimab in 48 pretreated patients with metastatic KRAS G12D-mutant PDAC. Dose escalation revealed no dose-limiting toxicities, establishing the recommended phase 2 dose (RP2D), and no treatment-related deaths occurred; hypercholesterolemia and an... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42748921/
-10. 重症医学/急危重症研究：Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock.
+7. 重症医学/急危重症研究：Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock.
    - 来源：The New England journal of medicine
    - 时间：2026-Sep-17
    - 摘要：这条内容聚焦重症医学/急危重症。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Metabolic acidosis is common in critically ill patients and is associated with organ dysfunction and death. Sodium bicarbonate is used to correct acidemia, but its benefit in patients with metabolic acidosis who are receiving vasopressors remains uncertain.
 METHODS: In this pragmatic, adaptive, double-blind, randomized trial, we assigned adults with metabolic acidosis (pH, <7.30; base excess, no more than -4 mmol per liter; and partial pressure of arterial carbon dioxide, ≤45 mm Hg without intubation or... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42283370/
-11. 综合医学研究：Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy.
+8. 综合医学研究：Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy.
    - 来源：The New England journal of medicine
    - 时间：2026-Sep-17
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Immune responses leading to food allergy may develop early in life, potentially before the introduction of solid foods. Exposures to food allergens in utero and through breast milk have been proposed as a strategy to prevent food allergies in infants, but evidence from randomized trials is lacking.
 METHODS: In this multisite, randomized trial, pregnant women whose unborn child had at least two biologic family members with medically diagnosed allergic disease were eligible to participate. Participants we... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42748429/
-12. 感染/疫苗研究：First-line ibrutinib plus venetoclax for nonblastoid mantle cell lymphoma in patients ≥65 years old or with TP53 mutations.
+9. 感染/疫苗研究：First-line ibrutinib plus venetoclax for nonblastoid mantle cell lymphoma in patients ≥65 years old or with TP53 mutations.
    - 来源：Blood
    - 时间：2026-Sep-17
    - 摘要：这条内容聚焦感染/疫苗。来源为Blood，类型初步识别为Phase 3 trial。摘要信息显示：The phase 3 SYMPATICO study included an open-label cohort to evaluate first-line ibrutinib plus venetoclax in patients with nonblastoid mantle cell lymphoma (MCL) aged ≥65 years (n = 65) or ≥18 years with a TP53 mutation (TP53m; n = 11). Eligible patients received oral ibrutinib 560 mg once daily and venetoclax (5-week ramp-up to 400 mg once daily) for 2 years, then single-agent ibrutinib 560 mg until disease progression or unacceptable toxicity. In total, 78 patients were enrolled. With a median time on study of 4... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42462092/
-13. 感染/疫苗研究：Short or Long Antibiotic Regimens in Orthopedics.
+10. 肿瘤/血液肿瘤研究：The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development.
+   - 来源：Science (New York, N.Y.)
+   - 时间：2026-Sep-17
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Science (New York, N.Y.)，类型初步识别为Clinical trial。摘要信息显示：Drug development requires evidence integration across biological scales and modalities, but relevant tools are fragmented. We introduce the Virtual Biotech, an organization of artificial intelligence (AI) agents modeled on a drug-development company, with agentic divisions spanning target discovery, safety assessment, modality selection, and clinical development. We demonstrate its utility at three drug-development decision points. First, over 37,000 agents annotated outcomes from 55,984 trials and found that drugs... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42752167/
+11. 综合医学研究：Endovascular Therapy for Post-Thrombotic Syndrome - A Randomized Trial. Reply.
    - 来源：The New England journal of medicine
-   - 时间：2026-Sep-16
-   - 摘要：这条内容聚焦感染/疫苗。来源为The New England journal of medicine，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND: Orthopedic infection is usually managed with surgery and prolonged systemic antibiotic therapy. Whether local antibiotics delivered by a product implanted at the infection site during surgery can reduce the duration of systemic antibiotic therapy is unclear.
-METHODS: In a multicenter, open-label, noninferiority trial, we randomly assigned, in a 1:1 ratio, adults who had undergone surgery for orthopedic infection and implantation of a local-antibiotic carrier to receive postoperative systemic antibiotic ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42748421/
-14. 综合医学研究：Revascularization of Asymptomatic Carotid Artery Stenosis: Cognitive Results of the CREST-2 Randomized Trials.
-   - 来源：JAMA
-   - 时间：2026-Sep-16
-   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Studies show that asymptomatic carotid artery stenosis is associated with diminished cognition. Whether carotid revascularization leads to cognitive improvement is unclear.
-OBJECTIVE: To determine whether carotid revascularization improves cognition.
-DESIGN, SETTING, AND PARTICIPANTS: Prespecified cognitive secondary outcomes of the CREST-2 randomized clinical trials of patients 35 years or older with 70% or greater asymptomatic carotid stenosis. Enrollment was December 2014 through July 2024, and follo... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42747844/
-15. 重症医学/急危重症研究：Comparative Analysis of Robotic and Laparoscopic Cholecystectomy.
-   - 来源：JAMA surgery
-   - 时间：2026-Sep-16
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为JAMA surgery，类型初步识别为Original research。摘要信息显示：IMPORTANCE: Recent analyses raise concerns regarding the safety and cost of robotic cholecystectomy (RC) relative to laparoscopic cholecystectomy (LC); however, the analyses were limited by varied surgeon experience and inadequate adjustment for procedure difficulty.
-OBJECTIVE: To compare clinical outcomes and cost between RC and LC across a multihospital health system by surgeons routinely performing both surgeries, and develop a preoperative risk calculator.
-DESIGN, SETTING, AND PARTICIPANTS: This retrospective s... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42747848/
+   - 时间：2026-Sep-17
+   - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42748445/
+12. 心血管研究：Cardiopulmonary hospitalization risks from wildfire-specific and non-wildfire PM2.5 in 20 US states.
+   - 来源：Nature communications
+   - 时间：2026-Sep-17
+   - 摘要：这条内容聚焦心血管。来源为Nature communications，类型初步识别为Original research。摘要信息显示：Increasing wildfire activity in the US has made wildfire-specific fine particulate matter (PM2.5) an important and growing source of air pollution, yet its long-term health impacts and relative toxicity compared with non-wildfire PM2.5 remain unclear. Using a self-controlled design, we examine associations between 2-year average wildfire-specific and non-wildfire PM2.5 and cardiopulmonary hospitalization risks across 20 US states during 2006-2019. Per 1 µg/m3 increase, wildfire-specific PM2.5 is associated with sig... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42754610/
+13. 公共卫生/流行病学研究：Faecalibacterium prausnitzii EXL01 Strain for the prevention of multiple-recurrent Clostridioides difficile Infection.
+   - 来源：Gastroenterology
+   - 时间：2026-Sep-17
+   - 摘要：这条内容聚焦公共卫生/流行病学。来源为Gastroenterology，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND AND AIMS: Recurrent Clostridioides difficile infection (rCDI) results from persistent microbiome dysfunction and impaired colonization resistance. Although fecal microbiota transplantation (FMT) is effective, defined and scalable alternatives are needed. We evaluated whether a single commensal strain could restore key microbiome functions and prevent recurrence.
+METHODS: We assessed Faecalibacterium prausnitzii EXL01 in a murine CDI model and a multicenter, open-label single-arm phase I trial including a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42753987/
+14. 肿瘤/血液肿瘤研究：Tahoe-100M: Mapping drug-induced molecular phenotypes at single-cell resolution.
+   - 来源：Cell
+   - 时间：2026-Sep-17
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cell，类型初步识别为Translational research。摘要信息显示：We present Tahoe-100M, a giga-scale single-cell perturbation atlas comprising 100 million transcriptomes from 50 diverse cancer cell lines treated with 1,100 drug-dose conditions. This parallel profiling of thousands of perturbations at single-cell resolution with minimal batch effects is enabled by the Mosaic platform, which multiplexes genetically distinct cell models into balanced "cell villages." Beyond cataloging transcriptomic shifts, Tahoe-100M systematically quantifies cellular phenotypes, including prolife... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42753697/
+15. 医疗AI/数字医学研究：Machine learning forecasts suggest a concentration paradox in international student mobility to the United Kingdom.
+   - 来源：Nature communications
+   - 时间：2026-Sep-17
+   - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature communications，类型初步识别为Original research。摘要信息显示：International student mobility is central to higher education finance, soft power, and knowledge production, yet future demand is increasingly uncertain. We analyse Universities and Colleges Admissions Service records on successful international undergraduate applications to the United Kingdom from 86 origin countries between 2010 and 2024, linked to economic and demographic projections, to forecast demand to 2030. A Poisson-based gradient-boosted tree model, a machine-learning method that combines decision trees, ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42754601/
