@@ -33,38 +33,38 @@ METHODS: We randomly assigned, in a 1:1 ratio, children with high-risk B-cell AL
 OBJECTIVE: To determine whether intrauterine instillation of mepivacaine reduces pain during IUD placement in nulliparous individuals.
 DESIGN, SETTING, AND PARTICIPANTS: Multicenter, double-blind, randomized,... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42752558/
-6. 生物医药/细胞与基因治疗研究：Factor IX Padua AAV gene therapy in adolescents with hemophilia B: a phase 1 trial.
-   - 来源：Nature medicine
-   - 时间：2026-Sep-16
-   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Nature medicine，类型初步识别为Clinical trial。摘要信息显示：Adeno-associated virus (AAV)-mediated factor IX Padua gene therapy has demonstrated good safety and efficacy in adult patients with hemophilia B, but its safety and efficacy in adolescent patients with hemophilia B remain unknown. Here we report a multicenter, single-arm, phase 1 study involving 11 adolescent participants (aged 12-18 years) with severe or moderately severe hemophilia B (factor IX coagulant activity (FIX:C) ≤2 IU dl-1) in China. All of them received the AAV gene therapy BBM-H901 at a dose of 5 × 101... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42749889/
-7. 重症医学/急危重症研究：Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock.
-   - 来源：The New England journal of medicine
-   - 时间：2026-Sep-17
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Metabolic acidosis is common in critically ill patients and is associated with organ dysfunction and death. Sodium bicarbonate is used to correct acidemia, but its benefit in patients with metabolic acidosis who are receiving vasopressors remains uncertain.
-METHODS: In this pragmatic, adaptive, double-blind, randomized trial, we assigned adults with metabolic acidosis (pH, <7.30; base excess, no more than -4 mmol per liter; and partial pressure of arterial carbon dioxide, ≤45 mm Hg without intubation or... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42283370/
-8. 综合医学研究：Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy.
+6. 感染/疫苗研究：Duration of effectiveness of tuberculosis preventive treatment across various tuberculosis burden settings: a systematic review and individual-participant meta-analysis.
+   - 来源：The Lancet. Respiratory medicine
+   - 时间：2026-Sep-18
+   - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Respiratory medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Millions of individuals at risk of tuberculosis are given tuberculosis preventive treatment (TPT) annually. However, questions remain regarding the duration of protection from TPT and potential variability across populations and settings with disparate tuberculosis risk. We aimed to assess the effect of TPT on time to tuberculosis among close contacts of individuals with tuberculosis and with evidence of Mycobacterium tuberculosis infection across high-burden, medium-burden, and low-burden settings.
+MET... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42759526/
+7. 综合医学研究：Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy.
    - 来源：The New England journal of medicine
    - 时间：2026-Sep-17
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Immune responses leading to food allergy may develop early in life, potentially before the introduction of solid foods. Exposures to food allergens in utero and through breast milk have been proposed as a strategy to prevent food allergies in infants, but evidence from randomized trials is lacking.
 METHODS: In this multisite, randomized trial, pregnant women whose unborn child had at least two biologic family members with medically diagnosed allergic disease were eligible to participate. Participants we... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42748429/
-9. 感染/疫苗研究：First-line ibrutinib plus venetoclax for nonblastoid mantle cell lymphoma in patients ≥65 years old or with TP53 mutations.
+8. 感染/疫苗研究：First-line ibrutinib plus venetoclax for nonblastoid mantle cell lymphoma in patients ≥65 years old or with TP53 mutations.
    - 来源：Blood
    - 时间：2026-Sep-17
    - 摘要：这条内容聚焦感染/疫苗。来源为Blood，类型初步识别为Phase 3 trial。摘要信息显示：The phase 3 SYMPATICO study included an open-label cohort to evaluate first-line ibrutinib plus venetoclax in patients with nonblastoid mantle cell lymphoma (MCL) aged ≥65 years (n = 65) or ≥18 years with a TP53 mutation (TP53m; n = 11). Eligible patients received oral ibrutinib 560 mg once daily and venetoclax (5-week ramp-up to 400 mg once daily) for 2 years, then single-agent ibrutinib 560 mg until disease progression or unacceptable toxicity. In total, 78 patients were enrolled. With a median time on study of 4... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42462092/
-10. 肿瘤/血液肿瘤研究：The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development.
+9. 肿瘤/血液肿瘤研究：The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development.
    - 来源：Science (New York, N.Y.)
    - 时间：2026-Sep-17
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Science (New York, N.Y.)，类型初步识别为Clinical trial。摘要信息显示：Drug development requires evidence integration across biological scales and modalities, but relevant tools are fragmented. We introduce the Virtual Biotech, an organization of artificial intelligence (AI) agents modeled on a drug-development company, with agentic divisions spanning target discovery, safety assessment, modality selection, and clinical development. We demonstrate its utility at three drug-development decision points. First, over 37,000 agents annotated outcomes from 55,984 trials and found that drugs... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42752167/
-11. 综合医学研究：Endovascular Therapy for Post-Thrombotic Syndrome - A Randomized Trial. Reply.
+10. 综合医学研究：Endovascular Therapy for Post-Thrombotic Syndrome - A Randomized Trial. Reply.
    - 来源：The New England journal of medicine
    - 时间：2026-Sep-17
    - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42748445/
+11. 免疫/炎症研究：mRNA-encoding CD19-targeting T cell engager for refractory immune thrombocytopenia.
+   - 来源：Cell
+   - 时间：2026-Sep-18
+   - 摘要：这条内容聚焦免疫/炎症。来源为Cell，类型初步识别为Translational research。摘要信息显示：While T cell engagers (TCEs) and chimeric antigen receptor (CAR)-T cell therapy show clinical promise for B cell depletion, challenges regarding safety, efficacy, and durability persist. ABO2203 is a lipid nanoparticle-formulated messenger RNA (mRNA) encoding a CD19-targeting TCE. In transgenic mice, ABO2203 induced complete B cell depletion with attenuated cytokine release compared with TCE protein. In a first-in-human study involving three patients with refractory secondary immune thrombocytopenia, ABO2203 achiev... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42759514/
 12. 心血管研究：Cardiopulmonary hospitalization risks from wildfire-specific and non-wildfire PM2.5 in 20 US states.
    - 来源：Nature communications
    - 时间：2026-Sep-17
@@ -81,8 +81,8 @@ METHODS: We assessed Faecalibacterium prausnitzii EXL01 in a murine CDI model an
    - 时间：2026-Sep-17
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cell，类型初步识别为Translational research。摘要信息显示：We present Tahoe-100M, a giga-scale single-cell perturbation atlas comprising 100 million transcriptomes from 50 diverse cancer cell lines treated with 1,100 drug-dose conditions. This parallel profiling of thousands of perturbations at single-cell resolution with minimal batch effects is enabled by the Mosaic platform, which multiplexes genetically distinct cell models into balanced "cell villages." Beyond cataloging transcriptomic shifts, Tahoe-100M systematically quantifies cellular phenotypes, including prolife... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42753697/
-15. 医疗AI/数字医学研究：Machine learning forecasts suggest a concentration paradox in international student mobility to the United Kingdom.
-   - 来源：Nature communications
-   - 时间：2026-Sep-17
-   - 摘要：这条内容聚焦医疗AI/数字医学。来源为Nature communications，类型初步识别为Original research。摘要信息显示：International student mobility is central to higher education finance, soft power, and knowledge production, yet future demand is increasingly uncertain. We analyse Universities and Colleges Admissions Service records on successful international undergraduate applications to the United Kingdom from 86 origin countries between 2010 and 2024, linked to economic and demographic projections, to forecast demand to 2030. A Poisson-based gradient-boosted tree model, a machine-learning method that combines decision trees, ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42754601/
+15. 肿瘤/血液肿瘤研究：γδ T cells modulate anti-tumor immunity in small cell lung cancer.
+   - 来源：Cancer cell
+   - 时间：2026-Sep-18
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cancer cell，类型初步识别为Clinical trial。摘要信息显示：Small cell lung cancer (SCLC) is a highly aggressive neoplasm with limited sensitivity to anti-PD-(L)1 blockade, which is likely caused by the epigenetic silencing of MHC-I. Elucidating MHC-I-independent immune recognition mechanisms is therefore crucial for enhancing treatment responses and improving clinical outcomes in a greater number of patients. Leveraging single-cell approaches, we discovered γδ T cell infiltration in biospecimens from patients with SCLC. Despite PD-1 expression, γδ T cells maintained a cyto... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42759517/
