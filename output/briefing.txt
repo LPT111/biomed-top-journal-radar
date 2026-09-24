@@ -1,104 +1,106 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-09-23 09:46:37
+【Biomed Radar】今日医学科学新闻已更新｜2026-09-24 09:38:25
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-1. 博士称招聘初复审全通过被取消资格 专业不符引争议 - news.china.com
+biorxiv: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+medrxiv: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+1. 多方在沪开启细胞器创新疗法在晚期非小细胞肺癌后线治疗领域的临床探索 - sh.chinanews.com.cn
+Google News CN｜Medical news｜Score 27
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMibEFVX3lxTFB0MTFSSFlXenZDUFBUNGxjMVNWSWpUTkZseWREelFnWE9CRFRGbWdOVWRxTk9kMWtxenV5WU5xYnJsQzZHcWROaHJfZUxuTDBpZ3dZN3NiOTUwWGpoS2dJdXdCU0xpWDMyR1JLQg?oc=5
+
+2. 博士称招聘初复审全通过被取消资格 专业不符引争议 - news.china.com
 Google News CN｜Medical news｜Score 27
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMicEFVX3lxTFBwcHRkRGJqSENrbjhqQ2Zldnp1SXlxbXdNNElmcDF2Rng3QUd0ckZ6NWxOY0d5b1Q2dnBaVlN5WktiZzk3VDBpdzlfc0pmTmItVzRhemR1MkFjMHM5U19uQ1U0RVVzWnlOQmVBX3NNenA?oc=5
-
-2. 健闻咨询｜中国新药狂飙背后：5年23875项临床试验，谁来保护受伤、残疾、死亡?... - China Digital Times
-Google News CN｜Medical news｜Score 27
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yaWYxLWdRV29sdlppNE04YU95V0NpNEFEb1dtU2hXN3dJVXBlQnZ2U1NwLUNxVUlaN1ZGZmtCYi0wOFRUV213cEFFclRCanJHeDdWMEdGWnNrQWpueFHSAV5BVV95cUxNMmlmMS1nUVdvbHZaaTRNOGFPeVdDaTRBRG9XbVNoVzd3SVVwZUJ2dlNTcC1DcVVJWjdWRmZrQmItMDhUVFdtd3BBRXJUQmpyR3g3VjBHRlpza0FqbnhR?oc=5
 
 3. 中国疾病预防控制中心 - chinacdc.cn
 Google News CN｜Medical news｜Score 27
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiakFVX3lxTE9oSTc4Z0hrMk5EclFiYTlMX0N1cTE4T0hIazFYT05ST2ZOZTBWcUQ3MEVQWGxsOWNIcVlYQWo3dzhhNTZzbUcyZjN4d3JCYkEzQWNWSmMzeWdRZHg4UVJ6ZjRBVGxVWkN4Qnc?oc=5
 
-4. 从实验室到临床：细胞与基因治疗的临床试验及转化
-Bing News CN｜Medical news｜Score 26
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab32f7e20f44688b9bd6b7a0dc136fd&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+4. 2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - 新华网
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVG1NbHdYMFF4andsRW5YZG5CX1h6SU5GdEthQnZRYUE2NXgwakphaml0ai1nTkVQNWJaQ2t5XzgxalFwaFZvQmlmWWhScUlZbTdPdHdDTjhWYlpFYnhkZnRteU5MUFVrWlFfOEdNSzl0SEUyWFdaSkktaXUxa0U?oc=5
 
-5. 中外学者共商人工智能助推公共卫生事业发展
-Bing News CN｜Medical news｜Score 26
-Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab32f7f248140fa8588acce0cf67020&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+5. 大B细胞淋巴瘤CAR-T细胞治疗后的复发与进展：模式、机制与挽救治疗策略-MedSci.cn - 梅斯医学 MedSci
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMibkFVX3lxTFA0NXpBemdxWDQ0NVlTLTBBTmtLTy1XV1RPeGVfT25xZEt6RlR2WmhYRVd6XzFJVnh2VmlCMy03TW5fZ3RrSUhPUGhHSEhleWcyWFNxSU1kWXp1am1hcTFmYmlQTjdjZ0pYVjRiYkx3?oc=5
 
-6. 神经科学/神经疾病研究：Ceperognastat in Early Symptomatic Alzheimer Disease: A Randomized Clinical Trial.
+6. 肿瘤/血液肿瘤研究：Effect of Screening with Multicancer Early-Detection Test on Late-Stage Cancer Diagnosis.
+The New England journal of medicine｜RCT｜Score 96
+The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42776074/
+
+7. 神经科学/神经疾病研究：Ceperognastat in Early Symptomatic Alzheimer Disease: A Randomized Clinical Trial.
 JAMA｜RCT｜Score 96
 JAMA 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42441396/
 
-7. 肿瘤/血液肿瘤研究：Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer: A Randomized Clinical Trial.
+8. 肿瘤/血液肿瘤研究：Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer: A Randomized Clinical Trial.
 JAMA｜RCT｜Score 94
 JAMA 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42593775/
 
-8. 综合医学研究：Total Intravenous vs Volatile Inhalational Anesthesia for Major Noncardiac Surgery: A Randomized Clinical Trial.
+9. 肿瘤/血液肿瘤研究：Performance and safety of a multi-cancer early detection test: the PATHFINDER 2 study.
+Nature medicine｜RCT｜Score 91
+Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42773207/
+
+10. 综合医学研究：Transvaginal Drainage vs Laparoscopy for Tubo-Ovarian Abscess: A Randomized Clinical Trial.
+JAMA surgery｜RCT｜Score 86
+JAMA surgery 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42776546/
+
+11. 心血管研究：Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial.
+JAMA｜RCT｜Score 86
+JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42776543/
+
+12. 肿瘤/血液肿瘤研究：Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial.
+Nature medicine｜Phase 3 trial｜Score 86
+Nature medicine 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42773210/
+
+13. 感染/疫苗研究：Efficacy and safety of alternative benznidazole and nifurtimox regimens for adults with chronic Trypanosoma cruzi infection (TESEO): an open-label, randomised, non-inferiority phase 2b trial.
+The Lancet. Infectious diseases｜Phase 3 trial｜Score 86
+The Lancet. Infectious diseases 发布的感染/疫苗相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42772313/
+
+14. 综合医学研究：Total Intravenous vs Volatile Inhalational Anesthesia for Major Noncardiac Surgery: A Randomized Clinical Trial.
 JAMA｜RCT｜Score 86
 JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42584898/
 
-9. 综合医学研究：Multidomain Intervention for Growth in Term Small-for-Gestational-Age Infants: A Randomized Clinical Trial.
+15. 肿瘤/血液肿瘤研究：Performance of a multi-cancer early detection test in the randomized controlled NHS-Galleri trial.
+Nature medicine｜RCT｜Score 83
+Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42773209/
+
+16. 综合医学研究：Multidomain Intervention for Growth in Term Small-for-Gestational-Age Infants: A Randomized Clinical Trial.
 JAMA｜RCT｜Score 80
 JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42507387/
 
-10. 感染/疫苗研究：Duration of effectiveness of tuberculosis preventive treatment across various tuberculosis burden settings: a systematic review and individual-participant meta-analysis.
-The Lancet. Respiratory medicine｜RCT｜Score 80
-The Lancet. Respiratory medicine 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42759526/
+17. 心血管研究：Undiagnosed Chronic Kidney Disease, Outcomes, and Finerenone in Heart Failure: The FINEARTS-HF Randomized Clinical Trial.
+JAMA cardiology｜RCT｜Score 69
+JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42776557/
 
-11. 神经科学/神经疾病研究：A Harmonized Visual Reading Framework for Tau PET Staging in Alzheimer Disease.
-JAMA neurology｜Clinical trial｜Score 74
-JAMA neurology 发布的神经科学/神经疾病相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42766299/
+18. 综合医学研究：Preclinical and clinical evaluation of systemic danegaptide for the treatment of nonproliferative diabetic retinopathy.
+Science translational medicine｜Clinical trial｜Score 68
+Science translational medicine 发布的综合医学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42777083/
 
-12. 综合医学研究：A multicenter randomized, double-blinded placebo-controlled phase 2 trial to evaluate safety and efficacy of ilofotase alfa in patients at risk for kidney injury following open heart surgery.
-Intensive care medicine｜RCT｜Score 74
-Intensive care medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42766022/
+19. 公共卫生/流行病学研究：Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence.
+Nature medicine｜Original research｜Score 68
+Nature medicine 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42773211/
 
-13. 心血管研究：Cardiac resynchronization therapy with or without atrioventricular node ablation in atrial fibrillation: the CAAN-AF trial.
+20. 心血管研究：Cardiac resynchronization therapy with or without atrioventricular node ablation in atrial fibrillation: the CAAN-AF trial.
 European heart journal｜RCT｜Score 68
 European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/41985940/
-
-14. 心血管研究：Ultrasound-guided vs conventional venous puncture for atrial fibrillation ablation: the ULYSSES trial.
-European heart journal｜RCT｜Score 68
-European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/41979041/
-
-15. 肿瘤/血液肿瘤研究：Performance of a multi-cancer early detection test in the randomized controlled NHS-Galleri trial
-Nature Medicine｜RCT｜Score 65
-Nature Medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://www.nature.com/articles/s41591-026-04652-8
-
-16. 代谢/肥胖/糖尿病研究：Steatotic Liver Disease Risk Scores to Predict Cirrhosis and Hepatocellular Carcinoma.
-JAMA internal medicine｜Translational research｜Score 62
-JAMA internal medicine 发布的代谢/肥胖/糖尿病相关Translational research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42766290/
-
-17. 免疫/炎症研究：mRNA-encoding CD19-targeting T cell engager for refractory immune thrombocytopenia.
-Cell｜Translational research｜Score 62
-Cell 发布的免疫/炎症相关Translational research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42759514/
-
-18. 心血管研究：Heart Rate and Cardiovascular Outcomes in Post-Myocardial Infarction Patients Treated by β-Blockers: A Secondary Analysis of the ABYSS Trial.
-Circulation｜RCT｜Score 60
-Circulation 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42267437/
-
-19. 神经科学/神经疾病研究：Exercise training reshapes motor planning and preparation networks in cervical dystonia.
-Brain : a journal of neurology｜RCT｜Score 60
-Brain : a journal of neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42766817/
-
-20. 心血管研究：Intracranial haemorrhage following tenecteplase fibrinolysis for acute myocardial infarction.
-European heart journal｜RCT｜Score 60
-European heart journal 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42766418/
