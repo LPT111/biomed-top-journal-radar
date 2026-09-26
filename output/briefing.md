@@ -1,10 +1,10 @@
-# 全医学科学新闻雷达｜2026-09-25 09:53:37
+# 全医学科学新闻雷达｜2026-09-26 09:58:41
 
 - 今日新闻：20 条
 - 中文来源：5 条
 - 国际来源：15 条
 - 顶刊论文：14 条
-- RCT/临床试验：14 条
+- RCT/临床试验：12 条
 
 > RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 > RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
@@ -19,17 +19,17 @@
    - 来源：Google News CN｜类型：Medical news｜分数：27
    - 链接：https://news.google.com/rss/articles/CBMiakFVX3lxTE9oSTc4Z0hrMk5EclFiYTlMX0N1cTE4T0hIazFYT05ST2ZOZTBWcUQ3MEVQWGxsOWNIcVlYQWo3dzhhNTZzbUcyZjN4d3JCYkEzQWNWSmMzeWdRZHg4UVJ6ZjRBVGxVWkN4Qnc?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-3. 2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - news.cn
+3. 2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - 新华网
    - 来源：Google News CN｜类型：Medical news｜分数：26
    - 链接：https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVG1NbHdYMFF4andsRW5YZG5CX1h6SU5GdEthQnZRYUE2NXgwakphaml0ai1nTkVQNWJaQ2t5XzgxalFwaFZvQmlmWWhScUlZbTdPdHdDTjhWYlpFYnhkZnRteU5MUFVrWlFfOEdNSzl0SEUyWFdaSkktaXUxa0U?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-4. 大B细胞淋巴瘤CAR-T细胞治疗后的复发与进展：模式、机制与挽救治疗策略-MedSci.cn - 梅斯医学 MedSci
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTFA0NXpBemdxWDQ0NVlTLTBBTmtLTy1XV1RPeGVfT25xZEt6RlR2WmhYRVd6XzFJVnh2VmlCMy03TW5fZ3RrSUhPUGhHSEhleWcyWFNxSU1kWXp1am1hcTFmYmlQTjdjZ0pYVjRiYkx3?oc=5
-   - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. 临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
+4. 临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
    - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5d421f1b4480e841d33fef4478a28&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab726d2a0284166b04bbcf70e19dc13&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
+   - 简述：Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+5. 中外学者共商人工智能助推公共卫生事业发展
+   - 来源：Bing News CN｜类型：Medical news｜分数：26
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab726d3e2af4488b2eda1c17c1d79c5&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
    - 简述：Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 6. 心血管研究：Anticoagulation for Atrial Fibrillation with Intermediate Stroke Risk.
    - 来源：The New England journal of medicine｜类型：RCT｜分数：97
@@ -43,9 +43,9 @@
    - 来源：The New England journal of medicine｜类型：RCT｜分数：96
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42776074/
    - 简述：The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-9. 肿瘤/血液肿瘤研究：Performance and safety of a multi-cancer early detection test: the PATHFINDER 2 study.
-   - 来源：Nature medicine｜类型：RCT｜分数：91
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42773207/
+9. 肿瘤/血液肿瘤研究：Evorpacept plus trastuzumab, ramucirumab and paclitaxel in HER2-positive gastric cancer: a randomized phase 2 trial.
+   - 来源：Nature medicine｜类型：RCT｜分数：94
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42786305/
    - 简述：Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 10. 生物医药/细胞与基因治疗研究：Etuvetidigene Autotemcel for the Treatment of Wiskott-Aldrich Syndrome.
    - 来源：The New England journal of medicine｜类型：Phase 3 trial｜分数：86
@@ -59,35 +59,35 @@
    - 来源：JAMA｜类型：RCT｜分数：86
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42776543/
    - 简述：JAMA 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-13. 肿瘤/血液肿瘤研究：Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial.
-   - 来源：Nature medicine｜类型：Phase 3 trial｜分数：86
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42773210/
-   - 简述：Nature medicine 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-14. 感染/疫苗研究：Efficacy and safety of alternative benznidazole and nifurtimox regimens for adults with chronic Trypanosoma cruzi infection (TESEO): an open-label, randomised, non-inferiority phase 2b trial.
-   - 来源：The Lancet. Infectious diseases｜类型：Phase 3 trial｜分数：86
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42772313/
-   - 简述：The Lancet. Infectious diseases 发布的感染/疫苗相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-15. 肿瘤/血液肿瘤研究：Performance of a multi-cancer early detection test in the randomized controlled NHS-Galleri trial.
-   - 来源：Nature medicine｜类型：RCT｜分数：83
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42773209/
-   - 简述：Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-16. 免疫/炎症研究：Phase 1 Study of Anito-cel, a d-Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma.
+13. 免疫/炎症研究：Phase 1 Study of Anito-cel, a d-Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma.
    - 来源：The New England journal of medicine｜类型：Phase 2 trial｜分数：78
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42777241/
    - 简述：The New England journal of medicine 发布的免疫/炎症相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
-17. 心血管研究：QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.
+14. 心血管研究：QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.
    - 来源：BMJ (Clinical research ed.)｜类型：RCT｜分数：78
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42778211/
    - 简述：BMJ (Clinical research ed.) 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-18. 心血管研究：Undiagnosed Chronic Kidney Disease, Outcomes, and Finerenone in Heart Failure: The FINEARTS-HF Randomized Clinical Trial.
+15. 肿瘤/血液肿瘤研究：Patient Reported Outcomes and Financial Toxicity in Head and Neck Cancer: A Nonrandomized Clinical Trial.
+   - 来源：JAMA oncology｜类型：RCT｜分数：72
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42783378/
+   - 简述：JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+16. 心血管研究：Undiagnosed Chronic Kidney Disease, Outcomes, and Finerenone in Heart Failure: The FINEARTS-HF Randomized Clinical Trial.
    - 来源：JAMA cardiology｜类型：RCT｜分数：69
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42776557/
    - 简述：JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-19. 综合医学研究：Preclinical and clinical evaluation of systemic danegaptide for the treatment of nonproliferative diabetic retinopathy.
+17. 公共卫生/流行病学研究：Disparities in Cancer Incidence by Sex and Associated Lifestyle Factors and Health Conditions.
+   - 来源：JAMA oncology｜类型：Original research｜分数：68
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42783354/
+   - 简述：JAMA oncology 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
+18. 综合医学研究：Preclinical and clinical evaluation of systemic danegaptide for the treatment of nonproliferative diabetic retinopathy.
    - 来源：Science translational medicine｜类型：Clinical trial｜分数：68
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42777083/
    - 简述：Science translational medicine 发布的综合医学相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-20. 公共卫生/流行病学研究：Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence.
-   - 来源：Nature medicine｜类型：Original research｜分数：68
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42773211/
-   - 简述：Nature medicine 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
+19. 神经科学/神经疾病研究：Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.
+   - 来源：The Lancet. Neurology｜类型：Original research｜分数：62
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42785333/
+   - 简述：The Lancet. Neurology 发布的神经科学/神经疾病相关Original research，值得关注其研究设计、核心发现和转化边界。
+20. 免疫/炎症研究：Persistence of mucosal CAR-T cells and inflammatory remodeling in enterocolitis associated with BCMA CAR-T cell therapy.
+   - 来源：Nature medicine｜类型：Translational research｜分数：62
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42778764/
+   - 简述：Nature medicine 发布的免疫/炎症相关Translational research，值得关注其研究设计、核心发现和转化边界。

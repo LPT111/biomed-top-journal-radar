@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-09-25 09:53:37
+# 医学科学新闻推文候选草稿｜2026-09-26 09:58:41
 
 ## 1. 多方在沪开启细胞器创新疗法在晚期非小细胞肺癌后线治疗领域的临床探索 - sh.chinanews.com.cn
 
@@ -54,9 +54,9 @@ Google News CN｜Mon, 21 Sep 2026 03:11:27 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. 2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - news.cn
+## 3. 2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - 新华网
 
-【医学科学新闻】2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - news.cn
+【医学科学新闻】2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - 新华网
 
 一、为什么重要
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -81,34 +81,7 @@ Google News CN｜Wed, 23 Sep 2026 07:32:07 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 4. 大B细胞淋巴瘤CAR-T细胞治疗后的复发与进展：模式、机制与挽救治疗策略-MedSci.cn - 梅斯医学 MedSci
-
-【医学科学新闻】大B细胞淋巴瘤CAR-T细胞治疗后的复发与进展：模式、机制与挽救治疗策略-MedSci.cn - 梅斯医学 MedSci
-
-一、为什么重要
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Wed, 23 Sep 2026 02:04:42 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTFA0NXpBemdxWDQ0NVlTLTBBTmtLTy1XV1RPeGVfT25xZEt6RlR2WmhYRVd6XzFJVnh2VmlCMy03TW5fZ3RrSUhPUGhHSEhleWcyWFNxSU1kWXp1am1hcTFmYmlQTjdjZ0pYVjRiYkx3?oc=5
-
----
-
-## 5. 临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
+## 4. 临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
 
 【医学科学新闻】临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
 
@@ -131,7 +104,34 @@ Bing News CN 发布的综合医学相关Medical news，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 13 May 2026 11:25:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5d421f1b4480e841d33fef4478a28&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
+Bing News CN｜Wed, 13 May 2026 11:25:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab726d2a0284166b04bbcf70e19dc13&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
+
+---
+
+## 5. 中外学者共商人工智能助推公共卫生事业发展
+
+【医学科学新闻】中外学者共商人工智能助推公共卫生事业发展
+
+一、为什么重要
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Bing News CN｜Wed, 06 Nov 2024 03:55:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab726d3e2af4488b2eda1c17c1d79c5&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
 
 ---
 
@@ -216,9 +216,9 @@ The New England journal of medicine｜2026-Sep-22｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 9. 肿瘤/血液肿瘤研究：Performance and safety of a multi-cancer early detection test: the PATHFINDER 2 study.
+## 9. 肿瘤/血液肿瘤研究：Evorpacept plus trastuzumab, ramucirumab and paclitaxel in HER2-positive gastric cancer: a randomized phase 2 trial.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Performance and safety of a multi-cancer early detection test: the PATHFINDER 2 study.
+【医学科学新闻】肿瘤/血液肿瘤研究：Evorpacept plus trastuzumab, ramucirumab and paclitaxel in HER2-positive gastric cancer: a randomized phase 2 trial.
 
 一、为什么重要
 Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
@@ -239,7 +239,7 @@ Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature medicine｜2026-Sep-22｜https://pubmed.ncbi.nlm.nih.gov/42773207/
+Nature medicine｜2026-Sep-24｜https://pubmed.ncbi.nlm.nih.gov/42786305/
 
 ---
 
@@ -324,88 +324,7 @@ JAMA｜2026-Sep-23｜https://pubmed.ncbi.nlm.nih.gov/42776543/
 
 ---
 
-## 13. 肿瘤/血液肿瘤研究：Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial.
-
-一、为什么重要
-Nature medicine 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature medicine｜2026-Sep-22｜https://pubmed.ncbi.nlm.nih.gov/42773210/
-
----
-
-## 14. 感染/疫苗研究：Efficacy and safety of alternative benznidazole and nifurtimox regimens for adults with chronic Trypanosoma cruzi infection (TESEO): an open-label, randomised, non-inferiority phase 2b trial.
-
-【医学科学新闻】感染/疫苗研究：Efficacy and safety of alternative benznidazole and nifurtimox regimens for adults with chronic Trypanosoma cruzi infection (TESEO): an open-label, randomised, non-inferiority phase 2b trial.
-
-一、为什么重要
-The Lancet. Infectious diseases 发布的感染/疫苗相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕感染/疫苗方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet. Infectious diseases｜2026-Sep-22｜https://pubmed.ncbi.nlm.nih.gov/42772313/
-
----
-
-## 15. 肿瘤/血液肿瘤研究：Performance of a multi-cancer early detection test in the randomized controlled NHS-Galleri trial.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Performance of a multi-cancer early detection test in the randomized controlled NHS-Galleri trial.
-
-一、为什么重要
-Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature medicine｜2026-Sep-22｜https://pubmed.ncbi.nlm.nih.gov/42773209/
-
----
-
-## 16. 免疫/炎症研究：Phase 1 Study of Anito-cel, a d-Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma.
+## 13. 免疫/炎症研究：Phase 1 Study of Anito-cel, a d-Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma.
 
 【医学科学新闻】免疫/炎症研究：Phase 1 Study of Anito-cel, a d-Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma.
 
@@ -432,7 +351,7 @@ The New England journal of medicine｜2026-Sep-24｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 17. 心血管研究：QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.
+## 14. 心血管研究：QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.
 
 【医学科学新闻】心血管研究：QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.
 
@@ -459,7 +378,34 @@ BMJ (Clinical research ed.)｜2026-Sep-23｜https://pubmed.ncbi.nlm.nih.gov/4277
 
 ---
 
-## 18. 心血管研究：Undiagnosed Chronic Kidney Disease, Outcomes, and Finerenone in Heart Failure: The FINEARTS-HF Randomized Clinical Trial.
+## 15. 肿瘤/血液肿瘤研究：Patient Reported Outcomes and Financial Toxicity in Head and Neck Cancer: A Nonrandomized Clinical Trial.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：Patient Reported Outcomes and Financial Toxicity in Head and Neck Cancer: A Nonrandomized Clinical Trial.
+
+一、为什么重要
+JAMA oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA oncology｜2026-Sep-24｜https://pubmed.ncbi.nlm.nih.gov/42783378/
+
+---
+
+## 16. 心血管研究：Undiagnosed Chronic Kidney Disease, Outcomes, and Finerenone in Heart Failure: The FINEARTS-HF Randomized Clinical Trial.
 
 【医学科学新闻】心血管研究：Undiagnosed Chronic Kidney Disease, Outcomes, and Finerenone in Heart Failure: The FINEARTS-HF Randomized Clinical Trial.
 
@@ -486,7 +432,34 @@ JAMA cardiology｜2026-Sep-23｜https://pubmed.ncbi.nlm.nih.gov/42776557/
 
 ---
 
-## 19. 综合医学研究：Preclinical and clinical evaluation of systemic danegaptide for the treatment of nonproliferative diabetic retinopathy.
+## 17. 公共卫生/流行病学研究：Disparities in Cancer Incidence by Sex and Associated Lifestyle Factors and Health Conditions.
+
+【医学科学新闻】公共卫生/流行病学研究：Disparities in Cancer Incidence by Sex and Associated Lifestyle Factors and Health Conditions.
+
+一、为什么重要
+JAMA oncology 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+JAMA oncology｜2026-Sep-24｜https://pubmed.ncbi.nlm.nih.gov/42783354/
+
+---
+
+## 18. 综合医学研究：Preclinical and clinical evaluation of systemic danegaptide for the treatment of nonproliferative diabetic retinopathy.
 
 【医学科学新闻】综合医学研究：Preclinical and clinical evaluation of systemic danegaptide for the treatment of nonproliferative diabetic retinopathy.
 
@@ -513,15 +486,15 @@ Science translational medicine｜2026-Sep-23｜https://pubmed.ncbi.nlm.nih.gov/4
 
 ---
 
-## 20. 公共卫生/流行病学研究：Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence.
+## 19. 神经科学/神经疾病研究：Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.
 
-【医学科学新闻】公共卫生/流行病学研究：Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence.
+【医学科学新闻】神经科学/神经疾病研究：Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.
 
 一、为什么重要
-Nature medicine 发布的公共卫生/流行病学相关Original research，值得关注其研究设计、核心发现和转化边界。
+The Lancet. Neurology 发布的神经科学/神经疾病相关Original research，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕公共卫生/流行病学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -536,6 +509,33 @@ Nature medicine 发布的公共卫生/流行病学相关Original research，值�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Nature medicine｜2026-Sep-22｜https://pubmed.ncbi.nlm.nih.gov/42773211/
+The Lancet. Neurology｜2026-Sep-24｜https://pubmed.ncbi.nlm.nih.gov/42785333/
+
+---
+
+## 20. 免疫/炎症研究：Persistence of mucosal CAR-T cells and inflammatory remodeling in enterocolitis associated with BCMA CAR-T cell therapy.
+
+【医学科学新闻】免疫/炎症研究：Persistence of mucosal CAR-T cells and inflammatory remodeling in enterocolitis associated with BCMA CAR-T cell therapy.
+
+一、为什么重要
+Nature medicine 发布的免疫/炎症相关Translational research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕免疫/炎症方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature medicine｜2026-Sep-23｜https://pubmed.ncbi.nlm.nih.gov/42778764/
 
 ---
