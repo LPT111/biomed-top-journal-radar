@@ -53,34 +53,34 @@ DATA SOURCES: Individual and aggregate level data from randomised controlled tri
 OBJECTIVE: To determine the contribution of lifestyle factors and health conditions to sex disparities in cancer incidence across populations.
 DESIGN, SETTING, AND PARTICIPANTS: This cohort study conducted an individual-level analysis of 3 population-based prospective coho... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42783354/
-10. 肿瘤/血液肿瘤研究：Stroke drives glioma progression through the emergence of tumor-associated astrocytes with reduced Ca2+ activity.
+10. 肿瘤/血液肿瘤研究：SpaCEy links spatial tissue patterns to clinical outcomes using explainable graph neural networks.
+   - 来源：Nature communications
+   - 时间：2026-Sep-26
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Tissues are complex ecosystems organised in space, and alterations in this organisation underpin multiple diseases. Spatial omics enables molecular profiling of tissue organisation, but linking these patterns to clinical outcomes remains challenging. We present SpaCEy (Spatial Clinical Explainability), an explainable graph neural network that identifies tissue patterns predictive of clinical outcomes in spatial proteomics datasets. SpaCEy models tissues as spatial graphs from molecular marker expression, without us... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42800816/
+11. 肿瘤/血液肿瘤研究：Stroke drives glioma progression through the emergence of tumor-associated astrocytes with reduced Ca2+ activity.
    - 来源：Nature cancer
    - 时间：2026-Sep-25
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature cancer，类型初步识别为Translational research。摘要信息显示：Epidemiological studies suggest that persons with a history of stroke are at increased risk of developing brain tumors, yet the mechanisms linking brain injury to glioma progression remain unclear. Here we show that stroke promotes tumor infiltration into injured brain regions in human and mouse glioma models, accompanied by reduced overall survival. Stroke induces remodeling of the tumor microenvironment, including the emergence of a distinct population of tumor-associated astrocytes (TAAs) with diminished Ca2+ ac... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42791388/
-11. 神经科学/神经疾病研究：Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.
+12. 神经科学/神经疾病研究：Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.
    - 来源：The Lancet. Neurology
    - 时间：2026-Sep-24
    - 摘要：这条内容聚焦神经科学/神经疾病。来源为The Lancet. Neurology，类型初步识别为Original research。摘要信息显示：BACKGROUND: Anti-amyloid antibodies slow cognitive and functional decline in individuals with early symptomatic Alzheimer's disease, but few studies have examined changes associated with these treatments in plasma biomarkers linked to neurodegeneration. We analysed changes in a panel of 130 plasma proteins and their associations with conversion to amyloid PET negative status and cognitive changes in patients receiving lecanemab infusions as part of their clinical care.
 METHODS: This longitudinal cohort study includ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42785333/
-12. 免疫/炎症研究：Persistence of mucosal CAR-T cells and inflammatory remodeling in enterocolitis associated with BCMA CAR-T cell therapy.
+13. 免疫/炎症研究：Persistence of mucosal CAR-T cells and inflammatory remodeling in enterocolitis associated with BCMA CAR-T cell therapy.
    - 来源：Nature medicine
    - 时间：2026-Sep-23
    - 摘要：这条内容聚焦免疫/炎症。来源为Nature medicine，类型初步识别为Translational research。摘要信息显示：B cell-targeted therapies are expanding across oncologic and autoimmune indications, yet their consequences for mucosal immunity remain incompletely examined. Here we define the pathophysiology of ciltacabtagene autoleucel chimeric antigen receptor (CAR)-T cell-induced enterocolitis (EC) (CAR-TEC)-a severe complication of B cell maturation antigen-targeted CAR-T cell therapy in multiple myeloma. Using single-cell transcriptomics, flow cytometry and tissue imaging of intestinal biopsies from patients with CAR-TEC (n... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42778764/
-13. 肿瘤/血液肿瘤研究：A design approach for bitopic kinase inhibitors.
+14. 肿瘤/血液肿瘤研究：A design approach for bitopic kinase inhibitors.
    - 来源：Nature
    - 时间：2026-Sep-23
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature，类型初步识别为Original research。摘要信息显示：Traditional kinase inhibitors face a trade-off between potency and selectivity because their affinity depends on limited molecular interactions in a single highly conserved binding site. Bitopic inhibitors overcome this limitation by engaging multiple sites on the same target1. Here, using ABL1 and EGFR as model kinases, we systematically explore the bitopic-specific design parameters of ligand choice, linkage vector and linker length and show that they affect potency through inter-ligand cooperativity and linker e... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42778601/
-14. 肿瘤/血液肿瘤研究：Accelerating equitable cancer genomics and precision oncology in health care and research: a Lancet Oncology Commission.
+15. 肿瘤/血液肿瘤研究：Accelerating equitable cancer genomics and precision oncology in health care and research: a Lancet Oncology Commission.
    - 来源：The Lancet. Oncology
    - 时间：2026-Sep-25
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为Clinical trial。摘要信息显示：Cancer genomics and precision oncology are increasingly central to cancer care, but many health systems struggle to implement them equitably, effectively, and sustainably. This Commission defines the current global precision oncology landscape and analyses the scientific, structural, and health-system challenges shaping its delivery and impact. Findings indicate that access to cancer genomics and precision oncology remains profoundly unequal across and within countries, leaving millions of patients without guidelin... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42790448/
-15. 综合医学研究：[Department of Error] Department of Error
-   - 来源：The Lancet
-   - 时间：2026-09-26
-   - 摘要：这条内容聚焦综合医学。来源为The Lancet，类型初步识别为Phase 3 trial。摘要信息显示：Sun H-C, Zhu X-D, Shen F, et al. Liver resection after atezolizumab and bevacizumab versus maintenance therapy for locally advanced hepatocellular carcinoma (TALENTOP): a multicentre, open-label, randomised, phase 3 trial. Lancet 2026; 408: 699–710—In this Article, the p value in figure 3 should have been 0·23. This correction has been made to the online version as of Sept 24, 2026. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01876-3/fulltext?rss=yes

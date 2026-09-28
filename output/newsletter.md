@@ -1,33 +1,6 @@
-# 医学科学新闻推文候选草稿｜2026-09-27 09:47:02
+# 医学科学新闻推文候选草稿｜2026-09-28 09:58:19
 
-## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
-
-【医学科学新闻】免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
-
-一、为什么重要
-Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab87597beaf4b308e043360ece5e093&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
-
----
-
-## 2. 多方在沪开启细胞器创新疗法在晚期非小细胞肺癌后线治疗领域的临床探索 - sh.chinanews.com.cn
+## 1. 多方在沪开启细胞器创新疗法在晚期非小细胞肺癌后线治疗领域的临床探索 - sh.chinanews.com.cn
 
 【医学科学新闻】多方在沪开启细胞器创新疗法在晚期非小细胞肺癌后线治疗领域的临床探索 - sh.chinanews.com.cn
 
@@ -54,7 +27,7 @@ Google News CN｜Wed, 23 Sep 2026 06:23:00 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. 2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - 新华网
+## 2. 2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - 新华网
 
 【医学科学新闻】2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - 新华网
 
@@ -81,7 +54,7 @@ Google News CN｜Wed, 23 Sep 2026 07:32:07 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 4. 临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
+## 3. 临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
 
 【医学科学新闻】临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
 
@@ -104,19 +77,19 @@ Bing News CN 发布的综合医学相关Medical news，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 13 May 2026 11:25:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab87596aa1e4c73b2c2fc1db9cbc12d&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
+Bing News CN｜Wed, 13 May 2026 11:25:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9c9bb98e94d33be4d937a88dd6bfd&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
 
 ---
 
-## 5. 从实验室到临床：细胞与基因治疗的临床试验及转化
+## 4. 中外学者共商人工智能助推公共卫生事业发展
 
-【医学科学新闻】从实验室到临床：细胞与基因治疗的临床试验及转化
+【医学科学新闻】中外学者共商人工智能助推公共卫生事业发展
 
 一、为什么重要
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -131,7 +104,34 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab87597beaf4b308e043360ece5e093&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+Bing News CN｜Wed, 06 Nov 2024 03:55:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9c9bdbff347be9ae2c6beda1a5bd4&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+
+---
+
+## 5. 广安门医院参加第二届医学人工智能大会，中医AI成果获WHO专家高度关注 - 北京市卫生健康委员会
+
+【医学科学新闻】广安门医院参加第二届医学人工智能大会，中医AI成果获WHO专家高度关注 - 北京市卫生健康委员会
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Tue, 22 Sep 2026 05:17:52 GMT｜https://news.google.com/rss/articles/CBMifEFVX3lxTE9KSnEzWXE1UzhHcTZkZlVTZXpfRWlqcEtzQll5UHcyeWJ2dUE3N2gyMURUNU9BazNGZ0U2bGlkWlNEWWVYb25pT1AzeFY4Tk1tVk5reU4zM1luVFA5RXpVcmF4elRSLTdMT3ZGOExMWGY2c05LMmpWZTFBN08?oc=5
 
 ---
 
@@ -378,7 +378,34 @@ JAMA oncology｜2026-Sep-24｜https://pubmed.ncbi.nlm.nih.gov/42783354/
 
 ---
 
-## 15. 肿瘤/血液肿瘤研究：Stroke drives glioma progression through the emergence of tumor-associated astrocytes with reduced Ca2+ activity.
+## 15. 肿瘤/血液肿瘤研究：SpaCEy links spatial tissue patterns to clinical outcomes using explainable graph neural networks.
+
+【医学科学新闻】肿瘤/血液肿瘤研究：SpaCEy links spatial tissue patterns to clinical outcomes using explainable graph neural networks.
+
+一、为什么重要
+Nature communications 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature communications｜2026-Sep-26｜https://pubmed.ncbi.nlm.nih.gov/42800816/
+
+---
+
+## 16. 肿瘤/血液肿瘤研究：Stroke drives glioma progression through the emergence of tumor-associated astrocytes with reduced Ca2+ activity.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Stroke drives glioma progression through the emergence of tumor-associated astrocytes with reduced Ca2+ activity.
 
@@ -405,7 +432,7 @@ Nature cancer｜2026-Sep-25｜https://pubmed.ncbi.nlm.nih.gov/42791388/
 
 ---
 
-## 16. 神经科学/神经疾病研究：Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.
+## 17. 神经科学/神经疾病研究：Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.
 
 【医学科学新闻】神经科学/神经疾病研究：Dynamic changes in plasma biomarkers of Alzheimer's disease in patients treated with lecanemab: a longitudinal cohort study.
 
@@ -432,7 +459,7 @@ The Lancet. Neurology｜2026-Sep-24｜https://pubmed.ncbi.nlm.nih.gov/42785333/
 
 ---
 
-## 17. 免疫/炎症研究：Persistence of mucosal CAR-T cells and inflammatory remodeling in enterocolitis associated with BCMA CAR-T cell therapy.
+## 18. 免疫/炎症研究：Persistence of mucosal CAR-T cells and inflammatory remodeling in enterocolitis associated with BCMA CAR-T cell therapy.
 
 【医学科学新闻】免疫/炎症研究：Persistence of mucosal CAR-T cells and inflammatory remodeling in enterocolitis associated with BCMA CAR-T cell therapy.
 
@@ -459,7 +486,7 @@ Nature medicine｜2026-Sep-23｜https://pubmed.ncbi.nlm.nih.gov/42778764/
 
 ---
 
-## 18. 肿瘤/血液肿瘤研究：A design approach for bitopic kinase inhibitors.
+## 19. 肿瘤/血液肿瘤研究：A design approach for bitopic kinase inhibitors.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：A design approach for bitopic kinase inhibitors.
 
@@ -486,7 +513,7 @@ Nature｜2026-Sep-23｜https://pubmed.ncbi.nlm.nih.gov/42778601/
 
 ---
 
-## 19. 肿瘤/血液肿瘤研究：Accelerating equitable cancer genomics and precision oncology in health care and research: a Lancet Oncology Commission.
+## 20. 肿瘤/血液肿瘤研究：Accelerating equitable cancer genomics and precision oncology in health care and research: a Lancet Oncology Commission.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Accelerating equitable cancer genomics and precision oncology in health care and research: a Lancet Oncology Commission.
 
@@ -510,32 +537,5 @@ The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得�
 
 七、参考信息
 The Lancet. Oncology｜2026-Sep-25｜https://pubmed.ncbi.nlm.nih.gov/42790448/
-
----
-
-## 20. 综合医学研究：[Department of Error] Department of Error
-
-【医学科学新闻】综合医学研究：[Department of Error] Department of Error
-
-一、为什么重要
-The Lancet 发布的综合医学相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet｜2026-09-26｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01876-3/fulltext?rss=yes
 
 ---
