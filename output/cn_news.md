@@ -1,27 +1,27 @@
 # 中文医学科学新闻
 
-1. 多方在沪开启细胞器创新疗法在晚期非小细胞肺癌后线治疗领域的临床探索 - sh.chinanews.com.cn
+1. 陆舜教授荣获2026 CSCO临床肿瘤学年度成就奖 领衔两项I期研究取得重要成果 - sh.chinanews.com.cn
    - 来源：Google News CN
-   - 时间：Wed, 23 Sep 2026 06:23:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFB0MTFSSFlXenZDUFBUNGxjMVNWSWpUTkZseWREelFnWE9CRFRGbWdOVWRxTk9kMWtxenV5WU5xYnJsQzZHcWROaHJfZUxuTDBpZ3dZN3NiOTUwWGpoS2dJdXdCU0xpWDMyR1JLQg?oc=5" target="_blank">多方在沪开启细胞器创新疗法在晚期非小细胞肺癌后线治疗领域的临床探索</a>&nbsp;&nbsp;<font color="#6f6f6f">sh.chinanews.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMibEFVX3lxTFB0MTFSSFlXenZDUFBUNGxjMVNWSWpUTkZseWREelFnWE9CRFRGbWdOVWRxTk9kMWtxenV5WU5xYnJsQzZHcWROaHJfZUxuTDBpZ3dZN3NiOTUwWGpoS2dJdXdCU0xpWDMyR1JLQg?oc=5
-2. 2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安 - 新华网
+   - 时间：Wed, 30 Sep 2026 10:07:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVTRUMEl4QTdxTXZGMFlmWk5aMURsSnNUTmNPbzRBcWZpb1BZN3JDTG9rS2l4QzY2MXJVYWprWmU0T3E0LTZvU2ZfTV92V0IxQkcxZF9EdW1Sd3FGWk95QWJEbmlpQ2NNU1pOSA?oc=5" target="_blank">陆舜教授荣获2026 CSCO临床肿瘤学年度成就奖 领衔两项I期研究取得重要成果</a>&nbsp;&nbsp;<font color="#6f6f6f">sh.chinanews.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVTRUMEl4QTdxTXZGMFlmWk5aMURsSnNUTmNPbzRBcWZpb1BZN3JDTG9rS2l4QzY2MXJVYWprWmU0T3E0LTZvU2ZfTV92V0IxQkcxZF9EdW1Sd3FGWk95QWJEbmlpQ2NNU1pOSA?oc=5
+2. 济南市儿童医院临床微生物科获批2026年度济南市医药卫生重点实验室 - ccpd.china.com.cn
    - 来源：Google News CN
-   - 时间：Wed, 23 Sep 2026 07:32:07 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVG1NbHdYMFF4andsRW5YZG5CX1h6SU5GdEthQnZRYUE2NXgwakphaml0ai1nTkVQNWJaQ2t5XzgxalFwaFZvQmlmWWhScUlZbTdPdHdDTjhWYlpFYnhkZnRteU5MUFVrWlFfOEdNSzl0SEUyWFdaSkktaXUxa0U?oc=5" target="_blank">2026年“服务百姓健康行动”全国大型义诊活动周走进陕西延安</a>&nbsp;&nbsp;<font color="#6f6f6f">新华网</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVG1NbHdYMFF4andsRW5YZG5CX1h6SU5GdEthQnZRYUE2NXgwakphaml0ai1nTkVQNWJaQ2t5XzgxalFwaFZvQmlmWWhScUlZbTdPdHdDTjhWYlpFYnhkZnRteU5MUFVrWlFfOEdNSzl0SEUyWFdaSkktaXUxa0U?oc=5
-3. 临床试验核心课程“缺位”医学教育，专家呼吁系统化培养
+   - 时间：Tue, 29 Sep 2026 06:49:54 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMFZfMTlOcWtiaTNUZnpfMFY4ZXhzVFBORG9ESzZ3UUVYTmdLYl9rUl9vbXlqV1d0Y0l3N3MzQ05PNzBfLUVfTl9LOUdNaGtlUnNLM0hTNzc5US1QMGZnZ25saGtVdHE3?oc=5" target="_blank">济南市儿童医院临床微生物科获批2026年度济南市医药卫生重点实验室</a>&nbsp;&nbsp;<font color="#6f6f6f">ccpd.china.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMFZfMTlOcWtiaTNUZnpfMFY4ZXhzVFBORG9ESzZ3UUVYTmdLYl9rUl9vbXlqV1d0Y0l3N3MzQ05PNzBfLUVfTl9LOUdNaGtlUnNLM0hTNzc5US1QMGZnZ25saGtVdHE3?oc=5
+3. 《自然》：下一代CAR-T在研药物，82%由中国团队主导 - finance.sina.com.cn
+   - 来源：Google News CN
+   - 时间：Wed, 30 Sep 2026 16:53:54 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDBEQTRBbkxMZ1l0QXZsOUxMWnJzYlUzNmtuY0I3SXluNFJJNDJndnVSRHlfcERqenhfN25HNmFGczBUWXdUdm9rWmlKYUVCZ1RQUGstNF9Kd2V2LUlNNVhzT2otUmt1d1lSS080WVB0aG9LNVBvV0dpdE0zNVhGaFpJeHBzLTNLSlhQTVRhcnFCVTZhNVZDVW9NSHNIMEVVQWVfTzAxVkFOOFA3NWpGWF9n?oc=5" target="_blank">《自然》：下一代CAR-T在研药物，82%由中国团队主导</a>&nbsp;&nbsp;<font color="#6f6f6f">finance.sina.com.cn</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDBEQTRBbkxMZ1l0QXZsOUxMWnJzYlUzNmtuY0I3SXluNFJJNDJndnVSRHlfcERqenhfN25HNmFGczBUWXdUdm9rWmlKYUVCZ1RQUGstNF9Kd2V2LUlNNVhzT2otUmt1d1lSS080WVB0aG9LNVBvV0dpdE0zNVhGaFpJeHBzLTNLSlhQTVRhcnFCVTZhNVZDVW9NSHNIMEVVQWVfTzAxVkFOOFA3NWpGWF9n?oc=5
+4. AI设计的抗癌新药：当人工智能介入细胞信号的“交通指挥” ｜#科学资讯# #医学# #人工智能药物研发#
    - 来源：Bing News CN
-   - 时间：Wed, 13 May 2026 11:25:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：前述内容由第一财经“星翼大模型”智能生成，相关AI内容力求但不保证准确性、时效性、完整性等。请用户注意甄别，第一财经不承担由此产生的任何责任。 如您有疑问或需要更多信息，可以 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc72676e1946d8b320e28a7dc7bd24&url=https%3a%2f%2fwww.yicai.com%2fnews%2f103180206.html&c=7052041691592411913&mkt=en-us
-4. 中外学者共商人工智能助推公共卫生事业发展
+   - 时间：Wed, 30 Sep 2026 08:23:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：在人体复杂的细胞世界里，有一套被称为“河马信号通路”（Hippo signaling pathway）的机制，它就像交通指挥官，负责调控细胞的生长、分裂与死亡，确保组织稳态。然而，当这套系统发生故障时，细胞就会失去控制，演变成恶性肿瘤。如何精准地“修复”或“阻断”这些失控的信号，一直是肿瘤学研究的难点。 人工智能如何参与药物设计？ 近期，英矽智能（Insilico Medicine）公布了一项关于 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abdc46276224b06b5ca9b6841588a39&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082760087_122154728&c=6419572448479989924&mkt=en-us
+5. 《细胞》重磅：科学家发现，肠道免疫调节代谢物对CAR-T疗效具有“双刃剑”作用，并构建全新预后预测模型
    - 来源：Bing News CN
-   - 时间：Wed, 06 Nov 2024 03:55:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：11月2日，由清华大学主办，清华大学万科公共卫生与健康学院、健康中国研究院共同承办的第四届世界卫生健康论坛在北京开幕。 本届论坛以“AI智领健康未来”为主题，来自全球18个国家和 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc72693c0748cabd900b026a1cde85&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
-5. 《自然》：下一代CAR-T在研药物，82%由中国团队主导 - 搜狐网
-   - 来源：Google News CN
-   - 时间：Tue, 29 Sep 2026 23:49:45 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2lpeDFGN3NqX0lwNm1icm5oS2stU0MzdHFPUlVvYmRDajBWbm1vRV9sbFpxZmxMbW50dzRfbFNJbTdxVXF3NjYwaldOWnRJLXhXRDR5VVBJNzBfZU9qU2p1NG1BV0doVFYySlpJeVJjdDk3Y3hqSURkZUpGVnZ1YU9meVdfQ21PZUpqLQ?oc=5" target="_blank">《自然》：下一代CAR-T在研药物，82%由中国团队主导</a>&nbsp;&nbsp;<font color="#6f6f6f">搜狐网</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2lpeDFGN3NqX0lwNm1icm5oS2stU0MzdHFPUlVvYmRDajBWbm1vRV9sbFpxZmxMbW50dzRfbFNJbTdxVXF3NjYwaldOWnRJLXhXRDR5VVBJNzBfZU9qU2p1NG1BV0doVFYySlpJeVJjdDk3Y3hqSURkZUpGVnZ1YU9meVdfQ21PZUpqLQ?oc=5
+   - 时间：Wed, 30 Sep 2026 04:50:00 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：嵌合抗原受体T细胞（CAR-T）疗法为复发/难治性血液肿瘤患者带来了突破性希望，完全缓解率（CR）最高可达80%。然而，临床上仍有约50%的患者在治疗后面临复发或疾病进展。 越来越多的证据表明，肠道微生态与抗生素暴露是影响CAR-T疗效的关键变量。 既往研究也尝试寻找可作为预后标志物的肠菌，但由于个体间肠菌组成高度异质，跨队列验证表现极差，难以形成统一标准。 近期，《细胞》杂志发表了来自雷根斯堡大 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abdc46389af4b79b9a97c38fc234078&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34175000%3fcommTag%3dtrue&c=17516984890593397250&mkt=en-us
