@@ -1,105 +1,104 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-10-01 10:24:33
+【Biomed Radar】今日医学科学新闻已更新｜2026-10-02 10:34:19
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
 RSS NEJM: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-RSS Nature: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-1. 陆舜教授荣获2026 CSCO临床肿瘤学年度成就奖 领衔两项I期研究取得重要成果 - sh.chinanews.com.cn
-Google News CN｜Medical news｜Score 27
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVTRUMEl4QTdxTXZGMFlmWk5aMURsSnNUTmNPbzRBcWZpb1BZN3JDTG9rS2l4QzY2MXJVYWprWmU0T3E0LTZvU2ZfTV92V0IxQkcxZF9EdW1Sd3FGWk95QWJEbmlpQ2NNU1pOSA?oc=5
-
-2. 济南市儿童医院临床微生物科获批2026年度济南市医药卫生重点实验室 - ccpd.china.com.cn
-Google News CN｜Medical news｜Score 27
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMFZfMTlOcWtiaTNUZnpfMFY4ZXhzVFBORG9ESzZ3UUVYTmdLYl9rUl9vbXlqV1d0Y0l3N3MzQ05PNzBfLUVfTl9LOUdNaGtlUnNLM0hTNzc5US1QMGZnZ25saGtVdHE3?oc=5
-
-3. 《自然》：下一代CAR-T在研药物，82%由中国团队主导 - finance.sina.com.cn
+1. 《自然》：下一代CAR-T在研药物，82%由中国团队主导 - finance.sina.cn
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDBEQTRBbkxMZ1l0QXZsOUxMWnJzYlUzNmtuY0I3SXluNFJJNDJndnVSRHlfcERqenhfN25HNmFGczBUWXdUdm9rWmlKYUVCZ1RQUGstNF9Kd2V2LUlNNVhzT2otUmt1d1lSS080WVB0aG9LNVBvV0dpdE0zNVhGaFpJeHBzLTNLSlhQTVRhcnFCVTZhNVZDVW9NSHNIMEVVQWVfTzAxVkFOOFA3NWpGWF9n?oc=5
+https://news.google.com/rss/articles/CBMipwFBVV95cUxQbndfdF9YZGc5bzgwM0RRYU1oeWNfWldJMjhySDNZaW5tTm83Y2d4dXp5ZnlUaUQzeFM4aGpYNlQyWUx4Q2hYMmp1aHowZVBLQldkdzh0MTZDMFROeWtmeEZwVFplbjZ1c3BJT2ZHaWZMcnJ1WXJEVkJxRHR1SDJ2bGNJcFBTbzFmb1owLWw5ZmtqYzhFY18xeU0ta2ZKclpBMGVDWF9CMA?oc=5
 
-4. AI设计的抗癌新药：当人工智能介入细胞信号的“交通指挥” ｜#科学资讯# #医学# #人工智能药物研发#
+2. AI设计的抗癌新药：当人工智能介入细胞信号的“交通指挥” ｜#科学资讯# #医学# #人工智能药物研发#
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abdc46276224b06b5ca9b6841588a39&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082760087_122154728&c=6419572448479989924&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf182b13074142994ccc01b9f8c84d&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082760087_122154728&c=6419572448479989924&mkt=en-us
 
-5. 《细胞》重磅：科学家发现，肠道免疫调节代谢物对CAR-T疗效具有“双刃剑”作用，并构建全新预后预测模型
+3. CAR-T细胞疗法研究进展（第58期） - 生物谷
+Google News CN｜Medical news｜Score 26
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jVVdqTVpCcHJ3WWlpejJzZ29DbW9ZOTRfQ1BYQ0NYSFpHT2JSZUs2cGNjRUxGeDBveWNDU0x1eUZScE11akdzVjhTZUhtVEgxWVN2ekRFLXQyTVo5?oc=5
+
+4. 从实验室到临床：细胞与基因治疗的临床试验及转化
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abdc46389af4b79b9a97c38fc234078&url=https%3a%2f%2fwww.thepaper.cn%2fnewsDetail_forward_34175000%3fcommTag%3dtrue&c=17516984890593397250&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf182c34444c88a532dedcba8d1a7a&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
-6. 代谢/肥胖/糖尿病研究：Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial.
-Nature medicine｜RCT｜Score 102
-Nature medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42811187/
+5. 中外学者共商人工智能助推公共卫生事业发展
+Bing News CN｜Medical news｜Score 26
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf182d31cd47a284166960646976f7&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
 
-7. 代谢/肥胖/糖尿病研究：Petrelintide, a human amylin analogue for the treatment of obesity (ZUPREME 1): a randomised, double-blind, placebo-controlled, phase 2 trial.
-The lancet. Diabetes & endocrinology｜RCT｜Score 96
+6. 肿瘤/血液肿瘤研究：Hypofractionated versus conventional fractionated postmastectomy radiotherapy for patients with high-risk breast cancer (CHN HYPOPMRT): 10-year outcomes from a randomised, non-inferiority, open-label, phase 3 trial.
+The Lancet. Oncology｜RCT｜Score 102
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42805199/
+
+7. 肿瘤/血液肿瘤研究：Chemotherapy with or without pembrolizumab followed by maintenance pembrolizumab with or without olaparib as first-line treatment of patients with advanced BRCA non-mutated epithelial ovarian cancer (ENGOT-OV43/GOG-3036/KEYLYNK-001): a randomised, double-blind, placebo-controlled, phase 3 trial.
+The Lancet. Oncology｜RCT｜Score 102
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42705254/
+
+8. 代谢/肥胖/糖尿病研究：Long-term safety of oral orforglipron in Japanese participants with type 2 diabetes (ACHIEVE-J): a multicentre, randomised, open-label, parallel-group phase 3 trial.
+The lancet. Diabetes & endocrinology｜RCT｜Score 102
 The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42810355/
+https://pubmed.ncbi.nlm.nih.gov/42607698/
 
-8. 重症医学/急危重症研究：Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial.
-JAMA｜RCT｜Score 94
-JAMA 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42806496/
+9. 代谢/肥胖/糖尿病研究：Efficacy and safety of once-weekly semaglutide 2·4 mg in Chinese adults with overweight or obesity (STEP 12): a randomised, double-blind, placebo-controlled, multicentre, phase 3b trial.
+The lancet. Diabetes & endocrinology｜RCT｜Score 102
+The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42575111/
 
-9. 神经科学/神经疾病研究：Hearing Intervention for Older Adults With Mild Cognitive Impairment: The CHOICE Randomized Clinical Trial.
-JAMA neurology｜RCT｜Score 94
-JAMA neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42804222/
+10. 肿瘤/血液肿瘤研究：Giredestrant plus Everolimus in Advanced Breast Cancer.
+The New England journal of medicine｜RCT｜Score 96
+The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42814929/
 
-10. 肿瘤/血液肿瘤研究：Robotic vs Thoracolaparoscopic Esophagectomy for Esophageal Cancer: A Randomized Clinical Trial.
-JAMA surgery｜RCT｜Score 88
-JAMA surgery 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42814447/
+11. 心血管研究：Atorvastatin, Cardiovascular Events, and Disability-free Survival in Older Adults.
+The New England journal of medicine｜RCT｜Score 96
+The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42670961/
 
-11. 代谢/肥胖/糖尿病研究：Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.
-The New England journal of medicine｜RCT｜Score 88
-The New England journal of medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42814954/
+12. 神经科学/神经疾病研究：Safety, tolerability, and efficacy of alixorexton, a selective orexin 2 receptor agonist for narcolepsy type 1 (Vibrance-1): a randomised, double-blind, placebo-controlled, phase 2 trial.
+The Lancet. Neurology｜RCT｜Score 96
+The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42636845/
 
-12. 心血管研究：No-Touch vs Conventional Vein Grafts in Coronary Surgery: Seven-Year Clinical Outcomes of the SWEDEGRAFT Randomized Clinical Trial.
-JAMA cardiology｜RCT｜Score 86
-JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42814420/
+13. 神经科学/神经疾病研究：Safety, tolerability, and efficacy of RIPK1 inhibitor, SAR443820, in amyotrophic lateral sclerosis (HIMALAYA): a multicentre, randomised, double-blind, placebo-controlled, phase 2 trial.
+The Lancet. Neurology｜RCT｜Score 94
+The Lancet. Neurology 发布的神经科学/神经疾病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42716044/
 
-13. 综合医学研究：Telehealth Treatment of Anxiety in Patients With Low-Risk Chest Pain in the Emergency Department: The PACER Randomized Clinical Trial.
-JAMA internal medicine｜RCT｜Score 80
-JAMA internal medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42804196/
+14. 肿瘤/血液肿瘤研究：Patient-reported symptom monitoring in patients with lung cancer (SYMPRO-Lung trial): long-term, post-hoc survival results of a multicentre, stepped-wedged, cluster-randomised clinical trial.
+The Lancet. Oncology｜RCT｜Score 88
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42727592/
 
-14. 综合医学研究：Efficacy of Technology-Augmented Behavioral Counseling for Risky Firearm Behaviors: A Randomized Clinical Trial.
-JAMA pediatrics｜RCT｜Score 80
-JAMA pediatrics 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42804194/
+15. 肿瘤/血液肿瘤研究：An integrated lifestyle intervention for mitigation of adverse effects associated with androgen deprivation therapy for prostate cancer (STAMINA): a multicentre, randomised trial.
+The Lancet. Oncology｜RCT｜Score 88
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42697217/
 
-15. 肿瘤/血液肿瘤研究：Werner helicase inhibitor for advanced microsatellite instability solid tumors: a phase 1 trial.
-Nature medicine｜Phase 2 trial｜Score 78
-Nature medicine 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42811189/
+16. 代谢/肥胖/糖尿病研究：Once-weekly IcoSema versus once-daily insulin glargine U100 in type 2 diabetes management (COMBINE 4): an open-label, multicentre, treat-to-target, randomised, phase 3b trial.
+The lancet. Diabetes & endocrinology｜RCT｜Score 88
+The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42594928/
 
-16. 肿瘤/血液肿瘤研究：Enucleation vs Pancreatoduodenectomy for Benign and Low-Grade Pancreatic Head Tumors.
-JAMA surgery｜Original research｜Score 76
-JAMA surgery 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42814443/
+17. 代谢/肥胖/糖尿病研究：Effect of semaglutide on kidney outcomes in the SELECT, FLOW, and SOUL trials: a prespecified pooled analysis.
+The lancet. Diabetes & endocrinology｜RCT｜Score 88
+The lancet. Diabetes & endocrinology 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42567173/
 
-17. 免疫/炎症研究：Cranial bone marrow-derived monocytes promote neuroinflammation in chronic traumatic brain injury.
-Science translational medicine｜RCT｜Score 72
-Science translational medicine 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42814802/
+18. 肿瘤/血液肿瘤研究：Induction and extended consolidation with daratumumab, cyclophosphamide, bortezomib, lenalidomide, and dexamethasone in patients with high-risk multiple myeloma (OPTIMUM/MUKnine): 5-year follow-up of a multicentre, externally controlled, phase 2 trial.
+The Lancet. Oncology｜Phase 2 trial｜Score 86
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42705255/
 
-18. 综合医学研究：Exercise Therapy and Education for Young Adults With Persistent Knee Problems After Anterior Cruciate Ligament Reconstruction : A Randomized Clinical Trial.
-Annals of internal medicine｜RCT｜Score 70
-Annals of internal medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42804769/
+19. 公共卫生/流行病学研究：Long-term exposure to wildfire-related PM2·5 and overall survival of older patients with lung cancer: a retrospective, registry-based cohort study.
+The Lancet. Oncology｜Translational research｜Score 84
+The Lancet. Oncology 发布的公共卫生/流行病学相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42743939/
 
-19. 肿瘤/血液肿瘤研究：Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial
-Nature Medicine｜RCT｜Score 70
-Nature Medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://www.nature.com/articles/s41591-026-04705-y
-
-20. 心血管研究：Heart Failure With Reduced Ejection Fraction Polypill Implementation Strategy in Sri Lanka: A Randomized Clinical Trial.
-JAMA cardiology｜RCT｜Score 69
-JAMA cardiology 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42814433/
+20. 重症医学/急危重症研究：Early red blood cell transfusion strategy in septic shock among patients with cancer: the TRANSPORT randomized controlled trial.
+Intensive care medicine｜RCT｜Score 82
+Intensive care medicine 发布的重症医学/急危重症相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42616082/
