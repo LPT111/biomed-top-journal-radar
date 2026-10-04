@@ -29,55 +29,55 @@ METHODS: In this multinational, double-blind, phase 3 trial involving adults wit
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Giredestrant and everolimus target the estrogen receptor (ER) pathway and the phosphatidylinositol 3-kinase (PI3K)-protein kinase B (AKT)-mammalian target of rapamycin (mTOR) pathway, respectively, which are implicated in endocrine-therapy resistance.
 METHODS: In this phase 3, open-label, randomized trial, we enrolled patients with ER-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer who had disease progression or recurrence after receipt of ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42814929/
-6. 代谢/肥胖/糖尿病研究：Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial.
+6. 感染/疫苗研究：Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6-23 months: a pragmatic cluster-randomized trial.
+   - 来源：Nature medicine
+   - 时间：2026-Oct-02
+   - 摘要：这条内容聚焦感染/疫苗。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：Undernutrition and infectious diseases pose a double threat to child survival, especially in areas with a high malnutrition burden and low vaccination coverage. In this study, we evaluated whether distributing preventive small-quantity lipid-based nutrient supplements (SQ-LNS) alongside routine immunization services may increase vaccine uptake in a pediatric, pragmatic, cluster-randomized controlled trial in northern Nigeria. Twenty geographically defined clusters across two Local Government Areas were randomized 1... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42827131/
+7. 代谢/肥胖/糖尿病研究：Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial.
    - 来源：Nature medicine
    - 时间：2026-Oct-01
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：The GLP-1 receptor agonist semaglutide preserves kidney function in people with type 2 diabetes and chronic kidney disease, but the underlying mechanisms are unclear. Here we report a 52-week randomized trial of subcutaneous semaglutide 1 mg once weekly versus placebo (n = 106 (n = 25 women, n = 81 men)) in participants with type 2 diabetes and chronic kidney disease. To identify kidney-specific mechanisms of action for semaglutide, we performed integrated multiparametric magnetic resonance imaging of the kidney an... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42823485/
-7. 肿瘤/血液肿瘤研究：Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer: A Review.
+8. 肿瘤/血液肿瘤研究：Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer: A Review.
    - 来源：JAMA oncology
    - 时间：2026-Oct-01
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为Phase 3 trial。摘要信息显示：IMPORTANCE: Despite the integration of bevacizumab and poly(ADP-ribose) polymerase inhibitors into first-line treatment of advanced high-grade serous ovarian cancer, survival remains poor for the substantial subset of patients whose tumors respond insufficiently to platinum-based chemotherapy and who, therefore, frequently do not achieve complete cytoreductive surgery (the 2 red flags population). This Review examines the rationale, current evidence, and emerging strategies for systemic treatment intensification-or... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42821287/
-8. 肿瘤/血液肿瘤研究：Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC).
+9. 肿瘤/血液肿瘤研究：Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC).
    - 来源：Nature medicine
    - 时间：2026-Oct-01
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为Clinical trial。摘要信息显示：Neoadjuvant immune checkpoint inhibitors (ICIs) are standard of care for resectable stage IIIB-D melanoma, but knowledge gaps remain regarding optimal treatment type, long-term survival, postsurgical management and clinical, histopathological or molecular subgroups. We analyzed 1,038 patients treated with neoadjuvant ICIs (n = 735), BRAF and MEK inhibitors (BRAF/MEKis; n = 119) or ICI plus any targeted therapy (ICI + TT; n = 184) from 26 international sites in both trial (755, 72.7%) and nontrial (283, 27.3%) setti... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42823486/
-9. 肿瘤/血液肿瘤研究：[Articles] Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial
+10. 肿瘤/血液肿瘤研究：[Articles] Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial
    - 来源：The Lancet
    - 时间：2026-09-06T22:30:02Z
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet，类型初步识别为RCT。摘要信息显示：In the first fully reported phase 3 cooperative group trial to assess immunotherapy in inoperable early-stage NSCLC, we observed no improvement in overall survival with atezolizumab plus SBRT, and more grade 3 or higher adverse events were reported with atezolizumab combined with SBRT. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01655-7/fulltext?rss=yes
-10. 肿瘤/血液肿瘤研究：[Comment] Combining immunotherapy with stereotactic body radiation therapy in localised non-small-cell lung cancer
+11. 肿瘤/血液肿瘤研究：[Comment] Combining immunotherapy with stereotactic body radiation therapy in localised non-small-cell lung cancer
    - 来源：The Lancet
    - 时间：2026-10-03
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet，类型初步识别为Phase 3 trial。摘要信息显示：Radiotherapy and immunotherapy combination has been a field of intense investigation globally over the past decade. The phase 3 randomised clinical trial (SWOG/NRG S1914) in The Lancet by Megan E Daly and colleagues,1 conducted in the USA, evaluated whether adding perioperative atezolizumab (neoadjuvant, concurrent, and adjuvant) to stereotactic body radiation therapy (SBRT) improved outcomes in high-risk, medically inoperable early-stage non-small-cell lung cancer (NSCLC). Its primary objective was to compare over... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01816-7/fulltext?rss=yes
-11. 肿瘤/血液肿瘤研究：Immune Checkpoint Inhibitor-Based Downstaging Therapy for Hepatocellular Carcinoma.
+12. 肿瘤/血液肿瘤研究：Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial
+   - 来源：Nature Medicine
+   - 时间：2026-09-30
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature Medicine，类型初步识别为RCT。摘要信息显示：<p>Nature Medicine, Published online: 30 September 2026; <a href="https://www.nature.com/articles/s41591-026-04705-y">doi:10.1038/s41591-026-04705-y</a></p>In the randomized phase 2b VIRAGE trial, patients with treatment-naive metastatic pancreatic cancer received the hyaluronidase-expressing oncolytic adenovirus zabilugene almadenorepvec (VCN-01) intravenously with gemcitabine and nab-paclitaxel (GnP) or GnP alone, showing that VCN-01 plus GnP led to prolonged overall survival. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://www.nature.com/articles/s41591-026-04705-y
+13. 肿瘤/血液肿瘤研究：Immune Checkpoint Inhibitor-Based Downstaging Therapy for Hepatocellular Carcinoma.
    - 来源：JAMA oncology
    - 时间：2026-Oct-01
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为Translational research。摘要信息显示：IMPORTANCE: In patients with hepatocellular carcinoma (HCC) that is initially beyond the Milan criteria, immune checkpoint inhibitor (ICI)-based regimens have been explored before liver transplant (LT) to improve tumor control as part of downstaging strategies that most often involve locoregional therapy, but associations with posttransplant oncologic and survival benefit remain uncertain.
 OBJECTIVE: To evaluate the associations of an ICI-based multimodal pretransplant strategy with posttransplant oncologic outcome... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42821267/
-12. 肿瘤/血液肿瘤研究：Global burden of cancer attributable to infections in 2024: a worldwide incidence analysis.
+14. 肿瘤/血液肿瘤研究：Global burden of cancer attributable to infections in 2024: a worldwide incidence analysis.
    - 来源：The Lancet. Oncology
    - 时间：2026-Oct
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为Translational research。摘要信息显示：BACKGROUND: Infectious agents are an important preventable cause of cancer globally. To inform prevention efforts, we provide a comprehensive picture of cancer burden attributable to infections, including newly established, carcinogenic infectious agents and latest global cancer incidence estimates.
 METHODS: In this worldwide incidence analysis, we used data from the Global Cancer Observatory's Cancer Today (GLOBOCAN) database of cancer incidence in 2024 to estimate population-attributable fractions (PAFs), absolut... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42805198/
-13. 神经科学/神经疾病研究：Different functional connectivity gradients reflect aging and Alzheimer's disease.
-   - 来源：Nature neuroscience
-   - 时间：2026-Oct-01
-   - 摘要：这条内容聚焦神经科学/神经疾病。来源为Nature neuroscience，类型初步识别为Original research。摘要信息显示：Aging and Alzheimer's disease (AD) are accompanied by alterations to large-scale communication patterns in the brain, which can be tracked in vivo using functional connectivity. The location, direction and relevance of these changes remain widely debated, although they are rarely studied in the context of whole-cortex communication dynamics. Here, in two independent cohorts (BioFINDER-2, N = 973; Alzheimer's Disease Neuroimaging Initiative, N = 129), we show that functional connectivity changes associated with agin... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42823476/
-14. 肿瘤/血液肿瘤研究：Accelerating equitable cancer genomics and precision oncology in health care and research: a Lancet Oncology Commission.
-   - 来源：The Lancet. Oncology
-   - 时间：2026-Oct
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为Clinical trial。摘要信息显示：Cancer genomics and precision oncology are increasingly central to cancer care, but many health systems struggle to implement them equitably, effectively, and sustainably. This Commission defines the current global precision oncology landscape and analyses the scientific, structural, and health-system challenges shaping its delivery and impact. Findings indicate that access to cancer genomics and precision oncology remains profoundly unequal across and within countries, leaving millions of patients without guidelin... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42790448/
-15. 综合医学研究：New FDA-Approved Treg Therapy to Reduce Chronic GVHD After Allogeneic HSCT.
-   - 来源：Blood
+15. 肿瘤/血液肿瘤研究：Urine cell-free RNA for bladder cancer detection and treatment response prediction.
+   - 来源：Nature medicine
    - 时间：2026-Oct-02
-   - 摘要：这条内容聚焦综合医学。来源为Blood，类型初步识别为RCT。摘要信息显示：The Precision-T phase 3 trial is the first randomized, multicenter demonstration that a centrally manufactured defined allograft is effective markedly reducing moderate-to-severe chronic GVHD and non-relapse mortality without loss of graft versus leukemia or graft failure and infection. The engineered graft appears to instruct immune reconstitution toward a regulated, tolerance-associated state, giving the product a mechanism for further studies. The question is how far we can further program it. 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42826158/
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为Translational research。摘要信息显示：Urine biomarkers promise to improve noninvasive detection and molecular characterization of genitourinary malignancies. Here we describe urine random priming and affinity capture of cell-free RNA (cfRNA) fragments for enrichment analysis by sequencing (uRARE-seq), a liquid biopsy method for urine cfRNA profiling, and apply it to 683 urine samples from patients with cancer and controls. Urine cfRNA contained transcripts from genitourinary tissues and, in patients with prostate, kidney or bladder cancer, tumor-derive... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42827132/

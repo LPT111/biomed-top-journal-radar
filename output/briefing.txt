@@ -1,34 +1,32 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-10-03 10:19:07
+【Biomed Radar】今日医学科学新闻已更新｜2026-10-04 10:51:18
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
-Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-Bing News CN: RuntimeError(SAXParseException('not well-formed (invalid token)'))
 RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-RSS Nature Medicine: RuntimeError(SAXParseException('not well-formed (invalid token)'))
-1. 陆舜教授荣获2026 CSCO临床肿瘤学年度成就奖 领衔两项I期研究取得重要成果 - sh.chinanews.com.cn
-Google News CN｜Medical news｜Score 27
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVTRUMEl4QTdxTXZGMFlmWk5aMURsSnNUTmNPbzRBcWZpb1BZN3JDTG9rS2l4QzY2MXJVYWprWmU0T3E0LTZvU2ZfTV92V0IxQkcxZF9EdW1Sd3FGWk95QWJEbmlpQ2NNU1pOSA?oc=5
+RSS Nature: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+Bing News CN｜RCT｜Score 51
+Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1bf28f018400997f7a0a925aebc7a&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 
-2. CAR-T细胞疗法研究进展（第58期） - 生物谷
+2. AI设计的抗癌新药：当人工智能介入细胞信号的“交通指挥” ｜#科学资讯# #医学# #人工智能药物研发#
+Bing News CN｜Medical news｜Score 26
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1bf27a2f0400695a66936fc4a2af1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082760087_122154728&c=6419572448479989924&mkt=en-us
+
+3. CAR-T细胞疗法研究进展（第58期） - 生物谷
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jVVdqTVpCcHJ3WWlpejJzZ29DbW9ZOTRfQ1BYQ0NYSFpHT2JSZUs2cGNjRUxGeDBveWNDU0x1eUZScE11akdzVjhTZUhtVEgxWVN2ekRFLXQyTVo5?oc=5
 
-3. 破解肿瘤“软肋”！Nature子刊：将癌细胞柔软信号改写为CAR-T细胞的免疫“追杀令”
-Bing News CN｜Medical news｜Score 26
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0661c79d648dd83f557265f0ad9af&url=https%3a%2f%2fnews.bioon.com%2farticle%2fba60951031cd.html&c=4588315612389156489&mkt=en-us
-
 4. 从实验室到临床：细胞与基因治疗的临床试验及转化
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0661c79d648dd83f557265f0ad9af&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1bf28f018400997f7a0a925aebc7a&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
-5. 《自然》：下一代CAR-T在研药物，82%由中国团队主导 - thepaper.cn
-Google News CN｜Medical news｜Score 26
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE10cFRWOThmMkZIT2VxN0J3QkpOUmlZdWMxcXM5ckpBTHBzWFk3b0ZHSVMtejBkb1N5cVh3TXpmLXRvSGhKV0xSY1J0UjF4REZIdi1GMjZXbzV0QlRiTEE?oc=5
+5. 中外学者共商人工智能助推公共卫生事业发展
+Bing News CN｜Medical news｜Score 26
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1bf291e104d28b6c334e0ff4653a3&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
 
 6. 肿瘤/血液肿瘤研究：Hypofractionated versus conventional fractionated postmastectomy radiotherapy for patients with high-risk breast cancer (CHN HYPOPMRT): 10-year outcomes from a randomised, non-inferiority, open-label, phase 3 trial.
 The Lancet. Oncology｜RCT｜Score 102
@@ -55,52 +53,52 @@ The New England journal of medicine｜RCT｜Score 96
 The New England journal of medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42814929/
 
-11. 代谢/肥胖/糖尿病研究：Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial.
+11. 感染/疫苗研究：Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6-23 months: a pragmatic cluster-randomized trial.
+Nature medicine｜RCT｜Score 80
+Nature medicine 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42827131/
+
+12. 代谢/肥胖/糖尿病研究：Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial.
 Nature medicine｜RCT｜Score 80
 Nature medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42823485/
 
-12. 肿瘤/血液肿瘤研究：Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer: A Review.
+13. 肿瘤/血液肿瘤研究：Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer: A Review.
 JAMA oncology｜Phase 3 trial｜Score 78
 JAMA oncology 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42821287/
 
-13. 肿瘤/血液肿瘤研究：Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC).
+14. 肿瘤/血液肿瘤研究：Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC).
 Nature medicine｜Clinical trial｜Score 76
 Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42823486/
 
-14. 肿瘤/血液肿瘤研究：[Articles] Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial
+15. 肿瘤/血液肿瘤研究：[Articles] Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial
 The Lancet｜RCT｜Score 73
 The Lancet 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01655-7/fulltext?rss=yes
 
-15. 肿瘤/血液肿瘤研究：[Comment] Combining immunotherapy with stereotactic body radiation therapy in localised non-small-cell lung cancer
+16. 肿瘤/血液肿瘤研究：[Comment] Combining immunotherapy with stereotactic body radiation therapy in localised non-small-cell lung cancer
 The Lancet｜Phase 3 trial｜Score 71
 The Lancet 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01816-7/fulltext?rss=yes
 
-16. 肿瘤/血液肿瘤研究：Immune Checkpoint Inhibitor-Based Downstaging Therapy for Hepatocellular Carcinoma.
+17. 肿瘤/血液肿瘤研究：Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial
+Nature Medicine｜RCT｜Score 70
+Nature Medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://www.nature.com/articles/s41591-026-04705-y
+
+18. 肿瘤/血液肿瘤研究：Immune Checkpoint Inhibitor-Based Downstaging Therapy for Hepatocellular Carcinoma.
 JAMA oncology｜Translational research｜Score 68
 JAMA oncology 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42821267/
 
-17. 肿瘤/血液肿瘤研究：Global burden of cancer attributable to infections in 2024: a worldwide incidence analysis.
+19. 肿瘤/血液肿瘤研究：Global burden of cancer attributable to infections in 2024: a worldwide incidence analysis.
 The Lancet. Oncology｜Translational research｜Score 63
 The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42805198/
 
-18. 神经科学/神经疾病研究：Different functional connectivity gradients reflect aging and Alzheimer's disease.
-Nature neuroscience｜Original research｜Score 62
-Nature neuroscience 发布的神经科学/神经疾病相关Original research，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42823476/
-
-19. 肿瘤/血液肿瘤研究：Accelerating equitable cancer genomics and precision oncology in health care and research: a Lancet Oncology Commission.
-The Lancet. Oncology｜Clinical trial｜Score 60
-The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42790448/
-
-20. 综合医学研究：New FDA-Approved Treg Therapy to Reduce Chronic GVHD After Allogeneic HSCT.
-Blood｜RCT｜Score 58
-Blood 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42826158/
+20. 肿瘤/血液肿瘤研究：Urine cell-free RNA for bladder cancer detection and treatment response prediction.
+Nature medicine｜Translational research｜Score 62
+Nature medicine 发布的肿瘤/血液肿瘤相关Translational research，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42827132/
