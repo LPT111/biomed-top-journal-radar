@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-10-04 10:51:18
+# 医学科学新闻推文候选草稿｜2026-10-05 10:23:30
 
 ## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
 
@@ -23,38 +23,11 @@ Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1bf28f018400997f7a0a925aebc7a&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac30a238ff04ae5a6aed3f2febc1cd4&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 
 ---
 
-## 2. AI设计的抗癌新药：当人工智能介入细胞信号的“交通指挥” ｜#科学资讯# #医学# #人工智能药物研发#
-
-【医学科学新闻】AI设计的抗癌新药：当人工智能介入细胞信号的“交通指挥” ｜#科学资讯# #医学# #人工智能药物研发#
-
-一、为什么重要
-Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Bing News CN｜Wed, 30 Sep 2026 08:23:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1bf27a2f0400695a66936fc4a2af1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082760087_122154728&c=6419572448479989924&mkt=en-us
-
----
-
-## 3. CAR-T细胞疗法研究进展（第58期） - 生物谷
+## 2. CAR-T细胞疗法研究进展（第58期） - 生物谷
 
 【医学科学新闻】CAR-T细胞疗法研究进展（第58期） - 生物谷
 
@@ -81,6 +54,33 @@ Google News CN｜Wed, 30 Sep 2026 02:55:00 GMT｜https://news.google.com/rss/art
 
 ---
 
+## 3. 泰格医药盘中涨超4% 与迪安诊断签署战略合作协议 将围绕AI制药等多领域开展深度合作 - caiwennews.com
+
+【医学科学新闻】泰格医药盘中涨超4% 与迪安诊断签署战略合作协议 将围绕AI制药等多领域开展深度合作 - caiwennews.com
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Wed, 30 Sep 2026 02:24:11 GMT｜https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lXzZYNk5MUTZKT3BBYXRHamhpd1l3TWdTRDZKb2p2SElndjBXbUJZSm05OGlLNGpLTzV0SzJ4cnM3WDE1T2JhV2F5R2VPMDRmbmRYRjg3MVRqcnVa?oc=5
+
+---
+
 ## 4. 从实验室到临床：细胞与基因治疗的临床试验及转化
 
 【医学科学新闻】从实验室到临床：细胞与基因治疗的临床试验及转化
@@ -104,7 +104,7 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1bf28f018400997f7a0a925aebc7a&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac30a238ff04ae5a6aed3f2febc1cd4&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
 ---
 
@@ -131,7 +131,7 @@ Bing News CN 发布的综合医学相关Medical news，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 06 Nov 2024 03:55:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac1bf291e104d28b6c334e0ff4653a3&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+Bing News CN｜Wed, 06 Nov 2024 03:55:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac30a24295a49a1981df85e4ecf855a&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
 
 ---
 
@@ -432,34 +432,7 @@ The Lancet｜2026-10-03｜https://www.thelancet.com/journals/lancet/article/PIIS
 
 ---
 
-## 17. 肿瘤/血液肿瘤研究：Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial
-
-一、为什么重要
-Nature Medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Nature Medicine｜2026-09-30｜https://www.nature.com/articles/s41591-026-04705-y
-
----
-
-## 18. 肿瘤/血液肿瘤研究：Immune Checkpoint Inhibitor-Based Downstaging Therapy for Hepatocellular Carcinoma.
+## 17. 肿瘤/血液肿瘤研究：Immune Checkpoint Inhibitor-Based Downstaging Therapy for Hepatocellular Carcinoma.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Immune Checkpoint Inhibitor-Based Downstaging Therapy for Hepatocellular Carcinoma.
 
@@ -486,7 +459,7 @@ JAMA oncology｜2026-Oct-01｜https://pubmed.ncbi.nlm.nih.gov/42821267/
 
 ---
 
-## 19. 肿瘤/血液肿瘤研究：Global burden of cancer attributable to infections in 2024: a worldwide incidence analysis.
+## 18. 肿瘤/血液肿瘤研究：Global burden of cancer attributable to infections in 2024: a worldwide incidence analysis.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Global burden of cancer attributable to infections in 2024: a worldwide incidence analysis.
 
@@ -513,7 +486,7 @@ The Lancet. Oncology｜2026-Oct｜https://pubmed.ncbi.nlm.nih.gov/42805198/
 
 ---
 
-## 20. 肿瘤/血液肿瘤研究：Urine cell-free RNA for bladder cancer detection and treatment response prediction.
+## 19. 肿瘤/血液肿瘤研究：Urine cell-free RNA for bladder cancer detection and treatment response prediction.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Urine cell-free RNA for bladder cancer detection and treatment response prediction.
 
@@ -537,5 +510,32 @@ Nature medicine 发布的肿瘤/血液肿瘤相关Translational research，值�
 
 七、参考信息
 Nature medicine｜2026-Oct-02｜https://pubmed.ncbi.nlm.nih.gov/42827132/
+
+---
+
+## 20. 神经科学/神经疾病研究：Different functional connectivity gradients reflect aging and Alzheimer's disease.
+
+【医学科学新闻】神经科学/神经疾病研究：Different functional connectivity gradients reflect aging and Alzheimer's disease.
+
+一、为什么重要
+Nature neuroscience 发布的神经科学/神经疾病相关Original research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature neuroscience｜2026-Oct-01｜https://pubmed.ncbi.nlm.nih.gov/42823476/
 
 ---
