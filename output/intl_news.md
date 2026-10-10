@@ -56,38 +56,36 @@ DESIGN, SETTING, AND PARTICIPANTS: The Robot... 该摘要由规则模板生成�
 OBJECTIVE: To compare the effectiveness of facilitated vs self-guided ACP interventions.
 DESIGN, SETTING, AND PARTICIPANTS: EQUAL ACP was a multisite, cluster randomized trial conducted in 10 primary care (n = 9) and geriatrics (n = 1) clinics in the South of the United States. Participants were community-... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42842242/
-10. 心血管研究：Intensive vs Standard Blood Pressure Lowering in People With and Without Chronic Kidney Disease: A Systematic Review and Meta-Analysis.
-   - 来源：JAMA cardiology
-   - 时间：2026-Oct-07
-   - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: There is uncertainty about the effects of intensive blood pressure (BP) lowering on risks of cardiovascular disease and kidney failure in patients with chronic kidney disease (CKD).
-OBJECTIVE: To assess the standardized effects of intensive BP lowering on cardiovascular and kidney outcomes overall, and then to assess for effect modification by CKD status.
-DATA SOURCES: MEDLINE and Embase databases were searched from inception to January 16, 2026.
-STUDY SELECTION: Randomized clinical trials comparing int... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42842238/
-11. 肿瘤/血液肿瘤研究：Treatment Outcomes for Gastric Cancer With Positive Peritoneal Lavage Cytology or Localized Peritoneal Metastasis.
+10. 肿瘤/血液肿瘤研究：Treatment Outcomes for Gastric Cancer With Positive Peritoneal Lavage Cytology or Localized Peritoneal Metastasis.
    - 来源：JAMA surgery
    - 时间：2026-Oct-07
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA surgery，类型初步识别为Original research。摘要信息显示：IMPORTANCE: In the era of modern systemic chemotherapy, the optimal treatment strategy for gastric cancer with positive peritoneal lavage cytology (CY1) and/or localized peritoneal metastasis (P1a) remains controversial.
 OBJECTIVE: To explore the optimal treatment strategy for patients with gastric cancer with CY1 and/or P1a by comparing the outcomes of various therapeutic strategies.
 DESIGN, SETTING, AND PARTICIPANTS: This cohort study was a retrospective multicenter study set in 48 institutions of the Stomach Can... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42842264/
-12. 医疗AI/数字医学研究：Shared patterns of human milk composition link mammary gland function to infant growth.
+11. 医疗AI/数字医学研究：Shared patterns of human milk composition link mammary gland function to infant growth.
    - 来源：Science (New York, N.Y.)
    - 时间：2026-Oct-08
    - 摘要：这条内容聚焦医疗AI/数字医学。来源为Science (New York, N.Y.)，类型初步识别为RCT。摘要信息显示：The mammary gland produces nutrient-rich human milk (HM), yet how mammary functional state shapes HM composition and infant outcomes remains poorly understood. We used HM multi-omics - metabolomics, proteomics, micronutrients, macronutrients, and HM oligosaccharides - across 1,543 samples from three cohorts, including two randomized trials, as a noninvasive readout of mammary functional state. Trajectory modeling and multi-omic integration showed that maternal supplementation improved recovery from early growth fal... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42848910/
-13. 免疫/炎症研究：Extended follow-up of in vivo BCMA CAR-T therapy in relapsed/refractory multiple myeloma.
-   - 来源：Nature medicine
-   - 时间：2026-Oct-06
-   - 摘要：这条内容聚焦免疫/炎症。来源为Nature medicine，类型初步识别为Translational research。摘要信息显示：Data on long-term outcomes of in vivo chimeric antigen receptor T cell (CAR‑T) therapy remain scarce. We previously reported preliminary safety and efficacy data of in vivo B-cell maturation antigen (BCMA) CAR‑T (ESO-T01), in four patients with relapsed/refractory multiple myeloma, without leukapheresis and lymphodepletion, with up to 3 months of follow-up. The primary endpoints included safety and tolerability, while the secondary endpoints comprised efficacy, pharmacokinetics and pharmacodynamics. All patients de... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42839103/
-14. 生物医药/细胞与基因治疗研究：Targeting CD28 on T lineage malignancies with chimeric antigen receptor T cells.
+12. 生物医药/细胞与基因治疗研究：Targeting CD28 on T lineage malignancies with chimeric antigen receptor T cells.
    - 来源：Nature communications
    - 时间：2026-Oct-08
    - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Nature communications，类型初步识别为Translational research。摘要信息显示：Currently, no immunotherapy is approved for T cell acute lymphoblastic leukemia (T‑ALL). High initial response rates to CD7‑directed chimeric antigen receptor (CAR) T cells are limited by profound T cell aplasia and CD7‑negative immune escape, underscoring the need for alternative targets. Here, we show that CD28 is overexpressed on T‑ALL blasts from children and adolescents compared with lymphoid progenitors from healthy donors and is uniformly upregulated in nodal T-follicular helper cell lymphomas (nTFHL-AI, nTF... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42844286/
-15. 公共卫生/流行病学研究：Nutritional interventions' impacts on human milk: Three trials in low-resource settings.
+13. 公共卫生/流行病学研究：Nutritional interventions' impacts on human milk: Three trials in low-resource settings.
    - 来源：Science (New York, N.Y.)
    - 时间：2026-Oct-08
    - 摘要：这条内容聚焦公共卫生/流行病学。来源为Science (New York, N.Y.)，类型初步识别为RCT。摘要信息显示：Human milk (HM) composition is variable to support changing infant needs and is influenced by maternal diet and health. We harmonized HM data from three randomized trials in Burkina Faso (MISAME-III), Pakistan (Mumta-LW), and Tanzania (ELICIT) within the International Milk Composition (IMiC) Consortium to test how maternal nutrition affects HM composition. Balanced energy-protein (BEP) supplements or nicotinamide given to lactating mothers increased milk B-vitamins, while macronutrients, oligosaccharides, bioactive... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42848938/
+14. 肿瘤/血液肿瘤研究：[Correspondence] Colonoscopy screening and colorectal cancer outcomes: the NordICC trial
+   - 来源：The Lancet
+   - 时间：2026-10-10
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet，类型初步识别为RCT。摘要信息显示：The NordICC trial1 should be considered in context with previous colorectal cancer screening studies.2,3 Four randomised controlled trials with more than 458 000 participants show consistent colorectal cancer incidence reductions of 18–23% and larger colorectal cancer mortality reductions of 22–31% with sigmoidoscopy (appendix).3 In the NordICC trial, screening reduced colorectal cancer incidence but not mortality.1 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01429-7/fulltext?rss=yes
+15. 生物医药/细胞与基因治疗研究：Optogenetic Therapy for Restoring Aspects of Visual Function.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-08
+   - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为The New England journal of medicine，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND: Retinitis pigmentosa is an inherited degenerative retinal disease that can lead to irreversible blindness. Optogenetic therapy has shown potential for restoring visual function at late stages of the disease.
+METHODS: In this open-label study, we evaluated the safety of ganglion cell-directed optogenetic therapy in 10 participants with blindness due to advanced retinitis pigmentosa. Each participant received a single intravitreal injection of an adeno-associated viral (AAV) vector encoding the red-shifte... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42842903/
