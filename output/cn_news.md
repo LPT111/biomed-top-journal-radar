@@ -1,27 +1,27 @@
 # 中文医学科学新闻
 
-1. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程
+1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
    - 来源：Bing News CN
-   - 时间：Wed, 23 Sep 2026 06:58:00 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：来自希望之城（City of Hope） 的研究人员开发了一种新的“即插即用”技术，该技术在治疗后向嵌合抗原受体（CAR）T 细胞添加工程化分子，使科学家能够更好地控制这些细胞，并将其重定向以攻击不同类型的癌症。这项临床前研究发表在 Cancer Immunology Research 上，提供了一种更灵活的方式，帮助 CAR T 细胞跟上不断变异的肿瘤。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9a6af39ba47c8b5affff623f516f1&url=https%3a%2f%2fnews.bioon.com%2farticle%2f6260954082b5.html&c=17677400636059286888&mkt=en-ca
-2. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+   - 时间：Mon, 10 Oct 2016 17:00:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为RCT。摘要信息显示：韩国首尔--(BUSINESS WIRE)--(美国商业资讯)--以“以韩国人中最新确诊的胶质母细胞瘤患者为对象，并用标准疗法和基于CIK诱导杀伤细胞的细胞免疫治疗法的第三期随机临床试验(Phase III randomized trial ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf025d2ea41f79420ea041dc2e511&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+2. 国庆专题六：管线蓄势，多域并进，中国CGT药物迈向商业化兑现的关键期 - Frost & Sullivan China
+   - 来源：Google News CN
+   - 时间：Sat, 10 Oct 2026 10:56:14 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5obTI0ekhTMWxnS0puRGswelM3ZHk3Qmtna3FQX2tUSnhQd3RvTmN0SlktcHpOaXh5Z0Q2a3A2cFRuVGVNaWdNa1JJa1paeUw0clNpLVZRcVFSd3RGejk1MEVnZ3ptVlVfWDljeVJLdEtTZ01mTHo0ZWVBdE1ULUU?oc=5" target="_blank">国庆专题六：管线蓄势，多域并进，中国CGT药物迈向商业化兑现的关键期</a>&nbsp;&nbsp;<font color="#6f6f6f">Frost & Sullivan China</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://news.google.com/rss/articles/CBMif0FVX3lxTE5obTI0ekhTMWxnS0puRGswelM3ZHk3Qmtna3FQX2tUSnhQd3RvTmN0SlktcHpOaXh5Z0Q2a3A2cFRuVGVNaWdNa1JJa1paeUw0clNpLVZRcVFSd3RGejk1MEVnZ3ptVlVfWDljeVJLdEtTZ01mTHo0ZWVBdE1ULUU?oc=5
+3. 从实验室到临床：细胞与基因治疗的临床试验及转化
    - 来源：Bing News CN
-   - 时间：Tue, 23 Jun 2026 09:51:00 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：1.楚天科技300358依托控股子公司楚天思为康深度布局CGT细胞治疗装备赛道，自研全自动细胞培养生产线自动化水平处于行业领先梯队，设备可显著降低CAR-T细胞药物工业化生产成本，面向细胞治疗 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9a6af39ba47c8b5affff623f516f1&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-ca
-3. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程 - 生物谷
+   - 时间：Wed, 11 Dec 2024 06:18:00 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：我们正处在医学变革的时代，基因与细胞治疗的巨大潜力，即将彻底改变一系列疾病的治疗。近年来，细胞与基因治疗领域所取得的进展令人瞩目，其中开创性的一个例子就是CAR-T细胞疗法。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf025d2ea41f79420ea041dc2e511&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+4. 中外学者共商人工智能助推公共卫生事业发展
+   - 来源：Bing News CN
+   - 时间：Wed, 06 Nov 2024 03:55:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：11月2日，由清华大学主办，清华大学万科公共卫生与健康学院、健康中国研究院共同承办的第四届世界卫生健康论坛在北京开幕。 本届论坛以“AI智领健康未来”为主题，来自全球18个国家和 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf026bf3843ab929fb4bea5364880&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+5. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程 - 生物谷
    - 来源：Google News CN
    - 时间：Tue, 06 Oct 2026 01:12:00 GMT
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZDV2aElRNlRLYTh0X293dXpOSEVNbUpoNUl5RUtvdEdacTFDSmxaOWVFbmZCQnVPODZLNVUyQzdhYk81Rm13SnNGZW55a3h6SE41b0lNdGN4dWxf?oc=5" target="_blank">Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程</a>&nbsp;&nbsp;<font color="#6f6f6f">生物谷</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZDV2aElRNlRLYTh0X293dXpOSEVNbUpoNUl5RUtvdEdacTFDSmxaOWVFbmZCQnVPODZLNVUyQzdhYk81Rm13SnNGZW55a3h6SE41b0lNdGN4dWxf?oc=5
-4. 工程化CAR-T细胞治疗消化道肿瘤：克服肿瘤异质性与免疫抑制屏障的进展、挑战及优化策略 - 生物通
-   - 来源：Google News CN
-   - 时间：Thu, 08 Oct 2026 23:58:40 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1DZlEzNVBPN0dvcTdQNzE3UGRfUFpPWWRFSHZjZnA1TWh3cnpzbk82QVpBUzFqZkNFbHZ2YkhpdHEtbFBtblZpUVo3Yml0cERGVzEzUTJQSWVxeGlRd0NCRDVjZGV5NUtIMHIxd29R?oc=5" target="_blank">工程化CAR-T细胞治疗消化道肿瘤：克服肿瘤异质性与免疫抑制屏障的进展、挑战及优化策略</a>&nbsp;&nbsp;<font color="#6f6f6f">生物通</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE1DZlEzNVBPN0dvcTdQNzE3UGRfUFpPWWRFSHZjZnA1TWh3cnpzbk82QVpBUzFqZkNFbHZ2YkhpdHEtbFBtblZpUVo3Yml0cERGVzEzUTJQSWVxeGlRd0NCRDVjZGV5NUtIMHIxd29R?oc=5
-5. 礼来CEO：AI制药路还很长，人类可能只掌握10%的生物学知识|替尔泊肽|糖尿病|临床试验|减肥药|药物 - 新浪财经
-   - 来源：Google News CN
-   - 时间：Thu, 08 Oct 2026 21:11:15 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Google News CN，类型初步识别为Medical news。摘要信息显示：<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNZV9SVVZldVVsbUJZOEN6ZlBqaWt4Tkg1bzl1S0d4N05KSjJnTXhTSHRqZ2ZsdF8tSEV0ZGFibExhdVFRWTRRaktDTE5PbUE4R0lGNXFyZmdycWNlQXJJUEpTaWljRG5TNThUTmI4TlpkTUYyeWlXNi0tRkwwcGRSXzhCWWZla0llb0ZjSEgtZ3o1NjFqTURSVm9BU3lQZEcwTHc4TnRsR05peVdsdzlFSTd3?oc=5" target="_blank">礼来CEO：AI制药路还很长，人类可能只掌握10%的生物学知识|替尔泊肽|糖尿病|临床试验|减肥药|药物</a>&nbsp;&nbsp;<font color="#6f6f6f">新浪财经</font> 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNZV9SVVZldVVsbUJZOEN6ZlBqaWt4Tkg1bzl1S0d4N05KSjJnTXhTSHRqZ2ZsdF8tSEV0ZGFibExhdVFRWTRRaktDTE5PbUE4R0lGNXFyZmdycWNlQXJJUEpTaWljRG5TNThUTmI4TlpkTUYyeWlXNi0tRkwwcGRSXzhCWWZla0llb0ZjSEgtZ3o1NjFqTURSVm9BU3lQZEcwTHc4TnRsR05peVdsdzlFSTd3?oc=5

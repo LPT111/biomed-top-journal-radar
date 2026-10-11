@@ -1,8 +1,62 @@
-# 医学科学新闻推文候选草稿｜2026-10-10 10:45:02
+# 医学科学新闻推文候选草稿｜2026-10-11 10:10:44
 
-## 1. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程
+## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
 
-【医学科学新闻】Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程
+【医学科学新闻】免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+
+一、为什么重要
+Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf025d2ea41f79420ea041dc2e511&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+
+---
+
+## 2. 国庆专题六：管线蓄势，多域并进，中国CGT药物迈向商业化兑现的关键期 - Frost & Sullivan China
+
+【医学科学新闻】国庆专题六：管线蓄势，多域并进，中国CGT药物迈向商业化兑现的关键期 - Frost & Sullivan China
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Sat, 10 Oct 2026 10:56:14 GMT｜https://news.google.com/rss/articles/CBMif0FVX3lxTE5obTI0ekhTMWxnS0puRGswelM3ZHk3Qmtna3FQX2tUSnhQd3RvTmN0SlktcHpOaXh5Z0Q2a3A2cFRuVGVNaWdNa1JJa1paeUw0clNpLVZRcVFSd3RGejk1MEVnZ3ptVlVfWDljeVJLdEtTZ01mTHo0ZWVBdE1ULUU?oc=5
+
+---
+
+## 3. 从实验室到临床：细胞与基因治疗的临床试验及转化
+
+【医学科学新闻】从实验室到临床：细胞与基因治疗的临床试验及转化
 
 一、为什么重要
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -23,19 +77,19 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 23 Sep 2026 06:58:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9a6af39ba47c8b5affff623f516f1&url=https%3a%2f%2fnews.bioon.com%2farticle%2f6260954082b5.html&c=17677400636059286888&mkt=en-ca
+Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf025d2ea41f79420ea041dc2e511&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
 ---
 
-## 2. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+## 4. 中外学者共商人工智能助推公共卫生事业发展
 
-【医学科学新闻】攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+【医学科学新闻】中外学者共商人工智能助推公共卫生事业发展
 
 一、为什么重要
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -50,11 +104,11 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Tue, 23 Jun 2026 09:51:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9a6af39ba47c8b5affff623f516f1&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=en-ca
+Bing News CN｜Wed, 06 Nov 2024 03:55:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf026bf3843ab929fb4bea5364880&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
 
 ---
 
-## 3. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程 - 生物谷
+## 5. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程 - 生物谷
 
 【医学科学新闻】Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程 - 生物谷
 
@@ -78,60 +132,6 @@ Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其�
 
 七、参考信息
 Google News CN｜Tue, 06 Oct 2026 01:12:00 GMT｜https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZDV2aElRNlRLYTh0X293dXpOSEVNbUpoNUl5RUtvdEdacTFDSmxaOWVFbmZCQnVPODZLNVUyQzdhYk81Rm13SnNGZW55a3h6SE41b0lNdGN4dWxf?oc=5
-
----
-
-## 4. 工程化CAR-T细胞治疗消化道肿瘤：克服肿瘤异质性与免疫抑制屏障的进展、挑战及优化策略 - 生物通
-
-【医学科学新闻】工程化CAR-T细胞治疗消化道肿瘤：克服肿瘤异质性与免疫抑制屏障的进展、挑战及优化策略 - 生物通
-
-一、为什么重要
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Thu, 08 Oct 2026 23:58:40 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTE1DZlEzNVBPN0dvcTdQNzE3UGRfUFpPWWRFSHZjZnA1TWh3cnpzbk82QVpBUzFqZkNFbHZ2YkhpdHEtbFBtblZpUVo3Yml0cERGVzEzUTJQSWVxeGlRd0NCRDVjZGV5NUtIMHIxd29R?oc=5
-
----
-
-## 5. 礼来CEO：AI制药路还很长，人类可能只掌握10%的生物学知识|替尔泊肽|糖尿病|临床试验|减肥药|药物 - 新浪财经
-
-【医学科学新闻】礼来CEO：AI制药路还很长，人类可能只掌握10%的生物学知识|替尔泊肽|糖尿病|临床试验|减肥药|药物 - 新浪财经
-
-一、为什么重要
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Thu, 08 Oct 2026 21:11:15 GMT｜https://news.google.com/rss/articles/CBMisgFBVV95cUxNZV9SVVZldVVsbUJZOEN6ZlBqaWt4Tkg1bzl1S0d4N05KSjJnTXhTSHRqZ2ZsdF8tSEV0ZGFibExhdVFRWTRRaktDTE5PbUE4R0lGNXFyZmdycWNlQXJJUEpTaWljRG5TNThUTmI4TlpkTUYyeWlXNi0tRkwwcGRSXzhCWWZla0llb0ZjSEgtZ3o1NjFqTURSVm9BU3lQZEcwTHc4TnRsR05peVdsdzlFSTd3?oc=5
 
 ---
 
@@ -324,12 +324,12 @@ The New England journal of medicine｜2026-Oct-08｜https://pubmed.ncbi.nlm.nih.
 
 ---
 
-## 13. 肿瘤/血液肿瘤研究：Perioperative Outcomes and Recovery After Robot-Assisted vs Open Radical Hysterectomy: A Secondary Analysis of the RACC Randomized Clinical Trial.
+## 13. 肿瘤/血液肿瘤研究：The conformation-selective PI3Kδ inhibitor roginolisib in patients with advanced or metastatic cancer, including metastatic uveal melanoma: first-in-human clinical trial.
 
-【医学科学新闻】肿瘤/血液肿瘤研究：Perioperative Outcomes and Recovery After Robot-Assisted vs Open Radical Hysterectomy: A Secondary Analysis of the RACC Randomized Clinical Trial.
+【医学科学新闻】肿瘤/血液肿瘤研究：The conformation-selective PI3Kδ inhibitor roginolisib in patients with advanced or metastatic cancer, including metastatic uveal melanoma: first-in-human clinical trial.
 
 一、为什么重要
-JAMA surgery 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+Nature communications 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -347,43 +347,16 @@ JAMA surgery 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA surgery｜2026-Oct-07｜https://pubmed.ncbi.nlm.nih.gov/42842268/
+Nature communications｜2026-Oct-09｜https://pubmed.ncbi.nlm.nih.gov/42855460/
 
 ---
 
-## 14. 综合医学研究：Advance Care Planning for Black and White Older Adults With Serious Illness: The EQUAL ACP Randomized Trial.
+## 14. 肿瘤/血液肿瘤研究：Invasive interval breast cancer rates after digital breast tomosynthesis plus synthesised mammography versus digital mammography screening (TOSYMA): 24-month follow-up of the multicentre, open-label, randomised, controlled, superiority trial.
 
-【医学科学新闻】综合医学研究：Advance Care Planning for Black and White Older Adults With Serious Illness: The EQUAL ACP Randomized Trial.
-
-一、为什么重要
-JAMA 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-JAMA｜2026-Oct-07｜https://pubmed.ncbi.nlm.nih.gov/42842242/
-
----
-
-## 15. 肿瘤/血液肿瘤研究：Treatment Outcomes for Gastric Cancer With Positive Peritoneal Lavage Cytology or Localized Peritoneal Metastasis.
-
-【医学科学新闻】肿瘤/血液肿瘤研究：Treatment Outcomes for Gastric Cancer With Positive Peritoneal Lavage Cytology or Localized Peritoneal Metastasis.
+【医学科学新闻】肿瘤/血液肿瘤研究：Invasive interval breast cancer rates after digital breast tomosynthesis plus synthesised mammography versus digital mammography screening (TOSYMA): 24-month follow-up of the multicentre, open-label, randomised, controlled, superiority trial.
 
 一、为什么重要
-JAMA surgery 发布的肿瘤/血液肿瘤相关Original research，值得关注其研究设计、核心发现和转化边界。
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
 围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
@@ -401,11 +374,11 @@ JAMA surgery 发布的肿瘤/血液肿瘤相关Original research，值得关注�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-JAMA surgery｜2026-Oct-07｜https://pubmed.ncbi.nlm.nih.gov/42842264/
+The Lancet. Oncology｜2026-Oct-09｜https://pubmed.ncbi.nlm.nih.gov/42854706/
 
 ---
 
-## 16. 医疗AI/数字医学研究：Shared patterns of human milk composition link mammary gland function to infant growth.
+## 15. 医疗AI/数字医学研究：Shared patterns of human milk composition link mammary gland function to infant growth.
 
 【医学科学新闻】医疗AI/数字医学研究：Shared patterns of human milk composition link mammary gland function to infant growth.
 
@@ -432,7 +405,7 @@ Science (New York, N.Y.)｜2026-Oct-08｜https://pubmed.ncbi.nlm.nih.gov/4284891
 
 ---
 
-## 17. 生物医药/细胞与基因治疗研究：Targeting CD28 on T lineage malignancies with chimeric antigen receptor T cells.
+## 16. 生物医药/细胞与基因治疗研究：Targeting CD28 on T lineage malignancies with chimeric antigen receptor T cells.
 
 【医学科学新闻】生物医药/细胞与基因治疗研究：Targeting CD28 on T lineage malignancies with chimeric antigen receptor T cells.
 
@@ -459,7 +432,7 @@ Nature communications｜2026-Oct-08｜https://pubmed.ncbi.nlm.nih.gov/42844286/
 
 ---
 
-## 18. 公共卫生/流行病学研究：Nutritional interventions' impacts on human milk: Three trials in low-resource settings.
+## 17. 公共卫生/流行病学研究：Nutritional interventions' impacts on human milk: Three trials in low-resource settings.
 
 【医学科学新闻】公共卫生/流行病学研究：Nutritional interventions' impacts on human milk: Three trials in low-resource settings.
 
@@ -486,7 +459,7 @@ Science (New York, N.Y.)｜2026-Oct-08｜https://pubmed.ncbi.nlm.nih.gov/4284893
 
 ---
 
-## 19. 肿瘤/血液肿瘤研究：[Correspondence] Colonoscopy screening and colorectal cancer outcomes: the NordICC trial
+## 18. 肿瘤/血液肿瘤研究：[Correspondence] Colonoscopy screening and colorectal cancer outcomes: the NordICC trial
 
 【医学科学新闻】肿瘤/血液肿瘤研究：[Correspondence] Colonoscopy screening and colorectal cancer outcomes: the NordICC trial
 
@@ -513,7 +486,7 @@ The Lancet｜2026-10-10｜https://www.thelancet.com/journals/lancet/article/PIIS
 
 ---
 
-## 20. 生物医药/细胞与基因治疗研究：Optogenetic Therapy for Restoring Aspects of Visual Function.
+## 19. 生物医药/细胞与基因治疗研究：Optogenetic Therapy for Restoring Aspects of Visual Function.
 
 【医学科学新闻】生物医药/细胞与基因治疗研究：Optogenetic Therapy for Restoring Aspects of Visual Function.
 
@@ -537,5 +510,32 @@ The New England journal of medicine 发布的生物医药/细胞与基因治疗�
 
 七、参考信息
 The New England journal of medicine｜2026-Oct-08｜https://pubmed.ncbi.nlm.nih.gov/42842903/
+
+---
+
+## 20. 神经科学/神经疾病研究：Alzheimer's disease target and drug discovery by leveraging multiomics and electronic health data.
+
+【医学科学新闻】神经科学/神经疾病研究：Alzheimer's disease target and drug discovery by leveraging multiomics and electronic health data.
+
+一、为什么重要
+Nature neuroscience 发布的神经科学/神经疾病相关Translational research，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕神经科学/神经疾病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Nature neuroscience｜2026-Oct-08｜https://pubmed.ncbi.nlm.nih.gov/42850312/
 
 ---
