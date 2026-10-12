@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-10-11 10:10:44
+# 医学科学新闻推文候选草稿｜2026-10-12 10:38:36
 
 ## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
 
@@ -23,13 +23,13 @@ Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf025d2ea41f79420ea041dc2e511&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc482d62614e21a51a17a5bf21851c&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 
 ---
 
-## 2. 国庆专题六：管线蓄势，多域并进，中国CGT药物迈向商业化兑现的关键期 - Frost & Sullivan China
+## 2. 真实世界队列研究显示——孕妇接种流感疫苗或有额外获益- 中国日报网 - China Daily
 
-【医学科学新闻】国庆专题六：管线蓄势，多域并进，中国CGT药物迈向商业化兑现的关键期 - Frost & Sullivan China
+【医学科学新闻】真实世界队列研究显示——孕妇接种流感疫苗或有额外获益- 中国日报网 - China Daily
 
 一、为什么重要
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -50,11 +50,38 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Sat, 10 Oct 2026 10:56:14 GMT｜https://news.google.com/rss/articles/CBMif0FVX3lxTE5obTI0ekhTMWxnS0puRGswelM3ZHk3Qmtna3FQX2tUSnhQd3RvTmN0SlktcHpOaXh5Z0Q2a3A2cFRuVGVNaWdNa1JJa1paeUw0clNpLVZRcVFSd3RGejk1MEVnZ3ptVlVfWDljeVJLdEtTZ01mTHo0ZWVBdE1ULUU?oc=5
+Google News CN｜Fri, 09 Oct 2026 02:03:11 GMT｜https://news.google.com/rss/articles/CBMif0FVX3lxTE5PT2hsMHJZaXp3c2FtT2VKNkFHOUNFYVV5U0ZpUndBYkxWcU5CM2N2NHBrYW1yTWJZM2txWklQRkhGWDdfeUNBUktJX1VaVzFRWG5qczBXcEtremxncU5xdS1EMkRZMTBTZTdGQVdfRHlhWlB0YVVVNjltcmdtY2s?oc=5
 
 ---
 
-## 3. 从实验室到临床：细胞与基因治疗的临床试验及转化
+## 3. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程
+
+【医学科学新闻】Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程
+
+一、为什么重要
+Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Bing News CN｜Wed, 23 Sep 2026 06:58:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc482d62614e21a51a17a5bf21851c&url=https%3a%2f%2fnews.bioon.com%2farticle%2f6260954082b5.html&c=17677400636059286888&mkt=en-us
+
+---
+
+## 4. 从实验室到临床：细胞与基因治疗的临床试验及转化
 
 【医学科学新闻】从实验室到临床：细胞与基因治疗的临床试验及转化
 
@@ -77,11 +104,11 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf025d2ea41f79420ea041dc2e511&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc482d62614e21a51a17a5bf21851c&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
 ---
 
-## 4. 中外学者共商人工智能助推公共卫生事业发展
+## 5. 中外学者共商人工智能助推公共卫生事业发展
 
 【医学科学新闻】中外学者共商人工智能助推公共卫生事业发展
 
@@ -104,34 +131,7 @@ Bing News CN 发布的综合医学相关Medical news，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 06 Nov 2024 03:55:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf026bf3843ab929fb4bea5364880&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
-
----
-
-## 5. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程 - 生物谷
-
-【医学科学新闻】Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程 - 生物谷
-
-一、为什么重要
-Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-Google News CN｜Tue, 06 Oct 2026 01:12:00 GMT｜https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZDV2aElRNlRLYTh0X293dXpOSEVNbUpoNUl5RUtvdEdacTFDSmxaOWVFbmZCQnVPODZLNVUyQzdhYk81Rm13SnNGZW55a3h6SE41b0lNdGN4dWxf?oc=5
+Bing News CN｜Wed, 06 Nov 2024 03:55:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc482eabb445aea1f25b686bbbbd48&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
 
 ---
 

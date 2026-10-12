@@ -1,4 +1,4 @@
-# 全医学科学新闻雷达｜2026-10-11 10:10:44
+# 全医学科学新闻雷达｜2026-10-12 10:38:36
 
 - 今日新闻：20 条
 - 中文来源：5 条
@@ -10,24 +10,24 @@
 ## 今日 20 条
 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
    - 来源：Bing News CN｜类型：RCT｜分数：51
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf025d2ea41f79420ea041dc2e511&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc482d62614e21a51a17a5bf21851c&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
    - 简述：Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-2. 国庆专题六：管线蓄势，多域并进，中国CGT药物迈向商业化兑现的关键期 - Frost & Sullivan China
-   - 来源：Google News CN｜类型：Medical news｜分数：27
-   - 链接：https://news.google.com/rss/articles/CBMif0FVX3lxTE5obTI0ekhTMWxnS0puRGswelM3ZHk3Qmtna3FQX2tUSnhQd3RvTmN0SlktcHpOaXh5Z0Q2a3A2cFRuVGVNaWdNa1JJa1paeUw0clNpLVZRcVFSd3RGejk1MEVnZ3ptVlVfWDljeVJLdEtTZ01mTHo0ZWVBdE1ULUU?oc=5
+2. 真实世界队列研究显示——孕妇接种流感疫苗或有额外获益- 中国日报网 - China Daily
+   - 来源：Google News CN｜类型：Medical news｜分数：32
+   - 链接：https://news.google.com/rss/articles/CBMif0FVX3lxTE5PT2hsMHJZaXp3c2FtT2VKNkFHOUNFYVV5U0ZpUndBYkxWcU5CM2N2NHBrYW1yTWJZM2txWklQRkhGWDdfeUNBUktJX1VaVzFRWG5qczBXcEtremxncU5xdS1EMkRZMTBTZTdGQVdfRHlhWlB0YVVVNjltcmdtY2s?oc=5
    - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-3. 从实验室到临床：细胞与基因治疗的临床试验及转化
+3. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程
    - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf025d2ea41f79420ea041dc2e511&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc482d62614e21a51a17a5bf21851c&url=https%3a%2f%2fnews.bioon.com%2farticle%2f6260954082b5.html&c=17677400636059286888&mkt=en-us
    - 简述：Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-4. 中外学者共商人工智能助推公共卫生事业发展
+4. 从实验室到临床：细胞与基因治疗的临床试验及转化
    - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaf026bf3843ab929fb4bea5364880&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc482d62614e21a51a17a5bf21851c&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+   - 简述：Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+5. 中外学者共商人工智能助推公共卫生事业发展
+   - 来源：Bing News CN｜类型：Medical news｜分数：26
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc482eabb445aea1f25b686bbbbd48&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
    - 简述：Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. Cancer Immunology Res：CAR-T细胞疗法迎来“即插即用”升级，City of Hope新平台可随肿瘤进化重编程 - 生物谷
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMiXEFVX3lxTE51ZDV2aElRNlRLYTh0X293dXpOSEVNbUpoNUl5RUtvdEdacTFDSmxaOWVFbmZCQnVPODZLNVUyQzdhYk81Rm13SnNGZW55a3h6SE41b0lNdGN4dWxf?oc=5
-   - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 6. 肿瘤/血液肿瘤研究：Effect of Screening with Multicancer Early-Detection Test on Late-Stage Cancer Diagnosis.
    - 来源：The New England journal of medicine｜类型：RCT｜分数：96
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42776074/
