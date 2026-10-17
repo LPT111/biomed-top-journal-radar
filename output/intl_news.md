@@ -17,24 +17,26 @@ METHODS: We conducted a phase 2b, double-blind, randomized trial of oral icotrok
    - 时间：2026-Oct-14
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：Combining inhibition of poly(ADP-ribose) polymerase and androgen receptor (AR) pathway has demonstrated clinical activity in men with metastatic prostate cancer, although the extent of benefit in tumors lacking homologous recombination repair (HRR) gene alterations remains uncertain. We conducted a randomized phase 2 trial evaluating talazoparib plus enzalutamide versus enzalutamide alone in men with high-volume metastatic hormone-naive prostate cancer (mHNPC). Fifty-four patients starting androgen deprivation ther... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42875559/
-4. 生物医药/细胞与基因治疗研究：Lonvoguran Ziclumeran - In Vivo CRISPR Gene Editing in Hereditary Angioedema.
+4. 肿瘤/血液肿瘤研究：Nivolumab-Ipilimumab for Localized Microsatellite Instability-High Gastric/Gastroesophageal Junction Adenocarcinoma: The Phase 2 NEONIPIGA Nonrandomized Clinical Trial.
+   - 来源：JAMA oncology
+   - 时间：2026-Oct-15
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Neoadjuvant nivolumab plus ipilimumab in localized deficient mismatch repair/microsatellite instability-high gastric or gastroesophageal junction (GEJ) adenocarcinoma was evaluated in the NEONIPIGA study. The primary end point of pathological complete response (pCR) was previously reported.
+OBJECTIVE: To report long-term follow-up results and secondary end points, including event-free survival (EFS) and overall survival (OS), of the NEONIPIGA study.
+DESIGN, SETTING, AND PARTICIPANTS: The NEONIPIGA study... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42879140/
+5. 肿瘤/血液肿瘤研究：Neoadjuvant Stereotactic Ablative Radiotherapy Before Inferior Vena Cava Thrombectomy for Renal Cell Carcinoma: A Phase 2 Nonrandomized Clinical Trial.
+   - 来源：JAMA oncology
+   - 时间：2026-Oct-15
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Renal cell carcinoma (RCC) with inferior vena cava (IVC) tumor thrombus is associated with substantial perioperative risk and frequent recurrence despite nephrectomy and thrombectomy. No established neoadjuvant local therapy exists for this high-risk population.
+OBJECTIVE: To evaluate the feasibility, safety, clinical outcomes, and exploratory biomarker effects of neoadjuvant stereotactic ablative radiotherapy (SABR) targeting IVC tumor thrombus before nephrectomy and thrombectomy.
+DESIGN, SETTING, AND ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42879162/
+6. 生物医药/细胞与基因治疗研究：Lonvoguran Ziclumeran - In Vivo CRISPR Gene Editing in Hereditary Angioedema.
    - 来源：The New England journal of medicine
    - 时间：2026-Oct-15
    - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Hereditary angioedema is a rare and potentially life-threatening genetic condition characterized by recurrent and debilitating swelling attacks. Lonvoguran ziclumeran (lonvo-z) - an investigational, in vivo gene-editing treatment based on clustered regularly interspaced short palindromic repeats (CRISPR) - is being developed as a single-dose treatment for hereditary angioedema.
 METHODS: In a phase 3, double-blind trial, we randomly assigned, in a 2:1 ratio, patients who were 16 years of age or older and... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42294842/
-5. 重症医学/急危重症研究：Safety and Efficacy of Acute Normovolemic Hemodilution in Female Patients: A Secondary Analysis of the ANH Trial.
-   - 来源：JAMA surgery
-   - 时间：2026-Oct-14
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Female patients undergoing cardiac surgery have a higher transfusion burden, yet they remain underrepresented in randomized clinical trials. Although the ANH trial showed no significant reduction in the proportion of patients receiving allogeneic blood transfusions with acute normovolemic hemodilution, evidence regarding its efficacy and safety specifically in female patients remains limited.
-OBJECTIVE: To evaluate the efficacy and safety of acute normovolemic hemodilution (ANH) compared with usual care... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42873487/
-6. 重症医学/急危重症研究：Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Oct-14
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: International guidelines recommend dobutamine for management of septic shock and cardiac dysfunction with persistent hypoperfusion in adults based on very low-certainty evidence. Randomized trials are lacking on the effect of intraoperative dobutamine combined with norepinephrine vs norepinephrine on postoperative outcomes in patients with septic shock undergoing surgical source control.
-OBJECTIVE: To determine whether intraoperative dobutamine combined with norepinephrine reduces acute kidney injury (A... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42872914/
 7. 肿瘤/血液肿瘤研究：Ponatinib-Blinatumomab or Imatinib-Chemotherapy for Adult Ph-Positive ALL.
    - 来源：The New England journal of medicine
    - 时间：2026-Oct-15
@@ -46,25 +48,21 @@ METHODS: In this trial, we randomly assigned adult patients with Ph-positive ALL
    - 时间：2026-Oct-14
    - 摘要：这条内容聚焦免疫/炎症。来源为Science translational medicine，类型初步识别为RCT。摘要信息显示：Microglial dysfunction is increasingly implicated in Alzheimer's disease (AD) pathogenesis, with loss-of-function variants in the microglial receptor TREM2 as major risk factors for late-onset AD. We report VG-3927, an oral, CNS-penetrant small-molecule TREM2 agonist that engages the transmembrane domains of TREM2 and its adaptor DAP12 to promote higher-order receptor complex formation and downstream signaling. VG-3927 and tool compound VG-3909 exhibited (sub)nanomolar potency, cooperated with endogenous ligands in... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42873892/
-9. 重症医学/急危重症研究：Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Oct-14
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Rigorous evidence for inhaled sedation using isoflurane in mechanically ventilated patients with acute hypoxemic respiratory failure (AHRF) is limited.
-OBJECTIVE: To evaluate whether an inhaled sedation strategy lowers hospital mortality compared with usual care intravenous sedation strategy in mechanically ventilated adults with AHRF.
-DESIGN, SETTING, AND PARTICIPANTS: Pragmatic, effectiveness, open-label, superiority, randomized clinical trial in 14 intensive care units (ICUs) in Canada. Adults (≥18 y... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42872958/
-10. 重症医学/急危重症研究：Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.
-   - 来源：JAMA
-   - 时间：2026-Oct-14
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: The optimal vasopressor dose at which to initiate a second vasopressor in patients with septic shock is uncertain.
-OBJECTIVE: To compare the effects of hospital-level strategies initiating vasopressin infusion at a lower threshold vs a higher threshold on outcomes in patients with septic shock.
-DESIGN, SETTING, AND PARTICIPANTS: Cluster-randomized, cluster-crossover, pragmatic clinical strategy trial including adult patients receiving vasopressors for septic shock at 13 hospitals in Idaho and Utah from ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42872917/
-11. 综合医学研究：Educational intervention can rewire village social networks.
+9. 综合医学研究：Educational intervention can rewire village social networks.
    - 来源：Nature
    - 时间：2026-Oct-14
    - 摘要：这条内容聚焦综合医学。来源为Nature，类型初步识别为RCT。摘要信息显示：Social networks shape behaviour, affect information dissemination and undergird collective action. And they can be exploited in the design of interventions in these domains1-7. Although social networks obey fundamental principles, such as the degree distribution8,9, they can nevertheless evolve as ties form and break. Here, through a randomized controlled trial involving a total of 8,331 people in 110 remote Honduran villages, we evaluate the secondary effects of a 22-month public-health intervention1 on pre-existi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42875503/
+10. 肿瘤/血液肿瘤研究：TRANSFORM-1 phase 3 study: efficacy and safety of navitoclax plus ruxolitinib in patients with untreated myelofibrosis.
+   - 来源：Blood
+   - 时间：2026-Oct-15
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Blood，类型初步识别为RCT。摘要信息显示：The phase 3 TRANSFORM-1 study evaluated ruxolitinib (RUX) in combination with navitoclax (NAV) or placebo (PBO) in Janus kinase inhibitor-naïve adults with intermediate-2 or high-risk myelofibrosis and Eastern Cooperative Oncology Group performance status of ≤2. Patients were randomized 1:1 to NAV (200 mg/d starting dose, or 100 mg escalated to 200 mg/d) or PBO, with RUX dosed per label. The primary end point was ≥35% spleen volume reduction (SVR) at week 24 (SVR35W24). Secondary end points included change from bas... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42378247/
+11. 肿瘤/血液肿瘤研究：STING reprogramming by estrogen promotes neutrophil extracellular trap formation and sex-biased resistance to ADC therapy.
+   - 来源：Cell
+   - 时间：2026-Oct-15
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cell，类型初步识别为Phase 2 trial。摘要信息显示：Sex differences in cancer therapy response remain poorly understood. Using a "phase II-like preclinical trial" across 55 CLDN18.2+ pancreatic cancer patient-derived xenografts, we identify marked female-biased resistance to CLDN18.2-targeted antibody-drug conjugate (ADC) therapy despite equivalent antigen expression. Mechanistically, estrogen signals through GPER1 to upregulate TRAF6, redirecting tumor-intrinsic STING signaling from IRF3-mediated interferon production toward nuclear factor κB (NF-κB) activation. Th... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42838045/
 12. 肿瘤/血液肿瘤研究：Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial.
    - 来源：Nature medicine
    - 时间：2026-Oct-14
@@ -80,8 +78,9 @@ DESIGN, SETTING, AND PARTICIPANTS: Cluster-randomized, cluster-crossover, pragma
    - 时间：2026-10-17
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet，类型初步识别为Phase 3 trial。摘要信息显示：We read Anwen Xiong and colleagues’ study with great interest.1 Despite the established first-line role of immune checkpoint inhibitors in advanced non-small-cell lung cancer (NSCLC) without targetable genomic alterations, outcomes remain poor. In the phase 3 OptiTROP-Lung05 trial, sacituzumab tirumotecan (sac-TMT) plus pembrolizumab showed a significant improvement in progression-free survival (PFS) compared with pembrolizumab monotherapy (median not reached vs 5·7 months; hazard ratio 0·35, 95% CI 0·26–0·47) in p... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01672-7/fulltext?rss=yes
-15. 肿瘤/血液肿瘤研究：Talazoparib plus enzalutamide in high-volume metastatic hormone-naive prostate cancer: a randomized phase 2 trial
-   - 来源：Nature Medicine
-   - 时间：2026-10-14
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature Medicine，类型初步识别为RCT。摘要信息显示：<p>Nature Medicine, Published online: 14 October 2026; <a href="https://www.nature.com/articles/s41591-026-04671-5">doi:10.1038/s41591-026-04671-5</a></p>In the randomized multicenter phase 2 ZZ-FIRST trial, patients with high-volume metastatic hormone-sensitive prostate cancer treated with poly(ADP-ribose) polymerase inhibitor talazoparib combined with androgen receptor inhibitor enzalutamide had an improved prostate-specific antigen response compared with enzalutamide alone, and spatial transcriptomic analyses of... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.nature.com/articles/s41591-026-04671-5
+15. 代谢/肥胖/糖尿病研究：Continuous Glucose Monitoring in Non-Insulin-Treated Type 2 Diabetes.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-14
+   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The New England journal of medicine，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND: Continuous glucose monitoring (CGM) has been shown to be beneficial in persons with type 1 diabetes and others with insulin-treated type 2 diabetes, but its role in the treatment of persons with type 2 diabetes not being treated with insulin has needed further study.
+METHODS: In a 26-week trial conducted at 22 primary care practices in the United States, we randomly assigned adults with type 2 diabetes who were not using insulin to either CGM or routine care (control). The primary outcome was the glycat... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42878622/
