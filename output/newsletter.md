@@ -1,4 +1,4 @@
-# 医学科学新闻推文候选草稿｜2026-10-18 09:30:34
+# 医学科学新闻推文候选草稿｜2026-10-19 09:40:18
 
 ## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
 
@@ -23,7 +23,7 @@ Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4213b0d854ca59f76e6ab20e838cc&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5750338fc48f08dcbae43317f6c70&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
 
 ---
 
@@ -77,7 +77,7 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4213b0d854ca59f76e6ab20e838cc&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5750338fc48f08dcbae43317f6c70&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
 ---
 
@@ -104,19 +104,19 @@ Bing News CN 发布的综合医学相关Medical news，值得关注其研究设�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 06 Nov 2024 03:55:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4213c76794c9aa2d7a9369e057417&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+Bing News CN｜Wed, 06 Nov 2024 03:55:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5750470ab4d6288ed432ec6f4b104&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
 
 ---
 
-## 5. CAR-T 实体瘤疗法迎来新突破…《新英格兰医学杂志》：3岁患儿肿瘤消失，已满1年
+## 5. 全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究
 
-【医学科学新闻】CAR-T 实体瘤疗法迎来新突破…《新英格兰医学杂志》：3岁患儿肿瘤消失，已满1年
+【医学科学新闻】全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究
 
 一、为什么重要
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -131,7 +131,7 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Tue, 29 Sep 2026 19:12:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4213b0d854ca59f76e6ab20e838cc&url=https%3a%2f%2fwww.huxiu.com%2farticle%2f4894865.html&c=10621599128393146527&mkt=en-us
+Bing News CN｜Sun, 21 Jun 2026 23:02:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad575028b0042879318677e471c7bed&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260622A03KGS00&c=5299750458260417961&mkt=en-us
 
 ---
 
