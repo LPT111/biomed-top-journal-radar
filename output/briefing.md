@@ -1,4 +1,4 @@
-# 全医学科学新闻雷达｜2026-10-21 10:00:14
+# 全医学科学新闻雷达｜2026-10-22 09:50:37
 
 - 今日新闻：20 条
 - 中文来源：5 条
@@ -10,24 +10,24 @@
 ## 今日 20 条
 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
    - 来源：Bing News CN｜类型：RCT｜分数：51
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81caf11fb4d29b4e56255412d5b68&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96bee84404e2eaacf827a80e11745&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
    - 简述：Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-2. CD70靶向CAR-T细胞治疗重塑胶质母细胞瘤免疫微环境：单细胞转录组解析炎症消退与免疫抑制缓解 - 生物通
+2. 基于CRISPR-Cas9全基因组功能筛选揭示肿瘤免疫治疗新靶点及其机制研究 - 生物通
    - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMib0FVX3lxTFBqMnF3cjVMa0hraEJESnJjdmdpS2x1NVlYOEo0M0Mtb0U0aXJMaVcxQmdLTzFpUFYtbG05Zk1PNm9xaTZLRjkyZmlmank2YzJQcE1zRVpBRlBQZmhNMHZyQWZUXzg5ZTcyN19NMWdFNA?oc=5
+   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE95VTBxT2JOM1VyRkVkZWxsQXJQY0dzbXlJZ0UzV1lvekFuejNDOUE2R1BtaTMzd2d5eGRmSWVNbEVyQUpUWjUyMXRlRUR4SVMwMGJvbW5VWTJPblR3b1l5NTNiLUJ3TnNab1VTa0ln?oc=5
+   - 简述：Google News CN 发布的生物医药/细胞与基因治疗相关Medical news，值得关注其研究设计、核心发现和转化边界。
+3. OpenAI又出手！收购生物医药AI创企，让Agent帮药企管研发 - 智东西
+   - 来源：Google News CN｜类型：Medical news｜分数：26
+   - 链接：https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kd0xjR2ZNVVlsOHdIaENlV3JBYWtGRlRpaEc5NUdEQ08ycTJWMlAyYkFYSWx6VlhDMldfckJaZWE1RVl0S3kyUw?oc=5
+   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+4. CD70靶向CAR-T细胞治疗重塑胶质母细胞瘤免疫微环境：单细胞转录组解析炎症消退与免疫抑制缓解 - 生物通
+   - 来源：Google News CN｜类型：Medical news｜分数：26
+   - 链接：https://news.google.com/rss/articles/CBMibkFVX3lxTE00Sk1zUXdxZDIyQVJVMmhMaXlyWXdtT1kxNzJra0l4Y2lRUzNMSmlsRjlvRnAxQ2Jad0h5Z0ZRbkNBTGc4SnMwT3hGYlhXa3RpOFEwdF9sMTJjOGEyaTV5bjhnQnRDVTJ4Qmx3cVBB?oc=5
    - 简述：Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-3. AI，正在颠覆制药行业？ - 36Kr
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DeDdZcUlSdThxTWtLNlZCSXRBT0w2RXFZaFllSFRDMjhkaUF2Tk9OX2ZYdHNnbldrRlpUR01jTk04Q3ZaM3VVaWd0WUNyQQ?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-4. 从实验室到临床：细胞与基因治疗的临床试验及转化
+5. 从实验室到临床：细胞与基因治疗的临床试验及转化
    - 来源：Bing News CN｜类型：Medical news｜分数：26
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad81caf11fb4d29b4e56255412d5b68&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96bee84404e2eaacf827a80e11745&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
    - 简述：Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-5. AI制药又现巨头联袂：甲骨文官宣牵手阿斯利康 拟加速筛选临床试验患者 - 东方财富
-   - 来源：Google News CN｜类型：Medical news｜分数：26
-   - 链接：https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoSDliQTFiX1NsbUpmdTExQm9va21pMHNRUS1KZGR1VjFXdlFxTFlyeENiNlhLMDRhSmw4YW0yaUtrR205WldoQVpid3RKQ2JYUEdOc1dYM0h3WGN6NS16bWRtU2x6dw?oc=5
-   - 简述：Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 6. 肿瘤/血液肿瘤研究：Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor P-loop and αC-helix compressing mutations.
    - 来源：Cancer cell｜类型：RCT｜分数：96
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42887497/
