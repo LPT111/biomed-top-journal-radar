@@ -1,14 +1,14 @@
-# 医学科学新闻推文候选草稿｜2026-10-22 09:50:37
+# 医学科学新闻推文候选草稿｜2026-10-23 09:56:48
 
-## 1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+## 1. 梁爱斌教授：靶向A2AR的天然产物TAIII增强CAR-T疗法——从CAR-Treg机制到临床转化丨2026年中法血液免疫学术会议 - https://ihemato.com/
 
-【医学科学新闻】免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+【医学科学新闻】梁爱斌教授：靶向A2AR的天然产物TAIII增强CAR-T疗法——从CAR-Treg机制到临床转化丨2026年中法血液免疫学术会议 - https://ihemato.com/
 
 一、为什么重要
-Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -23,7 +23,7 @@ Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Mon, 10 Oct 2016 17:00:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96bee84404e2eaacf827a80e11745&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+Google News CN｜Wed, 21 Oct 2026 09:33:37 GMT｜https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5RWhfelhxRzZWYWkzUm10emVMNnNTSnloNkY3M2FOLWlXeHE3N0R1a0RPMGlmMnk3cGN2blhWaDRIOFUweTJEbnhR?oc=5
 
 ---
 
@@ -54,9 +54,9 @@ Google News CN｜Wed, 21 Oct 2026 08:55:28 GMT｜https://news.google.com/rss/art
 
 ---
 
-## 3. OpenAI又出手！收购生物医药AI创企，让Agent帮药企管研发 - 智东西
+## 3. OpenAI又出手！收购生物医药AI创企，让Agent帮药企管研发 - 新浪新闻_手机新浪网
 
-【医学科学新闻】OpenAI又出手！收购生物医药AI创企，让Agent帮药企管研发 - 智东西
+【医学科学新闻】OpenAI又出手！收购生物医药AI创企，让Agent帮药企管研发 - 新浪新闻_手机新浪网
 
 一、为什么重要
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -77,13 +77,40 @@ Google News CN 发布的综合医学相关Medical news，值得关注其研究�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Wed, 21 Oct 2026 08:29:26 GMT｜https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kd0xjR2ZNVVlsOHdIaENlV3JBYWtGRlRpaEc5NUdEQ08ycTJWMlAyYkFYSWx6VlhDMldfckJaZWE1RVl0S3kyUw?oc=5
+Google News CN｜Wed, 21 Oct 2026 08:45:56 GMT｜https://news.google.com/rss/articles/CBMieEFVX3lxTE51NjBvZFM3RTR2VndtTmdQWk1kMGpzbnJ1andxdUhxdG9aTGxlMlM1TkZ5d3ZGXzVpY1dPc2xPYTgwZF9nT0ZjTkpQV3Z2OUNQX1owTTdvZmprOVN1SlMxOXdkb3EzWWgxOVpBVzh4SGpkcFpmWmhCQg?oc=5
 
 ---
 
-## 4. CD70靶向CAR-T细胞治疗重塑胶质母细胞瘤免疫微环境：单细胞转录组解析炎症消退与免疫抑制缓解 - 生物通
+## 4. AI制药又现巨头联袂：甲骨文官宣牵手阿斯利康 拟加速筛选临床试验患者 - 东方财富
 
-【医学科学新闻】CD70靶向CAR-T细胞治疗重塑胶质母细胞瘤免疫微环境：单细胞转录组解析炎症消退与免疫抑制缓解 - 生物通
+【医学科学新闻】AI制药又现巨头联袂：甲骨文官宣牵手阿斯利康 拟加速筛选临床试验患者 - 东方财富
+
+一、为什么重要
+Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
+
+二、研究怎么做
+围绕综合医学方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+
+三、主要发现
+自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
+
+四、对临床/科研的意义
+可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
+
+五、需要谨慎解读的地方
+当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
+
+六、小满点评
+先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
+
+七、参考信息
+Google News CN｜Tue, 20 Oct 2026 22:20:11 GMT｜https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiakRJOWFtRjZVRC1reHIwMmphQkNHSGExcmc0ajFkUlFMYk1pTzQ0WEhOY2xxVS1jN21VMGZpMXJldHM3M0lvMGt4QlY2SU1xRHlSaFF4bm1qZWFvVDdCR2pXRzZzdm8?oc=5
+
+---
+
+## 5. CAR-T临床试验责任险赔付率最高达200%～300%，高赔付导致保费上涨与承保收缩 - 虎嗅
+
+【医学科学新闻】CAR-T临床试验责任险赔付率最高达200%～300%，高赔付导致保费上涨与承保收缩 - 虎嗅
 
 一、为什么重要
 Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
@@ -104,19 +131,19 @@ Google News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其�
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Google News CN｜Wed, 21 Oct 2026 01:18:14 GMT｜https://news.google.com/rss/articles/CBMibkFVX3lxTE00Sk1zUXdxZDIyQVJVMmhMaXlyWXdtT1kxNzJra0l4Y2lRUzNMSmlsRjlvRnAxQ2Jad0h5Z0ZRbkNBTGc4SnMwT3hGYlhXa3RpOFEwdF9sMTJjOGEyaTV5bjhnQnRDVTJ4Qmx3cVBB?oc=5
+Google News CN｜Thu, 22 Oct 2026 00:20:52 GMT｜https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZRG5XaUtVWDRVMUZRLVpLNWY0ZFdmaFVkTGd0RnhNNzE3dXBUSUJFYXJORGo1YXduUnBTSlJkMmVjMm1Xdm5mbThENzZaR2xadkVMYw?oc=5
 
 ---
 
-## 5. 从实验室到临床：细胞与基因治疗的临床试验及转化
+## 6. 代谢/肥胖/糖尿病研究：Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.
 
-【医学科学新闻】从实验室到临床：细胞与基因治疗的临床试验及转化
+【医学科学新闻】代谢/肥胖/糖尿病研究：Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.
 
 一、为什么重要
-Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
+The New England journal of medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
 
 二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
+围绕代谢/肥胖/糖尿病方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
 
 三、主要发现
 自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
@@ -131,11 +158,11 @@ Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研
 先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
 
 七、参考信息
-Bing News CN｜Wed, 11 Dec 2024 06:18:00 GMT｜http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad96bee84404e2eaacf827a80e11745&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+The New England journal of medicine｜2026-Oct-21｜https://pubmed.ncbi.nlm.nih.gov/42904878/
 
 ---
 
-## 6. 肿瘤/血液肿瘤研究：Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor P-loop and αC-helix compressing mutations.
+## 7. 肿瘤/血液肿瘤研究：Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor P-loop and αC-helix compressing mutations.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor P-loop and αC-helix compressing mutations.
 
@@ -162,7 +189,7 @@ Cancer cell｜2026-Oct-16｜https://pubmed.ncbi.nlm.nih.gov/42887497/
 
 ---
 
-## 7. 重症医学/急危重症研究：Initial HIV Therapy for Adults and Treatment-Associated Weight Gain: The Opti-DOR Randomized Clinical Trial.
+## 8. 重症医学/急危重症研究：Initial HIV Therapy for Adults and Treatment-Associated Weight Gain: The Opti-DOR Randomized Clinical Trial.
 
 【医学科学新闻】重症医学/急危重症研究：Initial HIV Therapy for Adults and Treatment-Associated Weight Gain: The Opti-DOR Randomized Clinical Trial.
 
@@ -189,7 +216,7 @@ JAMA｜2026-Oct-20｜https://pubmed.ncbi.nlm.nih.gov/42536019/
 
 ---
 
-## 8. 综合医学研究：Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.
+## 9. 综合医学研究：Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.
 
 【医学科学新闻】综合医学研究：Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.
 
@@ -216,7 +243,7 @@ JAMA｜2026-Oct-19｜https://pubmed.ncbi.nlm.nih.gov/42896534/
 
 ---
 
-## 9. 综合医学研究：Mifepristone Patient Agreement Form and Medication Abortion Knowledge: A Randomized Clinical Trial.
+## 10. 综合医学研究：Mifepristone Patient Agreement Form and Medication Abortion Knowledge: A Randomized Clinical Trial.
 
 【医学科学新闻】综合医学研究：Mifepristone Patient Agreement Form and Medication Abortion Knowledge: A Randomized Clinical Trial.
 
@@ -243,7 +270,7 @@ JAMA internal medicine｜2026-Oct-19｜https://pubmed.ncbi.nlm.nih.gov/42895726/
 
 ---
 
-## 10. 肿瘤/血液肿瘤研究：EGFR-targeted antibody-toxin conjugate in recurrent glioma: a phase 1 trial.
+## 11. 肿瘤/血液肿瘤研究：EGFR-targeted antibody-toxin conjugate in recurrent glioma: a phase 1 trial.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：EGFR-targeted antibody-toxin conjugate in recurrent glioma: a phase 1 trial.
 
@@ -270,7 +297,7 @@ Nature medicine｜2026-Oct-16｜https://pubmed.ncbi.nlm.nih.gov/42888247/
 
 ---
 
-## 11. 综合医学研究：Mobile Subthreshold Exercise Program (MSTEP) for Youth With Prolonged Concussion Recovery: A Randomized Clinical Trial.
+## 12. 综合医学研究：Mobile Subthreshold Exercise Program (MSTEP) for Youth With Prolonged Concussion Recovery: A Randomized Clinical Trial.
 
 【医学科学新闻】综合医学研究：Mobile Subthreshold Exercise Program (MSTEP) for Youth With Prolonged Concussion Recovery: A Randomized Clinical Trial.
 
@@ -297,7 +324,7 @@ JAMA pediatrics｜2026-Oct-19｜https://pubmed.ncbi.nlm.nih.gov/42895728/
 
 ---
 
-## 12. 代谢/肥胖/糖尿病研究：Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women.
+## 13. 代谢/肥胖/糖尿病研究：Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women.
 
 【医学科学新闻】代谢/肥胖/糖尿病研究：Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women.
 
@@ -324,7 +351,7 @@ Nature medicine｜2026-Oct-16｜https://pubmed.ncbi.nlm.nih.gov/42888249/
 
 ---
 
-## 13. 肿瘤/血液肿瘤研究：A randomized phase 2 study combining midostaurin, low-dose cytarabine and venetoclax in newly diagnosed AML ≥60 years.
+## 14. 肿瘤/血液肿瘤研究：A randomized phase 2 study combining midostaurin, low-dose cytarabine and venetoclax in newly diagnosed AML ≥60 years.
 
 【医学科学新闻】肿瘤/血液肿瘤研究：A randomized phase 2 study combining midostaurin, low-dose cytarabine and venetoclax in newly diagnosed AML ≥60 years.
 
@@ -351,7 +378,7 @@ Blood｜2026-Oct-19｜https://pubmed.ncbi.nlm.nih.gov/42895904/
 
 ---
 
-## 14. 心血管研究：Effect of Aficamten on Cardiac Structure and Function in Patients With Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.
+## 15. 心血管研究：Effect of Aficamten on Cardiac Structure and Function in Patients With Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.
 
 【医学科学新闻】心血管研究：Effect of Aficamten on Cardiac Structure and Function in Patients With Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.
 
@@ -378,7 +405,7 @@ Circulation｜2026-Oct-20｜https://pubmed.ncbi.nlm.nih.gov/42667274/
 
 ---
 
-## 15. 综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
+## 16. 综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
 
 【医学科学新闻】综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
 
@@ -405,7 +432,7 @@ JAMA｜2026-Oct-20｜https://pubmed.ncbi.nlm.nih.gov/42714881/
 
 ---
 
-## 16. 代谢/肥胖/糖尿病研究：Miro1 mediates skeletal muscle insulin resistance in type 2 diabetes.
+## 17. 代谢/肥胖/糖尿病研究：Miro1 mediates skeletal muscle insulin resistance in type 2 diabetes.
 
 【医学科学新闻】代谢/肥胖/糖尿病研究：Miro1 mediates skeletal muscle insulin resistance in type 2 diabetes.
 
@@ -432,7 +459,7 @@ Nature communications｜2026-Oct-19｜https://pubmed.ncbi.nlm.nih.gov/42897135/
 
 ---
 
-## 17. 综合医学研究：Infant hippocampal and amygdala volume in an observational follow-up from a randomized clinical trial for maternal prenatal depression.
+## 18. 综合医学研究：Infant hippocampal and amygdala volume in an observational follow-up from a randomized clinical trial for maternal prenatal depression.
 
 【医学科学新闻】综合医学研究：Infant hippocampal and amygdala volume in an observational follow-up from a randomized clinical trial for maternal prenatal depression.
 
@@ -456,33 +483,6 @@ Nature communications 发布的综合医学相关RCT，值得关注其研究设�
 
 七、参考信息
 Nature communications｜2026-Oct-16｜https://pubmed.ncbi.nlm.nih.gov/42888210/
-
----
-
-## 18. 肿瘤/血液肿瘤研究：[Correspondence] Optimising standard of care in non-small-cell lung cancer trials
-
-【医学科学新闻】肿瘤/血液肿瘤研究：[Correspondence] Optimising standard of care in non-small-cell lung cancer trials
-
-一、为什么重要
-The Lancet 发布的肿瘤/血液肿瘤相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-
-二、研究怎么做
-围绕肿瘤/血液肿瘤方向开展研究或报道，具体研究对象、干预/暴露因素和主要终点需以原文为准。
-
-三、主要发现
-自动摘要暂不能可靠提取定量结果；建议优先核对主要终点、效应量、安全性和统计学显著性。
-
-四、对临床/科研的意义
-可作为医学科研选题、医院公众号选题或 CGTN 医疗科技报道的候选素材。
-
-五、需要谨慎解读的地方
-当前为自动抓取与规则总结，未替代人工阅读全文；疗效、样本量、统计学结果、利益冲突和适用人群需进一步核验。
-
-六、小满点评
-先把它放进候选池，重点看是否改变诊疗路径、提出新机制或提供可转化技术线索。
-
-七、参考信息
-The Lancet｜2026-10-17｜https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01672-7/fulltext?rss=yes
 
 ---
 
