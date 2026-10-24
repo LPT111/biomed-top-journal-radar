@@ -1,90 +1,96 @@
 # 国际顶刊与医学科学新闻
 
-1. 代谢/肥胖/糖尿病研究：Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.
+1. 肿瘤/血液肿瘤研究：Rilvegostomig Plus Trastuzumab-Deruxtecan for Early-Stage Breast Cancer: The I-SPY2.2 Randomized Clinical Trial.
+   - 来源：JAMA oncology
+   - 时间：2026-Oct-22
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: The I-SPY2.2 trial tests personalized treatment strategies to improve outcomes while reducing exposure to standard chemotherapy in patients with high-risk early breast cancer (EBC).
+OBJECTIVE: To evaluate the efficacy and safety of trastuzumab-deruxtecan (T-DXd), an antibody drug conjugate targeting low ERBB2 (formerly HER2) expression, combined with rilvegostomig (R), a bispecific antibody targeting programmed cell death 1 protein and T-cell immunoglobulin and ITIM domain as initial therapy in I-SPY2.2... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42911610/
+2. 肿瘤/血液肿瘤研究：Tambotatug Pelitecan in Small-Cell Lung Cancer after Platinum-Based Therapy.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-22
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Tambotatug pelitecan (known as Tam-Peli, a new antibody-drug conjugate that targets the immune-checkpoint molecule B7-H3) showed promising clinical efficacy in patients with relapsed extensive-stage small-cell lung cancer in early-phase trials.
+METHODS: In this phase 3, multicenter, open-label, randomized trial, we assigned eligible patients with small-cell lung cancer that had progressed after first-line platinum-based therapy in a 1:1 ratio to receive tambotatug pelitecan or topotecan. The primary end... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42734213/
+3. 综合医学研究：Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-23
+   - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: B-cell activating factor (BAFF) and a proliferation-inducing ligand (APRIL) have distinct roles in IgA-producing B-cell populations and appear to be central to the pathogenesis of IgA nephropathy. Povetacicept, an enhanced, variant transmembrane activator and calcium-modulator and cyclophilin-ligand interactor (TACI)-Fc fragment fusion therapeutic, is engineered for dual inhibition of BAFF and APRIL.
+METHODS: In this ongoing, phase 3, double-blind, placebo-controlled trial, participants with biopsy-prov... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42912669/
+4. 免疫/炎症研究：Ianalumab for the Treatment of Patients with Sjögren's Disease.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-22
+   - 摘要：这条内容聚焦免疫/炎症。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Sjögren's disease is a complex, systemic autoimmune disease with no approved targeted therapies. Ianalumab is an IgG1 monoclonal antibody with a dual mechanism of action, depleting B cells through antibody-dependent cellular cytotoxicity and inhibiting B-cell activation and survival through blockade of B-cell activating factor receptor.
+METHODS: We conducted two 52-week, double-blind, randomized, placebo-controlled trials involving patients with active Sjögren's disease. Patients in the NEPTUNUS-1 trial... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42906087/
+5. 代谢/肥胖/糖尿病研究：Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.
    - 来源：The New England journal of medicine
    - 时间：2026-Oct-21
    - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Retatrutide, an investigational triple agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors, may be useful for treating obstructive sleep apnea (OSA).
 METHODS: In two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide, we assigned adults with moderate-to-severe OSA and a body-mass index (the weight in kilograms divided by the square of the height in meters) of at least... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42904878/
-2. 肿瘤/血液肿瘤研究：Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor P-loop and αC-helix compressing mutations.
-   - 来源：Cancer cell
-   - 时间：2026-Oct-16
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cancer cell，类型初步识别为RCT。摘要信息显示：P-loop and αC-helix compressing (PACC) mutations comprise a structurally distinct subgroup of epidermal growth factor receptor (EGFR) mutations in non-small cell lung cancer (NSCLC) with limited treatment options. Firmonertinib is a once-daily oral, brain-penetrant, mutant-selective EGFR tyrosine kinase inhibitor with a unique trifluoroethoxy side chain. Firmonertinib had high anti-proliferative efficacy in EGFR PACC-mutant cells and xenografts. In the phase 1b FURTHER study (NCT05364073), patients with metastatic ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42887497/
-3. 重症医学/急危重症研究：Initial HIV Therapy for Adults and Treatment-Associated Weight Gain: The Opti-DOR Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Oct-20
-   - 摘要：这条内容聚焦重症医学/急危重症。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Antiretroviral therapy (ART), particularly regimens containing tenofovir alafenamide with dolutegravir or bictegravir, is associated with substantial weight gain, potentially exacerbating cardiometabolic risk in people with HIV.
-OBJECTIVE: To determine whether a regimen with doravirine, lamivudine, and tenofovir disoproxil fumarate results in less weight gain than a regimen with dolutegravir, emtricitabine, and tenofovir alafenamide while maintaining noninferior viral suppression.
-DESIGN, SETTING, AND P... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42536019/
-4. 综合医学研究：Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Oct-19
-   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: It remains unclear if intraoperative hemodynamic therapy should be guided by cardiac index.
-OBJECTIVE: To evaluate whether individualized cardiac index-guided hemodynamic therapy vs routine hemodynamic therapy improves outcomes in high-risk patients undergoing elective major abdominal surgery.
-DESIGN, SETTING, AND PARTICIPANTS: This multicenter, single-blind, superiority randomized clinical trial enrolled high-risk patients undergoing elective major abdominal surgery between October 8, 2023, and October... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42896534/
-5. 综合医学研究：Mifepristone Patient Agreement Form and Medication Abortion Knowledge: A Randomized Clinical Trial.
+6. 免疫/炎症研究：Sibeprenlimab in IgA Nephropathy - Final Phase 3 Trial Analysis.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-22
+   - 摘要：这条内容聚焦免疫/炎症。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Sibeprenlimab, a humanized monoclonal antibody, selectively inhibits the cytokine A proliferation-inducing ligand (APRIL), a key driver of IgA nephropathy. Preliminary trial results with regard to the primary end point of the 24-hour urinary protein-to-creatinine ratio at 9 months after treatment as compared with baseline have been reported, but secondary end points, including outcomes regarding estimated glomerular filtration rate (eGFR), have not.
+METHODS: We randomly assigned adults with IgA nephropa... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42911185/
+7. 综合医学研究：Video Decision Support and Advance Care Planning in Older Adults With Advanced Kidney Disease: The VIDEO-KD Randomized Clinical Trial.
    - 来源：JAMA internal medicine
-   - 时间：2026-Oct-19
-   - 摘要：这条内容聚焦综合医学。来源为JAMA internal medicine，类型初步识别为RCT。摘要信息显示：IMPORTANCE: While the US Food and Drug Administration requires medication abortion patients to review and sign a patient agreement form (PAF) under its Risk Evaluation and Mitigation Strategy program, there is limited research examining whether the PAF improves patient knowledge.
-OBJECTIVE: To determine whether patients are more knowledgeable about medication abortion after reviewing and signing the PAF.
-DESIGN, SETTING, AND PARTICIPANTS: People receiving mifepristone and misoprostol medications (15 years or older ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42895726/
-6. 肿瘤/血液肿瘤研究：EGFR-targeted antibody-toxin conjugate in recurrent glioma: a phase 1 trial.
-   - 来源：Nature medicine
-   - 时间：2026-Oct-16
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为Phase 2 trial。摘要信息显示：D2C7-ATC is a recombinant antibody-toxin conjugate (ATC) targeting wild-type epidermal growth factor receptor (EGFR) and mutant EGFR variant III (EGFRvIII). We conducted a single-arm, single-site, open-label phase 1 trial evaluating a single infusion of D2C7-ATC via convection-enhanced delivery in the enhancing disease of 81 patients with biopsy-confirmed recurrent malignant glioma. The primary objective was to determine toxicity and the recommended phase 2 dose (RP2D) of D2C7-ATC. Secondary objectives included des... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42888247/
-7. 综合医学研究：Mobile Subthreshold Exercise Program (MSTEP) for Youth With Prolonged Concussion Recovery: A Randomized Clinical Trial.
-   - 来源：JAMA pediatrics
-   - 时间：2026-Oct-19
-   - 摘要：这条内容聚焦综合医学。来源为JAMA pediatrics，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Research suggests that aerobic exercise improves recovery for youth with concussion; however, prior studies primarily focused on acute concussion and required multiple in-person visits.
-OBJECTIVE: To determine whether a virtually delivered aerobic exercise program improves recovery following concussion compared to a stretching control and examine potential moderators.
-DESIGN, SETTING, AND PARTICIPANTS: A randomized clinical trial was conducted from 2021 to 2025 comparing the Mobile Subthreshold Exercise... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42895728/
-8. 代谢/肥胖/糖尿病研究：Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women.
-   - 来源：Nature medicine
-   - 时间：2026-Oct-16
-   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated substantial weight reduction and cardiometabolic benefit in randomized trials; however, prospective implementation evidence from digital care models and female sex community populations remains limited. Here we report outcomes from an observational study of 8,127 women initiating GLP-1RA therapy (99.8% tirzepatide) through a structured digital program incorporating mandatory biochemical monitoring, weekly video-supported follow-up and clinician-... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42888249/
-9. 肿瘤/血液肿瘤研究：A randomized phase 2 study combining midostaurin, low-dose cytarabine and venetoclax in newly diagnosed AML ≥60 years.
-   - 来源：Blood
-   - 时间：2026-Oct-19
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Blood，类型初步识别为RCT。摘要信息显示：In randomized studies, addition of FLT3 inhibitors failed to improve survival in older patients with FLT3-ITD AML unfit for intensive chemotherapy. Although hypomethylating agents or low-dose cytarabine combined with venetoclax is standard, FLT3-ITD is an important mechanism of resistance and a barrier to improved survival. Recent studies show promise for the addition of gilteritinib or quizartinib to less intensive venetoclax-based therapy, however resulting marrow toxicity requires substantial reductions to admin... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42895904/
-10. 心血管研究：Effect of Aficamten on Cardiac Structure and Function in Patients With Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.
-   - 来源：Circulation
-   - 时间：2026-Oct-20
-   - 摘要：这条内容聚焦心血管。来源为Circulation，类型初步识别为RCT。摘要信息显示：BACKGROUND: Aficamten significantly improved both functional capacity and patient-reported health status in patients with symptomatic nonobstructive hypertrophic cardiomyopathy in the phase 3 randomized, placebo-controlled ACACIA-HCM trial (Assessment Comparing Aficamten to Placebo on Cardiac Endpoints in Adults with Non-Obstructive HCM; NCT06081894). Serial echocardiographic examinations may provide insights into the mechanisms underlying the therapeutic effect of aficamten in this prespecified exploratory analysi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42667274/
-11. 综合医学研究：Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial.
+   - 时间：2026-Oct-22
+   - 摘要：这条内容聚焦综合医学。来源为JAMA internal medicine，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Older adults with advanced chronic kidney disease (CKD) face consequential decisions about whether to initiate dialysis, yet advance care planning (ACP), the communication that prepares patients for such decisions, is documented infrequently in ambulatory settings.
+OBJECTIVE: To determine whether a video decision aid about treatment options for advanced CKD, combined with patient-created video declarations, increases ACP documentation among older adults with advanced CKD.
+DESIGN, SETTING, AND PARTICIPAN... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42911803/
+8. 综合医学研究：Subtotal Colectomy vs Total Colectomy for Slow-Transit Constipation: 1-Year Outcomes of the STOPS Randomized Clinical Trial.
+   - 来源：JAMA surgery
+   - 时间：2026-Oct-21
+   - 摘要：这条内容聚焦综合医学。来源为JAMA surgery，类型初步识别为RCT。摘要信息显示：IMPORTANCE: For patients with slow-transit constipation (STC), total colectomy with ileorectal anastomosis (TC-IRA) remains the standard surgical treatment but is frequently complicated by diarrhea, fecal incontinence, and bowel obstruction. Subtotal colectomy with cecorectal anastomosis (SC-CRA) has emerged as a promising alternative; however, recurrence of constipation remains a critical concern. High-quality evidence comparing these 2 procedures is lacking.
+OBJECTIVE: To compare the 1-year Wexner Constipation Sc... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42905730/
+9. 综合医学研究：Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).
+   - 来源：BMJ (Clinical research ed.)
+   - 时间：2026-Oct-21
+   - 摘要：这条内容聚焦综合医学。来源为BMJ (Clinical research ed.)，类型初步识别为RCT。摘要信息显示：OBJECTIVE: To assess the added value of acetic acid chromoendoscopy (AAC) for the detection of dysplasia and oesophageal adenocarcinoma during Barrett's oesophagus surveillance endoscopies.
+DESIGN: Prospective, open label, stepped wedge cluster, randomised trial.
+SETTING: 18 Dutch community hospitals.
+PARTICIPANTS: Patients undergoing surveillance for Barrett's oesophagus were eligible, excluding those with known or previously treated dysplasia.
+INTERVENTIONS: Hospitals randomly shifted from surveillance without AA... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42907095/
+10. 免疫/炎症研究：Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-23
+   - 摘要：这条内容聚焦免疫/炎症。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: In patients with IgA nephropathy, complement activation drives glomerular inflammation, which leads to hematuria, proteinuria, and nephron loss. Ravulizumab is a terminal complement inhibitor that prevents formation of C5a and C5b-9.
+METHODS: In this phase 3 trial, we enrolled adults with IgA nephropathy who had an estimated glomerular filtration rate of at least 30 ml per minute per 1.73 m2 of body-surface area and proteinuria (24-hour urinary protein-to-creatinine ratio [with protein and creatinine bo... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42912700/
+11. 综合医学研究：Atacicept in IgA Nephropathy - Phase 3 Trial Final Efficacy Analysis.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-22
+   - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Atacicept resulted in a significantly greater reduction in the urinary protein-to-creatinine ratio than placebo in a previously published analysis of this trial, ORIGIN 3. Final prespecified efficacy results are reported here.
+METHODS: We randomly assigned adults with biopsy-confirmed IgA nephropathy to receive weekly subcutaneous atacicept at a dose of 150 mg or placebo. We carried out final analyses of two secondary end points: the change in the estimated glomerular filtration rate (eGFR) at week 52 a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42911181/
+12. 感染/疫苗研究：Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy: A Randomized Clinical Trial.
    - 来源：JAMA
-   - 时间：2026-Oct-20
-   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: The optimal initial fraction of inspired oxygen (Fio2) for delivery room resuscitation of neonates born at 32 to 35 weeks' gestation is unknown.
-OBJECTIVE: To compare outcomes for neonates born at 32 to 35 weeks' gestation when initiating resuscitation with Fio2 0.30 vs 0.21.
-DESIGN, SETTING, AND PARTICIPANTS: Unblinded, cluster randomized crossover trial in 26 Australian maternity hospitals, including tertiary, nontertiary, metropolitan, regional, public, and private sites, using a waiver of informed c... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42714881/
-12. 代谢/肥胖/糖尿病研究：Miro1 mediates skeletal muscle insulin resistance in type 2 diabetes.
-   - 来源：Nature communications
-   - 时间：2026-Oct-19
-   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Nature communications，类型初步识别为RCT。摘要信息显示：Imbalanced skeletal muscle mitochondrial dynamics contribute to the onset and progression of type 2 diabetes (T2D) by mechanisms that remain incompletely understood. Here, we examined the role of Mitochondrial Rho GTPase 1 (Miro1), an outer mitochondrial membrane enzyme, in regulating skeletal muscle insulin action and glucose homeostasis in type 2 diabetes (T2D). In a cross-sectional clinical study, we show that Miro1 accumulates in the skeletal muscle of patients with obesity and T2D, which was further replicated... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42897135/
-13. 综合医学研究：Infant hippocampal and amygdala volume in an observational follow-up from a randomized clinical trial for maternal prenatal depression.
-   - 来源：Nature communications
-   - 时间：2026-Oct-16
-   - 摘要：这条内容聚焦综合医学。来源为Nature communications，类型初步识别为RCT。摘要信息显示：Prenatal maternal depression may have intergenerational effects on offspring brain development, with potential socioemotional consequences. This observational follow-up study examines brain development and subsequent negative emotionality among 109 infants born to mothers participating in a randomized clinical trial (NCT03011801). In the prior trial, brief interpersonal psychotherapy significantly reduced prenatal depression symptoms and disorder as the published primary and secondary endpoints. Exploratory infant ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42888210/
-14. 心血管研究：Vascular Risk Factors and Late-Onset Epilepsy.
-   - 来源：JAMA neurology
-   - 时间：2026-Oct-19
-   - 摘要：这条内容聚焦心血管。来源为JAMA neurology，类型初步识别为Meta-analysis。摘要信息显示：IMPORTANCE: Late-onset epilepsy (LOE; onset at age ≥65 years) is increasingly recognized in older adults and may be associated with vascular risk.
-OBJECTIVE: To identify vascular risk factors (VRFs) associated with incident LOE in older adults.
-DESIGN, SETTING, AND PARTICIPANTS: This study is an individual participant data meta-analysis of 6 US population-based prospective cohort studies (the Epilepsy-Cog Study). In 5 cohorts linked to Medicare for epilepsy case ascertainment, follow-up for LOE began when a partici... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42895730/
-15. 综合医学研究：Randomized Clinical Trial of the Year.
-   - 来源：JAMA internal medicine
-   - 时间：2026-Oct-19
-   - 摘要：这条内容聚焦综合医学。来源为JAMA internal medicine，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42895710/
+   - 时间：2026-Oct-22
+   - 摘要：这条内容聚焦感染/疫苗。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: For patients with eosinophilic granulomatosis with polyangiitis (EGPA), guidelines recommend considering maintenance therapy after achieving remission. Data comparing maintenance therapeutic options are limited.
+OBJECTIVE: To compare the effects of rituximab and azathioprine maintenance therapies on remission duration for patients with EGPA who recently achieved remission of vasculitis after standard therapy, including prednisone tapering or withdrawal.
+DESIGN, SETTING, AND PARTICIPANTS: From March 7, 2... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42911562/
+13. 心血管研究：Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-22
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Patients are at increased risk for recurrent ischemic events after an acute coronary syndrome event. Milvexian, an oral factor XIa inhibitor, may reduce the risk of major adverse clinical events with minimal bleeding risk.
+METHODS: In this phase 3, randomized, placebo-controlled trial, we evaluated the efficacy and safety of milvexian when added to standard antiplatelet therapy within 7 days after an acute coronary syndrome event. Patients were assigned in a 1:1 ratio to receive oral milvexian (25 mg tw... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42670965/
+14. 感染/疫苗研究：Response-Tailored or Standard-Duration Antibiotic Treatment for Infective Endocarditis.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Oct-22
+   - 摘要：这条内容聚焦感染/疫苗。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: In patients with infective endocarditis on the left side of the heart, the current recommendation of up to 6 weeks of antibiotic therapy is based largely on expert consensus opinion. Whether a clinical response-tailored antibiotic management strategy can shorten treatment duration without compromising safety is unclear.
+METHODS: In this international, open-label, randomized trial, we assigned adults in stable condition with infective endocarditis caused by Staphylococcus aureus, Enterococcus faecalis, o... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42663314/
+15. 免疫/炎症研究：Graft-versus-host disease prophylaxis shapes T cell biology and immune reconstitution after hematopoietic cell transplant.
+   - 来源：Science translational medicine
+   - 时间：2026-Oct-21
+   - 摘要：这条内容聚焦免疫/炎症。来源为Science translational medicine，类型初步识别为Phase 3 trial。摘要信息显示：Successful hematopoietic cell transplant requires immunosuppression to prevent graft-versus-host disease (GVHD), a lethal, T cell-mediated complication. The phase 3 BMT CTN 1703 trial demonstrated superior GVHD-free/relapse-free survival for posttransplant cyclophosphamide (PT-Cy)-based GVHD prophylaxis versus tacrolimus/methotrexate (Tac/MTX), but the T cell biology underpinning these outcomes remains unknown. To determine this, 324 patients were coenrolled onto BMT CTN 1801 to investigate the distinct T cell immu... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42905855/
