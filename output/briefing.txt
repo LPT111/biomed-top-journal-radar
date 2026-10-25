@@ -1,31 +1,31 @@
-【Biomed Radar】今日医学科学新闻已更新｜2026-10-24 09:57:15
+【Biomed Radar】今日医学科学新闻已更新｜2026-10-25 09:37:39
 今日 20 条：中文来源 5 条｜国际来源 15 条
 
-RSS JAMA: RuntimeError(URLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1016)')))
-1. 迷幻蘑菇成分能否治疗可卡因成瘾？一项新的临床试验正在展开 ｜#科学资讯# #医学# #赛洛西宾研究#
+RSS JAMA: RuntimeError(SAXParseException('not well-formed (invalid token)'))
+1. 免疫细胞治疗剂‘Immuncell-LC’，延长胶质母细胞瘤的无进展生存时间1.5倍
+Bing News CN｜RCT｜Score 51
+Bing News CN 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add5d6552474e829a381dff5549677a&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+
+2. 迷幻蘑菇成分能否治疗可卡因成瘾？一项新的临床试验正在展开 ｜#科学资讯# #医学# #赛洛西宾研究#
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc107ca46444e7bdbc6d2f35473d54&url=https%3a%2f%2fwww.sohu.com%2fa%2f1090902599_122154728&c=13497542630779089830&mkt=es-mx
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add5d6416384936b8d8f622d61dda96&url=https%3a%2f%2fwww.sohu.com%2fa%2f1090902599_122154728&c=13497542630779089830&mkt=en-us
 
-2. OpenAI又出手！收购生物医药AI创企，让Agent帮药企管研发 - 智东西
+3. OpenAI又出手！收购生物医药AI创企，让Agent帮药企管研发 - 智东西
 Google News CN｜Medical news｜Score 26
 Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
 https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kd0xjR2ZNVVlsOHdIaENlV3JBYWtGRlRpaEc5NUdEQ08ycTJWMlAyYkFYSWx6VlhDMldfckJaZWE1RVl0S3kyUw?oc=5
 
-3. CAR-T 实体瘤疗法迎来新突破…《新英格兰医学杂志》：3岁患儿肿瘤消失，已满1年
+4. 从实验室到临床：细胞与基因治疗的临床试验及转化
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc107dd6464782888774d29a5b1243&url=https%3a%2f%2fwww.huxiu.com%2farticle%2f4894865.html&c=10621599128393146527&mkt=es-mx
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add5d6552474e829a381dff5549677a&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
 
-4. 攻克癌症最大难题！全球首个实体瘤CAR-T面世，国内细胞治疗行业迈入高速发展阶段
+5. CAR-T 实体瘤疗法迎来新突破…《新英格兰医学杂志》：3岁患儿肿瘤消失，已满1年
 Bing News CN｜Medical news｜Score 26
 Bing News CN 发布的肿瘤/血液肿瘤相关Medical news，值得关注其研究设计、核心发现和转化边界。
-http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adc107dd6464782888774d29a5b1243&url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-23%2fdoc-iniekvap9693316.shtml&c=7608021251415382683&mkt=es-mx
-
-5. AI制药又现巨头联袂：甲骨文官宣牵手阿斯利康 拟加速筛选临床试验患者 - 东方财富网
-Google News CN｜Medical news｜Score 26
-Google News CN 发布的综合医学相关Medical news，值得关注其研究设计、核心发现和转化边界。
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiakRJOWFtRjZVRC1reHIwMmphQkNHSGExcmc0ajFkUlFMYk1pTzQ0WEhOY2xxVS1jN21VMGZpMXJldHM3M0lvMGt4QlY2SU1xRHlSaFF4bm1qZWFvVDdCR2pXRzZzdm8?oc=5
+http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add5d6552474e829a381dff5549677a&url=https%3a%2f%2fwww.huxiu.com%2farticle%2f4894865.html&c=10621599128393146527&mkt=en-us
 
 6. 肿瘤/血液肿瘤研究：Rilvegostomig Plus Trastuzumab-Deruxtecan for Early-Stage Breast Cancer: The I-SPY2.2 Randomized Clinical Trial.
 JAMA oncology｜RCT｜Score 102
@@ -47,57 +47,57 @@ The New England journal of medicine｜RCT｜Score 96
 The New England journal of medicine 发布的免疫/炎症相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42906087/
 
-10. 代谢/肥胖/糖尿病研究：Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.
-The New England journal of medicine｜RCT｜Score 96
-The New England journal of medicine 发布的代谢/肥胖/糖尿病相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42904878/
-
-11. 免疫/炎症研究：Sibeprenlimab in IgA Nephropathy - Final Phase 3 Trial Analysis.
+10. 免疫/炎症研究：Sibeprenlimab in IgA Nephropathy - Final Phase 3 Trial Analysis.
 The New England journal of medicine｜Phase 3 trial｜Score 94
 The New England journal of medicine 发布的免疫/炎症相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42911185/
 
-12. 综合医学研究：Video Decision Support and Advance Care Planning in Older Adults With Advanced Kidney Disease: The VIDEO-KD Randomized Clinical Trial.
+11. 肿瘤/血液肿瘤研究：Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group.
+The Lancet. Oncology｜Phase 2 trial｜Score 92
+The Lancet. Oncology 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42914998/
+
+12. 肿瘤/血液肿瘤研究：Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial.
+Nature medicine｜RCT｜Score 91
+Nature medicine 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42919966/
+
+13. 肿瘤/血液肿瘤研究：Extracorporeal photopheresis for the treatment of steroid-refractory immune related adverse events from immune checkpoint inhibitor therapy: a multi-center phase Ib/II clinical trial.
+Nature communications｜RCT｜Score 88
+Nature communications 发布的肿瘤/血液肿瘤相关RCT，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42919851/
+
+14. 综合医学研究：Video Decision Support and Advance Care Planning in Older Adults With Advanced Kidney Disease: The VIDEO-KD Randomized Clinical Trial.
 JAMA internal medicine｜RCT｜Score 86
 JAMA internal medicine 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42911803/
 
-13. 综合医学研究：Subtotal Colectomy vs Total Colectomy for Slow-Transit Constipation: 1-Year Outcomes of the STOPS Randomized Clinical Trial.
-JAMA surgery｜RCT｜Score 86
-JAMA surgery 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42905730/
+15. 肿瘤/血液肿瘤研究：Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial.
+Nature medicine｜Phase 2 trial｜Score 84
+Nature medicine 发布的肿瘤/血液肿瘤相关Phase 2 trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42919963/
 
-14. 综合医学研究：Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).
-BMJ (Clinical research ed.)｜RCT｜Score 84
-BMJ (Clinical research ed.) 发布的综合医学相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42907095/
+16. 肿瘤/血液肿瘤研究：Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma.
+Nature medicine｜Clinical trial｜Score 82
+Nature medicine 发布的肿瘤/血液肿瘤相关Clinical trial，值得关注其研究设计、核心发现和转化边界。
+https://pubmed.ncbi.nlm.nih.gov/42919964/
 
-15. 免疫/炎症研究：Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.
+17. 免疫/炎症研究：Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.
 The New England journal of medicine｜Phase 3 trial｜Score 81
 The New England journal of medicine 发布的免疫/炎症相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42912700/
 
-16. 综合医学研究：Atacicept in IgA Nephropathy - Phase 3 Trial Final Efficacy Analysis.
+18. 综合医学研究：Atacicept in IgA Nephropathy - Phase 3 Trial Final Efficacy Analysis.
 The New England journal of medicine｜Phase 3 trial｜Score 81
 The New England journal of medicine 发布的综合医学相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42911181/
 
-17. 感染/疫苗研究：Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy: A Randomized Clinical Trial.
+19. 感染/疫苗研究：Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy: A Randomized Clinical Trial.
 JAMA｜RCT｜Score 80
 JAMA 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42911562/
 
-18. 心血管研究：Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event.
+20. 心血管研究：Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event.
 The New England journal of medicine｜RCT｜Score 80
 The New England journal of medicine 发布的心血管相关RCT，值得关注其研究设计、核心发现和转化边界。
 https://pubmed.ncbi.nlm.nih.gov/42670965/
-
-19. 感染/疫苗研究：Response-Tailored or Standard-Duration Antibiotic Treatment for Infective Endocarditis.
-The New England journal of medicine｜RCT｜Score 80
-The New England journal of medicine 发布的感染/疫苗相关RCT，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42663314/
-
-20. 免疫/炎症研究：Graft-versus-host disease prophylaxis shapes T cell biology and immune reconstitution after hematopoietic cell transplant.
-Science translational medicine｜Phase 3 trial｜Score 78
-Science translational medicine 发布的免疫/炎症相关Phase 3 trial，值得关注其研究设计、核心发现和转化边界。
-https://pubmed.ncbi.nlm.nih.gov/42905855/
