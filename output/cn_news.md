@@ -4,24 +4,24 @@
    - 来源：Bing News CN
    - 时间：Mon, 10 Oct 2016 17:00:00 GMT
    - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为RCT。摘要信息显示：韩国首尔--(BUSINESS WIRE)--(美国商业资讯)--以“以韩国人中最新确诊的胶质母细胞瘤患者为对象，并用标准疗法和基于CIK诱导杀伤细胞的细胞免疫治疗法的第三期随机临床试验(Phase III randomized trial ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7f8e5973540a683aadc446620c067&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
-2. 迷幻蘑菇成分能否治疗可卡因成瘾？一项新的临床试验正在展开 ｜#科学资讯# #医学# #赛洛西宾研究#
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae95c7a44f3474ca8d0fdd0ff49f6ff&url=https%3a%2f%2fwww.businesswire.com%2fnews%2fhome%2f20161010006223%2fzh-CN&c=11278476615568585247&mkt=en-us
+2. 从“胡子月”看男性健康：临床试验如何为癌症治疗寻找新出路 ｜#科学资讯# #医学# #癌症研究#
    - 来源：Bing News CN
-   - 时间：Wed, 21 Oct 2026 20:01:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：在精神医学领域，可卡因成瘾（Cocaine use disorder）一直是一个棘手的难题。目前，美国食品药品监督管理局（FDA）尚未批准任何专门针对可卡因成瘾的药物治疗方案。更复杂的是，许多可卡因成瘾者同时患有重度抑郁症（Major depressive disorder），这两种病症往往相互交织，形成难以打破的恶性循环。 最近，美国德克萨斯大学休斯顿健康科学中心（UTHealth Housto ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7f8e4612846558e9b0d1a03b4abe1&url=https%3a%2f%2fwww.sohu.com%2fa%2f1090902599_122154728&c=13497542630779089830&mkt=en-us
-3. 全球细胞与基因治疗（CGT）投融资回暖：科创医药ETF华夏(588130)产业映射能力表现如何？
-   - 来源：Bing News CN
-   - 时间：Wed, 12 Aug 2026 08:39:00 GMT
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：2026年，细胞与基因治疗（CGT）正从“技术突破期”加速迈入“产业兑现期”。上半年全球CGT投融资回暖态势明显，国内实体瘤CAR-T、体内基因编辑管线密集进入临床高峰。与此同时，上交所将 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7f8e5973540a683aadc446620c067&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-12%2fdoc-inimzytr3975850.shtml&c=1611914957398149418&mkt=en-us
-4. 从实验室到临床：细胞与基因治疗的临床试验及转化
+   - 时间：Mon, 02 Nov 2026 08:12:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Clinical trial。摘要信息显示：每年的11月，全球各地总能看到不少男士蓄起胡须，参与到一项名为“胡子月”（Movember）的健康运动中。这不仅仅是为了改变形象，更是为了引发公众对前列腺癌、睾丸癌以及男性心理健康等问题的关注。在这些胡须背后，医学界的研究者们正通过严谨的临床试验，试图为这些疾病寻找更有效的应对方案。 临床试验：探索治疗的边界 近期，肿瘤临床试验联盟（Alliance for Clinical Trials in ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae95c79d8734387a511442bcdbd06bc&url=https%3a%2f%2fwww.sohu.com%2fa%2f1096362972_122154728&c=3111455670723994433&mkt=en-us
+3. 从实验室到临床：细胞与基因治疗的临床试验及转化
    - 来源：Bing News CN
    - 时间：Wed, 11 Dec 2024 06:18:00 GMT
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：我们正处在医学变革的时代，基因与细胞治疗的巨大潜力，即将彻底改变一系列疾病的治疗。近年来，细胞与基因治疗领域所取得的进展令人瞩目，其中开创性的一个例子就是CAR-T细胞疗法。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7f8e5973540a683aadc446620c067&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
-5. 中外学者共商人工智能助推公共卫生事业发展
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae95c7a44f3474ca8d0fdd0ff49f6ff&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f12%2f535631.shtm&c=6642841753825463524&mkt=en-us
+4. 全球首个AI创新药三期临床试验将启动，钟南山等医学专家牵头研究
    - 来源：Bing News CN
-   - 时间：Wed, 06 Nov 2024 03:55:00 GMT
-   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：11月2日，由清华大学主办，清华大学万科公共卫生与健康学院、健康中国研究院共同承办的第四届世界卫生健康论坛在北京开幕。 本届论坛以“AI智领健康未来”为主题，来自全球18个国家和 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7f8e6053a4975a336c338b0c5fb7d&url=https%3a%2f%2fnews.sciencenet.cn%2fhtmlnews%2f2024%2f11%2f533402.shtm&c=5817020902269294797&mkt=en-us
+   - 时间：Sun, 21 Jun 2026 23:02:00 GMT
+   - 摘要：这条内容聚焦综合医学。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：全球首个由人工智能驱动识别新靶点、设计分子结构的创新药‌Ⅲ期临床试验将在我国启动。近日，治疗特发性肺纤维化的Rentosertib口服药‌Ⅲ期临床试验中国研究者会议在北京举行，计划7月 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae95c79d8734387a511442bcdbd06bc&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260622A03KGS00&c=5299750458260417961&mkt=en-us
+5. 中国博后一作兼通讯Nature：建立人类T细胞体内全基因组CRISPR筛选平台，发现增强实体瘤T细胞治疗的新靶点
+   - 来源：Bing News CN
+   - 时间：Sun, 16 Aug 2026 21:23:00 GMT
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Bing News CN，类型初步识别为Medical news。摘要信息显示：对于白血病和淋巴瘤等血液类癌症患者，CAR-T 细胞疗法可能挽救他们生命。该疗法首先提取患者自身的 T 细胞，在实验室中进行基因工程工程改造，使其更有效地识别并攻击癌细胞，然后进行扩 ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae95c7a44f3474ca8d0fdd0ff49f6ff&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2f%25E7%25A7%2591%25E5%25AD%25A6%2f%25E7%2594%259F%25E7%2589%25A9%25E5%25AD%25A6%2f%25E4%25B8%25AD%25E5%259B%25BD%25E5%258D%259A%25E5%2590%258E%25E4%25B8%2580%25E4%25BD%259C%25E5%2585%25BC%25E9%2580%259A%25E8%25AE%25AFnature-%25E5%25BB%25BA%25E7%25AB%258B%25E4%25BA%25BA%25E7%25B1%25BBt%25E7%25BB%2586%25E8%2583%259E%25E4%25BD%2593%25E5%2586%2585%25E5%2585%25A8%25E5%259F%25BA%25E5%259B%25A0%25E7%25BB%2584crispr%25E7%25AD%259B%25E9%2580%2589%25E5%25B9%25B3%25E5%258F%25B0-%25E5%258F%2591%25E7%258E%25B0%25E5%25A2%259E%25E5%25BC%25BA%25E5%25AE%259E%25E4%25BD%2593%25E7%2598%25A4t%25E7%25BB%2586%25E8%2583%259E%25E6%25B2%25BB%25E7%2596%2597%25E7%259A%2584%25E6%2596%25B0%25E9%259D%25B6%25E7%2582%25B9%2far-AA2ag8wJ&c=5873740345018216308&mkt=en-us
