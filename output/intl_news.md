@@ -1,60 +1,61 @@
 # 国际顶刊与医学科学新闻
 
-1. 综合医学研究：Povorcitinib for nonsegmental vitiligo: two randomized, controlled, phase 3 STOP-V trials.
+1. 综合医学研究：Efficacy and Safety of Routine Postdilation in Balloon-Expandable Transcatheter Aortic Valve Implantation Platform: The DUOTAP Randomized Clinical Trial.
+   - 来源：JAMA cardiology
+   - 时间：2026-Nov-03
+   - 摘要：这条内容聚焦综合医学。来源为JAMA cardiology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: In patients with severe aortic stenosis (AS) undergoing transcatheter aortic valve implantation (TAVI), asymmetric valve expansion can estimate prosthetic dysfunction and death. Postdilation has shown promising results in optimizing valve geometry in observational studies; however, randomized evidence is currently lacking.
+OBJECTIVE: To determine the efficacy of routine postdilation on transcatheter heart valve (THV) geometry and hemodynamic performance, and associated safety outcomes.
+DESIGN, SETTING, ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42976368/
+2. 综合医学研究：Povorcitinib for nonsegmental vitiligo: two randomized, controlled, phase 3 STOP-V trials.
    - 来源：Nature medicine
    - 时间：2026-Nov-02
    - 摘要：这条内容聚焦综合医学。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：There is an unmet need for repigmentation therapies for patients with nonsegmental vitiligo (NSV) who are candidates for systemic therapy. Here, 52-week primary results are reported from two parallel phase 3, randomized, double-blind, placebo-controlled trials of once-daily povorcitinib (oral, highly selective JAK1 inhibitor) 30 mg in adults with moderate-to-severe NSV (STOP-V1 and STOP-V2). STOP-V1 and STOP-V2 enrolled 467 and 449 patients, respectively. In both studies, the primary endpoint of ≥75% improvement in... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42972109/
-2. 肿瘤/血液肿瘤研究：Zamtocabtagene autoleucel, a tandem CD20-CD19-directed CAR T-cell therapy, for second line treatment of large B-cell lymphoma in patients ineligible for transplantation (DALY 2-EU): primary analysis of an open-label, multicentre, randomised phase 2 study.
-   - 来源：The Lancet. Oncology
-   - 时间：2026-Nov
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为RCT。摘要信息显示：BACKGROUND: Anti-CD19 CAR T-cell therapy is the standard second-line treatment for patients with relapsed or refractory large B-cell lymphoma. However, there is no evidence from randomised controlled trials in patients ineligible for transplantation. To address this gap, we compared zamtocabtagene autoleucel (zamto-cel), a CAR T-cell therapy directed at CD20 and CD19, with rituximab-gemcitabine-oxaliplatin (R-GemOx) chemoimmunotherapy in patients ineligible for transplantation with relapsed or refractory large B-ce... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42933440/
-3. 心血管研究：TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.
-   - 来源：The New England journal of medicine
-   - 时间：2026-Nov-02
-   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: For patients with moderate aortic stenosis, current guidelines recommend clinical surveillance with echocardiographic assessment every 1 or 2 years. Whether transcatheter aortic-valve replacement (TAVR) will improve outcomes in these patients remains unknown.
-METHODS: We conducted an international, open-label, randomized trial to evaluate whether TAVR will result in better outcomes than clinical surveillance among patients with moderate aortic stenosis with at least one at-risk feature (i.e., a symptom ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42970708/
-4. 心血管研究：Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI.
-   - 来源：The New England journal of medicine
-   - 时间：2026-Nov-01
-   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Intravascular ultrasound (IVUS)-guided percutaneous coronary intervention (PCI) improves clinical outcomes. Coronary computed tomographic angiography (CCTA) provides anatomical and physiological information before cardiac catheterization that may enable PCI planning. Data regarding the use of CCTA-guided PCI as compared with IVUS-guided PCI with respect to clinical outcomes are lacking.
-METHODS: In this investigator-initiated, international, open-label, randomized, noninferiority trial with blinded end-... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42969897/
-5. 心血管研究：Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial.
+3. 公共卫生/流行病学研究：A live biotherapeutic product for adult allogeneic hematopoietic cell transplantation recipients: a partially randomized, placebo-controlled phase 1b trial.
+   - 来源：Nature medicine
+   - 时间：2026-Nov-03
+   - 摘要：这条内容聚焦公共卫生/流行病学。来源为Nature medicine，类型初步识别为RCT。摘要信息显示：Gastrointestinal (GI) microbiome disruption and impaired GI barrier integrity increase the risk of bloodstream infection (BSI) following allogeneic hematopoietic cell transplant. Here we report results from a two-cohort (open-label, n = 15; randomized, placebo-controlled, n = 45) phase 1b study of SER-155, an investigational, cultivated, multi-strain, oral live biotherapeutic designed to address GI microbiome disruption GI epithelial barrier integrity in allogeneic hematopoietic cell transplant recipients. In cohor... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42977758/
+4. 心血管研究：Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial.
    - 来源：JAMA
    - 时间：2026-Nov-03
    - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Whether intravenous tenecteplase before endovascular thrombectomy (EVT) improves outcomes in patients with basilar artery occlusion presenting 4.5 to 24 hours after stroke onset remains uncertain.
 OBJECTIVE: To evaluate the efficacy and safety of intravenous tenecteplase before EVT vs EVT alone in patients with moderate to severe basilar artery occlusion admitted within 4.5 to 24 hours from stroke onset.
 DESIGN, SETTING, AND PARTICIPANTS: This multicenter, open-label, blinded end point, randomized clini... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42776543/
-6. 心血管研究：Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence: The ADHERE-ASCVD Randomized Clinical Trial.
+5. 心血管研究：Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence: The ADHERE-ASCVD Randomized Clinical Trial.
    - 来源：JAMA
    - 时间：2026-Nov-03
    - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Statin nonadherence is a leading, addressable driver of preventable cardiovascular events. Although health systems routinely use outreach to promote preventive care, most strategies are static and lack evidence from randomized clinical trials.
 OBJECTIVE: To determine whether an adaptive, sequential digital outreach strategy improves short-term statin refill vs usual communication among adults with established atherosclerotic cardiovascular disease (ASCVD) or high ASCVD risk and recent nonadherence withi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42667613/
-7. 肿瘤/血液肿瘤研究：Neoadjuvant botensilimab with or without balstilimab in pMMR and dMMR colon cancer: the phase 2 UNICORN trial.
+6. 肿瘤/血液肿瘤研究：Regulatable membrane-bound IL-15 engineered TIL cell therapy for immune checkpoint inhibitor-resistant advanced melanoma: pooled analysis of phase 1 and 1/2 trials.
    - 来源：Nature medicine
-   - 时间：2026-Nov-02
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为Phase 2 trial。摘要信息显示：Preoperative immune checkpoint inhibitors (ICIs) are active in patients with deficient mismatch repair (dMMR) colon cancer (CC), whereas proficient mismatch repair (pMMR) CC has been consistently considered resistant to first-generation ICIs. In the phase 2 UNICORN trial, we evaluated short-course preoperative botensilimab (BOT; multifunctional Fc-enhanced anti-CTLA-4 monoclonal antibody) alone or in combination with the anti-PD-1 monoclonal antibody balstilimab (BOT + BAL) in 56 patients with resectable, locally a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42972108/
-8. 心血管研究：Antithrombotic Therapy After Left Atrial Appendage Occlusion: The SIMPLAAFY Randomized Clinical Trial.
-   - 来源：JAMA
-   - 时间：2026-Nov-02
-   - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Following a left atrial appendage closure (LAAC) procedure, antithrombotic therapy is administered to safely allow time for device endothelialization. However, the optimal postimplant antithrombotic regimen is unknown.
-OBJECTIVE: To determine if either reduced-dose non-vitamin K oral anticoagulants (NOACs) or aspirin alone are noninferior to dual antiplatelet therapy (DAPT) for the composite clinical end point of death, stroke, systemic embolism, or major bleeding through 6 months post LAAC.
-DESIGN, SET... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42970643/
-9. 感染/疫苗研究：SARS-CoV-2 mRNA Vaccination in Pregnancy and Child Neurodevelopment at 18 to 30 Months.
-   - 来源：JAMA pediatrics
-   - 时间：2026-Nov-02
-   - 摘要：这条内容聚焦感染/疫苗。来源为JAMA pediatrics，类型初步识别为Guideline。摘要信息显示：IMPORTANCE: Little is known about neurodevelopmental outcomes of children exposed to SARS-CoV-2 messenger RNA (mRNA) vaccine during pregnancy. Evidence on long-term offspring outcomes after in utero exposure to SARS-CoV-2 mRNA vaccination is needed to inform vaccine recommendations in pregnancy.
-OBJECTIVE: To evaluate whether there is an association between SARS-CoV-2 vaccination during or shortly before pregnancy and offspring neurodevelopmental measures.
-DESIGN, SETTING, AND PARTICIPANTS: This multicenter, prospe... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42970265/
-10. 公共卫生/流行病学研究：Decompression With or Without Fusion Across Subgroups With Degenerative Lumbar Spondylolisthesis : A Target Trial Emulation.
+   - 时间：2026-Nov-03
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature medicine，类型初步识别为Phase 2 trial。摘要信息显示：Amsokigene autoleucel (amsoki-cel, OBX-115) is a tumor-infiltrating lymphocyte (TIL) cell therapy engineered to express acetazolamide (ACZ)-regulatable membrane-bound interleukin-15, abrogating the need for interleukin-2. In two single-arm trials (completed phase 1 single-center first-in-human (FIH) and ongoing phase 1/2 multicenter Agni-01), patients with immune checkpoint inhibitor (ICI)-resistant advanced melanoma received lymphodepletion and varying doses and schedules of amsoki-cel and ACZ. The primary objecti... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42977756/
+7. 公共卫生/流行病学研究：Extended in vivo activity of VRC01 HIV-1 prophylaxis entails initial protective efficacy and subsequent breakthrough infections.
+   - 来源：Science translational medicine
+   - 时间：2026-Nov-04
+   - 摘要：这条内容聚焦公共卫生/流行病学。来源为Science translational medicine，类型初步识别为RCT。摘要信息显示：The two parallel antibody-mediated prevention (AMP) efficacy trials evaluated whether intravenous infusion of the anti-CD4 binding site broadly neutralizing antibody VRC01 prevents HIV-1 acquisition. Here, we analyzed HIV-1 acquisition in AMP through the week 104 final study visit. Against viruses considered highly sensitive to VRC01 [80% inhibitory concentration (IC80) < 1 microgram/milliliter], VRC01 prophylaxis maintained cumulative prevention efficacy of 66.3% (95% confidence interval: 32.4, 83.2%), suggesting ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42981432/
+8. 肿瘤/血液肿瘤研究：Basophils inhibit early lung metastasis by suppressing regulatory T cells.
+   - 来源：Nature cancer
+   - 时间：2026-Nov-03
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Nature cancer，类型初步识别为RCT。摘要信息显示：Basophils are rare cells best known for their role in allergy but their contribution to cancer remains poorly understood. Here, we found that basophils suppress early lung metastatic seeding in mice by enhancing antitumor CD8+ T cell immunity through inhibition of regulatory T (Treg) cells. Basophils restrain Treg cells through two complementary mechanisms: mast cell protease 8-mediated cleavage of interleukin-2 receptor α and histamine-mediated activation of the histamine H1 receptor (HRH1). HRH1 blockade with lor... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42977840/
+9. 肿瘤/血液肿瘤研究：Longitudinal remodeling of the tumor-immune microenvironment during regorafenib, nivolumab, and chemotherapy in advanced gastric cancer.
+   - 来源：Science translational medicine
+   - 时间：2026-Nov-04
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Science translational medicine，类型初步识别为Phase 2 trial。摘要信息显示：Previous studies combining the multikinase inhibitor regorafenib with a PD-1 inhibitor showed promising activity in gastric cancer. We conducted a phase 1b/2 trial (NCT05394740) of first-line regorafenib, nivolumab, and chemotherapy in 30 patients with mismatch repair-proficient gastric cancer and investigated its impact on the tumor microenvironment. The primary end point was met; 22 of 30 patients showed objective tumor response (73%; 80% confidence interval, 60.3 to 83.8). Single-cell RNA and T cell receptor seq... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42981428/
+10. 神经科学/神经疾病研究：Vasomechanic treatment is associated with increased efflux of human brain proteins.
+   - 来源：Nature communications
+   - 时间：2026-Nov-03
+   - 摘要：这条内容聚焦神经科学/神经疾病。来源为Nature communications，类型初步识别为Original research。摘要信息显示：An age-related neurovascular impairment in nitric oxide (NO)-mediated vasodilation and reciprocal Piezo1-dependent vascular vasoconstriction may precede the accumulation of soluble brain proteins such as amyloid-β (Aβ) and disruption of brain fluid homeostasis in Alzheimer's disease (AD). Preclinical studies suggest that restoring these pathways can enhance neurofluid transport and improve cognitive outcomes. In this study (EudraCT 2021-000625-27), we investigated the effects of sublingual NO and Piezo1-targeted wh... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42977753/
+11. 公共卫生/流行病学研究：Decompression With or Without Fusion Across Subgroups With Degenerative Lumbar Spondylolisthesis : A Target Trial Emulation.
    - 来源：Annals of internal medicine
    - 时间：2026-Nov-03
    - 摘要：这条内容聚焦公共卫生/流行病学。来源为Annals of internal medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Randomized trials have shown limited benefits and increased risks of adding spinal fusion surgery to decompression for degenerative spondylolisthesis. Decompression with fusion has increasingly been used in the United States.
@@ -62,32 +63,26 @@ OBJECTIVE: To examine the comparative effectiveness of decompression with fusion
 DESIGN: Cohort study using the target trial framework.
 SETTING: Norwegian Registry for Spine Surgery and nested NORDSTEN-DS (Norwegian degenerative spo... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42970804/
-11. 公共卫生/流行病学研究：Delirium and Long-Term Cognitive Trajectories in Cognitively Unimpaired Adults.
-   - 来源：JAMA neurology
-   - 时间：2026-Nov-02
-   - 摘要：这条内容聚焦公共卫生/流行病学。来源为JAMA neurology，类型初步识别为Guideline。摘要信息显示：IMPORTANCE: Delirium is a state of acute confusion characterized by deficits in attention that occurs commonly during hospitalization and is associated with adverse outcomes; however, the association of delirium with longitudinal cognitive trajectories is not fully understood.
-OBJECTIVE: To evaluate the association of delirium during hospitalization with subsequent development of mild cognitive impairment (MCI), dementia, and longitudinal cognitive trajectories.
-DESIGN, SETTING, AND PARTICIPANTS: This cohort study ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42970282/
-12. 心血管研究：Microvascular Resistance Reserve and Outcomes in Angina and Nonobstructive Coronary Artery Disease.
-   - 来源：JAMA cardiology
-   - 时间：2026-Nov-01
-   - 摘要：这条内容聚焦心血管。来源为JAMA cardiology，类型初步识别为Original research。摘要信息显示：IMPORTANCE: Coronary microvascular dysfunction (CMD) is highly prevalent in patients with angina and nonobstructive coronary arteries (ANOCA). Microvascular resistance reserve (MRR) is a novel index to assess CMD independently of epicardial disease and driving pressures, but the long-term prognostic value of continuous thermodilution-derived MRR in patients with ANOCA is unknown.
-OBJECTIVE: To assess the prognostic value of continuous thermodilution-derived MRR and its association with clinical outcomes and symptom... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42967827/
-13. 综合医学研究：Beyond the Trial-What Do Extension Studies Add to Randomized Clinical Trials?: Clinical Trials in Context.
-   - 来源：JAMA
+12. 心血管研究：Obesity, frail obesity, and outcomes after durable left ventricular assist device implantation: a pooled analysis of the MOMENTUM 3 trials.
+   - 来源：European heart journal
+   - 时间：2026-Nov-04
+   - 摘要：这条内容聚焦心血管。来源为European heart journal，类型初步识别为RCT。摘要信息显示：BACKGROUND AND AIMS: Obesity in patients supported by left ventricular assist devices (LVADs) is linked to excess mortality and haemocompatibility-related events. Whether this association persists with the fully magnetically levitated HeartMate 3 (HM3) pump is unknown. This analysis tested outcomes with obesity and the additive influence of co-existing frailty ('frail obesity') in the contemporary era.
+METHODS: The study pooled 2200 HM3 recipients from the MOMENTUM 3 pivotal randomized trial (n = 515) and Continued... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42981223/
+13. 心血管研究：Hydralazine-isosorbide dinitrate in chronic heart failure with reduced ejection fraction: the H-HeFT trial.
+   - 来源：European heart journal
+   - 时间：2026-Nov-04
+   - 摘要：这条内容聚焦心血管。来源为European heart journal，类型初步识别为RCT。摘要信息显示：BACKGROUND AND AIMS: Hydralazine-isosorbide dinitrate (H-ISDN) has shown benefit in earlier randomized trials of patients with reduced left ventricular ejection fraction (LVEF) and chronic heart failure. This trial tested if H-ISDN could reduce worsening heart failure or mortality in patients with chronic heart failure with reduced ejection fraction (HFrEF) receiving contemporary treatment.
+METHODS: The Hydralazine-Isosorbide Dinitrate in Patients With Chronic Heart Failure Trial (H-HeFT) was a multicentre, randomi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42978512/
+14. 肿瘤/血液肿瘤研究：Presentation, management, and outcomes of ectopic Cushing syndrome: an international, multicentre, retrospective, cohort study.
+   - 来源：The lancet. Diabetes & endocrinology
    - 时间：2026-Nov-03
-   - 摘要：这条内容聚焦综合医学。来源为JAMA，类型初步识别为RCT。摘要信息显示：当前未抓取到完整摘要，需要打开原文核对研究设计、样本量、主要终点和结论。 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42842240/
-14. 综合医学研究：Sodium bicarbonate therapy for metabolic acidosis in critically ill patients: a Bayesian systematic review and meta-analysis of randomised controlled trials.
-   - 来源：Intensive care medicine
-   - 时间：2026-Nov-02
-   - 摘要：这条内容聚焦综合医学。来源为Intensive care medicine，类型初步识别为RCT。摘要信息显示：PURPOSE: To evaluate the effects of sodium bicarbonate therapy on mortality and renal outcomes in critically ill adults with metabolic acidosis.
-METHODS: We performed a systematic review and Bayesian random-effects meta-analysis of randomised controlled trials (RCTs) comparing intravenous sodium bicarbonate with placebo or usual care in adult intensive care unit patients with metabolic acidosis. MEDLINE, Embase and CENTRAL were searched from inception to December 2025, with an updated search on 2 April 2026. The pr... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42970124/
-15. 公共卫生/流行病学研究：A live biotherapeutic product for adult allogeneic hematopoietic cell transplantation recipients: a partially randomized, placebo-controlled phase 1b trial
-   - 来源：Nature Medicine
-   - 时间：2026-11-03
-   - 摘要：这条内容聚焦公共卫生/流行病学。来源为Nature Medicine，类型初步识别为RCT。摘要信息显示：<p>Nature Medicine, Published online: 03 November 2026; <a href="https://www.nature.com/articles/s41591-026-04686-y">doi:10.1038/s41591-026-04686-y</a></p>In a phase 1b study that included an open-label and randomized-controlled cohorts of allogeneic hematopoietic cell transplantation recipients, treatment with the investigational, cultivated, multi-strain bacterial oral live biotherapeutic product, SER-155, was found to have a similar safety profile to placebo and resulted in fewer bloodstream infections, indicati... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.nature.com/articles/s41591-026-04686-y
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The lancet. Diabetes & endocrinology，类型初步识别为Original research。摘要信息显示：BACKGROUND: Ectopic Cushing syndrome is a rare condition with scarce outcome data. We sought to characterise its course and determinants of complications and mortality.
+METHODS: In this international, multicentre, retrospective, cohort study, 49 high-volume endocrine referral centres across Asia, Europe, North America, South America, and New Zealand identified consecutive eligible patients. We included patients with a clinical diagnosis of ectopic Cushing syndrome, defined by expert adjudication at the treating ins... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42976894/
+15. 免疫/炎症研究：Weight loss during intermittent fasting, not Mediterranean diet quality alone, is associated with lower inflammation: A randomized controlled trial.
+   - 来源：Cell metabolism
+   - 时间：2026-Nov-03
+   - 摘要：这条内容聚焦免疫/炎症。来源为Cell metabolism，类型初步识别为RCT。摘要信息显示：Whether the anti-inflammatory effects of a Mediterranean diet reflect diet quality itself or accompanying weight loss is unclear. In a 16-week randomized controlled-feeding trial, 53 adults (77% female; mean age 54.7 years) with metabolic risk factors received a fully provided Mediterranean diet or their habitual western diet for 8 weeks, then added twice-weekly fasting days for a further 8 weeks. The primary outcome, high-sensitivity C-reactive protein, did not change during the diet-only phase despite clear dieta... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42906553/
