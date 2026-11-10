@@ -1,93 +1,96 @@
 # 国际顶刊与医学科学新闻
 
-1. 综合医学研究：Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.
+1. 代谢/肥胖/糖尿病研究：Orforglipron for Obstructive Sleep Apnea: Results From 2 Randomized Clinical Trials (ATTAIN-OSA).
+   - 来源：JAMA
+   - 时间：2026-Nov-09
+   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Obstructive sleep apnea (OSA) is a common disorder characterized by repeated upper airway collapse during sleep that is associated with reduced quality of life and increased incidence of cardiometabolic disease.
+OBJECTIVE: To assess the effects of orforglipron on moderate to severe OSA in adults with obesity or overweight, compared with placebo.
+DESIGN, SETTING, AND PARTICIPANTS: Two 52-week, phase 3, multicenter, double-blind, placebo-controlled randomized clinical trials were conducted at 66 sites in ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43002161/
+2. 心血管研究：Intensive Blood-Pressure Lowering in Patients with Type 2 Diabetes.
    - 来源：The New England journal of medicine
-   - 时间：2026-Nov-05
-   - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: B-cell activating factor (BAFF) and a proliferation-inducing ligand (APRIL) have distinct roles in IgA-producing B-cell populations and appear to be central to the pathogenesis of IgA nephropathy. Povetacicept, an enhanced, variant transmembrane activator and calcium-modulator and cyclophilin-ligand interactor (TACI)-Fc fragment fusion therapeutic, is engineered for dual inhibition of BAFF and APRIL.
-METHODS: In this ongoing, phase 3, double-blind, placebo-controlled trial, participants with biopsy-prov... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42912669/
-2. 感染/疫苗研究：Ganaplacide plus lumefantrine solid dispersion formulation for children with uncomplicated Plasmodium falciparum malaria (KALUMI): an open-label, multicentre, randomised, controlled, adaptive, phase 2, non-inferiority trial.
+   - 时间：2026-Nov-07
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Uncertainty persists regarding the effects of intensive blood-pressure lowering in patients with type 2 diabetes.
+METHODS: In this multicenter, open-label, randomized trial conducted in Brazil, patients with elevated blood pressure, type 2 diabetes, and high cardiovascular risk received intensive therapy targeting a systolic blood pressure of less than 120 mm Hg or standard therapy targeting a systolic blood pressure of less than 140 mm Hg. The primary end point was a composite of death from cardiovascu... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43001746/
+3. 公共卫生/流行病学研究：ANGPTL4 Inhibition in Adults with Elevated Triglyceride Levels.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Nov-09
+   - 摘要：这条内容聚焦公共卫生/流行病学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Angiopoietin-like protein 4 (ANGPTL4) inhibits lipoprotein lipase and regulates triglyceride-rich lipoprotein metabolism. MAR001 is a monoclonal antibody against ANGPTL4 that is being evaluated for lowering triglyceride levels.
+METHODS: We conducted a two-part, phase 2b, double-blind, randomized, placebo-controlled trial. In part A, the focus of this report, we enrolled adults who had a nonfasting triglyceride level of at least 175 mg per deciliter and a remnant cholesterol level of at least 35 mg per d... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43002172/
+4. 肿瘤/血液肿瘤研究：Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor P-loop and αC-helix compressing mutations.
+   - 来源：Cancer cell
+   - 时间：2026-Nov-09
+   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为Cancer cell，类型初步识别为RCT。摘要信息显示：P-loop and αC-helix compressing (PACC) mutations comprise a structurally distinct subgroup of epidermal growth factor receptor (EGFR) mutations in non-small cell lung cancer (NSCLC) with limited treatment options. Firmonertinib is a once-daily oral, brain-penetrant, mutant-selective EGFR tyrosine kinase inhibitor with a unique trifluoroethoxy side chain. Firmonertinib had high anti-proliferative efficacy in EGFR PACC-mutant cells and xenografts. In the phase 1b FURTHER study (NCT05364073), patients with metastatic ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/42887497/
+5. 心血管研究：Pelacarsen and Cardiovascular Outcomes in Patients with High Lipoprotein(a).
+   - 来源：The New England journal of medicine
+   - 时间：2026-Nov-07
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Pelacarsen, an antisense oligonucleotide, reduces serum levels of lipoprotein(a). However, the effect of pelacarsen on cardiovascular outcomes remains uncertain.
+METHODS: We conducted an international, randomized, placebo-controlled trial involving patients with preexisting cardiovascular disease and a lipoprotein(a) level of at least 70 mg per deciliter. Patients were randomly assigned in a 1:1 ratio to receive subcutaneous pelacarsen (80 mg) administered monthly or matching placebo. The primary end po... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43001734/
+6. 神经科学/神经疾病研究：Azetukalner in Adults With Focal Seizures: The X-TOLE2 Phase 3 Randomized Clinical Trial.
+   - 来源：JAMA neurology
+   - 时间：2026-Nov-09
+   - 摘要：这条内容聚焦神经科学/神经疾病。来源为JAMA neurology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Despite more than 30 approved antiseizure medications, many individuals with focal epilepsy continue to experience seizures, indicating a persistent need for novel therapies.
+OBJECTIVE: To determine efficacy and safety of the novel, potent KV7 channel opener azetukalner for treatment of focal seizures.
+DESIGN, SETTING, AND PARTICIPANTS: This phase 3, placebo-controlled randomized clinical trial of azetukalner was conducted over a 12-week double-blind period (November 18, 2022, to February 3, 2026) at 13... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43002431/
+7. 代谢/肥胖/糖尿病研究：Retatrutide Once Weekly in Adults with Knee Osteoarthritis Pain and Obesity.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Nov-08
+   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为The New England journal of medicine，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Retatrutide, an investigational triple agonist of GIP, GLP-1, and glucagon receptors, may be useful for the treatment of painful knee osteoarthritis in persons with obesity.
+METHODS: In two phase 3 trials, adults without diabetes who had painful knee osteoarthritis and a body-mass index of at least 27 were randomly assigned to receive once-weekly subcutaneous retatrutide (9 or 12 mg in TRIUMPH-4 and 4, 9, or 12 mg in TRIUMPH-1-OA) or placebo. In TRIUMPH-4, the primary end points were the change in the W... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43001755/
+8. 心血管研究：Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke.
+   - 来源：The New England journal of medicine
+   - 时间：2026-Nov-07
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Whether intensive blood-pressure control reduces cardiovascular risk after cerebrovascular events remains uncertain.
+METHODS: In this multicenter, open-label, randomized trial conducted at 30 sites in Brazil, we assigned participants with elevated blood pressure and previous ischemic stroke or transient ischemic attack to receive intensive treatment targeting a systolic blood pressure of less than 120 mm Hg or to receive standard treatment targeting a systolic blood pressure of less than 140 mm Hg. The ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43001741/
+9. 感染/疫苗研究：Ganaplacide plus lumefantrine solid dispersion formulation for children with uncomplicated Plasmodium falciparum malaria (KALUMI): an open-label, multicentre, randomised, controlled, adaptive, phase 2, non-inferiority trial.
    - 来源：The Lancet. Infectious diseases
    - 时间：2026-Nov-06
    - 摘要：这条内容聚焦感染/疫苗。来源为The Lancet. Infectious diseases，类型初步识别为Phase 3 trial。摘要信息显示：BACKGROUND: Ganaplacide plus lumefantrine solid dispersion formulation (SDF) is a novel antimalarial combination shown to be effective and well tolerated in adults, adolescents, and children with uncomplicated Plasmodium falciparum malaria. Here, we aimed to assess food effects on drug exposure and non-inferiority of ganaplacide plus lumefantrine SDF to artemether-lumefantrine.
 METHODS: This open-label, multicentre, randomised, controlled, adaptive, phase 2, non-inferiority trial was conducted at ten clinics and ho... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42994442/
-3. 肿瘤/血液肿瘤研究：HB0025 With Chemotherapy for Advanced Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.
-   - 来源：JAMA oncology
-   - 时间：2026-Nov-05
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Bispecific antibodies targeting vascular endothelial growth factor (VEGF) and programmed cell death protein 1 (PD-1)/PD-1 ligand 1 (PD-L1) pathways represent a promising therapeutic strategy for advanced non-small cell lung cancer (NSCLC). HB0025 is a novel bispecific antibody fusion targeting PD-L1 and VEGF.
-OBJECTIVE: To evaluate the efficacy and safety of HB0025 plus chemotherapy in previously untreated advanced, driver variant-negative NSCLC.
-DESIGN, SETTING, AND PARTICIPANTS: This open-label, multi... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42986615/
-4. 肿瘤/血液肿瘤研究：Activity and safety of first-line pumitamig plus nab-paclitaxel in triple-negative breast cancer: a single-arm, phase 1b/2 trial.
+10. 肿瘤/血液肿瘤研究：Activity and safety of first-line pumitamig plus nab-paclitaxel in triple-negative breast cancer: a single-arm, phase 1b/2 trial.
    - 来源：The Lancet. Oncology
    - 时间：2026-Nov-05
    - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为Phase 2 trial。摘要信息显示：BACKGROUND: Pumitamig, an investigational bispecific antibody targeting programmed death ligand-1 and vascular endothelial growth factor A, has shown preliminary efficacy across several tumour types. We aimed to evaluate the safety and activity of pumitamig plus nab-paclitaxel as first-line treatment in patients with advanced or metastatic triple-negative breast cancer.
 METHODS: In this single-arm, phase 1b/2 trial conducted at ten sites (hospitals and cancer centres) in China, patients aged 18-75 years with histol... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42987884/
-5. 综合医学研究：Plozasiran for Severe Hypertriglyceridemia and Risk of Pancreatitis.
+11. 综合医学研究：Drug Burden Index Stewardship to Deprescribe Anticholinergic or Sedative Drugs in Older Inpatients: A Stepped-Wedge Cluster Randomized Clinical Trial.
+   - 来源：JAMA internal medicine
+   - 时间：2026-Nov-09
+   - 摘要：这条内容聚焦综合医学。来源为JAMA internal medicine，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Anticholinergic and sedative medications contribute to poor clinical outcomes in older inpatients. Evidence-based deprescribing strategies are needed.
+OBJECTIVE: To evaluate whether an intervention bundle increases deprescribing of anticholinergic and sedative medications in older inpatients.
+DESIGN, SETTING, AND PARTICIPANTS: This stepped-wedge cluster randomized clinical trial was conducted in 6 Australian public hospitals from January 2022 to July 2023. Participants were patients 65 years and older w... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43002427/
+12. 免疫/炎症研究：Mivocabtagene Autoleucel CD19 Chimeric Antigen Receptor T-Cell Therapy in Stiff Person Syndrome: A Nonrandomized Clinical Trial.
+   - 来源：JAMA neurology
+   - 时间：2026-Nov-09
+   - 摘要：这条内容聚焦免疫/炎症。来源为JAMA neurology，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Stiff person syndrome (SPS) is a progressive, autoimmune neurologic disease characterized by muscle stiffness and painful spasms, leading to substantial disability. Mivocabtagene autoleucel, a fully human, autologous CD19 chimeric antigen receptor (CAR) T-cell therapy with CD28 costimulation, showed durable clinical benefit on a named-patient basis in SPS.
+OBJECTIVE: To evaluate the efficacy and safety of mivocabtagene autoleucel in adult SPS.
+DESIGN, SETTING, AND PARTICIPANTS: This pivotal, single-arm,... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43002394/
+13. 心血管研究：Left Bundle-Branch Pacing versus Right Ventricular Pacing for Atrioventricular Block.
    - 来源：The New England journal of medicine
-   - 时间：2026-Nov-05
-   - 摘要：这条内容聚焦综合医学。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Severe hypertriglyceridemia is associated with an increased risk of acute pancreatitis. Plozasiran, a small interfering RNA targeting APOC3 messenger RNA, lowers triglyceride levels and potentially mitigates the risk of acute pancreatitis.
-METHODS: In two double-blind, placebo-controlled trials, 757 adults with severe hypertriglyceridemia were randomly assigned in a 2:1 ratio to receive plozasiran (25 mg) or placebo at baseline and at months 3, 6, and 9. These trials had identical designs, end points, a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42981569/
-6. 心血管研究：Intra-arterial tenecteplase during thrombectomy for acute ischemic stroke: the BRETIS-TNK2 trial.
-   - 来源：Nature communications
-   - 时间：2026-Nov-06
-   - 摘要：这条内容聚焦心血管。来源为Nature communications，类型初步识别为RCT。摘要信息显示：Intra-arterial tenecteplase during endovascular treatment (EVT) may increase first-pass recanalization and dissolve microcirculatory thrombi, but its efficacy and safety are uncertain. We hypothesised that this strategy would improve functional outcomes versus EVT alone. This phase 3, randomised, adaptive-enrichment, open-label, blinded-endpoint multicentre study aims to evaluate whether intra‑arterial tenecteplase improves clinical outcomes for patients with acute ischemic stroke. Patients with large‑vessel occlus... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42995186/
-7. 综合医学研究：Dapagliflozin for Renal Protection in Heart Transplant Recipients: A Randomized Clinical Trial.
-   - 来源：Circulation
    - 时间：2026-Nov-08
-   - 摘要：这条内容聚焦综合医学。来源为Circulation，类型初步识别为RCT。摘要信息显示：BACKGROUND: Progressive kidney disease is common in heart transplant recipients due to calcineurin inhibitor exposure and pre-existing comorbidities. Sodium-glucose cotransporter-2 (SGLT2) inhibitors may attenuate the decline in kidney function, but evidence in heart transplant recipients is limited.
-METHODS: The DAPAgliflozin for Renal protection in Heart Transplant recipients (DAPARHT) trial is a multicenter, double-blind, randomized, placebo-controlled trial conducted at six heart transplant centers in Northern ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42999953/
-8. 心血管研究：Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in ISCHEMIA-EXTEND.
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Right ventricular pacing is associated with cardiac dyssynchrony and left ventricular systolic dysfunction. Left bundle-branch pacing preserves left ventricular electrical and mechanical synchrony, but its clinical benefits relative to right ventricular pacing in patients with atrioventricular block remain unclear.
+METHODS: In this investigator-initiated, international, open-label, randomized, controlled trial, we assigned patients with atrioventricular block in a 1:1 ratio to receive left bundle-branch... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43001763/
+14. 心血管研究：Implementation of Single-Pill Combination Therapy Through Team-Based Care for Hypertension Control in Resource-Constrained Settings: A Cluster Randomized Clinical Trial.
    - 来源：JAMA
-   - 时间：2026-Nov-07
-   - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: It is unknown whether routine invasive management of chronic coronary disease improves long-term survival when added to guideline-directed medical therapy.
-OBJECTIVE: To compare the effects of initial invasive and conservative strategies on long-term mortality in patients with chronic coronary disease.
-DESIGN, SETTING, AND PARTICIPANTS: In this long-term follow-up study of the International Study of Comparative Health Effectiveness with Medical and Invasive Approaches (ISCHEMIA), an international trial ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42998244/
-9. 综合医学研究：Intra-arterial tenecteplase for acute basilar artery occlusion with sufficient recanalization after thrombectomy: the INSIST-IT randomized clinical trial.
-   - 来源：Nature communications
-   - 时间：2026-Nov-06
-   - 摘要：这条内容聚焦综合医学。来源为Nature communications，类型初步识别为RCT。摘要信息显示：The clinical effect of adjunctive intra-arterial tenecteplase after successful recanalization in acute basilar artery occlusion (BAO) remains uncertain. In this prospective, randomized, adaptive-enrichment, open label, blinded-end point, multi-center trial, patients with BAO within 24 h of estimated symptom onset who achieved successful reperfusion after endovascular treatment (EVT) were randomized (1:1) to intra-arterial tenecteplase (n = 75) or control (only received standard medical therapy, n = 69). The primary... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42995196/
-10. 心血管研究：Rescue treatment for medium vessel occlusion by intra-arterial tenecteplase: the RESCUE-TNK randomized clinical trial.
-   - 来源：Nature communications
-   - 时间：2026-Nov-06
-   - 摘要：这条内容聚焦心血管。来源为Nature communications，类型初步识别为RCT。摘要信息显示：In patients with acute ischemic stroke caused by medium vessel occlusion (MeVO), intra-arterial tenecteplase may offer a targeted strategy to improve recanalization; we hypothesized that intra-arterial tenecteplase would increase successful reperfusion compared with standard care with a comparable safety profile. This phase 2, prospective, randomised, open-label, blinded-endpoint, multicentre study aims to assess the efficacy and safety of intra-arterial tenecteplase for patients with acute ischemic stroke caused b... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42995180/
-11. 心血管研究：Iron Repletion in Heart Failure With Preserved Ejection Fraction: The IRONMET-HFpEF Randomized Trial.
-   - 来源：Circulation
    - 时间：2026-Nov-08
-   - 摘要：这条内容聚焦心血管。来源为Circulation，类型初步识别为RCT。摘要信息显示：BACKGROUND: Iron deficiency is present in >50% of patients with heart failure with preserved ejection fraction and is associated with reduced exercise capacity and survival. Whether iron repletion improves exercise capacity as objectively measured by peak oxygen uptake ([Formula: see text]) is unknown. The IRONMET-HFpEF trial (Impact of Intravenous Iron Repletion on Mechanisms of Exercise Intolerance in HFpEF) sought to determine whether ferric derisomaltose (FDI) compared with placebo improves peak [Formula: see t... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42999950/
-12. 肿瘤/血液肿瘤研究：Global Proposal for the TNM Staging System for Poorly Differentiated Thyroid Cancer.
-   - 来源：JAMA oncology
-   - 时间：2026-Nov-06
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为JAMA oncology，类型初步识别为Original research。摘要信息显示：IMPORTANCE: Poorly differentiated thyroid cancer (PDTC) lacks a dedicated staging system, requiring use of the eighth version of the American Joint Committee on Cancer and Union for International Cancer Control TNM staging system (TNM-8) for differentiated thyroid cancer despite its distinct biology.
-OBJECTIVE: To develop a PDTC-specific staging system.
-DESIGN, SETTING, AND PARTICIPANTS: This cohort study analyzed data from the International Aggressive Thyroid Cancer Collaborative Group (IATCCG), including surgical... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42994809/
-13. 综合医学研究：Thoracic epidural versus paravertebral blockade for reducing chronic post-thoracotomy pain (TOPIC-2): open label, parallel group, superiority, multicentre, randomised controlled trial.
-   - 来源：BMJ (Clinical research ed.)
-   - 时间：2026-Nov-05
-   - 摘要：这条内容聚焦综合医学。来源为BMJ (Clinical research ed.)，类型初步识别为RCT。摘要信息显示：OBJECTIVES: To evaluate the effectiveness of paravertebral blockade versus thoracic epidural during the perioperative period in reducing chronic post-thoracotomy pain.
-DESIGN: Open label, parallel group, superiority, multicentre, randomised controlled trial.
-SETTING: 15 thoracic centres in the UK.
-PARTICIPANTS: Adult patients undergoing thoracotomy randomised (1:1) to either paravertebral blockade or thoracic epidural using a web based service between January 2019 and September 2023.
-INTERVENTIONS: Participants in ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42988384/
-14. 心血管研究：[Articles] Performance of 0/1 h versus 0/3 h pathways in patients with suspected myocardial infarction: a systematic review and individual participant data meta-analysis of randomised controlled trials
-   - 来源：The Lancet
-   - 时间：2026-10-29T23:30:01Z
-   - 摘要：这条内容聚焦心血管。来源为The Lancet，类型初步识别为RCT。摘要信息显示：Across the available randomised trials, short-term adverse event rates were low with both pathways, but the pooled safety estimate remained imprecise. On average, earlier cardiac troponin retesting did not reduce emergency department length of stay or clearly increase direct discharge, and substantial between-study heterogeneity indicates that treatment effects might not translate uniformly across health-care systems. For hospitals considering transitioning from a 0/3 h to a 0/1 h pathway, implementation decisions ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01767-8/fulltext?rss=yes
-15. 心血管研究：Leveraging AI-ECG Technology for Early Notification and Tracking of AF Development (LATENT): A Randomized Controlled Trial.
-   - 来源：Circulation
+   - 摘要：这条内容聚焦心血管。来源为JAMA，类型初步识别为RCT。摘要信息显示：IMPORTANCE: Single-pill combination therapy improves medication adherence and hypertension control. However, limited evidence is available on its implementation in routine clinical practice.
+OBJECTIVE: To assess the long-term effectiveness, implementation, and sustainability of single-pill combination therapy through team-based care for blood pressure reduction among patients with uncontrolled hypertension in primary care settings in Colombia and Jamaica.
+DESIGN, SETTING, AND PARTICIPANTS: Multicountry, unblinded, ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43000001/
+15. 心血管研究：Interleukin-6 Inhibition with Ziltivekimab for Atherosclerotic Disease.
+   - 来源：The New England journal of medicine
    - 时间：2026-Nov-07
-   - 摘要：这条内容聚焦心血管。来源为Circulation，类型初步识别为RCT。摘要信息显示：BACKGROUND: Electrocardiographic analysis aided by artificial intelligence (AI) may identify atrial electrical vulnerability during sinus rhythm. The objective of this study was to determine whether AI-enabled ECG (AI-ECG) is effective for detecting atrial fibrillation (AF), atrial flutter (AFl), or prespecified pre-AF atrial findings in a randomized trial.
-METHODS: In this single-center, open-label trial, 14 665 adults 40 to 85 years of age without previous AF/AFl were randomized to an AI-ECG-guided strategy or us... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/42998297/
+   - 摘要：这条内容聚焦心血管。来源为The New England journal of medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: The inflammatory cytokine interleukin-6 is hypothesized to be a therapeutic target for patients with atherosclerotic cardiovascular disease and chronic kidney disease. Whether neutralizing interleukin-6 levels with ziltivekimab, a monoclonal antibody, reduces the risk of adverse cardiovascular events remains unknown.
+METHODS: We conducted a multinational, double-blind, randomized, placebo-controlled trial involving adults with established atherosclerotic cardiovascular disease, chronic kidney disease, a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43001751/
