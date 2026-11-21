@@ -67,28 +67,26 @@ PARTICIPANTS: 512 community dwelling adults (≥18 years) who self-reported mobi
    - 时间：2026-Nov-19
    - 摘要：这条内容聚焦公共卫生/流行病学。来源为Blood，类型初步识别为RCT。摘要信息显示：Azacitidine (Aza) plus venetoclax (Ven) is standard treatment for older/unfit patients with newly diagnosed (ND) acute myeloid leukemia (AML). The approved 28-day Ven schedule is associated with prolonged cytopenias and frequent treatment modifications. Retrospective studies show similar efficacy and reduced toxicity with abbreviated Ven dosing, but prospective data are lacking. OPTI-AML is a prospective randomized phase 2 trial comparing 28-day Ven (AV28) vs 14-day (AV14) with Aza (75 mg/m2 for 7 days) for cycles ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42520193/
-12. 肿瘤/血液肿瘤研究：Neoadjuvant nivolumab plus ipilimumab in surgically resectable hepatocellular carcinoma (PRIME-HCC): a prospective, phase 1b, single-arm trial and translational analyses.
-   - 来源：The Lancet. Oncology
-   - 时间：2026-Nov-17
-   - 摘要：这条内容聚焦肿瘤/血液肿瘤。来源为The Lancet. Oncology，类型初步识别为Clinical trial。摘要信息显示：BACKGROUND: Nivolumab plus ipilimumab improves survival in advanced hepatocellular carcinoma. We evaluated this combination as neoadjuvant therapy and investigated its effect on peripheral immunity and the tumour microenvironment.
-METHODS: PRIME-HCC is a single-arm, phase 1b trial in adults (aged ≥18 years) with early-stage resectable hepatocellular carcinoma, Child-Pugh A liver function, and Eastern Cooperative Oncology Group performance status 0-1. Patients received nivolumab (3 mg/kg intravenously on days 1 and ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/43044626/
-13. 代谢/肥胖/糖尿病研究：Acupoint Thread Embedding for Weight Loss in Women With Overweight or Obesity : A Randomized Controlled Trial.
-   - 来源：Annals of internal medicine
-   - 时间：2026-Nov-17
-   - 摘要：这条内容聚焦代谢/肥胖/糖尿病。来源为Annals of internal medicine，类型初步识别为RCT。摘要信息显示：BACKGROUND: Whether acupoint thread embedding (ATE), a traditional Chinese medicine intervention, produces weight reduction remains uncertain.
-OBJECTIVE: To evaluate the efficacy and safety of ATE for weight reduction in women with overweight or obesity.
-DESIGN: Randomized, sham-controlled trial masked to participants, outcome assessors, and analysts. (ClinicalTrials.gov: NCT06316310).
-SETTING: Acupuncture Department, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai, China.
-PARTICIPANTS: 132 wo... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
-   - 链接：https://pubmed.ncbi.nlm.nih.gov/43038532/
-14. 生物医药/细胞与基因治疗研究：Eltrombopag plus cyclosporine for moderate aplastic anemia: a placebo-controlled, double-blind phase 3 trial.
+12. 生物医药/细胞与基因治疗研究：Eltrombopag plus cyclosporine for moderate aplastic anemia: a placebo-controlled, double-blind phase 3 trial.
    - 来源：Blood
    - 时间：2026-Nov-19
    - 摘要：这条内容聚焦生物医药/细胞与基因治疗。来源为Blood，类型初步识别为RCT。摘要信息显示：Eltrombopag combined with horse antithymocyte globulin and cyclosporine (CSA) is the standard of care for patients with severe aplastic anemia who are not eligible for stem cell transplantation. No consensus exists on the optimal treatment of moderate aplastic anemia (MAA). The Eltrombopag for MAA trial is an investigator-initiated, prospective, randomized, placebo-controlled, double-blind, multicenter phase 3 trial that compared eltrombopag plus CSA (n = 41) with placebo plus CSA (n = 44) as a first-line therapy f... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/42611779/
-15. 综合医学研究：Bogong moths navigate with a light-dependent geomagnetic inclination compass.
+13. 综合医学研究：Bogong moths navigate with a light-dependent geomagnetic inclination compass.
    - 来源：Nature
    - 时间：2026-Nov-18
    - 摘要：这条内容聚焦综合医学。来源为Nature，类型初步识别为RCT。摘要信息显示：Bogong moths (Agrotis infusa) migrate biannually up to 1,000 km between their breeding areas and geographically restricted aestivation sites in the Australian Alps1,2. These moths navigate towards their distant goal using the stars as a compass3 but navigate correctly even when the stars are obscured by clouds3, suggesting that their magnetic sense4 probably harnesses the Earth's magnetic field as a compass. However, the nature of this compass, and of the magnetic sense underlying it, remains unknown. Here we show ... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
    - 链接：https://pubmed.ncbi.nlm.nih.gov/43052435/
+14. 公共卫生/流行病学研究：Temporal interference stimulation targeting the ventromedial prefrontal cortex enhances reward learning and improves depression scores.
+   - 来源：Science translational medicine
+   - 时间：2026-Nov-18
+   - 摘要：这条内容聚焦公共卫生/流行病学。来源为Science translational medicine，类型初步识别为RCT。摘要信息显示：Reward learning depends on dynamic interactions within frontostriatal circuits that encode reward prediction errors (RPEs). Disruptions in these interactions contribute to neuropsychiatric disorders, yet noninvasive modulation of deep reward circuits remains challenging. Here, we identify frontostriatal neural dynamics underlying reward learning and develop a circuit-targeted neuromodulation approach based on transcranial temporal interference stimulation (tTIS). Neuroimaging and computational modeling in healthy a... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43050503/
+15. 综合医学研究：Effect of intrapartum hyoscine butylbromide and sodium bicarbonate on spontaneous vaginal birth in nulliparous women after induction of labour (SAINT): multicentre randomised placebo controlled factorial trial.
+   - 来源：BMJ (Clinical research ed.)
+   - 时间：2026-Nov-18
+   - 摘要：这条内容聚焦综合医学。来源为BMJ (Clinical research ed.)，类型初步识别为RCT。摘要信息显示：OBJECTIVE: To determine whether intrapartum hyoscine butylbromide, sodium bicarbonate, and their combination increase the rate of spontaneous vaginal birth in nulliparous women undergoing induction of labour.
+DESIGN: Multicentre, randomised, double blind, placebo controlled, 2×2 factorial phase 3 trial (SAINT).
+SETTING: 11 Norwegian hospitals providing comprehensive obstetric care.
+PARTICIPANTS: Nulliparous women aged 18-50 years with a singleton live fetus in cephalic presentation at term with an indication for in... 该摘要由规则模板生成，适合快速浏览，不替代人工阅读全文。
+   - 链接：https://pubmed.ncbi.nlm.nih.gov/43051685/
